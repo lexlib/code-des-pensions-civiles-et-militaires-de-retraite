@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1972-10-29
+Version Consolidée au 1973-01-03
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -30,7 +30,7 @@ Version Consolidée au 1972-10-29
       - [Titre VII : Dispositions spéciales. (art. L51 à L52)](#27)
       - [Titre VIII : Dispositions d'ordre et diverses. (art. L54 à L59)](#28)
         - [Paragraphe Ier : Concession et révision de la pension. (art. L54)](#29)
-        - [Paragraphe II : Dispositions diverses. (art. L58 à L59)](#30)
+        - [Paragraphe II : Dispositions diverses. (art. L56 à L59)](#30)
       - [Titre IX : Retenues pour pensions. (art. L62 à L64)](#31)
       - [Titre X : Cessation ou reprise de service. -  Coordination avec le régime de sécurité sociale. (art. L65 à L67)](#32)
     - [Livre II : Dispositions particulières du régime général des retraites. (art. L68 à L87)](#33)
@@ -2223,6 +2223,44 @@ _Codifié par_:
 
 
 #### Paragraphe II : Dispositions diverses.<a id=30></a>
+
+###### Article L56
+
+Les pensions et les rentes viagères d'invalidité instituées par le présent code sont incessibles et insaisissables, sauf en
+cas de débet envers l'Etat, les départements, communes ou établissements publics, les territoires d'outre-mer ou pour les
+créances privilégiées aux termes de l'article 2101 du code civil et pour le paiement des dettes alimentaires prévues par le
+code civil ou l'exécution de la contribution aux charges du mariage.
+
+Les débets envers l'Etat, ainsi que ceux contractés envers les diverses autres collectivités publiques visées au précédent
+alinéa, rendent les pensions et les rentes viagères d'invalidité passibles de retenues jusqu'à concurrence d'un cinquième de
+leur montant. Il en est de même pour les créances privilégiées de l'article 2101 du code civil. Dans les autres cas prévus au
+précédent alinéa, la retenue peut s'élever jusqu'au tiers du montant de la pension ou de la rente viagère d'invalidité.
+
+Les retenues du cinquième et du tiers peuvent s'exercer simultanément.
+
+En cas de débets simultanés envers l'Etat et autres collectivités publiques, les retenues devront être effectuées en premier
+lieu au profit de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
+_Modifié par_:
+
+  - Loi n°73-5 du 2 janvier 1973 - art. 9 () JORF 3 janvier 1973
+
+_Cité par_:
+
+  - Code des pensions civiles et militaires de retr... - art. L96 (V)
+  - Code des pensions civiles et militaires de retr... - art. R*60 (V)
+  - Code des pensions civiles et militaires de retrait - art. R*107 (Ab)
+
+_Cite_:
+
+  - Code civil - art. 2101 (M)
+
 
 ###### Article L58
 
