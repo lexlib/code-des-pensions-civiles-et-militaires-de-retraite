@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1991-07-27
+Version Consolidée au 1992-03-26
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -7759,7 +7759,7 @@ Les offices et établissements autonomes sont astreints, en contrepartie, à ver
 1° Le montant de la retenue effectuée sur le traitement de l'agent en exécution de l'article L. 61 ;
 
 2° Une contribution aux charges résultant pour l'Etat de la constitution de la pension dont le taux est fixé forfaitairement
-à 26,6 p. 100 du montant des émoluments soumis à retenues.
+à 33 p. 100 du montant des émoluments soumis à retenues.
 
 **Liens relatifs à cet article**
 
@@ -7782,7 +7782,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-442 du 14 mai 1991 - art. 3 (V) JORF 16 mai 1991 en vigueur le 1er février 1991
+  - Décret n°92-265 1992-03-24 art. 3 JORF 26 mars 1992
 
 _Cite_:
 
