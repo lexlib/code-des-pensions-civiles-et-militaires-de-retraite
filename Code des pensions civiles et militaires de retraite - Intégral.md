@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1992-03-26
+Version Consolidée au 1993-07-23
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -3518,14 +3518,14 @@ obtenue le mari. Cet avantage n'est servi qu'aux veuves qui ont élevé, dans le
 enfants ouvrant droit à cette majoration.
 
 Cette pension de réversion, compte tenu des ressources extérieures, ne pourra être inférieure à la somme totale formée par le
-cumul de l'allocation servie aux vieux travailleurs salariés augmentée de l'allocation supplémentaire du fonds national de
-solidarité, quelle que soit la date de sa liquidation.
+cumul de l'allocation servie aux vieux travailleurs salariés augmentée de l'allocation supplémentaire mentionnée à l'article
+L. 815-2 ou L. 815-3 du code de la sécurité sociale, quelle que soit la date de sa liquidation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°80-30 1980-01-18 art. 85 JORF 19 janvier 1980
+  - Loi n°93-936 du 22 juillet 1993 - art. 12 (V) JORF 23 juillet 1993
 
 _Cité par_:
 
@@ -3543,6 +3543,8 @@ _Cité par_:
 _Cite_:
 
   - Code des pensions civiles et militaires de retrait - art. L18 (M)
+  - Code de la sécurité sociale. - art. L815-2 (M)
+  - Code de la sécurité sociale. - art. L815-3 (M)
 
 _Codifié par_:
 
@@ -8945,23 +8947,27 @@ _Codifié par_:
 
 Le droit au minimum de pension prévu au troisième alinéa de l'article L. 38 du présent code est ouvert lorsque les ressources
 annuelles du titulaire de la pension de réversion, y compris cette pension, sont inférieures au montant cumulé de
-l'allocation servie aux vieux travailleurs salariés et de l'allocation supplémentaire du fonds national de solidarité.
+l'allocation servie aux vieux travailleurs salariés et de l'allocation supplémentaire mentionnée à l'article L. 815-2 ou à
+l'article L. 815-3 du code de la sécurité sociale. 
 
-Lorsque l'allocation supplémentaire du fonds national de solidarité est déjà perçue, elle n'est pas prise en considération
-pour l'appréciation des ressources, mais son montant est diminué d'une somme égale au complément de pension attribué en
-application du troisième alinéa de l'article L. 38. En tout état de cause, le versement de cette allocation est maintenu à
-concurrence de la différence qui existe entre le plafond de ressources imposé pour l'attribution de cet avantage et le
-montant cumulé de ladite allocation et de l'allocation servie aux vieux travailleurs salariés.
+Lorsque l'allocation supplémentaire supplémentaire mentionnée à l'article L. 815-2 ou à l'article L. 815-3 du code de
+sécurité sociale est déjà perçue, elle n'est pas prise en considération pour l'appréciation des ressources, mais son montant
+est diminué d'une somme égale au complément de pension attribué en application du troisième alinéa de l'article L. 38. En
+tout état de cause, le versement de cette allocation est maintenu à concurrence de la différence qui existe entre le plafond
+de ressources imposé pour l'attribution de cet avantage et le montant cumulé de ladite allocation et de l'allocation servie
+aux vieux travailleurs salariés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-179 1981-02-25 art. 1 JORF 27 février 1981 en vigueur le 21 janvier 1980
+  - Loi n°93-936 du 22 juillet 1993 - art. 12 (V) JORF 23 juillet 1993
 
 _Cite_:
 
-  - Code des pensions civiles et militaires de retraite L38 al. 3
+  - Code des pensions civiles et militaires de retr... - art. L38 (V)
+  - Code de la sécurité sociale. - art. L815-2 (V)
+  - Code de la sécurité sociale. - art. L815-3 (M)
 
 _Codifié par_:
 
@@ -8971,20 +8977,20 @@ _Codifié par_:
 ###### Article D19-3
 
 Pour l'examen des droits éventuels à ce minimum de pension, le comptable assignataire invite l'intéressé à lui faire
-connaître avant le 1er mars de chaque année [*délai*] le montant détaillé des ressources dont il a bénéficié au cours de
-l'année civile précédente au moyen d'une déclaration dont les énonciations peuvent être vérifiées auprès de tous services,
-personnes ou institutions qui assurent le versement des revenus ou sont qualifiés pour procéder à l'évaluation de ces
-ressources.
+connaître avant le 1er mars de chaque année le montant détaillé des ressources dont il a bénéficié au cours de l'année civile
+précédente au moyen d'une déclaration dont les énonciations peuvent être vérifiées auprès de tous services, personnes ou
+institutions qui assurent le versement des revenus ou sont qualifiés pour procéder à l'évaluation de ces ressources.
 
 Ces ressources sont prises en considération pour fixer le montant du complément à servir durant la période du 1er mai de
 l'année courante au 30 avril de l'année suivante, compte tenu de l'évolution, durant cette période, des montants respectifs
-de la pension, de l'allocation aux vieux travailleurs salariés et de l'allocation du fonds national de solidarité.
+de la pension, de l'allocation aux vieux travailleurs salariés et de l'allocation du fonds de solidarité vieillesse institué
+par l'article L. 135-1 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-179 1981-02-25 art. 1 JORF 27 février 1981 en vigueur le 21 janvier 1980
+  - Loi n°93-936 du 22 juillet 1993 - art. 12 (V) JORF 23 juillet 1993
 
 _Cité par_:
 
@@ -8993,6 +8999,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°66-810 1966-10-28
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L135-1 (M)
 
 
 ###### Article D19-4
@@ -9025,22 +9035,25 @@ _Codifié par_:
 ###### Article D19-5
 
 L'appréciation des ressources des intéressés et leur évaluation sont effectuées dans les conditions prévues par les articles
-2, 3, 4, 5, 6 et 9 du décret n° 64-300 du 1er avril 1964 pour l'ouverture du droit à l'allocation supplémentaire du fonds
-national de solidarité et à l'allocation aux vieux travailleurs salariés.
+2, 3, 4, 5, 6 et 9 du décret n° 64-300 du 1er avril 1964 pour l'ouverture du droit à l'allocation supplémentaire du fonds de
+solidarité vieillesse institué par l'article L. 135-1 du code de la sécurité sociale et à l'allocation aux vieux travailleurs
+salariés.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°64-300 1964-04-01 art. 2, 3, 4, 5, 6 et 9
   - Décret n°64-300 du 1 avril 1964 - art. 2 (Ab)
   - Décret n°64-300 du 1 avril 1964 - art. 3 (Ab)
   - Décret n°64-300 du 1 avril 1964 - art. 4 (Ab)
   - Décret n°64-300 du 1 avril 1964 - art. 5 (Ab)
+  - Décret n°64-300 du 1 avril 1964 - art. 6 (Ab)
+  - Décret n°64-300 du 1 avril 1964 - art. 9 (Ab)
+  - Code de la sécurité sociale. - art. L135-1 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-179 1981-02-25 art. 1 JORF 27 février 1981 en vigueur le 21 janvier 1980
+  - Loi n°93-936 du 22 juillet 1993 - art. 12 (V) JORF 23 juillet 1993
 
 _Codifié par_:
 
