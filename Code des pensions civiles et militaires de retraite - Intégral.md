@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1964-12-01
+Version Consolidée au 1966-12-01
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -3698,6 +3698,24 @@ _Codifié par_:
 _Cite_:
 
   - Code des pensions civiles et militaires de retraite L86 à L88
+
+
+###### Article R*32 bis
+
+En vue d'obtenir au titre des enfants recueillis l'attribution de la majoration de pension prévue à l'article L. 18, le
+titulaire de la pension ou son conjoint doit justifier avoir assumé la charge effective et permanente de ces enfants par la
+production de tout document administratif établissant qu'ils ont été retenus pour l'octroi des prestations familiales ou du
+supplément familial de traitement ou pour le calcul de l'impôt sur le revenu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°66-809 1966-10-28
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retrait - art. L18 (M)
 
 
 ###### Article R33
