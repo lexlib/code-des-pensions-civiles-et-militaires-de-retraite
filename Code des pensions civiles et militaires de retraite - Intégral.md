@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1983-04-01
+Version Consolidée au 1983-12-30
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -44,11 +44,11 @@ Version Consolidée au 1983-04-01
           - [Paragraphe Ier : Droits des fonctionnaires. (art. L68 à L70)](#41)
           - [Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre. (art. L71)](#42)
           - [Paragraphe III : Dispositions communes. (art. L72)](#43)
-      - [Titre II : Dispositions particulières relatives à certaines catégories de retraites civiles et militaires. (art. L73 à L82)](#44)
+      - [Titre II : Dispositions particulières relatives à certaines catégories de retraites civiles et militaires. (art. L73 à L83)](#44)
         - [Chapitre Ier : Agents en service détaché. (art. L73 à L75)](#45)
         - [Chapitre II : Fonctionnaires civils titulaires de deux emplois. (art. L76)](#46)
         - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités. (art. L77 à L81)](#47)
-        - [Chapitre IV : Sapeurs-pompiers de Paris. (art. L82)](#48)
+        - [Chapitre IV : Sapeurs-pompiers de Paris. (art. L83)](#48)
       - [Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions. (art. L84 à L89)](#49)
         - [Chapitre Ier : Dispositions générales. (art. L84 à L85)](#50)
         - [Chapitre II : Cumul de pensions et de rémunérations d'activité. (art. L86 à L86-1)](#51)
@@ -4844,14 +4844,10 @@ _Codifié par_:
 
 #### Chapitre IV : Sapeurs-pompiers de Paris.<a id=48></a>
 
-###### Article L82
+###### Article L83
 
-(Abrogé par la loi n° 83-1179 du 29 décembre 1983, art. 131.)
-
-Rédaction primitive de la loi du 26 décembre 1964 :
-
-Art. L. 82 : A la pension des militaires non officiers de la gendarmerie s'ajoute une majoration dont le montant et les
-modalités d'attribution seront déterminés par un règlement d'administration publique.
+A la pension des militaires officiers et non officiers du régiment des sapeurs-pompiers de Paris s'ajoute une majoration dont
+le montant et les modalités d'attribution seront déterminés par un règlement d'administration publique.
 
 **Liens relatifs à cet article**
 
@@ -4859,9 +4855,13 @@ _Codifié par_:
 
   - Loi n°64-1339 1964-12-29
 
-_Abrogé par_:
+_Modifié par_:
 
   - Loi n°83-1179 1983-12-29 art. 131 II JORF 30 décembre 1983
+
+_Cité par_:
+
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 152 (V)
 
 
 ### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.<a id=49></a>
