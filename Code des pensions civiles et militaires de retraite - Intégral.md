@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1979-12-22
+Version Consolidée au 1980-01-19
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -26,8 +26,8 @@ Version Consolidée au 1979-12-22
           - [Paragraphe III : Dispositions communes. (art. L30 à L33)](#23)
         - [Chapitre II : Militaires. (art. L34 à L37)](#24)
         - [Chapitre III : Dispositions communes aux fonctionnaires et militaires. (art. L37 bis)](#25)
-      - [Titre VI : Pensions des ayants cause. (art. L39 à L49)](#26)
-        - [Chapitre Ier : Fonctionnaires civils. (art. L39 à L45)](#27)
+      - [Titre VI : Pensions des ayants cause. (art. L38 à L49)](#26)
+        - [Chapitre Ier : Fonctionnaires civils. (art. L38 à L45)](#27)
         - [Chapitre II : Militaires. (art. L47 à L49)](#28)
       - [Titre VII : Dispositions spéciales. (art. L51 à L52)](#29)
       - [Titre VIII : Dispositions d'ordre et diverses. (art. L53 à L60)](#30)
@@ -2206,6 +2206,48 @@ _Cité par_:
 ### Titre VI : Pensions des ayants cause.<a id=26></a>
 
 #### Chapitre Ier : Fonctionnaires civils.<a id=27></a>
+
+###### Article L38
+
+Les veuves des fonctionnaires civils ont droit à une pension égale à 50 p. 100 de la pension obtenue par le mari ou qu'il
+aurait pu obtenir au jour de son décès, et augmentée, le cas échéant, de la moitié de la rente d'invalidité dont il
+bénéficiait ou aurait pu bénéficier.
+
+A la pension de la veuve s'ajoute éventuellement la moitié de la majoration prévue à l'article L. 18 qu'a obtenue ou aurait
+obtenue le mari. Cet avantage n'est servi qu'aux veuves qui ont élevé, dans les conditions visées audit article L. 18, les
+enfants ouvrant droit à cette majoration.
+
+Cette pension de réversion, compte tenu des ressources extérieures, ne pourra être inférieure à la somme totale formée par le
+cumul de l'allocation servie aux vieux travailleurs salariés augmentée de l'allocation supplémentaire du fonds national de
+solidarité, quelle que soit la date de sa liquidation.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°80-30 1980-01-18 art. 85 JORF 19 janvier 1980
+
+_Cité par_:
+
+  - Code de l'éducation - art. R914-142 (V)
+  - Code des pensions civiles et militaires de retr... - art. D19-1 (V)
+  - Code des pensions civiles et militaires de retr... - art. D19-2 (V)
+  - Code des pensions civiles et militaires de retr... - art. L40 (V)
+  - Code des pensions civiles et militaires de retr... - art. L43 (V)
+  - Code des pensions civiles et militaires de retr... - art. L44 (V)
+  - Code des pensions civiles et militaires de retr... - art. L45 (Ab)
+  - Code des pensions civiles et militaires de retr... - art. R*103 (V)
+  - Code des pensions civiles et militaires de retr... - art. R44 (V)
+  - Code des pensions civiles et militaires de retr... - art. R52 (V)
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
 
 ###### Article L39
 
