@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2005-02-12
+Version Consolidée au 2005-02-24
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -66,7 +66,7 @@ Version Consolidée au 2005-02-12
         - [Chapitre Ier : Services et bonifications valables. (art. R10 à R25-1)](#63)
         - [Chapitre II : Détermination du montant de la pension. (art. R26 à R33)](#64)
           - [Paragraphe Ier : Décompte et valeur des annuités liquidables. (art. R26 à R26 bis)](#65)
-          - [Paragraphe II : Emoluments de base. (art. R27 à R31)](#66)
+          - [Paragraphe II : Emoluments de base. (art. R27 à R31-2)](#66)
           - [Paragraphe IV : Avantages de pension à caractère familial. (art. R*32 à R33)](#67)
       - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. R*34 à R36)](#68)
       - [Titre V : Invalidité. (art. R38 à R52)](#69)
@@ -76,8 +76,8 @@ Version Consolidée au 2005-02-12
         - [Chapitre II : Militaires. (art. R50 à R52)](#73)
       - [Titre VI : Pensions des ayants cause. (art. R53 à R57 bis)](#74)
         - [Chapitre III : Dispositions communes. (art. R53 à R57 bis)](#75)
-      - [Titre VII : Dispositions spéciales. (art. R*58 à R*64)](#76)
-        - [Chapitre Ier : Solde de réserve des officiers généraux. (art. R*58)](#77)
+      - [Titre VII : Dispositions spéciales. (art. R58 à R*64)](#76)
+        - [Chapitre Ier : Solde de réserve des officiers généraux. (art. R58)](#77)
         - [Chapitre II : Militaires ayant bénéficié d'un pécule. (art. R*59 à R*61)](#78)
         - [Chapitre III : Droits des ayants cause des fonctionnaires et des militaires originaires des territoires d'outre-mer non mariés sous le régime du code civil. (art. R62)](#79)
         - [Chapitre V : Droits des personnels militaires féminins, officiers ou assimilés, aux avantages accordés aux femmes fonctionnaires. (art. R*64)](#80)
@@ -6585,6 +6585,65 @@ _Modifié par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 13 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
+###### Article R31-1
+
+La revalorisation des pensions, soldes de réforme et rentes d'invalidité prévue à l'article L. 16 intervient au 1er janvier
+de chaque année.
+
+Cette revalorisation s'applique aux pensions, soldes de réforme et rentes d'invalidité dont la date d'effet est au plus tard
+ce même 1er janvier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°66-809 1966-10-28
+
+_Créé par_:
+
+  - Décret n°2005-167 du 22 février 2005 - art. 1 () JORF 24 février 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-1497 du 22 décembre 2008 - art. 2
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retraite - art. L16
+
+
+###### Article R31-2
+
+L'indice des prix retenu pour l'application du premier alinéa de l'article L. 16 est le taux prévisionnel d'évolution en
+moyenne annuelle des prix à la consommation de tous les ménages, hors les prix du tabac, qui est prévu, pour l'année civile
+considérée, dans le rapport économique, social et financier annexé au projet de loi de finances pour cette même année.
+
+L'ajustement mentionné au deuxième alinéa de l'article L. 16 est obtenu en faisant la différence entre, d'une part, le taux
+prévisionnel d'évolution en moyenne annuelle des prix à la consommation de tous les ménages, hors les prix du tabac, qui est
+prévu pour l'année civile antérieure dans le rapport économique, social et financier annexé au projet de loi de finances de
+l'année, et, d'autre part, le taux prévisionnel d'évolution en moyenne annuelle des prix à la consommation de tous les
+ménages, hors les prix du tabac, qui était prévu pour cette même année civile antérieure dans le rapport économique, social
+et financier annexé au projet de loi de finances pour l'année antérieure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°66-809 1966-10-28
+
+_Créé par_:
+
+  - Décret n°2005-167 du 22 février 2005 - art. 1 () JORF 24 février 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-1497 du 22 décembre 2008 - art. 2
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retraite - art. L16
+
+
 ##### Paragraphe IV : Avantages de pension à caractère familial.<a id=67></a>
 
 ###### Article R*32
@@ -7310,12 +7369,12 @@ _Cite_:
 
 #### Chapitre Ier : Solde de réserve des officiers généraux.<a id=77></a>
 
-###### Article R*58
+###### Article R58
 
-La solde de réserve prévue à l'article L. 51 est assimilée à une pension de retraite au regard des règles de liquidation et
-de cumul prévues par le présent code.
+La solde de réserve prévue à l'article L. 51 est assimilée à une pension de retraite au regard des règles de liquidation, de
+revalorisation et de cumul prévues par le présent code. 
 
-Elle est accordée par arrêté conjoint du ministre intéressé et du ministre des finances.
+Elle est accordée par arrêté conjoint du ministre de la défense et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
@@ -7323,9 +7382,13 @@ _Codifié par_:
 
   - Décret n°66-809 1966-10-28
 
+_Modifié par_:
+
+  - Décret n°2005-167 du 22 février 2005 - art. 2 () JORF 24 février 2005
+
 _Cite_:
 
-  - Code des pensions civiles et militaires de retrait - art. L51 (V)
+  - Code des pensions civiles et militaires de retr... - art. L51 (V)
 
 
 #### Chapitre II : Militaires ayant bénéficié d'un pécule.<a id=78></a>
