@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1980-01-19
+Version Consolidée au 1980-01-21
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -129,25 +129,26 @@ Version Consolidée au 1980-01-19
         - [Chapitre Ier : Fonctionnaires civils. (art. D17 à D18)](#126)
           - [Paragraphe III : Dispositions communes. (art. D17 à D18)](#127)
         - [Chapitre II : Militaires. (art. D19)](#128)
-      - [Titre VIII : Dispositions d'ordre et diverses. (art. D20 à D27)](#129)
-        - [Paragraphe Ier : Concession et révision de la pension. (art. D20 à D26)](#130)
-        - [Paragraphe II : Dispositions diverses. (art. D27)](#131)
-      - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D36)](#132)
-    - [Livre II : Dispositions particulières du régime général des retraites. (art. D37)](#133)
-      - [Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause. (art. D37)](#134)
-        - [Chapitre Ier : Fonctionnaires civils anciens combattants. (art. D37)](#135)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. D39 à D78)](#136)
-      - [Chapitre Ier : Paiement des pensions. (art. D39 à D57)](#137)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D39)](#138)
-        - [Paragraphe III : Modalités de paiement des pensions. (art. D41 à D46)](#139)
-        - [Paragraphe IV : Paiement par l'intermédiaire d'un établissement bancaire. (art. D48 à D52)](#140)
-        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D56)](#141)
-        - [Paragraphe VI : Abandon de jouissance. (art. D57)](#142)
-      - [Chapitre III : Avances mensuelles sur pensions concédées en paiement. (art. D59 à D78)](#143)
-        - [Paragraphe Ier : Demande et autorisation de paiement d'avances. (art. D59 à D61)](#144)
-        - [Paragraphe III : Paiement du solde du trimestre. (art. D64 à D67)](#145)
-        - [Paragraphe IV : Dispositions particulières à la Caisse nationale d'épargne. (art. D68 à D72)](#146)
-        - [Paragraphe V : Dispositions particulières aux caisses de crédit municipal. (art. D73 à D78)](#147)
+      - [Titre VI : Pensions des ayants cause. (art. D19-1 à D19-6)](#129)
+      - [Titre VIII : Dispositions d'ordre et diverses. (art. D20 à D27)](#130)
+        - [Paragraphe Ier : Concession et révision de la pension. (art. D20 à D26)](#131)
+        - [Paragraphe II : Dispositions diverses. (art. D27)](#132)
+      - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D36)](#133)
+    - [Livre II : Dispositions particulières du régime général des retraites. (art. D37)](#134)
+      - [Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause. (art. D37)](#135)
+        - [Chapitre Ier : Fonctionnaires civils anciens combattants. (art. D37)](#136)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. D39 à D78)](#137)
+      - [Chapitre Ier : Paiement des pensions. (art. D39 à D57)](#138)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D39)](#139)
+        - [Paragraphe III : Modalités de paiement des pensions. (art. D41 à D46)](#140)
+        - [Paragraphe IV : Paiement par l'intermédiaire d'un établissement bancaire. (art. D48 à D52)](#141)
+        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D56)](#142)
+        - [Paragraphe VI : Abandon de jouissance. (art. D57)](#143)
+      - [Chapitre III : Avances mensuelles sur pensions concédées en paiement. (art. D59 à D78)](#144)
+        - [Paragraphe Ier : Demande et autorisation de paiement d'avances. (art. D59 à D61)](#145)
+        - [Paragraphe III : Paiement du solde du trimestre. (art. D64 à D67)](#146)
+        - [Paragraphe IV : Dispositions particulières à la Caisse nationale d'épargne. (art. D68 à D72)](#147)
+        - [Paragraphe V : Dispositions particulières aux caisses de crédit municipal. (art. D73 à D78)](#148)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=2></a>
@@ -6846,9 +6847,168 @@ _Créé par_:
   - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
 
 
-### Titre VIII : Dispositions d'ordre et diverses.<a id=129></a>
+### Titre VI : Pensions des ayants cause.<a id=129></a>
 
-#### Paragraphe Ier : Concession et révision de la pension.<a id=130></a>
+###### Article D19-1
+
+Peuvent être élevées au minimum de pension prévu au troisième alinéa de l'article L. 38 du présent code les pensions de
+réversion au taux de 50 p. 100 allouées aux veuves, aux femmes divorcées ou séparées ainsi qu'aux orphelins de fonctionnaires
+ou de militaires.
+
+Lorsque la pension est partagée entre plusieurs ayants cause, la part du minimum de pension pouvant être attribuée à chaque
+bénéficiaire en fonction de ses ressources propres est calculée au prorata de la fraction de pension qui lui est
+personnellement allouée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°81-179 1981-02-25 art. 1 JORF 27 février 1981 en vigueur le 21 janvier 1980
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retraite L38 al. 3
+
+_Codifié par_:
+
+  - Décret n°66-810 1966-10-28
+
+
+###### Article D19-2
+
+Le droit au minimum de pension prévu au troisième alinéa de l'article L. 38 du présent code est ouvert lorsque les ressources
+annuelles du titulaire de la pension de réversion, y compris cette pension, sont inférieures au montant cumulé de
+l'allocation servie aux vieux travailleurs salariés et de l'allocation supplémentaire du fonds national de solidarité.
+
+Lorsque l'allocation supplémentaire du fonds national de solidarité est déjà perçue, elle n'est pas prise en considération
+pour l'appréciation des ressources, mais son montant est diminué d'une somme égale au complément de pension attribué en
+application du troisième alinéa de l'article L. 38. En tout état de cause, le versement de cette allocation est maintenu à
+concurrence de la différence qui existe entre le plafond de ressources imposé pour l'attribution de cet avantage et le
+montant cumulé de ladite allocation et de l'allocation servie aux vieux travailleurs salariés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°81-179 1981-02-25 art. 1 JORF 27 février 1981 en vigueur le 21 janvier 1980
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retraite L38 al. 3
+
+_Codifié par_:
+
+  - Décret n°66-810 1966-10-28
+
+
+###### Article D19-3
+
+Pour l'examen des droits éventuels à ce minimum de pension, le comptable assignataire invite l'intéressé à lui faire
+connaître avant le 1er mars de chaque année [*délai*] le montant détaillé des ressources dont il a bénéficié au cours de
+l'année civile précédente au moyen d'une déclaration dont les énonciations peuvent être vérifiées auprès de tous services,
+personnes ou institutions qui assurent le versement des revenus ou sont qualifiés pour procéder à l'évaluation de ces
+ressources.
+
+Ces ressources sont prises en considération pour fixer le montant du complément à servir durant la période du 1er mai de
+l'année courante au 30 avril de l'année suivante, compte tenu de l'évolution, durant cette période, des montants respectifs
+de la pension, de l'allocation aux vieux travailleurs salariés et de l'allocation du fonds national de solidarité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°81-179 1981-02-25 art. 1 JORF 27 février 1981 en vigueur le 21 janvier 1980
+
+_Cité par_:
+
+  - Code des pensions civiles et militaires de retr... - art. D19-6 (V)
+
+_Codifié par_:
+
+  - Décret n°66-810 1966-10-28
+
+
+###### Article D19-4
+
+Pour la fraction d'année civile postérieure au décès du fonctionnaire ou du militaire, le comptable invite le ou les
+bénéficiaires de la pension de réversion à lui faire connaître le montant prévisible des ressources attendues depuis la date
+d'effet de la pension jusqu'au 31 décembre de la même année. Le montant de ces ressources rapporté à l'année entière sera
+pris en compte pour déterminer les droits de l'intéressé jusqu'au 30 avril de l'année suivante.
+
+Avant le 1er mars de l'année suivant celle du décès de l'auteur du droit, l'intéressé devra justifier du montant des
+ressources effectivement perçues durant la période visée à l'alinéa précédent. Il sera tenu compte du montant de ces
+ressources rapporté à l'année pour fixer les droits de l'intéressé durant la période annuelle suivante commençant le 1er mai
+et, éventuellement, régulariser sa situation au titre de la période antérieure.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°81-179 1981-02-25 art. 1 JORF 27 février 1981 en vigueur le 21 janvier 1980
+
+_Cité par_:
+
+  - Code des pensions civiles et militaires de retr... - art. D19-6 (V)
+
+_Codifié par_:
+
+  - Décret n°66-810 1966-10-28
+
+
+###### Article D19-5
+
+L'appréciation des ressources des intéressés et leur évaluation sont effectuées dans les conditions prévues par les articles
+2, 3, 4, 5, 6 et 9 du décret n° 64-300 du 1er avril 1964 pour l'ouverture du droit à l'allocation supplémentaire du fonds
+national de solidarité et à l'allocation aux vieux travailleurs salariés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°64-300 1964-04-01 art. 2, 3, 4, 5, 6 et 9
+  - Décret n°64-300 du 1 avril 1964 - art. 2 (Ab)
+  - Décret n°64-300 du 1 avril 1964 - art. 3 (Ab)
+  - Décret n°64-300 du 1 avril 1964 - art. 4 (Ab)
+  - Décret n°64-300 du 1 avril 1964 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°81-179 1981-02-25 art. 1 JORF 27 février 1981 en vigueur le 21 janvier 1980
+
+_Codifié par_:
+
+  - Décret n°66-810 1966-10-28
+
+
+###### Article D19-6
+
+A défaut, pour le bénéficiaire, de produire la déclaration détaillée de ses ressources dans les délais prévus à l'article D.
+19-3 et au deuxième alinéa de l'article D. 19-4, le comptable assignataire de la pension suspend, à compter du 1er mai
+suivant, le paiement du complément qui lui avait été attribué. 
+
+Si la déclaration de ressources vient à être produite après le 1er mai, le complément de pension peut être rétabli avec
+application éventuelle de la règle de prescription prévue à l'article L. 53 du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°81-179 1981-02-25 art. 1 JORF 27 février 1981 en vigueur le 21 janvier 1980
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retr... - art. D19-3 (V)
+  - Code des pensions civiles et militaires de retr... - art. D19-4 (V)
+  - Code des pensions civiles et militaires de retr... - art. L53 (V)
+
+_Codifié par_:
+
+  - Décret n°66-810 1966-10-28
+
+
+### Titre VIII : Dispositions d'ordre et diverses.<a id=130></a>
+
+#### Paragraphe Ier : Concession et révision de la pension.<a id=131></a>
 
 ###### Article D20
 
@@ -7179,7 +7339,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe II : Dispositions diverses.<a id=131></a>
+#### Paragraphe II : Dispositions diverses.<a id=132></a>
 
 ###### Article D27
 
@@ -7227,7 +7387,7 @@ _Créé par_:
   - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
 
 
-### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=132></a>
+### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=133></a>
 
 ###### Article D30
 
@@ -7430,11 +7590,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-## Livre II : Dispositions particulières du régime général des retraites.<a id=133></a>
+## Livre II : Dispositions particulières du régime général des retraites.<a id=134></a>
 
-### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.<a id=134></a>
+### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.<a id=135></a>
 
-#### Chapitre Ier : Fonctionnaires civils anciens combattants.<a id=135></a>
+#### Chapitre Ier : Fonctionnaires civils anciens combattants.<a id=136></a>
 
 ###### Article D37
 
@@ -7460,11 +7620,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-## Livre III : Dispositions relatives au paiement des pensions.<a id=136></a>
+## Livre III : Dispositions relatives au paiement des pensions.<a id=137></a>
 
-### Chapitre Ier : Paiement des pensions.<a id=137></a>
+### Chapitre Ier : Paiement des pensions.<a id=138></a>
 
-#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=138></a>
+#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=139></a>
 
 ###### Article D39
 
@@ -7481,7 +7641,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe III : Modalités de paiement des pensions.<a id=139></a>
+#### Paragraphe III : Modalités de paiement des pensions.<a id=140></a>
 
 ###### Article D41
 
@@ -7567,7 +7727,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe IV : Paiement par l'intermédiaire d'un établissement bancaire.<a id=140></a>
+#### Paragraphe IV : Paiement par l'intermédiaire d'un établissement bancaire.<a id=141></a>
 
 ###### Article D48
 
@@ -7654,7 +7814,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe V : Précompte de la cotisation de sécurité sociale.<a id=141></a>
+#### Paragraphe V : Précompte de la cotisation de sécurité sociale.<a id=142></a>
 
 ###### Article D53
 
@@ -7752,7 +7912,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe VI : Abandon de jouissance.<a id=142></a>
+#### Paragraphe VI : Abandon de jouissance.<a id=143></a>
 
 ###### Article D57
 
@@ -7773,9 +7933,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. D472 (V)
 
 
-### Chapitre III : Avances mensuelles sur pensions concédées en paiement.<a id=143></a>
+### Chapitre III : Avances mensuelles sur pensions concédées en paiement.<a id=144></a>
 
-#### Paragraphe Ier : Demande et autorisation de paiement d'avances.<a id=144></a>
+#### Paragraphe Ier : Demande et autorisation de paiement d'avances.<a id=145></a>
 
 ###### Article D59
 
@@ -7867,7 +8027,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe III : Paiement du solde du trimestre.<a id=145></a>
+#### Paragraphe III : Paiement du solde du trimestre.<a id=146></a>
 
 ###### Article D64
 
@@ -7931,7 +8091,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe IV : Dispositions particulières à la Caisse nationale d'épargne.<a id=146></a>
+#### Paragraphe IV : Dispositions particulières à la Caisse nationale d'épargne.<a id=147></a>
 
 ###### Article D68
 
@@ -7998,7 +8158,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe V : Dispositions particulières aux caisses de crédit municipal.<a id=147></a>
+#### Paragraphe V : Dispositions particulières aux caisses de crédit municipal.<a id=148></a>
 
 ###### Article D73
 
