@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1973-12-23
+Version Consolidée au 1974-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -48,9 +48,9 @@ Version Consolidée au 1973-12-23
         - [Chapitre Ier : Dispositions générales. (art. L84 à L85)](#45)
         - [Chapitre II : Cumul de pensions et de rémunérations d'activité. (art. L86)](#46)
         - [Chapitre III : Cumul de plusieurs pensions. (art. L87)](#47)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. L91 à L96)](#48)
-      - [Chapitre Ier : Paiement des pensions. (art. L91 à L93)](#49)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. L91)](#50)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. L90 à L96)](#48)
+      - [Chapitre Ier : Paiement des pensions. (art. L90 à L93)](#49)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. L90 à L91)](#50)
         - [Paragraphe II : Dispositions diverses. (art. L92 à L93)](#51)
       - [Chapitre II : Avances mensuelles sur pensions concédées en paiement. (art. L94 à L96)](#52)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1 à R106)](#53)
@@ -3176,6 +3176,35 @@ _Codifié par_:
 ### Chapitre Ier : Paiement des pensions.<a id=49></a>
 
 #### Paragraphe Ier : Règles générales du paiement des pensions.<a id=50></a>
+
+###### Article L90
+
+La pension et la rente viagère d'invalidité sont payées mensuellement et à terme échu dans les conditions déterminées par un
+règlement d'administration publique.
+
+La mise en paiement, portant rappel du jour de l'entrée en jouissance, doit être obligatoirement effectuée à la fin du
+premier mois suivant le mois de cessation de l'activité.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°68-382 du 5 avril 1968 - art. 36 (V)
+  - Décret n°68-960 du 11 octobre 1968 - art. 34 (V)
+  - Décret n°2003-1306 du 26 décembre 2003 - art. 27 (M)
+  - Décret n°2008-637 du 30 juin 2008 - art. 39 (M)
+  - Décret n°2008-639 du 30 juin 2008 - art. 24 (VD)
+  - Code des pensions civiles et militaires de retr... - art. R*101 (V)
+  - Code des pensions civiles et militaires de retr... - art. R*102 (V)
+
+_Modifié par_:
+
+  - Loi n°74-1129 1974-12-30 art. 62 JORF 31 décembre 1974
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
 
 ###### Article L91
 
