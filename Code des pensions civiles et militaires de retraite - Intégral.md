@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1977-06-08
+Version Consolidée au 1977-11-20
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -65,7 +65,7 @@ Version Consolidée au 1977-06-08
           - [Paragraphe II : Eléments constitutifs. (art. R*8)](#62)
         - [Chapitre III : Dispositions communes. (art. R9)](#63)
       - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. R11 à R33)](#64)
-        - [Chapitre Ier : Services et bonifications valables. (art. R11 à R25)](#65)
+        - [Chapitre Ier : Services et bonifications valables. (art. R11 à R25-1)](#65)
         - [Chapitre II : Détermination du montant de la pension. (art. R26 à R33)](#66)
           - [Paragraphe Ier : Décompte et valeur des annuités liquidables. (art. R26)](#67)
           - [Paragraphe II : Emoluments de base. (art. R27 à R31)](#68)
@@ -4342,6 +4342,42 @@ au concours de recrutement dans les conditions exigées par le statut particulie
 _Codifié par_:
 
   - Décret n°66-809 1966-10-28
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retrait - art. L12 (M)
+
+
+###### Article R25-1
+
+La bonification prévue par l'article L. 12, i, attribuée dans la limite de cinq annuités, est calculée en fonction des
+services militaires effectivement accomplis.
+
+La bonification est diminuée :
+
+D'une annuité pour les militaires radiés des cadres au plus tôt à compter du jour de leur cinquante-sixième anniversaire et
+au plus tard à compter de la veille de leur cinquante-septième anniversaire ;
+
+De deux annuités pour les militaires radiés des cadres au plus tôt à compter du jour de leur cinquante-septième anniversaire
+et au plus tard la veille de leur cinquante-huitième anniversaire ;
+
+De trois annuités pour les militaires radiés des cadres à compter du jour de leur cinquante-huitième anniversaire ou, en cas
+de radiation par limite d'âge, du lendemain de ce jour.
+
+En cas de radiation des cadres prononcée après le jour du cinquante-huitième anniversaire ou en cas de radiation des cadres
+par limite d'âge après le lendemain de cette date, aucune bonification n'est accordée.
+
+Ces dispositions sont applicables aux militaires rayés des cadres avec effet d'une date postérieure au 31 décembre 1975.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°66-809 1966-10-28
+
+_Modifié par_:
+
+  - Décret n°77-1268 1977-11-09 art. 1 JORF 20 novembre 1977
 
 _Cite_:
 
