@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1966-12-01
+Version Consolidée au 1967-09-16
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -113,8 +113,8 @@ Version Consolidée au 1966-12-01
       - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. D2 à D7)](#110)
         - [Chapitre Ier : Fonctionnaires civils. (art. D2 à D7)](#111)
           - [Paragraphe II : Eléments constitutifs. (art. D2 à D7)](#112)
-      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. D9 à D16)](#113)
-        - [Chapitre Ier : Services et bonifications valables. (art. D9 à D14)](#114)
+      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. D8 à D16)](#113)
+        - [Chapitre Ier : Services et bonifications valables. (art. D8 à D14)](#114)
         - [Chapitre II : Détermination du montant de la pension. (art. D15 à D16)](#115)
           - [Paragraphe II : Emoluments de base. (art. D15)](#116)
           - [Paragraphe IV : Avantages de pension à caractère familial. (art. D16)](#117)
@@ -5285,6 +5285,39 @@ _Codifié par_:
 ### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=113></a>
 
 #### Chapitre Ier : Services et bonifications valables.<a id=114></a>
+
+###### Article D8
+
+Les zones visées à l'article R. 11 (3e alinéa) sont ainsi déterminées :
+
+Première zone : ancienne Afrique occidentale française, Togo.
+
+Deuxième zone : ancienne Afrique équatoriale française, Cameroun.
+
+Troisième zone : ancienne Indochine.
+
+Quatrième zone : anciens Etablissements français dans l'Inde.
+
+Cinquième zone : Madagascar et dépendances, Comores.
+
+Sixième zone : Territoire français des Afars et des Issas (ancienne Côte française des Somalis).
+
+Septième zone : Nouvelles-Hébrides.
+
+Huitième zone : îles Wallis et Futuna.
+
+Neuvième zone : Terres australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retraite R11 al. 3
+
+_Codifié par_:
+
+  - Décret n°66-810 1966-10-28
+
 
 ###### Article D9
 
