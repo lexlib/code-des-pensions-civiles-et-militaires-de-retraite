@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1980-01-21
+Version Consolidée au 1980-06-29
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -142,7 +142,7 @@ Version Consolidée au 1980-01-21
         - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D39)](#139)
         - [Paragraphe III : Modalités de paiement des pensions. (art. D41 à D46)](#140)
         - [Paragraphe IV : Paiement par l'intermédiaire d'un établissement bancaire. (art. D48 à D52)](#141)
-        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D56)](#142)
+        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D55)](#142)
         - [Paragraphe VI : Abandon de jouissance. (art. D57)](#143)
       - [Chapitre III : Avances mensuelles sur pensions concédées en paiement. (art. D59 à D78)](#144)
         - [Paragraphe Ier : Demande et autorisation de paiement d'avances. (art. D59 à D61)](#145)
@@ -7917,23 +7917,6 @@ _Abrogé par_:
 _Cite_:
 
   - Code des pensions civiles et militaires de retrait - art. D54 (M)
-
-_Codifié par_:
-
-  - Décret n°66-810 1966-10-28
-
-
-###### Article D56
-
-**Nota:**
-
-[*(Abrogé par décret n° 80-475 du 27 juin 1980, art. 2)*]
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°80-475 1980-06-27 art. 2 JORF 29 juin 1979
 
 _Codifié par_:
 
