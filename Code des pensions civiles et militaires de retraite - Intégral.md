@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2004-01-01
+Version Consolidée au 2004-08-17
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -4987,10 +4987,15 @@ _Codifié par_:
 
 ###### Article L83
 
-A la pension des militaires officiers et non officiers du régiment des sapeurs-pompiers de Paris s'ajoute une majoration dont
-le montant et les modalités d'attribution seront déterminés par un règlement d'administration publique.
+A la pension des militaires officiers et non officiers de la brigade des sapeurs-pompiers de Paris et du bataillon des
+marins-pompiers de Marseille s'ajoute un supplément de pension dont le montant et les modalités d'attribution sont fixées par
+décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 152 (V)
 
 _Codifié par_:
 
@@ -4998,11 +5003,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°83-1179 1983-12-29 art. 131 II JORF 30 décembre 1983
-
-_Cité par_:
-
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 152 (V)
+  - Loi n°2004-811 du 13 août 2004 - art. 84 () JORF 17 août 2004
 
 
 ### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.<a id=43></a>
