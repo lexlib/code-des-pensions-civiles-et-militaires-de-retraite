@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1978-03-05
+Version Consolidée au 1978-07-18
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -26,7 +26,7 @@ Version Consolidée au 1978-03-05
           - [Paragraphe III : Dispositions communes. (art. L30 à L33)](#23)
         - [Chapitre II : Militaires. (art. L34 à L37)](#24)
       - [Titre VI : Pensions des ayants cause. (art. L39 à L49)](#25)
-        - [Chapitre Ier : Fonctionnaires civils. (art. L39 à L42)](#26)
+        - [Chapitre Ier : Fonctionnaires civils. (art. L39 à L45)](#26)
         - [Chapitre II : Militaires. (art. L47 à L49)](#27)
       - [Titre VII : Dispositions spéciales. (art. L51 à L52)](#28)
       - [Titre VIII : Dispositions d'ordre et diverses. (art. L53 à L60)](#29)
@@ -48,7 +48,7 @@ Version Consolidée au 1978-03-05
       - [Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions. (art. L84 à L89)](#45)
         - [Chapitre Ier : Dispositions générales. (art. L84 à L85)](#46)
         - [Chapitre II : Cumul de pensions et de rémunérations d'activité. (art. L86)](#47)
-        - [Chapitre III : Cumul de plusieurs pensions. (art. L87)](#48)
+        - [Chapitre III : Cumul de plusieurs pensions. (art. L87 à L88)](#48)
         - [Chapitre IV : Cumul d'accessoires de pension. (art. L89)](#49)
     - [Livre III : Dispositions relatives au paiement des pensions. (art. L90 à L96)](#50)
       - [Chapitre Ier : Paiement des pensions. (art. L90 à L93)](#51)
@@ -2333,6 +2333,38 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L38 al. 1, L40, L41 et L50
 
 
+###### Article L45
+
+Lorsque, au décès du mari, il existe plusieurs conjoints, divorcés ou survivants, ayant droit à la pension définie au premier
+alinéa de l'article L. 38, la pension est répartie entre ces conjoints au prorata de la durée respective de chaque mariage.
+
+Au décès de l'une des bénéficiaires, sa part accroîtra la part de l'autre, sauf réversion du droit au profit des enfants de
+moins de vingt et un ans.
+
+Les deux alinéas qui précèdent s'appliquent dans les mêmes conditions à la pension de réversion prévue par l'article L. 50.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
+_Modifié par_:
+
+  - Loi n°75-617 1975-07-11 art. 14 JORF 12 juillet 1975
+  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+  - Loi n°78-753 1978-07-17 art. 43 II JORF 18 juillet 1978
+  - Loi n°78-753 du 17 juillet 1978 - art. 43
+
+_Cité par_:
+
+  - Code des pensions civiles et militaires de retrait - art. R*57 bis (M)
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retraite L38 al. 1 et L50
+
+
 #### Chapitre II : Militaires.<a id=27></a>
 
 ###### Article L47
@@ -3481,6 +3513,43 @@ _Cite_:
 _Codifié par_:
 
   - Loi n°64-1339 1964-12-29
+
+
+###### Article L88
+
+Le cumul par un conjoint survivant de plusieurs pensions obtenues du chef d'agents différents, au titre des régimes de
+retraites des collectivités énumérées à l'article L. 84, est interdit.
+
+Un orphelin peut cumuler les deux pensions de réversion obtenues du chef de son père et de sa mère au titre des régimes de
+retraites énumérés à l'article L. 84.
+
+Il ne peut cumuler les pensions de réversion obtenues du chef de son père légitime ou naturel et celles obtenues d'un père
+adoptif ; il ne peut cumuler les pensions de réversion obtenues du chef de sa mère légitime ou naturelle et celles obtenues
+du chef d'une mère adoptive. Toutefois, il peut opter pour la pension de réversion la plus favorable.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°50-1348 du 27 octobre 1950 - art. 17 (V)
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
+_Modifié par_:
+
+  - Loi n°73-1128 1973-12-21 art. 12 IV JORF 23 décembre 1973
+  - Loi n°78-753 1978-07-17 art. 43 IV JORF JORF 18 juillet 1978
+  - Loi n°78-753 du 17 juillet 1978 - art. 43
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°78-753 du 17 juillet 1978 - art. 44 (V)
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retrait - art. L84 (M)
 
 
 #### Chapitre IV : Cumul d'accessoires de pension.<a id=49></a>
