@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1990-01-01
+Version Consolidée au 1990-07-11
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -652,10 +652,11 @@ Les services pris en compte dans la liquidation de la pension sont :
 
 1° Pour les fonctionnaires civils, les services énumérés à l'article L. 5, exception faite des services militaires visés au
 2° s'ils ont été rémunérés soit par une pension, soit par une solde de réforme, sous réserve de la renonciation prévue à
-l'article L. 77. La période pendant laquelle les intéressés ont été autorisés à accomplir un service à temps partiel dans les
-conditions prévues au dernier alinéa de l'article 34 du statut général des fonctionnaires est comptée pour la fraction de sa
-durée égale au rapport entre la durée hebdomadaire du service effectué et les obligations hebdomadaires de service
-réglementairement fixées pour les agents de même grade exerçant à temps plein les mêmes fonctions ;
+l'article L. 77, ainsi que les périodes ayant donné lieu au versement des allocations d'enseignement dans des conditions
+déterminées par décret en Conseil d'Etat. La période pendant laquelle les intéressés ont été autorisés à accomplir un service
+à temps partiel dans les conditions prévues au dernier alinéa de l'article 34 du statut général des fonctionnaires est
+comptée pour la fraction de sa durée égale au rapport entre la durée hebdomadaire du service effectué et les obligations
+hebdomadaires de service réglementairement fixées pour les agents de même grade exerçant à temps plein les mêmes fonctions ;
 
 2° Pour les militaires, les services énumérés aux articles L. 5 et L. 8 ainsi que les bénéfices d'études préliminaires
 attribués aux militaires et assimilés dans les conditions déterminées par décret en Conseil d'Etat.
@@ -677,8 +678,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°70-523 1970-06-19 art. 2 JORF 21 juin 1970 rectificatif JORF 10 juillet 1970
-  - Ordonnance 82-296 1982-03-31 art. 3 JORF 2 avril 1982
+  - Loi n°90-587 du 4 juillet 1990 - art. 33 () JORF 11 juillet 1990
 
 _Codifié par_:
 
