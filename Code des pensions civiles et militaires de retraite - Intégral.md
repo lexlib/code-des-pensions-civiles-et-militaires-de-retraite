@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1975-12-28
+Version Consolidée au 1977-06-08
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -29,12 +29,12 @@ Version Consolidée au 1975-12-28
         - [Chapitre Ier : Fonctionnaires civils. (art. L39 à L42)](#26)
         - [Chapitre II : Militaires. (art. L47 à L49)](#27)
       - [Titre VII : Dispositions spéciales. (art. L51 à L52)](#28)
-      - [Titre VIII : Dispositions d'ordre et diverses. (art. L54 à L60)](#29)
-        - [Paragraphe Ier : Concession et révision de la pension. (art. L54)](#30)
+      - [Titre VIII : Dispositions d'ordre et diverses. (art. L53 à L60)](#29)
+        - [Paragraphe Ier : Concession et révision de la pension. (art. L53 à L55)](#30)
         - [Paragraphe II : Dispositions diverses. (art. L56 à L60)](#31)
       - [Titre IX : Retenues pour pensions. (art. L62 à L64)](#32)
       - [Titre X : Cessation ou reprise de service. -  Coordination avec le régime de sécurité sociale. (art. L65 à L67)](#33)
-    - [Livre II : Dispositions particulières du régime général des retraites. (art. L68 à L87)](#34)
+    - [Livre II : Dispositions particulières du régime général des retraites. (art. L68 à L89)](#34)
       - [Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause. (art. L68 à L72)](#35)
         - [Chapitre Ier : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause. (art. L68 à L72)](#36)
           - [Paragraphe Ier : Droits des fonctionnaires. (art. L68 à L70)](#37)
@@ -45,105 +45,106 @@ Version Consolidée au 1975-12-28
         - [Chapitre II : Fonctionnaires civils titulaires de deux emplois. (art. L76)](#42)
         - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités. (art. L77 à L81)](#43)
         - [Chapitre IV : Sapeurs-pompiers de Paris. (art. L82)](#44)
-      - [Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions. (art. L84 à L87)](#45)
+      - [Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions. (art. L84 à L89)](#45)
         - [Chapitre Ier : Dispositions générales. (art. L84 à L85)](#46)
         - [Chapitre II : Cumul de pensions et de rémunérations d'activité. (art. L86)](#47)
         - [Chapitre III : Cumul de plusieurs pensions. (art. L87)](#48)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. L90 à L96)](#49)
-      - [Chapitre Ier : Paiement des pensions. (art. L90 à L93)](#50)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. L90 à L91)](#51)
-        - [Paragraphe II : Dispositions diverses. (art. L92 à L93)](#52)
-      - [Chapitre II : Avances mensuelles sur pensions concédées en paiement. (art. L94 à L96)](#53)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1 à R106)](#54)
-    - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. R*1 à R*70)](#55)
-      - [Titre Ier : Généralités. (art. R*1 à R*4)](#56)
-      - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. R*5 à R9)](#57)
-        - [Chapitre Ier : Fonctionnaires civils. (art. R*5 à R6)](#58)
-          - [Paragraphe II : Eléments constitutifs. (art. R*5 à R6)](#59)
-        - [Chapitre II : Militaires. (art. R*8)](#60)
-          - [Paragraphe II : Eléments constitutifs. (art. R*8)](#61)
-        - [Chapitre III : Dispositions communes. (art. R9)](#62)
-      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. R11 à R33)](#63)
-        - [Chapitre Ier : Services et bonifications valables. (art. R11 à R25)](#64)
-        - [Chapitre II : Détermination du montant de la pension. (art. R26 à R33)](#65)
-          - [Paragraphe Ier : Décompte et valeur des annuités liquidables. (art. R26)](#66)
-          - [Paragraphe II : Emoluments de base. (art. R27 à R31)](#67)
-          - [Paragraphe IV : Avantages de pension à caractère familial. (art. R*32 à R33)](#68)
-      - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. R*34 à R36)](#69)
-      - [Titre V : Invalidité. (art. R38 à R52)](#70)
-        - [Chapitre Ier : Fonctionnaires civils. (art. R38 à R44)](#71)
-          - [Paragraphe Ier : Invalidité résultant de l'exercice des fonctions. (art. R38 à R40)](#72)
-          - [Paragraphe III : Dispositions communes. (art. R41 à R44)](#73)
-        - [Chapitre II : Militaires. (art. R50 à R52)](#74)
-      - [Titre VI : Pensions des ayants cause. (art. R*53 à R*57)](#75)
-        - [Chapitre III : Dispositions communes. (art. R*53 à R*57)](#76)
-      - [Titre VII : Dispositions spéciales. (art. R*58 à R*64)](#77)
-        - [Chapitre Ier : Solde de réserve des officiers généraux. (art. R*58)](#78)
-        - [Chapitre II : Militaires ayant bénéficié d'un pécule. (art. R*59 à R*61)](#79)
-        - [Chapitre III : Droits des ayants cause des fonctionnaires et des militaires originaires des territoires d'outre-mer non mariés sous le régime du code civil. (art. R*62)](#80)
-        - [Chapitre IV : Militaires servant à titre étranger. (art. R*63)](#81)
-        - [Chapitre V : Droits des personnels militaires féminins, officiers ou assimilés, aux avantages accordés aux femmes fonctionnaires. (art. R*64)](#82)
-      - [Titre VIII : Dispositions d'ordre et diverses. (art. R*66 à R*70)](#83)
-        - [Paragraphe II : Dispositions diverses. (art. R*66 à R*70)](#84)
-    - [Livre II : Dispositions particulières du régime général des retraites. (art. R*71 à R*95)](#85)
-      - [Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause. (art. R*71 à R*73)](#86)
-        - [Chapitre Ier : Fonctionnaires civils anciens combattants. (art. R*71)](#87)
-        - [Chapitre II : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause. (art. R*72 à R*73)](#88)
-          - [Paragraphe Ier : Droits des fonctionnaires. (art. R*72)](#89)
-          - [Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre. (art. R*73)](#90)
-      - [Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires. (art. R*74 à R*88)](#91)
-        - [Chapitre Ier : Agents en service détaché. (art. R*74 à R*76)](#92)
-        - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités. (art. R*77)](#93)
-        - [Chapitre IV : Gendarmes et sapeurs-pompiers de Paris. (art. R78 à R79)](#94)
-        - [Chapitre V : Inspecteurs des affaires d'outre-mer et surveillants des services pénitentiaires de la Guyane. (art. R*80)](#95)
-        - [Chapitre VII : Anciens officiers de carrière ayant repris du service au cours des hostilités. (art. R*82)](#96)
-        - [Chapitre VIII : Officiers de réserve servant en situation d'activité. (art. R*83)](#97)
-        - [Chapitre IX : Personnel navigant de l'armée de l'air. (art. R*84 à R*85)](#98)
-        - [Chapitre X : Ayants cause des militaires rengagés sous l'empire de la loi du 7 août 1913. (art. R*86)](#99)
-        - [Chapitre XI : Ayants cause des ex-officiers de carrière ayant repris du service au cours des hostilités. (art. R*87)](#100)
-        - [Chapitre XII : Ayants cause des officiers de réserve ayant servi en situation d'activité. (art. R*88)](#101)
-      - [Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions. (art. R*89 à R*95)](#102)
-        - [Chapitre Ier : Dispositions générales. (art. R*89 à R*91)](#103)
-        - [Chapitre II : Cumul de pensions et de rémunérations d'activité. (art. R*92 à R*95)](#104)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. R96 à R106)](#105)
-      - [Chapitre Ier : Paiement des pensions. (art. R96 à R99)](#106)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. R96 à R98)](#107)
-        - [Paragraphe II : Contexture des titres de paiement. (art. R99)](#108)
-      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. R*101 à R*103)](#109)
-      - [CHAPITRE III : Avances mensuelles sur pensions concédées en paiement. (art. R*105 à R106)](#110)
-  - [Partie réglementaire - Décrets simples (art. D1 à D78)](#111)
-    - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. D1 à D36)](#112)
-      - [Titre Ier : Généralités. (art. D1)](#113)
-      - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. D2 à D7)](#114)
-        - [Chapitre Ier : Fonctionnaires civils. (art. D2 à D7)](#115)
-          - [Paragraphe II : Eléments constitutifs. (art. D2 à D7)](#116)
-      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. D8 à D16)](#117)
-        - [Chapitre Ier : Services et bonifications valables. (art. D8 à D14)](#118)
-        - [Chapitre II : Détermination du montant de la pension. (art. D15 à D16)](#119)
-          - [Paragraphe II : Emoluments de base. (art. D15)](#120)
-          - [Paragraphe IV : Avantages de pension à caractère familial. (art. D16)](#121)
-      - [Titre V : Invalidité. (art. D17 à D19)](#122)
-        - [Chapitre Ier : Fonctionnaires civils. (art. D17 à D18)](#123)
-          - [Paragraphe III : Dispositions communes. (art. D17 à D18)](#124)
-        - [Chapitre II : Militaires. (art. D19)](#125)
-      - [Titre VIII : Dispositions d'ordre et diverses. (art. D27)](#126)
-        - [Paragraphe II : Dispositions diverses. (art. D27)](#127)
-      - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D36)](#128)
-    - [Livre II : Dispositions particulières du régime général des retraites. (art. D37)](#129)
-      - [Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause. (art. D37)](#130)
-        - [Chapitre Ier : Fonctionnaires civils anciens combattants. (art. D37)](#131)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. D39 à D78)](#132)
-      - [Chapitre Ier : Paiement des pensions. (art. D39 à D57)](#133)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D39)](#134)
-        - [Paragraphe III : Modalités de paiement des pensions. (art. D41 à D46)](#135)
-        - [Paragraphe IV : Paiement par l'intermédiaire d'un établissement bancaire. (art. D48 à D52)](#136)
-        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D56)](#137)
-        - [Paragraphe VI : Abandon de jouissance. (art. D57)](#138)
-      - [Chapitre III : Avances mensuelles sur pensions concédées en paiement. (art. D59 à D78)](#139)
-        - [Paragraphe Ier : Demande et autorisation de paiement d'avances. (art. D59 à D61)](#140)
-        - [Paragraphe III : Paiement du solde du trimestre. (art. D64 à D67)](#141)
-        - [Paragraphe IV : Dispositions particulières à la Caisse nationale d'épargne. (art. D68 à D72)](#142)
-        - [Paragraphe V : Dispositions particulières aux caisses de crédit municipal. (art. D73 à D78)](#143)
+        - [Chapitre IV : Cumul d'accessoires de pension. (art. L89)](#49)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. L90 à L96)](#50)
+      - [Chapitre Ier : Paiement des pensions. (art. L90 à L93)](#51)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. L90 à L91)](#52)
+        - [Paragraphe II : Dispositions diverses. (art. L92 à L93)](#53)
+      - [Chapitre II : Avances mensuelles sur pensions concédées en paiement. (art. L94 à L96)](#54)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1 à R106)](#55)
+    - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. R*1 à R*70)](#56)
+      - [Titre Ier : Généralités. (art. R*1 à R*4)](#57)
+      - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. R*5 à R9)](#58)
+        - [Chapitre Ier : Fonctionnaires civils. (art. R*5 à R6)](#59)
+          - [Paragraphe II : Eléments constitutifs. (art. R*5 à R6)](#60)
+        - [Chapitre II : Militaires. (art. R*8)](#61)
+          - [Paragraphe II : Eléments constitutifs. (art. R*8)](#62)
+        - [Chapitre III : Dispositions communes. (art. R9)](#63)
+      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. R11 à R33)](#64)
+        - [Chapitre Ier : Services et bonifications valables. (art. R11 à R25)](#65)
+        - [Chapitre II : Détermination du montant de la pension. (art. R26 à R33)](#66)
+          - [Paragraphe Ier : Décompte et valeur des annuités liquidables. (art. R26)](#67)
+          - [Paragraphe II : Emoluments de base. (art. R27 à R31)](#68)
+          - [Paragraphe IV : Avantages de pension à caractère familial. (art. R*32 à R33)](#69)
+      - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. R*34 à R36)](#70)
+      - [Titre V : Invalidité. (art. R38 à R52)](#71)
+        - [Chapitre Ier : Fonctionnaires civils. (art. R38 à R44)](#72)
+          - [Paragraphe Ier : Invalidité résultant de l'exercice des fonctions. (art. R38 à R40)](#73)
+          - [Paragraphe III : Dispositions communes. (art. R41 à R44)](#74)
+        - [Chapitre II : Militaires. (art. R50 à R52)](#75)
+      - [Titre VI : Pensions des ayants cause. (art. R*53 à R*57)](#76)
+        - [Chapitre III : Dispositions communes. (art. R*53 à R*57)](#77)
+      - [Titre VII : Dispositions spéciales. (art. R*58 à R*64)](#78)
+        - [Chapitre Ier : Solde de réserve des officiers généraux. (art. R*58)](#79)
+        - [Chapitre II : Militaires ayant bénéficié d'un pécule. (art. R*59 à R*61)](#80)
+        - [Chapitre III : Droits des ayants cause des fonctionnaires et des militaires originaires des territoires d'outre-mer non mariés sous le régime du code civil. (art. R*62)](#81)
+        - [Chapitre IV : Militaires servant à titre étranger. (art. R*63)](#82)
+        - [Chapitre V : Droits des personnels militaires féminins, officiers ou assimilés, aux avantages accordés aux femmes fonctionnaires. (art. R*64)](#83)
+      - [Titre VIII : Dispositions d'ordre et diverses. (art. R*66 à R*70)](#84)
+        - [Paragraphe II : Dispositions diverses. (art. R*66 à R*70)](#85)
+    - [Livre II : Dispositions particulières du régime général des retraites. (art. R*71 à R*95)](#86)
+      - [Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause. (art. R*71 à R*73)](#87)
+        - [Chapitre Ier : Fonctionnaires civils anciens combattants. (art. R*71)](#88)
+        - [Chapitre II : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause. (art. R*72 à R*73)](#89)
+          - [Paragraphe Ier : Droits des fonctionnaires. (art. R*72)](#90)
+          - [Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre. (art. R*73)](#91)
+      - [Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires. (art. R*74 à R*88)](#92)
+        - [Chapitre Ier : Agents en service détaché. (art. R*74 à R*76)](#93)
+        - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités. (art. R*77)](#94)
+        - [Chapitre IV : Gendarmes et sapeurs-pompiers de Paris. (art. R78 à R79)](#95)
+        - [Chapitre V : Inspecteurs des affaires d'outre-mer et surveillants des services pénitentiaires de la Guyane. (art. R*80)](#96)
+        - [Chapitre VII : Anciens officiers de carrière ayant repris du service au cours des hostilités. (art. R*82)](#97)
+        - [Chapitre VIII : Officiers de réserve servant en situation d'activité. (art. R*83)](#98)
+        - [Chapitre IX : Personnel navigant de l'armée de l'air. (art. R*84 à R*85)](#99)
+        - [Chapitre X : Ayants cause des militaires rengagés sous l'empire de la loi du 7 août 1913. (art. R*86)](#100)
+        - [Chapitre XI : Ayants cause des ex-officiers de carrière ayant repris du service au cours des hostilités. (art. R*87)](#101)
+        - [Chapitre XII : Ayants cause des officiers de réserve ayant servi en situation d'activité. (art. R*88)](#102)
+      - [Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions. (art. R*89 à R*95)](#103)
+        - [Chapitre Ier : Dispositions générales. (art. R*89 à R*91)](#104)
+        - [Chapitre II : Cumul de pensions et de rémunérations d'activité. (art. R*92 à R*95)](#105)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. R96 à R106)](#106)
+      - [Chapitre Ier : Paiement des pensions. (art. R96 à R99)](#107)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. R96 à R98)](#108)
+        - [Paragraphe II : Contexture des titres de paiement. (art. R99)](#109)
+      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. R*101 à R*103)](#110)
+      - [CHAPITRE III : Avances mensuelles sur pensions concédées en paiement. (art. R*105 à R106)](#111)
+  - [Partie réglementaire - Décrets simples (art. D1 à D78)](#112)
+    - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. D1 à D36)](#113)
+      - [Titre Ier : Généralités. (art. D1)](#114)
+      - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. D2 à D7)](#115)
+        - [Chapitre Ier : Fonctionnaires civils. (art. D2 à D7)](#116)
+          - [Paragraphe II : Eléments constitutifs. (art. D2 à D7)](#117)
+      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. D8 à D16)](#118)
+        - [Chapitre Ier : Services et bonifications valables. (art. D8 à D14)](#119)
+        - [Chapitre II : Détermination du montant de la pension. (art. D15 à D16)](#120)
+          - [Paragraphe II : Emoluments de base. (art. D15)](#121)
+          - [Paragraphe IV : Avantages de pension à caractère familial. (art. D16)](#122)
+      - [Titre V : Invalidité. (art. D17 à D19)](#123)
+        - [Chapitre Ier : Fonctionnaires civils. (art. D17 à D18)](#124)
+          - [Paragraphe III : Dispositions communes. (art. D17 à D18)](#125)
+        - [Chapitre II : Militaires. (art. D19)](#126)
+      - [Titre VIII : Dispositions d'ordre et diverses. (art. D27)](#127)
+        - [Paragraphe II : Dispositions diverses. (art. D27)](#128)
+      - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D36)](#129)
+    - [Livre II : Dispositions particulières du régime général des retraites. (art. D37)](#130)
+      - [Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause. (art. D37)](#131)
+        - [Chapitre Ier : Fonctionnaires civils anciens combattants. (art. D37)](#132)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. D39 à D78)](#133)
+      - [Chapitre Ier : Paiement des pensions. (art. D39 à D57)](#134)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D39)](#135)
+        - [Paragraphe III : Modalités de paiement des pensions. (art. D41 à D46)](#136)
+        - [Paragraphe IV : Paiement par l'intermédiaire d'un établissement bancaire. (art. D48 à D52)](#137)
+        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D56)](#138)
+        - [Paragraphe VI : Abandon de jouissance. (art. D57)](#139)
+      - [Chapitre III : Avances mensuelles sur pensions concédées en paiement. (art. D59 à D78)](#140)
+        - [Paragraphe Ier : Demande et autorisation de paiement d'avances. (art. D59 à D61)](#141)
+        - [Paragraphe III : Paiement du solde du trimestre. (art. D64 à D67)](#142)
+        - [Paragraphe IV : Dispositions particulières à la Caisse nationale d'épargne. (art. D68 à D72)](#143)
+        - [Paragraphe V : Dispositions particulières aux caisses de crédit municipal. (art. D73 à D78)](#144)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=2></a>
@@ -2270,6 +2271,30 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
+###### Article L41
+
+Aucune condition d'antériorité de la naissance par rapport à la radiation des cadres de leur auteur n'est exigée des
+orphelins légitimes, légitimés ou naturels dont la filiation est légalement établie.
+
+Aucune condition d'antériorité de l'adoption par rapport à la radiation des cadres de l'adoptant n'est exigée des orphelins
+adoptifs.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°66-809 du 28 octobre 1966 - art. 12 (V)
+  - Code de la sécurité sociale. - art. L161-21 (V)
+
+_Modifié par_:
+
+  - Loi n°77-574 1977-06-07 art. 19 JORF 8 juin 1977 rectificatif JORF 21 juin 1977
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
+
 ###### Article L42
 
 Les orphelins âgés de moins de vingt et un ans d'une femme fonctionnaire décédée en jouissance d'une pension et,
@@ -2432,6 +2457,34 @@ _Codifié par_:
 
 #### Paragraphe Ier : Concession et révision de la pension.<a id=30></a>
 
+###### Article L53
+
+Lorsque, par suite du fait personnel du pensionné, la demande de liquidation ou de révision de la pension est déposée
+postérieurement à l'expiration de la quatrième année qui suit celle de l'entrée en jouissance normale de la pension, le
+titulaire ne peut prétendre qu'aux arrérages afférents à l'année au cours de laquelle la demande a été déposée et aux quatre
+années antérieures.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°65-773 du 9 septembre 1965 - art. 61 (Ab)
+  - Décret n°92-620 du 7 juillet 1992 - art. 12 (V)
+  - Loi - art. 68 (VT)
+  - Décret n°2003-1306 du 26 décembre 2003 - art. 59 (V)
+  - Décret n°2003-1306 du 26 décembre 2003 - art. 62 (V)
+  - CODE DES COMMUNES. - art. R*354-48 (Ab)
+  - Code des pensions civiles et militaires de retr... - art. D19-6 (V)
+
+_Modifié par_:
+
+  - Loi n°77-574 1977-06-07 art. 21 JORF 8 juin 1977 rectificatif JORF 21 juin 1977
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
+
 ###### Article L54
 
 Les pensions attribuées conformément aux dispositions du présent code sont inscrites au grand-livre de la Dette publique et
@@ -2443,6 +2496,37 @@ Les ministres ne peuvent faire payer sous quelque dénomination que ce soit aucu
 respectifs.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
+
+###### Article L55
+
+La pension et la rente viagère d'invalidité sont définitivement acquises et ne peuvent être révisées ou supprimées à
+l'initiative de l'administration ou sur demande de l'intéressé que dans les conditions suivantes :
+
+A tout moment en cas d'erreur matérielle ;
+
+Dans un délai d'un an à compter de la notification de la décision de concession initiale de la pension ou de la rente
+viagère, en cas d'erreur de droit.
+
+La restitution des sommes payées indûment au titre de la pension ou de la rente viagère d'invalidité supprimée ou révisée est
+exigible lorsque l'intéressé était de mauvaise foi. Cette restitution est, en tant que de besoin, poursuivie par l'agent
+judiciaire du Trésor.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°60-1089 du 6 octobre 1960 - art. 4 (V)
+  - Décret n°2003-1306 du 26 décembre 2003 - art. 62 (V)
+  - Décret n°2012-1256 du 13 novembre 2012 - art. 7 (V)
+
+_Modifié par_:
+
+  - Loi n°77-574 1977-06-07 art. 22 JORF 8 juin 1977 rectificatif JORF 21 juin 1977
 
 _Codifié par_:
 
@@ -3399,11 +3483,39 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-## Livre III : Dispositions relatives au paiement des pensions.<a id=49></a>
+#### Chapitre IV : Cumul d'accessoires de pension.<a id=49></a>
 
-### Chapitre Ier : Paiement des pensions.<a id=50></a>
+###### Article L89
 
-#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=51></a>
+Est interdit du chef d'un même enfant le cumul de plusieurs accessoires de traitement, solde, salaire et pension servis par
+l'Etat, les collectivités publiques et les organismes de prévoyance collectifs ou obligatoires, aux intéressés ou à leur
+conjoint, dans les conditions prévues à l'article L. 555 du code de la sécurité sociale. Cette interdiction ne s'applique pas
+à la majoration de pension prévue à l'article L. 18.
+
+En outre, le cumul de la majoration de pension prévue à l'article L. 18 et des prestations familiales afférentes aux enfants
+ouvrant droit à ladite majoration est autorisé.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°77-574 1977-06-07 art. 23 JORF 8 juin 1977 rectificatif JORF 21 juin 1977
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+  - Code de la sécurité sociale L555
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
+
+## Livre III : Dispositions relatives au paiement des pensions.<a id=50></a>
+
+### Chapitre Ier : Paiement des pensions.<a id=51></a>
+
+#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=52></a>
 
 ###### Article L90
 
@@ -3455,7 +3567,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. L161-4 (VD)
 
 
-#### Paragraphe II : Dispositions diverses.<a id=52></a>
+#### Paragraphe II : Dispositions diverses.<a id=53></a>
 
 ###### Article L92
 
@@ -3510,7 +3622,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-### Chapitre II : Avances mensuelles sur pensions concédées en paiement.<a id=53></a>
+### Chapitre II : Avances mensuelles sur pensions concédées en paiement.<a id=54></a>
 
 ###### Article L94
 
@@ -3563,11 +3675,11 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=54></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=55></a>
 
-## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=55></a>
+## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=56></a>
 
-### Titre Ier : Généralités.<a id=56></a>
+### Titre Ier : Généralités.<a id=57></a>
 
 ###### Article R*1
 
@@ -3672,11 +3784,11 @@ _Codifié par_:
   - Décret n°66-809 1966-10-28
 
 
-### Titre II : Constitution du droit à la pension ou à la solde de réforme.<a id=57></a>
+### Titre II : Constitution du droit à la pension ou à la solde de réforme.<a id=58></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=58></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=59></a>
 
-##### Paragraphe II : Eléments constitutifs.<a id=59></a>
+##### Paragraphe II : Eléments constitutifs.<a id=60></a>
 
 ###### Article R*5
 
@@ -3771,9 +3883,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L5 (M)
 
 
-#### Chapitre II : Militaires.<a id=60></a>
+#### Chapitre II : Militaires.<a id=61></a>
 
-##### Paragraphe II : Eléments constitutifs.<a id=61></a>
+##### Paragraphe II : Eléments constitutifs.<a id=62></a>
 
 ###### Article R*8
 
@@ -3811,7 +3923,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L8 (V)
 
 
-#### Chapitre III : Dispositions communes.<a id=62></a>
+#### Chapitre III : Dispositions communes.<a id=63></a>
 
 ###### Article R9
 
@@ -3845,9 +3957,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L9 al. 1 et L15 al. 1
 
 
-### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=63></a>
+### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=64></a>
 
-#### Chapitre Ier : Services et bonifications valables.<a id=64></a>
+#### Chapitre Ier : Services et bonifications valables.<a id=65></a>
 
 ###### Article R11
 
@@ -4233,9 +4345,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L12 (M)
 
 
-#### Chapitre II : Détermination du montant de la pension.<a id=65></a>
+#### Chapitre II : Détermination du montant de la pension.<a id=66></a>
 
-##### Paragraphe Ier : Décompte et valeur des annuités liquidables.<a id=66></a>
+##### Paragraphe Ier : Décompte et valeur des annuités liquidables.<a id=67></a>
 
 ###### Article R26
 
@@ -4249,7 +4361,7 @@ _Codifié par_:
   - Décret n°66-809 1966-10-28
 
 
-##### Paragraphe II : Emoluments de base.<a id=67></a>
+##### Paragraphe II : Emoluments de base.<a id=68></a>
 
 ###### Article R27
 
@@ -4387,7 +4499,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. R29 (M)
 
 
-##### Paragraphe IV : Avantages de pension à caractère familial.<a id=68></a>
+##### Paragraphe IV : Avantages de pension à caractère familial.<a id=69></a>
 
 ###### Article R*32
 
@@ -4462,7 +4574,7 @@ _Cité par_:
   - Code des pensions civiles et militaires de retr... - art. R*103 (V)
 
 
-### Titre IV : Jouissance de la pension ou de la solde de réforme.<a id=69></a>
+### Titre IV : Jouissance de la pension ou de la solde de réforme.<a id=70></a>
 
 ###### Article R*34
 
@@ -4563,11 +4675,11 @@ _Codifié par_:
   - Décret n°66-809 1966-10-28
 
 
-### Titre V : Invalidité.<a id=70></a>
+### Titre V : Invalidité.<a id=71></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=71></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=72></a>
 
-##### Paragraphe Ier : Invalidité résultant de l'exercice des fonctions.<a id=72></a>
+##### Paragraphe Ier : Invalidité résultant de l'exercice des fonctions.<a id=73></a>
 
 ###### Article R38
 
@@ -4633,7 +4745,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L28 (V)
 
 
-##### Paragraphe III : Dispositions communes.<a id=73></a>
+##### Paragraphe III : Dispositions communes.<a id=74></a>
 
 ###### Article R41
 
@@ -4687,7 +4799,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L18, L28, L30 al. 1 et L38
 
 
-#### Chapitre II : Militaires.<a id=74></a>
+#### Chapitre II : Militaires.<a id=75></a>
 
 ###### Article R50
 
@@ -4749,9 +4861,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L48 (V)
 
 
-### Titre VI : Pensions des ayants cause.<a id=75></a>
+### Titre VI : Pensions des ayants cause.<a id=76></a>
 
-#### Chapitre III : Dispositions communes.<a id=76></a>
+#### Chapitre III : Dispositions communes.<a id=77></a>
 
 ###### Article R*53
 
@@ -4856,9 +4968,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L46 (V)
 
 
-### Titre VII : Dispositions spéciales.<a id=77></a>
+### Titre VII : Dispositions spéciales.<a id=78></a>
 
-#### Chapitre Ier : Solde de réserve des officiers généraux.<a id=78></a>
+#### Chapitre Ier : Solde de réserve des officiers généraux.<a id=79></a>
 
 ###### Article R*58
 
@@ -4878,7 +4990,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L51 (V)
 
 
-#### Chapitre II : Militaires ayant bénéficié d'un pécule.<a id=79></a>
+#### Chapitre II : Militaires ayant bénéficié d'un pécule.<a id=80></a>
 
 ###### Article R*59
 
@@ -4939,7 +5051,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L5 et R83
 
 
-#### Chapitre III : Droits des ayants cause des fonctionnaires et des militaires originaires des territoires d'outre-mer non mariés sous le régime du code civil.<a id=80></a>
+#### Chapitre III : Droits des ayants cause des fonctionnaires et des militaires originaires des territoires d'outre-mer non mariés sous le régime du code civil.<a id=81></a>
 
 ###### Article R*62
 
@@ -4962,7 +5074,7 @@ _Cité par_:
   - Décret n°2012-1256 du 13 novembre 2012 - art. 16 (V)
 
 
-#### Chapitre IV : Militaires servant à titre étranger.<a id=81></a>
+#### Chapitre IV : Militaires servant à titre étranger.<a id=82></a>
 
 ###### Article R*63
 
@@ -4980,7 +5092,7 @@ _Abrogé par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Chapitre V : Droits des personnels militaires féminins, officiers ou assimilés, aux avantages accordés aux femmes fonctionnaires.<a id=82></a>
+#### Chapitre V : Droits des personnels militaires féminins, officiers ou assimilés, aux avantages accordés aux femmes fonctionnaires.<a id=83></a>
 
 ###### Article R*64
 
@@ -5008,9 +5120,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L6 (M)
 
 
-### Titre VIII : Dispositions d'ordre et diverses.<a id=83></a>
+### Titre VIII : Dispositions d'ordre et diverses.<a id=84></a>
 
-#### Paragraphe II : Dispositions diverses.<a id=84></a>
+#### Paragraphe II : Dispositions diverses.<a id=85></a>
 
 ###### Article R*66
 
@@ -5129,11 +5241,11 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L60 (Ab)
 
 
-## Livre II : Dispositions particulières du régime général des retraites.<a id=85></a>
+## Livre II : Dispositions particulières du régime général des retraites.<a id=86></a>
 
-### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.<a id=86></a>
+### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.<a id=87></a>
 
-#### Chapitre Ier : Fonctionnaires civils anciens combattants.<a id=87></a>
+#### Chapitre Ier : Fonctionnaires civils anciens combattants.<a id=88></a>
 
 ###### Article R*71
 
@@ -5180,9 +5292,9 @@ _Abrogé par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Chapitre II : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause.<a id=88></a>
+#### Chapitre II : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause.<a id=89></a>
 
-##### Paragraphe Ier : Droits des fonctionnaires.<a id=89></a>
+##### Paragraphe Ier : Droits des fonctionnaires.<a id=90></a>
 
 ###### Article R*72
 
@@ -5209,7 +5321,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L68 à L71
 
 
-##### Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre.<a id=90></a>
+##### Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre.<a id=91></a>
 
 ###### Article R*73
 
@@ -5236,9 +5348,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L71 (Ab)
 
 
-### Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires.<a id=91></a>
+### Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires.<a id=92></a>
 
-#### Chapitre Ier : Agents en service détaché.<a id=92></a>
+#### Chapitre Ier : Agents en service détaché.<a id=93></a>
 
 ###### Article R*74
 
@@ -5318,7 +5430,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L15, L63 et R3
 
 
-#### Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.<a id=93></a>
+#### Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.<a id=94></a>
 
 ###### Article R*77
 
@@ -5341,7 +5453,7 @@ _Cite_:
   - Loi n°49-1097 1949-08-02
 
 
-#### Chapitre IV : Gendarmes et sapeurs-pompiers de Paris.<a id=94></a>
+#### Chapitre IV : Gendarmes et sapeurs-pompiers de Paris.<a id=95></a>
 
 ###### Article R78
 
@@ -5405,7 +5517,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L15 (M)
 
 
-#### Chapitre V : Inspecteurs des affaires d'outre-mer et surveillants des services pénitentiaires de la Guyane.<a id=95></a>
+#### Chapitre V : Inspecteurs des affaires d'outre-mer et surveillants des services pénitentiaires de la Guyane.<a id=96></a>
 
 ###### Article R*80
 
@@ -5425,7 +5537,7 @@ _Abrogé par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Chapitre VII : Anciens officiers de carrière ayant repris du service au cours des hostilités.<a id=96></a>
+#### Chapitre VII : Anciens officiers de carrière ayant repris du service au cours des hostilités.<a id=97></a>
 
 ###### Article R*82
 
@@ -5457,7 +5569,7 @@ _Abrogé par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Chapitre VIII : Officiers de réserve servant en situation d'activité.<a id=97></a>
+#### Chapitre VIII : Officiers de réserve servant en situation d'activité.<a id=98></a>
 
 ###### Article R*83
 
@@ -5480,7 +5592,7 @@ _Abrogé par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Chapitre IX : Personnel navigant de l'armée de l'air.<a id=98></a>
+#### Chapitre IX : Personnel navigant de l'armée de l'air.<a id=99></a>
 
 ###### Article R*84
 
@@ -5527,7 +5639,7 @@ _Cite_:
   - Ordonnance 1943-07-19 art. 8
 
 
-#### Chapitre X : Ayants cause des militaires rengagés sous l'empire de la loi du 7 août 1913.<a id=99></a>
+#### Chapitre X : Ayants cause des militaires rengagés sous l'empire de la loi du 7 août 1913.<a id=100></a>
 
 ###### Article R*86
 
@@ -5555,7 +5667,7 @@ _Cite_:
   - Loi n°1913-08-07
 
 
-#### Chapitre XI : Ayants cause des ex-officiers de carrière ayant repris du service au cours des hostilités.<a id=100></a>
+#### Chapitre XI : Ayants cause des ex-officiers de carrière ayant repris du service au cours des hostilités.<a id=101></a>
 
 ###### Article R*87
 
@@ -5578,7 +5690,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite R82
 
 
-#### Chapitre XII : Ayants cause des officiers de réserve ayant servi en situation d'activité.<a id=101></a>
+#### Chapitre XII : Ayants cause des officiers de réserve ayant servi en situation d'activité.<a id=102></a>
 
 ###### Article R*88
 
@@ -5601,9 +5713,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L48 et R83
 
 
-### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.<a id=102></a>
+### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.<a id=103></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=103></a>
+#### Chapitre Ier : Dispositions générales.<a id=104></a>
 
 ###### Article R*89
 
@@ -5676,7 +5788,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L84 (M)
 
 
-#### Chapitre II : Cumul de pensions et de rémunérations d'activité.<a id=104></a>
+#### Chapitre II : Cumul de pensions et de rémunérations d'activité.<a id=105></a>
 
 ###### Article R*92
 
@@ -5738,11 +5850,11 @@ _Codifié par_:
   - Décret n°66-809 1966-10-28
 
 
-## Livre III : Dispositions relatives au paiement des pensions.<a id=105></a>
+## Livre III : Dispositions relatives au paiement des pensions.<a id=106></a>
 
-### Chapitre Ier : Paiement des pensions.<a id=106></a>
+### Chapitre Ier : Paiement des pensions.<a id=107></a>
 
-#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=107></a>
+#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=108></a>
 
 ###### Article R96
 
@@ -5795,7 +5907,7 @@ _Codifié par_:
   - Décret n°66-809 1966-10-28
 
 
-#### Paragraphe II : Contexture des titres de paiement.<a id=108></a>
+#### Paragraphe II : Contexture des titres de paiement.<a id=109></a>
 
 ###### Article R99
 
@@ -5818,7 +5930,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite R65
 
 
-### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=109></a>
+### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=110></a>
 
 ###### Article R*101
 
@@ -5874,7 +5986,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. R33 (V)
 
 
-### CHAPITRE III : Avances mensuelles sur pensions concédées en paiement.<a id=110></a>
+### CHAPITRE III : Avances mensuelles sur pensions concédées en paiement.<a id=111></a>
 
 ###### Article R*105
 
@@ -5949,11 +6061,11 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. R100 (V)
 
 
-# Partie réglementaire - Décrets simples<a id=111></a>
+# Partie réglementaire - Décrets simples<a id=112></a>
 
-## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=112></a>
+## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=113></a>
 
-### Titre Ier : Généralités.<a id=113></a>
+### Titre Ier : Généralités.<a id=114></a>
 
 ###### Article D1
 
@@ -5983,11 +6095,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre II : Constitution du droit à la pension ou à la solde de réforme.<a id=114></a>
+### Titre II : Constitution du droit à la pension ou à la solde de réforme.<a id=115></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=115></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=116></a>
 
-##### Paragraphe II : Eléments constitutifs.<a id=116></a>
+##### Paragraphe II : Eléments constitutifs.<a id=117></a>
 
 ###### Article D2
 
@@ -6118,9 +6230,9 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=117></a>
+### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=118></a>
 
-#### Chapitre Ier : Services et bonifications valables.<a id=118></a>
+#### Chapitre Ier : Services et bonifications valables.<a id=119></a>
 
 ###### Article D8
 
@@ -6268,9 +6380,9 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Chapitre II : Détermination du montant de la pension.<a id=119></a>
+#### Chapitre II : Détermination du montant de la pension.<a id=120></a>
 
-##### Paragraphe II : Emoluments de base.<a id=120></a>
+##### Paragraphe II : Emoluments de base.<a id=121></a>
 
 ###### Article D15
 
@@ -6313,7 +6425,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-##### Paragraphe IV : Avantages de pension à caractère familial.<a id=121></a>
+##### Paragraphe IV : Avantages de pension à caractère familial.<a id=122></a>
 
 ###### Article D16
 
@@ -6340,11 +6452,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre V : Invalidité.<a id=122></a>
+### Titre V : Invalidité.<a id=123></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=123></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=124></a>
 
-##### Paragraphe III : Dispositions communes.<a id=124></a>
+##### Paragraphe III : Dispositions communes.<a id=125></a>
 
 ###### Article D17
 
@@ -6391,7 +6503,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Chapitre II : Militaires.<a id=125></a>
+#### Chapitre II : Militaires.<a id=126></a>
 
 ###### Article D19
 
@@ -6428,9 +6540,9 @@ _Créé par_:
   - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
 
 
-### Titre VIII : Dispositions d'ordre et diverses.<a id=126></a>
+### Titre VIII : Dispositions d'ordre et diverses.<a id=127></a>
 
-#### Paragraphe II : Dispositions diverses.<a id=127></a>
+#### Paragraphe II : Dispositions diverses.<a id=128></a>
 
 ###### Article D27
 
@@ -6478,7 +6590,7 @@ _Créé par_:
   - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
 
 
-### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=128></a>
+### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=129></a>
 
 ###### Article D30
 
@@ -6665,11 +6777,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-## Livre II : Dispositions particulières du régime général des retraites.<a id=129></a>
+## Livre II : Dispositions particulières du régime général des retraites.<a id=130></a>
 
-### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.<a id=130></a>
+### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.<a id=131></a>
 
-#### Chapitre Ier : Fonctionnaires civils anciens combattants.<a id=131></a>
+#### Chapitre Ier : Fonctionnaires civils anciens combattants.<a id=132></a>
 
 ###### Article D37
 
@@ -6695,11 +6807,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-## Livre III : Dispositions relatives au paiement des pensions.<a id=132></a>
+## Livre III : Dispositions relatives au paiement des pensions.<a id=133></a>
 
-### Chapitre Ier : Paiement des pensions.<a id=133></a>
+### Chapitre Ier : Paiement des pensions.<a id=134></a>
 
-#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=134></a>
+#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=135></a>
 
 ###### Article D39
 
@@ -6716,7 +6828,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe III : Modalités de paiement des pensions.<a id=135></a>
+#### Paragraphe III : Modalités de paiement des pensions.<a id=136></a>
 
 ###### Article D41
 
@@ -6802,7 +6914,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe IV : Paiement par l'intermédiaire d'un établissement bancaire.<a id=136></a>
+#### Paragraphe IV : Paiement par l'intermédiaire d'un établissement bancaire.<a id=137></a>
 
 ###### Article D48
 
@@ -6889,7 +7001,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe V : Précompte de la cotisation de sécurité sociale.<a id=137></a>
+#### Paragraphe V : Précompte de la cotisation de sécurité sociale.<a id=138></a>
 
 ###### Article D53
 
@@ -6952,7 +7064,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe VI : Abandon de jouissance.<a id=138></a>
+#### Paragraphe VI : Abandon de jouissance.<a id=139></a>
 
 ###### Article D57
 
@@ -6973,9 +7085,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. D472 (V)
 
 
-### Chapitre III : Avances mensuelles sur pensions concédées en paiement.<a id=139></a>
+### Chapitre III : Avances mensuelles sur pensions concédées en paiement.<a id=140></a>
 
-#### Paragraphe Ier : Demande et autorisation de paiement d'avances.<a id=140></a>
+#### Paragraphe Ier : Demande et autorisation de paiement d'avances.<a id=141></a>
 
 ###### Article D59
 
@@ -7067,7 +7179,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe III : Paiement du solde du trimestre.<a id=141></a>
+#### Paragraphe III : Paiement du solde du trimestre.<a id=142></a>
 
 ###### Article D64
 
@@ -7131,7 +7243,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe IV : Dispositions particulières à la Caisse nationale d'épargne.<a id=142></a>
+#### Paragraphe IV : Dispositions particulières à la Caisse nationale d'épargne.<a id=143></a>
 
 ###### Article D68
 
@@ -7198,7 +7310,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe V : Dispositions particulières aux caisses de crédit municipal.<a id=143></a>
+#### Paragraphe V : Dispositions particulières aux caisses de crédit municipal.<a id=144></a>
 
 ###### Article D73
 
