@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1980-06-29
+Version Consolidée au 1980-07-09
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -1485,23 +1485,22 @@ _Codifié par_:
 
 ###### Article L19
 
-A la pension s'ajoutent, le cas échéant, les avantages familiaux dans les conditions fixées par règlement d'administration
-publique.
+A la pension s'ajoutent, le cas échéant, les avantages familiaux dans les conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°64-1339 1964-12-29
-
 _Cité par_:
 
-  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
   - Décret n°65-773 du 9 septembre 1965 - art. 20 (Ab)
   - Décret n°68-382 du 5 avril 1968 - art. 24 (V)
   - Décret n°68-960 du 11 octobre 1968 - art. 22 (V)
   - Code des pensions civiles et militaires de retr... - art. L40 (V)
   - Code des pensions civiles et militaires de retr... - art. R*103 (V)
+  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
 
 
 #### Chapitre III : Règles particulières de liquidation.<a id=17></a>
@@ -1903,7 +1902,7 @@ _Codifié par_:
 
 La réalité des infirmités invoquées, la preuve de leur imputabilité au service, le taux d'invalidité qu'elles entraînent,
 l'incapacité permanente à l'exercice des fonctions sont appréciés par une commission de réforme selon des modalités qui sont
-fixées par un règlement d'administration publique.
+fixées par un décret en Conseil d'Etat.
 
 Le pouvoir de décision appartient, dans tous les cas, au ministre dont relève l'agent et au ministre des finances.
 
@@ -3184,22 +3183,18 @@ _Cité par_:
 ###### Article L74
 
 Les militaires de tous grades en service détaché ont droit aux bénéfices de campagne ainsi qu'aux bonifications pour services
-aériens ou sous-marins dans les conditions déterminées par règlement d'administration publique.
+aériens ou sous-marins dans les conditions déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°64-1339 1964-12-29
-
-_Modifié par_:
-
-  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
 
 _Cité par_:
 
   - Loi - art. 68 (VT)
   - Code des pensions civiles et militaires de retr... - art. R*75 (V)
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
 
 
 ###### Article L75
@@ -3662,7 +3657,7 @@ _Codifié par_:
 ###### Article L90
 
 La pension et la rente viagère d'invalidité sont payées mensuellement et à terme échu dans les conditions déterminées par un
-règlement d'administration publique.
+décret en Conseil d'Etat.
 
 La mise en paiement, portant rappel du jour de l'entrée en jouissance, doit être obligatoirement effectuée à la fin du
 premier mois suivant le mois de cessation de l'activité.
@@ -3678,10 +3673,6 @@ _Cité par_:
   - Décret n°2008-639 du 30 juin 2008 - art. 24 (VD)
   - Code des pensions civiles et militaires de retr... - art. R*101 (V)
   - Code des pensions civiles et militaires de retr... - art. R*102 (V)
-
-_Modifié par_:
-
-  - Loi n°74-1129 1974-12-30 art. 62 JORF 31 décembre 1974
 
 _Codifié par_:
 
@@ -3792,25 +3783,25 @@ _Codifié par_:
 
 La caisse nationale d'épargne et les caisses de crédit municipal sont autorisées à consentir aux pensionnaires bénéficiaires
 du présent code, sur le trimestre en cours de leur pension civile ou militaire, des avances représentant les arrérages courus
-d'un ou de deux mois.
+d'un ou de deux mois. 
 
 Les dispositions de l'article L. 56 ne sont pas opposables à ces établissements pour le remboursement des avances ainsi
-faites.
+faites. 
 
 Le mode suivant lequel le Trésor couvre la caisse nationale d'épargne et les caisses de crédit municipal de leurs avances est
-déterminé par règlement d'administration publique.
+déterminé par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code des pensions civiles et militaires de retrait - art. L56 (M)
-
 _Cité par_:
 
+  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
   - Code des pensions civiles et militaires de retrait - art. L94 (V)
   - Code des pensions civiles et militaires de retrait - art. R*105 (Ab)
-  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retr... - art. L56 (V)
 
 _Codifié par_:
 
