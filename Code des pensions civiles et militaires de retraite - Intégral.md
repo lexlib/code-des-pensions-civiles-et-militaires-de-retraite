@@ -1,154 +1,156 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1980-07-09
+Version Consolidée au 1982-04-02
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
       - [Titre Ier : Généralités. (art. L1 à L3)](#3)
       - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. L4 à L10)](#4)
-        - [Chapitre Ier : Fonctionnaires civils. (art. L4)](#5)
+        - [Chapitre Ier : Fonctionnaires civils. (art. L4 à L5)](#5)
           - [Paragraphe Ier : Généralités. (art. L4)](#6)
-        - [Chapitre II : Militaires. (art. L6 à L8)](#7)
-          - [Paragraphe Ier : Généralités. (art. L6 à L7)](#8)
-          - [Paragraphe II : Eléments constitutifs. (art. L8)](#9)
-        - [Chapitre III : Dispositions communes. (art. L9 à L10)](#10)
-      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. L13 à L23)](#11)
-        - [Chapitre II : Détermination du montant de la pension. (art. L13 à L19)](#12)
-          - [Paragraphe Ier : Décompte et valeur des annuités liquidables. (art. L13 à L14)](#13)
-          - [Paragraphe II : Emoluments de base. (art. L16)](#14)
-          - [Paragraphe III : Montant garanti. (art. L17)](#15)
-          - [Paragraphe IV : Avantages de pension de caractère familial. (art. L19)](#16)
-        - [Chapitre III : Règles particulières de liquidation. (art. L20 à L23)](#17)
-      - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. L25 à L26 bis)](#18)
-      - [Titre V : Invalidité. (art. L27 à L37 bis)](#19)
-        - [Chapitre Ier : Fonctionnaires civils. (art. L27 à L33)](#20)
-          - [Paragraphe Ier : Invalidité résultant de l'exercice des fonctions. (art. L27 à L28)](#21)
-          - [Paragraphe II : Invalidité ne résultant pas de l'exercice des fonctions. (art. L29)](#22)
-          - [Paragraphe III : Dispositions communes. (art. L30 à L33)](#23)
-        - [Chapitre II : Militaires. (art. L34 à L37)](#24)
-        - [Chapitre III : Dispositions communes aux fonctionnaires et militaires. (art. L37 bis)](#25)
-      - [Titre VI : Pensions des ayants cause. (art. L38 à L49)](#26)
-        - [Chapitre Ier : Fonctionnaires civils. (art. L38 à L45)](#27)
-        - [Chapitre II : Militaires. (art. L47 à L49)](#28)
-      - [Titre VII : Dispositions spéciales. (art. L51 à L52)](#29)
-      - [Titre VIII : Dispositions d'ordre et diverses. (art. L53 à L60)](#30)
-        - [Paragraphe Ier : Concession et révision de la pension. (art. L53 à L55)](#31)
-        - [Paragraphe II : Dispositions diverses. (art. L56 à L60)](#32)
-      - [Titre IX : Retenues pour pensions. (art. L62 à L64)](#33)
-      - [Titre X : Cessation ou reprise de service. -  Coordination avec le régime de sécurité sociale. (art. L65 à L67)](#34)
-    - [Livre II : Dispositions particulières du régime général des retraites. (art. L68 à L89)](#35)
-      - [Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause. (art. L68 à L72)](#36)
-        - [Chapitre Ier : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause. (art. L68 à L72)](#37)
-          - [Paragraphe Ier : Droits des fonctionnaires. (art. L68 à L70)](#38)
-          - [Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre. (art. L71)](#39)
-          - [Paragraphe III : Dispositions communes. (art. L72)](#40)
-      - [Titre II : Dispositions particulières relatives à certaines catégories de retraites civiles et militaires. (art. L73 à L82)](#41)
-        - [Chapitre Ier : Agents en service détaché. (art. L73 à L75)](#42)
-        - [Chapitre II : Fonctionnaires civils titulaires de deux emplois. (art. L76)](#43)
-        - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités. (art. L77 à L81)](#44)
-        - [Chapitre IV : Sapeurs-pompiers de Paris. (art. L82)](#45)
-      - [Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions. (art. L84 à L89)](#46)
-        - [Chapitre Ier : Dispositions générales. (art. L84 à L85)](#47)
-        - [Chapitre II : Cumul de pensions et de rémunérations d'activité. (art. L86)](#48)
-        - [Chapitre III : Cumul de plusieurs pensions. (art. L87 à L88)](#49)
-        - [Chapitre IV : Cumul d'accessoires de pension. (art. L89)](#50)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. L90 à L96)](#51)
-      - [Chapitre Ier : Paiement des pensions. (art. L90 à L93)](#52)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. L90 à L91)](#53)
-        - [Paragraphe II : Dispositions diverses. (art. L92 à L93)](#54)
-      - [Chapitre II : Avances mensuelles sur pensions concédées en paiement. (art. L94 à L96)](#55)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1 à R106)](#56)
-    - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. R*1 à R*70)](#57)
-      - [Titre Ier : Généralités. (art. R*1 à R*4)](#58)
-      - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. R*5 à R9)](#59)
-        - [Chapitre Ier : Fonctionnaires civils. (art. R*5 à R6)](#60)
-          - [Paragraphe II : Eléments constitutifs. (art. R*5 à R6)](#61)
-        - [Chapitre II : Militaires. (art. R*8)](#62)
-          - [Paragraphe II : Eléments constitutifs. (art. R*8)](#63)
-        - [Chapitre III : Dispositions communes. (art. R9)](#64)
-      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. R10 à R33)](#65)
-        - [Chapitre Ier : Services et bonifications valables. (art. R10 à R25-1)](#66)
-        - [Chapitre II : Détermination du montant de la pension. (art. R26 à R33)](#67)
-          - [Paragraphe Ier : Décompte et valeur des annuités liquidables. (art. R26)](#68)
-          - [Paragraphe II : Emoluments de base. (art. R27 à R31)](#69)
-          - [Paragraphe IV : Avantages de pension à caractère familial. (art. R*32 à R33)](#70)
-      - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. R*34 à R36)](#71)
-      - [Titre V : Invalidité. (art. R38 à R52)](#72)
-        - [Chapitre Ier : Fonctionnaires civils. (art. R38 à R44)](#73)
-          - [Paragraphe Ier : Invalidité résultant de l'exercice des fonctions. (art. R38 à R40)](#74)
-          - [Paragraphe III : Dispositions communes. (art. R*43 à R44)](#75)
-        - [Chapitre II : Militaires. (art. R50 à R52)](#76)
-      - [Titre VI : Pensions des ayants cause. (art. R*53 à R*57)](#77)
-        - [Chapitre III : Dispositions communes. (art. R*53 à R*57)](#78)
-      - [Titre VII : Dispositions spéciales. (art. R*58 à R*64)](#79)
-        - [Chapitre Ier : Solde de réserve des officiers généraux. (art. R*58)](#80)
-        - [Chapitre II : Militaires ayant bénéficié d'un pécule. (art. R*59 à R*61)](#81)
-        - [Chapitre III : Droits des ayants cause des fonctionnaires et des militaires originaires des territoires d'outre-mer non mariés sous le régime du code civil. (art. R*62)](#82)
-        - [Chapitre IV : Militaires servant à titre étranger. (art. R*63)](#83)
-        - [Chapitre V : Droits des personnels militaires féminins, officiers ou assimilés, aux avantages accordés aux femmes fonctionnaires. (art. R*64)](#84)
-      - [Titre VIII : Dispositions d'ordre et diverses. (art. R65 à R*70)](#85)
-        - [Paragraphe Ier : Concession et révision de la pension. (art. R65)](#86)
-        - [Paragraphe II : Dispositions diverses. (art. R*66 à R*70)](#87)
-    - [Livre II : Dispositions particulières du régime général des retraites. (art. R*71 à R*95)](#88)
-      - [Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause. (art. R*71 à R*73)](#89)
-        - [Chapitre Ier : Fonctionnaires civils anciens combattants. (art. R*71)](#90)
-        - [Chapitre II : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause. (art. R*72 à R*73)](#91)
-          - [Paragraphe Ier : Droits des fonctionnaires. (art. R*72)](#92)
-          - [Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre. (art. R*73)](#93)
-      - [Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires. (art. R*74 à R*88)](#94)
-        - [Chapitre Ier : Agents en service détaché. (art. R*74 à R*76)](#95)
-        - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités. (art. R*77)](#96)
-        - [Chapitre IV : Gendarmes et sapeurs-pompiers de Paris. (art. R78 à R79)](#97)
-        - [Chapitre V : Inspecteurs des affaires d'outre-mer et surveillants des services pénitentiaires de la Guyane. (art. R*80)](#98)
-        - [Chapitre VII : Anciens officiers de carrière ayant repris du service au cours des hostilités. (art. R*82)](#99)
-        - [Chapitre VIII : Officiers de réserve servant en situation d'activité. (art. R*83)](#100)
-        - [Chapitre IX : Personnel navigant de l'armée de l'air. (art. R*84 à R*85)](#101)
-        - [Chapitre X : Ayants cause des militaires rengagés sous l'empire de la loi du 7 août 1913. (art. R*86)](#102)
-        - [Chapitre XI : Ayants cause des ex-officiers de carrière ayant repris du service au cours des hostilités. (art. R*87)](#103)
-        - [Chapitre XII : Ayants cause des officiers de réserve ayant servi en situation d'activité. (art. R*88)](#104)
-      - [Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions. (art. R*89 à R*95)](#105)
-        - [Chapitre Ier : Dispositions générales. (art. R*89 à R*91)](#106)
-        - [Chapitre II : Cumul de pensions et de rémunérations d'activité. (art. R*92 à R*95)](#107)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. R96 à R106)](#108)
-      - [Chapitre Ier : Paiement des pensions. (art. R96 à R99)](#109)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. R96 à R98)](#110)
-        - [Paragraphe II : Contexture des titres de paiement. (art. R99)](#111)
-      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. R*101 à R*104)](#112)
-      - [CHAPITRE III : Avances mensuelles sur pensions concédées en paiement. (art. R*105 à R106)](#113)
-  - [Partie réglementaire - Décrets simples (art. D1 à D78)](#114)
-    - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. D1 à D36)](#115)
-      - [Titre Ier : Généralités. (art. D1)](#116)
-      - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. D2 à D7)](#117)
-        - [Chapitre Ier : Fonctionnaires civils. (art. D2 à D7)](#118)
-          - [Paragraphe II : Eléments constitutifs. (art. D2 à D7)](#119)
-      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. D8 à D16)](#120)
-        - [Chapitre Ier : Services et bonifications valables. (art. D8 à D14)](#121)
-        - [Chapitre II : Détermination du montant de la pension. (art. D15 à D16)](#122)
-          - [Paragraphe II : Emoluments de base. (art. D15)](#123)
-          - [Paragraphe IV : Avantages de pension à caractère familial. (art. D16)](#124)
-      - [Titre V : Invalidité. (art. D17 à D19)](#125)
-        - [Chapitre Ier : Fonctionnaires civils. (art. D17 à D18)](#126)
-          - [Paragraphe III : Dispositions communes. (art. D17 à D18)](#127)
-        - [Chapitre II : Militaires. (art. D19)](#128)
-      - [Titre VI : Pensions des ayants cause. (art. D19-1 à D19-6)](#129)
-      - [Titre VIII : Dispositions d'ordre et diverses. (art. D20 à D27)](#130)
-        - [Paragraphe Ier : Concession et révision de la pension. (art. D20 à D26)](#131)
-        - [Paragraphe II : Dispositions diverses. (art. D27)](#132)
-      - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D36)](#133)
-    - [Livre II : Dispositions particulières du régime général des retraites. (art. D37)](#134)
-      - [Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause. (art. D37)](#135)
-        - [Chapitre Ier : Fonctionnaires civils anciens combattants. (art. D37)](#136)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. D39 à D78)](#137)
-      - [Chapitre Ier : Paiement des pensions. (art. D39 à D57)](#138)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D39)](#139)
-        - [Paragraphe III : Modalités de paiement des pensions. (art. D41 à D46)](#140)
-        - [Paragraphe IV : Paiement par l'intermédiaire d'un établissement bancaire. (art. D48 à D52)](#141)
-        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D55)](#142)
-        - [Paragraphe VI : Abandon de jouissance. (art. D57)](#143)
-      - [Chapitre III : Avances mensuelles sur pensions concédées en paiement. (art. D59 à D78)](#144)
-        - [Paragraphe Ier : Demande et autorisation de paiement d'avances. (art. D59 à D61)](#145)
-        - [Paragraphe III : Paiement du solde du trimestre. (art. D64 à D67)](#146)
-        - [Paragraphe IV : Dispositions particulières à la Caisse nationale d'épargne. (art. D68 à D72)](#147)
-        - [Paragraphe V : Dispositions particulières aux caisses de crédit municipal. (art. D73 à D78)](#148)
+          - [Paragraphe II : Eléments constitutifs. (art. L5)](#7)
+        - [Chapitre II : Militaires. (art. L6 à L8)](#8)
+          - [Paragraphe Ier : Généralités. (art. L6 à L7)](#9)
+          - [Paragraphe II : Eléments constitutifs. (art. L8)](#10)
+        - [Chapitre III : Dispositions communes. (art. L9 à L10)](#11)
+      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. L11 à L23)](#12)
+        - [Chapitre Ier : Services et bonifications valables. (art. L11)](#13)
+        - [Chapitre II : Détermination du montant de la pension. (art. L13 à L19)](#14)
+          - [Paragraphe Ier : Décompte et valeur des annuités liquidables. (art. L13 à L14)](#15)
+          - [Paragraphe II : Emoluments de base. (art. L15 à L16)](#16)
+          - [Paragraphe III : Montant garanti. (art. L17)](#17)
+          - [Paragraphe IV : Avantages de pension de caractère familial. (art. L19)](#18)
+        - [Chapitre III : Règles particulières de liquidation. (art. L20 à L23)](#19)
+      - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. L24 à L26 bis)](#20)
+      - [Titre V : Invalidité. (art. L27 à L37 bis)](#21)
+        - [Chapitre Ier : Fonctionnaires civils. (art. L27 à L33)](#22)
+          - [Paragraphe Ier : Invalidité résultant de l'exercice des fonctions. (art. L27 à L28)](#23)
+          - [Paragraphe II : Invalidité ne résultant pas de l'exercice des fonctions. (art. L29)](#24)
+          - [Paragraphe III : Dispositions communes. (art. L30 à L33)](#25)
+        - [Chapitre II : Militaires. (art. L34 à L37)](#26)
+        - [Chapitre III : Dispositions communes aux fonctionnaires et militaires. (art. L37 bis)](#27)
+      - [Titre VI : Pensions des ayants cause. (art. L38 à L49)](#28)
+        - [Chapitre Ier : Fonctionnaires civils. (art. L38 à L45)](#29)
+        - [Chapitre II : Militaires. (art. L47 à L49)](#30)
+      - [Titre VII : Dispositions spéciales. (art. L51 à L52)](#31)
+      - [Titre VIII : Dispositions d'ordre et diverses. (art. L53 à L60)](#32)
+        - [Paragraphe Ier : Concession et révision de la pension. (art. L53 à L55)](#33)
+        - [Paragraphe II : Dispositions diverses. (art. L56 à L60)](#34)
+      - [Titre IX : Retenues pour pensions. (art. L62 à L64)](#35)
+      - [Titre X : Cessation ou reprise de service. -  Coordination avec le régime de sécurité sociale. (art. L65 à L67)](#36)
+    - [Livre II : Dispositions particulières du régime général des retraites. (art. L68 à L89)](#37)
+      - [Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause. (art. L68 à L72)](#38)
+        - [Chapitre Ier : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause. (art. L68 à L72)](#39)
+          - [Paragraphe Ier : Droits des fonctionnaires. (art. L68 à L70)](#40)
+          - [Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre. (art. L71)](#41)
+          - [Paragraphe III : Dispositions communes. (art. L72)](#42)
+      - [Titre II : Dispositions particulières relatives à certaines catégories de retraites civiles et militaires. (art. L73 à L82)](#43)
+        - [Chapitre Ier : Agents en service détaché. (art. L73 à L75)](#44)
+        - [Chapitre II : Fonctionnaires civils titulaires de deux emplois. (art. L76)](#45)
+        - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités. (art. L77 à L81)](#46)
+        - [Chapitre IV : Sapeurs-pompiers de Paris. (art. L82)](#47)
+      - [Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions. (art. L84 à L89)](#48)
+        - [Chapitre Ier : Dispositions générales. (art. L84 à L85)](#49)
+        - [Chapitre II : Cumul de pensions et de rémunérations d'activité. (art. L86)](#50)
+        - [Chapitre III : Cumul de plusieurs pensions. (art. L87 à L88)](#51)
+        - [Chapitre IV : Cumul d'accessoires de pension. (art. L89)](#52)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. L90 à L96)](#53)
+      - [Chapitre Ier : Paiement des pensions. (art. L90 à L93)](#54)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. L90 à L91)](#55)
+        - [Paragraphe II : Dispositions diverses. (art. L92 à L93)](#56)
+      - [Chapitre II : Avances mensuelles sur pensions concédées en paiement. (art. L94 à L96)](#57)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1 à R106)](#58)
+    - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. R*1 à R*70)](#59)
+      - [Titre Ier : Généralités. (art. R*1 à R*4)](#60)
+      - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. R*5 à R9)](#61)
+        - [Chapitre Ier : Fonctionnaires civils. (art. R*5 à R6)](#62)
+          - [Paragraphe II : Eléments constitutifs. (art. R*5 à R6)](#63)
+        - [Chapitre II : Militaires. (art. R*8)](#64)
+          - [Paragraphe II : Eléments constitutifs. (art. R*8)](#65)
+        - [Chapitre III : Dispositions communes. (art. R9)](#66)
+      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. R10 à R33)](#67)
+        - [Chapitre Ier : Services et bonifications valables. (art. R10 à R25-1)](#68)
+        - [Chapitre II : Détermination du montant de la pension. (art. R26 à R33)](#69)
+          - [Paragraphe Ier : Décompte et valeur des annuités liquidables. (art. R26)](#70)
+          - [Paragraphe II : Emoluments de base. (art. R27 à R31)](#71)
+          - [Paragraphe IV : Avantages de pension à caractère familial. (art. R*32 à R33)](#72)
+      - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. R*34 à R36)](#73)
+      - [Titre V : Invalidité. (art. R38 à R52)](#74)
+        - [Chapitre Ier : Fonctionnaires civils. (art. R38 à R44)](#75)
+          - [Paragraphe Ier : Invalidité résultant de l'exercice des fonctions. (art. R38 à R40)](#76)
+          - [Paragraphe III : Dispositions communes. (art. R*43 à R44)](#77)
+        - [Chapitre II : Militaires. (art. R50 à R52)](#78)
+      - [Titre VI : Pensions des ayants cause. (art. R*53 à R*57)](#79)
+        - [Chapitre III : Dispositions communes. (art. R*53 à R*57)](#80)
+      - [Titre VII : Dispositions spéciales. (art. R*58 à R*64)](#81)
+        - [Chapitre Ier : Solde de réserve des officiers généraux. (art. R*58)](#82)
+        - [Chapitre II : Militaires ayant bénéficié d'un pécule. (art. R*59 à R*61)](#83)
+        - [Chapitre III : Droits des ayants cause des fonctionnaires et des militaires originaires des territoires d'outre-mer non mariés sous le régime du code civil. (art. R*62)](#84)
+        - [Chapitre IV : Militaires servant à titre étranger. (art. R*63)](#85)
+        - [Chapitre V : Droits des personnels militaires féminins, officiers ou assimilés, aux avantages accordés aux femmes fonctionnaires. (art. R*64)](#86)
+      - [Titre VIII : Dispositions d'ordre et diverses. (art. R65 à R*70)](#87)
+        - [Paragraphe Ier : Concession et révision de la pension. (art. R65)](#88)
+        - [Paragraphe II : Dispositions diverses. (art. R*66 à R*70)](#89)
+    - [Livre II : Dispositions particulières du régime général des retraites. (art. R*71 à R*95)](#90)
+      - [Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause. (art. R*71 à R*73)](#91)
+        - [Chapitre Ier : Fonctionnaires civils anciens combattants. (art. R*71)](#92)
+        - [Chapitre II : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause. (art. R*72 à R*73)](#93)
+          - [Paragraphe Ier : Droits des fonctionnaires. (art. R*72)](#94)
+          - [Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre. (art. R*73)](#95)
+      - [Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires. (art. R*74 à R*88)](#96)
+        - [Chapitre Ier : Agents en service détaché. (art. R*74 à R*76)](#97)
+        - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités. (art. R*77)](#98)
+        - [Chapitre IV : Gendarmes et sapeurs-pompiers de Paris. (art. R78 à R79)](#99)
+        - [Chapitre V : Inspecteurs des affaires d'outre-mer et surveillants des services pénitentiaires de la Guyane. (art. R*80)](#100)
+        - [Chapitre VII : Anciens officiers de carrière ayant repris du service au cours des hostilités. (art. R*82)](#101)
+        - [Chapitre VIII : Officiers de réserve servant en situation d'activité. (art. R*83)](#102)
+        - [Chapitre IX : Personnel navigant de l'armée de l'air. (art. R*84 à R*85)](#103)
+        - [Chapitre X : Ayants cause des militaires rengagés sous l'empire de la loi du 7 août 1913. (art. R*86)](#104)
+        - [Chapitre XI : Ayants cause des ex-officiers de carrière ayant repris du service au cours des hostilités. (art. R*87)](#105)
+        - [Chapitre XII : Ayants cause des officiers de réserve ayant servi en situation d'activité. (art. R*88)](#106)
+      - [Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions. (art. R*89 à R*95)](#107)
+        - [Chapitre Ier : Dispositions générales. (art. R*89 à R*91)](#108)
+        - [Chapitre II : Cumul de pensions et de rémunérations d'activité. (art. R*92 à R*95)](#109)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. R96 à R106)](#110)
+      - [Chapitre Ier : Paiement des pensions. (art. R96 à R99)](#111)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. R96 à R98)](#112)
+        - [Paragraphe II : Contexture des titres de paiement. (art. R99)](#113)
+      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. R*101 à R*104)](#114)
+      - [CHAPITRE III : Avances mensuelles sur pensions concédées en paiement. (art. R*105 à R106)](#115)
+  - [Partie réglementaire - Décrets simples (art. D1 à D78)](#116)
+    - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. D1 à D36)](#117)
+      - [Titre Ier : Généralités. (art. D1)](#118)
+      - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. D2 à D7)](#119)
+        - [Chapitre Ier : Fonctionnaires civils. (art. D2 à D7)](#120)
+          - [Paragraphe II : Eléments constitutifs. (art. D2 à D7)](#121)
+      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. D8 à D16)](#122)
+        - [Chapitre Ier : Services et bonifications valables. (art. D8 à D14)](#123)
+        - [Chapitre II : Détermination du montant de la pension. (art. D15 à D16)](#124)
+          - [Paragraphe II : Emoluments de base. (art. D15)](#125)
+          - [Paragraphe IV : Avantages de pension à caractère familial. (art. D16)](#126)
+      - [Titre V : Invalidité. (art. D17 à D19)](#127)
+        - [Chapitre Ier : Fonctionnaires civils. (art. D17 à D18)](#128)
+          - [Paragraphe III : Dispositions communes. (art. D17 à D18)](#129)
+        - [Chapitre II : Militaires. (art. D19)](#130)
+      - [Titre VI : Pensions des ayants cause. (art. D19-1 à D19-6)](#131)
+      - [Titre VIII : Dispositions d'ordre et diverses. (art. D20 à D27)](#132)
+        - [Paragraphe Ier : Concession et révision de la pension. (art. D20 à D26)](#133)
+        - [Paragraphe II : Dispositions diverses. (art. D27)](#134)
+      - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D36)](#135)
+    - [Livre II : Dispositions particulières du régime général des retraites. (art. D37)](#136)
+      - [Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause. (art. D37)](#137)
+        - [Chapitre Ier : Fonctionnaires civils anciens combattants. (art. D37)](#138)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. D39 à D78)](#139)
+      - [Chapitre Ier : Paiement des pensions. (art. D39 à D57)](#140)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D39)](#141)
+        - [Paragraphe III : Modalités de paiement des pensions. (art. D41 à D46)](#142)
+        - [Paragraphe IV : Paiement par l'intermédiaire d'un établissement bancaire. (art. D48 à D52)](#143)
+        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D55)](#144)
+        - [Paragraphe VI : Abandon de jouissance. (art. D57)](#145)
+      - [Chapitre III : Avances mensuelles sur pensions concédées en paiement. (art. D59 à D78)](#146)
+        - [Paragraphe Ier : Demande et autorisation de paiement d'avances. (art. D59 à D61)](#147)
+        - [Paragraphe III : Paiement du solde du trimestre. (art. D64 à D67)](#148)
+        - [Paragraphe IV : Dispositions particulières à la Caisse nationale d'épargne. (art. D68 à D72)](#149)
+        - [Paragraphe V : Dispositions particulières aux caisses de crédit municipal. (art. D73 à D78)](#150)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=2></a>
@@ -268,9 +270,156 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-#### Chapitre II : Militaires.<a id=7></a>
+##### Paragraphe II : Eléments constitutifs.<a id=7></a>
 
-##### Paragraphe Ier : Généralités.<a id=8></a>
+###### Article L5
+
+Les services pris en compte dans la constitution du droit à pension sont :
+
+1° Les services accomplis en qualité de fonctionnaire titulaire, la période pendant laquelle les intéressés ont été autorisés
+à accomplir un service à temps partiel dans les conditions prévues au dernier alinéa de l'article 34 du statut général des
+fonctionnaires étant comptée pour la totalité de sa durée ;
+
+2° Les services militaires, à l'exclusion de ceux effectués en temps de paix avant l'âge de seize ans ;
+
+3° Les services accomplis dans les établissements industriels de l'Etat en qualité d'affilié au régime de retraites de la loi
+du 21 mars 1928, modifiée par la loi n° 49-1097 du 2 août 1949 ;
+
+4° Les services accomplis dans les cadres permanents des administrations des départements, des communes, des établissements
+publics départementaux et communaux ;
+
+5° Les services rendus dans les cadres locaux permanents des administrations des territoires d'outre-mer et des anciennes
+colonies érigées en départements d'outre-mer en application de la loi n° 46-451 du 19 mars 1946 ;
+
+6° Les services rendus jusqu'à la date de l'indépendance ou du transfert de souveraineté ou jusqu'à la date de leur
+intégration dans les cadres métropolitains, dans les cadres des administrations de l'Algérie et des anciens pays et
+territoires d'outre-mer, anciens protectorats et territoires sous tutelle. Un règlement d'administration publique déterminera
+les modalités de prise en compte de ces services ;
+
+7° Les services de stage ou de surnumérariat accomplis à partir de l'âge de dix-huit ans ;
+
+8° Pour les instituteurs, le temps passé à l'école normale à partir de l'âge de dix-huit ans.
+
+Peuvent également être pris en compte pour la constitution du droit à pension les services d'auxiliaire, de temporaire,
+d'aide ou de contractuel, y compris les périodes de congé régulier pour longue maladie, accomplis dans les administrations
+centrales de l'Etat, les services extérieurs en dépendant et les établissements publics de l'Etat ne présentant pas un
+caractère industriel et commercial, si la validation des services de cette nature a été autorisée pour cette administration
+par un arrêté conjoint du ministre intéressé et du ministre des finances et si elle est demandée avant la radiation des
+cadres.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°46-451 1946-03-19
+  - Loi n°49-1097 1949-08-02
+  - Ordonnance 59-244 1959-02-04 art. 34
+  - Loi n°1928-03-21
+
+_Cité par_:
+
+  - Décret n°65-773 du 9 septembre 1965 - art. 50 (Ab)
+  - Décret n°65-773 du 9 septembre 1965 - art. 8 (M)
+  - Décret n°67-476 du 20 juin 1967 - art. 1 (V)
+  - Décret n°67-477 du 20 juin 1967 - art. 1 (V)
+  - Décret n°67-711 du 18 août 1967 - art. 4 (Ab)
+  - Décret n°68-960 du 11 octobre 1968 - art. 13 bis (VD)
+  - Décret n°69-697 du 18 juin 1969 - art. 21 (V)
+  - Ordonnance n°82-297 du 31 mars 1982 - art. 3-2 (Ab)
+  - Ordonnance n°82-297 du 31 mars 1982 - art. 6 (Ab)
+  - Ordonnance n°82-298 du 31 mars 1982 - art. 2-2 (Ab)
+  - Loi n°82-1021 du 3 décembre 1982 - art. 1 (V)
+  - Décret n°83-893 du 5 octobre 1983 - art. 1 (V)
+  - Arrêté du 1 juin 1987 - art. 1 (V)
+  - Arrêté du 4 novembre 1987 - art. 1 (V)
+  - Arrêté du 4 mai 1988 - art. 1 (V)
+  - Arrêté du 28 septembre 1988 - art. 1 (V)
+  - Arrêté du 2 juin 1989 - art. 1 (V)
+  - Arrêté du 26 septembre 1989 - art. 1 (V)
+  - Arrêté du 1 février 1990 - art. 1 (V)
+  - Arrêté du 3 avril 1990 - art. 1 (V)
+  - Loi n°90-568 du 2 juillet 1990 - art. 30-1 (V)
+  - Arrêté du 27 septembre 1990 - art. 1 (V)
+  - Arrêté du 19 mars 1991 - art. 1 (V)
+  - Arrêté du 4 mars 1992 - art. 1 (V)
+  - Arrêté du 13 mai 1992 - art. 1 (V)
+  - Arrêté du 3 août 1992 - art. 1 (V)
+  - Loi - art. 99 (V)
+  - Arrêté du 27 janvier 1993 - art. 1 (V)
+  - Arrêté du 2 mars 1993 - art. 1 (V)
+  - Décret n°93-468 du 25 mars 1993 - art. 5 (AbD)
+  - Arrêté du 31 mai 1994 - art. 1 (V)
+  - Arrêté du 9 juin 1994 - art. 1 (V)
+  - Arrêté du 24 juin 1994 - art. 1 (V)
+  - Arrêté du 28 juillet 1995 - art. 1 (V)
+  - Arrêté du 15 avril 1996 - art. 1 (V)
+  - Loi n°96-1093 du 16 décembre 1996 - art. 13 (V)
+  - Arrêté du 14 février 1997 - art. 1 (M)
+  - Arrêté du 9 mai 1997 - art. 1 (V)
+  - Décret n°97-874 du 24 septembre 1997 - art. 1 (V)
+  - Loi n°2002-282 du 28 février 2002 - art. 5 (Ab)
+  - Décret n°2003-1306 du 26 décembre 2003 - art. 13 (V)
+  - Décret n°2003-1306 du 26 décembre 2003 - art. 20 (V)
+  - Décret n°2003-1306 du 26 décembre 2003 - art. 8 (V)
+  - Décret n°2004-1056 du 5 octobre 2004 - art. 10 (V)
+  - Décret n°2004-1056 du 5 octobre 2004 - art. 4 (V)
+  - Arrêté du 24 janvier 2005 - art. 1 (V)
+  - Arrêté du 26 décembre 2005 - art. 1 (V)
+  - Décret n°2007-1470 du 15 octobre 2007 - art. 13 (Ab)
+  - Décret n°2007-1470 du 15 octobre 2007 - art. 3 (V)
+  - Décret n°2007-1845 du 26 décembre 2007 - art. 39 (Ab)
+  - Décret n°2007-1845 du 26 décembre 2007 - art. 4 (V)
+  - Décret n°2008-824 du 21 août 2008 - art. 5-1 (V)
+  - Décret n°2008-936 du 12 septembre 2008 - art. 8 (V)
+  - Décret n°2009-1004 du 24 août 2009 - art. 10 (V)
+  - Arrêté du 21 août 2013 - art. 1 (V)
+  - Décret n°2014-961 du 22 août 2014 (V)
+  - Décret n°2014-961 du 22 août 2014 - art. 3 (VD)
+  - Décret n°2016-1732 du 14 décembre 2016 - art. 12 (V)
+  - Décret n°2017-928 du 6 mai 2017 - art. 13
+  - Décret n°2017-928 du 6 mai 2017 - art. 15
+  - Code des pensions civiles et militaires de retr... - art. D2 (V)
+  - Code des pensions civiles et militaires de retr... - art. L11 (V)
+  - Code des pensions civiles et militaires de retr... - art. L14 (V)
+  - Code des pensions civiles et militaires de retr... - art. L15 (V)
+  - Code des pensions civiles et militaires de retr... - art. L76 (V)
+  - Code des pensions civiles et militaires de retr... - art. L8 (V)
+  - Code des pensions civiles et militaires de retr... - art. L9 (V)
+  - Code des pensions civiles et militaires de retr... - art. R*61 (V)
+  - Code des pensions civiles et militaires de retr... - art. R33 bis (V)
+  - Code des pensions civiles et militaires de retr... - art. R35 (V)
+  - Code des pensions civiles et militaires de retr... - art. R5 (V)
+  - Code des pensions civiles et militaires de retr... - art. R6 (V)
+  - Code des pensions civiles et militaires de retr... - art. R7 (V)
+  - Code des pensions civiles et militaires de retrait - art. D21 (M)
+  - Code des pensions civiles et militaires de retrait - art. D21-1 (V)
+  - Code des pensions civiles et militaires de retrait - art. D30 (M)
+
+_Modifié par_:
+
+  - Loi n°70-523 1970-06-19 art. 1 JORF 21 juin 1970 rectificatif JORF 10 juillet 1970
+  - Ordonnance n°82-297 du 31 mars 1982 - art. 1 (Ab) JORF 2 avril 1982
+  - Ordonnance 82-296 1982-03-31 art. 3 JORF 2 avril 1982
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 22 juin 1987
+  - TXT_SOURCE: Arrêté du 22 juin 1987 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 4 mai 1988
+  - TXT_SOURCE: Arrêté du 4 mai 1988 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 2 juin 1989
+  - TXT_SOURCE: Arrêté du 2 juin 1989 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 15 avril 1996
+  - TXT_SOURCE: Arrêté du 15 avril 1996 - art. 1 (V)
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
+
+#### Chapitre II : Militaires.<a id=8></a>
+
+##### Paragraphe Ier : Généralités.<a id=9></a>
 
 ###### Article L6
 
@@ -364,7 +513,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L6 (M)
 
 
-##### Paragraphe II : Eléments constitutifs.<a id=9></a>
+##### Paragraphe II : Eléments constitutifs.<a id=10></a>
 
 ###### Article L8
 
@@ -394,7 +543,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-#### Chapitre III : Dispositions communes.<a id=10></a>
+#### Chapitre III : Dispositions communes.<a id=11></a>
 
 ###### Article L9
 
@@ -486,11 +635,52 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=11></a>
+### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=12></a>
 
-#### Chapitre II : Détermination du montant de la pension.<a id=12></a>
+#### Chapitre Ier : Services et bonifications valables.<a id=13></a>
 
-##### Paragraphe Ier : Décompte et valeur des annuités liquidables.<a id=13></a>
+###### Article L11
+
+Les services pris en compte dans la liquidation de la pension sont :
+
+1° Pour les fonctionnaires civils, les services énumérés à l'article L. 5, exception faite des services militaires visés au
+2° s'ils ont été rémunérés soit par une pension, soit par une solde de réforme, sous réserve de la renonciation prévue à
+l'article L. 77. La période pendant laquelle les intéressés ont été autorisés à accomplir un service à temps partiel dans les
+conditions prévues au dernier alinéa de l'article 34 du statut général des fonctionnaires est comptée pour la fraction de sa
+durée égale au rapport entre la durée hebdomadaire du service effectué et les obligations hebdomadaires de service
+réglementairement fixées pour les agents de même grade exerçant à temps plein les mêmes fonctions ;
+
+2° Pour les militaires, les services énumérés aux articles L. 5 et L. 8 ainsi que les bénéfices d'études préliminaires
+attribués aux militaires et assimilés dans les conditions déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance 59-244 1959-02-04 art. 34
+  - Code des pensions civiles et militaires de retrait - art. L5 (M)
+  - Code des pensions civiles et militaires de retraite L5, L8 et L77
+
+_Cité par_:
+
+  - Décret n°68-960 du 11 octobre 1968 - art. 13 bis (VD)
+  - Loi n°82-1021 du 3 décembre 1982 - art. 1 (V)
+  - Loi n°2013-1168 du 18 décembre 2013 - art. 36 (VD)
+  - Code des pensions civiles et militaires de retr... - art. L11 bis (V)
+
+_Modifié par_:
+
+  - Loi n°70-523 1970-06-19 art. 2 JORF 21 juin 1970 rectificatif JORF 10 juillet 1970
+  - Ordonnance 82-296 1982-03-31 art. 3 JORF 2 avril 1982
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
+
+#### Chapitre II : Détermination du montant de la pension.<a id=14></a>
+
+##### Paragraphe Ier : Décompte et valeur des annuités liquidables.<a id=15></a>
 
 ###### Article L13
 
@@ -649,7 +839,709 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-##### Paragraphe II : Emoluments de base.<a id=14></a>
+##### Paragraphe II : Emoluments de base.<a id=16></a>
+
+###### Article L15
+
+Les émoluments de base sont constitués par les derniers émoluments soumis à retenue afférents à l'indice correspondant à
+l'emploi, grade, classe et échelon effectivement détenus depuis six mois au moins par le fonctionnaire ou militaire au moment
+de la cessation des services valables pour la retraite ou, dans le cas contraire, sauf s'il y a eu rétrogradation par mesure
+disciplinaire, par les émoluments soumis à retenue afférents à l'emploi, grade, classe et échelon antérieurement occupés
+d'une manière effective.
+
+Ce délai de six mois ne sera pas opposé lorsque la mise hors de service ou le décès d'un fonctionnaire ou militaire se sera
+produit par suite d'un accident survenu en service ou à l'occasion du service.
+
+Les émoluments de base des personnels qui accomplissent des services à temps partiel prévus à l'article L. 5 (1°) ci-dessus
+sont ceux auxquels les intéressés pourraient prétendre s'ils accomplissaient des services à plein temps.
+
+Un règlement d'administration publique fixe les conditions dans lesquelles la pension peut être calculée sur la base des
+émoluments soumis à retenue afférents, soit à un grade détenu pendant quatre ans au moins au cours des quinze dernières
+années d'activité lorsqu'ils sont supérieurs à ceux visés au premier alinéa ci-dessus, soit à l'un des emplois ci-après
+détenus au cours des quinze dernières années d'activité pendant deux ans au moins :
+
+1° Emplois supérieurs visés au second alinéa de l'article 3 de l'ordonnance du 4 février 1959 relative au statut général des
+fonctionnaires ;
+
+2° Emplois de chef de service, de directeur adjoint ou de sous-directeur d'administration centrale ;
+
+3° Emplois supérieurs occupés par des officiers généraux et supérieurs.
+
+Les dispositions qui précèdent sont applicables aux tributaires du présent code occupant en position de détachement un des
+emplois visés à l'article 15-I (1°, 2°, 3° et 4°) du décret modifié n° 65-773 du 9 septembre 1965. Dans cette hypothèse, les
+intéressés sont astreints au versement de la retenue pour pension sur les émoluments afférents à l'emploi de détachement.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°57-444 du 8 avril 1957 - art. 6 bis (V)
+  - Décret n°64-498 du 1 juin 1964 - art. 8-10 (Ab)
+  - Décret n°65-184 du 5 mars 1965 - art. 23 bis (V)
+  - Décret n°65-338 du 14 avril 1965 - art. 17 bis (Ab)
+  - Décret n°65-773 du 9 septembre 1965 - art. 15 (Ab)
+  - Décret n°65-923 du 2 novembre 1965 - art. 11-1 (V)
+  - Décret n°65-923 du 2 novembre 1965 - art. 20 bis (V)
+  - Décret n°65-1147 du 15 décembre 1965 - art. 21 (Ab)
+  - Décret n°66-314 du 17 mai 1966 - art. 7 (Ab)
+  - Décret n°66-874 du 21 novembre 1966 - art. 117 (V)
+  - Décret n°66-900 du 18 novembre 1966 - art. 24 (V)
+  - Décret n°67-91 du 20 janvier 1967 - art. 22 (Ab)
+  - Décret n°67-174 du 6 mars 1967 - art. 9 (V)
+  - Décret n°67-328 du 31 mars 1967 - art. 24 (V)
+  - Décret n°67-1055 du 30 novembre 1967 - art. 22 (Ab)
+  - Décret n°68-270 du 19 mars 1968 - art. 29 (VT)
+  - Décret n°68-960 du 11 octobre 1968 - art. 13 bis (VD)
+  - Décret n°69-555 du 6 juin 1969 - art. 8 (Ab)
+  - Décret n°69-795 du 7 août 1969 - art. 23 (V)
+  - Décret n°69-904 du 29 septembre 1969 - art. 17 bis (Ab)
+  - Décret n°70-79 du 27 janvier 1970 - art. 14 (Ab)
+  - Décret n°70-138 du 17 février 1970 - art. 7 (V)
+  - Décret n°70-606 du 2 juillet 1970 - art. 10 (M)
+  - Décret n°70-832 du 3 septembre 1970 - art. 12 (Ab)
+  - Décret n°70-903 du 2 octobre 1970 - art. 25 (Ab)
+  - Décret n°71-342 du 29 avril 1971 - art. 17 (V)
+  - Décret n°71-917 du 8 novembre 1971 - art. 20 (Ab)
+  - Décret n°71-1149 du 17 décembre 1971 - art. 25 (V)
+  - Décret n°72-378 du 2 mai 1972 - art. 25 (V)
+  - Décret n°72-812 du 23 août 1972 - art. 36-1 (Ab)
+  - Décret n°73-264 du 6 mars 1973 - art. 34 (Ab)
+  - Décret n°73-276 du 14 mars 1973 - art. 24 (Ab)
+  - Décret n°73-362 du 16 mars 1973 - art. 11 (V)
+  - Décret n°73-1028 du 5 novembre 1973 - art. 22 (Ab)
+  - Décret n°74-388 du 8 mai 1974 - art. 11 (V)
+  - Décret n°74-543 du 20 mai 1974 - art. 6 (V)
+  - Décret n°75-48 du 16 janvier 1975 - art. 7 (V)
+  - Décret n°75-267 du 15 avril 1975 - art. 4 (V)
+  - Décret n°75-687 du 16 juillet 1975 - art. 9 (V)
+  - Décret n°75-820 du 2 septembre 1975 - art. 11 (V)
+  - Décret n°75-888 du 23 septembre 1975 - art. 18 (V)
+  - Décret n°75-1206 du 22 décembre 1975 - art. 32 (Ab)
+  - Décret n°75-1210 du 22 décembre 1975 - art. 13 (Ab)
+  - Décret n°75-1210 du 22 décembre 1975 - art. 26 (Ab)
+  - Loi n°75-1280 du 30 décembre 1975 - art. 6 (V)
+  - Loi n°75-1331 du 31 décembre 1975 - art. 28 (V)
+  - Décret n°76-5 du 6 janvier 1976 - art. 23 (V)
+  - Décret n°76-195 du 12 février 1976 - art. 6 (Ab)
+  - Décret n°76-264 du 18 mars 1976 - art. 7 (V)
+  - Décret n°76-482 du 31 mai 1976 - art. 15 (V)
+  - Décret n°76-1001 du 5 novembre 1976 - art. 20 (V)
+  - Décret n°76-1003 du 5 novembre 1976 - art. 13 (V)
+  - Décret n°76-1102 du 29 novembre 1976 - art. 8 (V)
+  - Décret n°76-1165 du 10 décembre 1976 - art. 5 (V)
+  - Décret n°76-1227 du 24 décembre 1976 - art. 32 (Ab)
+  - Décret n°76-1228 du 24 décembre 1976 - art. 25 (VT)
+  - Décret n°77-33 du 4 janvier 1977 - art. 21 (V)
+  - Décret n°77-178 du 18 février 1977 - art. 12 (Ab)
+  - Décret n°77-179 du 18 février 1977 - art. 13 (V)
+  - Décret n°77-245 du 4 mars 1977 - art. 6 (Ab)
+  - Décret n°77-305 du 25 mars 1977 - art. 9 (V)
+  - Décret n°77-906 du 8 août 1977 - art. 50 (AbD)
+  - Décret n°77-1020 du 1 septembre 1977 - art. 4 (Ab)
+  - Décret n°78-814 du 25 juillet 1978 - art. 13 (V)
+  - Décret n°78-1204 du 19 décembre 1978 - art. 8 (Ab)
+  - Décret n°79-64 du 23 janvier 1979 - art. 11 (Ab)
+  - Décret n°79-998 du 20 novembre 1979 - art. 5 (V)
+  - Décret n°79-1135 du 27 décembre 1979 - art. 32 (Ab)
+  - Ordonnance n°82-297 du 31 mars 1982 - art. 5 (Ab)
+  - Décret n°82-646 du 26 juillet 1982 - art. 22 (V)
+  - Loi n°82-1021 du 3 décembre 1982 - art. 3 (V)
+  - Décret n°82-1028 du 26 novembre 1982 - art. 5 (V)
+  - Décret n°83-52 du 26 janvier 1983 - art. 4 (V)
+  - Décret n°83-52 du 26 janvier 1983 - art. 5 (V)
+  - Décret n°83-52 du 26 janvier 1983 - art. 6 (V)
+  - Loi n°83-1179 du 29 décembre 1983 - art. 131 (V)
+  - Décret n°84-135 du 24 février 1984 - art. 87 (V)
+  - Décret n°84-145 du 27 février 1984 - art. 14 (Ab)
+  - Décret n°84-196 du 19 mars 1984 - art. 6 (V)
+  - Décret n°84-197 du 19 mars 1984 - art. 9 (V)
+  - Décret n°84-238 du 29 mars 1984 - art. 28 (M)
+  - Décret n°84-808 du 29 août 1984 - art. 6 (V)
+  - Décret n°84-965 du 26 octobre 1984 - art. 4 (V)
+  - Décret n°84-1185 du 27 décembre 1984 - art. 59 (Ab)
+  - Décret n°84-1207 du 28 décembre 1984 - art. 39 (V)
+  - Décret n°85-878 du 7 août 1985 - art. 4 (V)
+  - Décret n°85-1060 du 2 octobre 1985 - art. 75 (V)
+  - Décret n°85-1464 du 30 décembre 1985 - art. 70 (Ab)
+  - Loi n°85-1403 du 30 décembre 1985 - art. 76 (V)
+  - Décret n°86-229 du 14 février 1986 - art. 9 (Ab)
+  - Décret n°86-261 du 25 février 1986 - art. 9 (V)
+  - Décret n°86-488 du 14 mars 1986 - art. 3 (V)
+  - Décret n°86-492 du 14 mars 1986 - art. 26 (V)
+  - Décret n°86-662 du 14 mars 1986 - art. 4 (V)
+  - Décret n°86-1369 du 30 décembre 1986 - art. 30 (V)
+  - Décret n°88-399 du 21 avril 1988 - art. 20 bis (T)
+  - Décret n°88-399 du 21 avril 1988 - art. 20-1 (Ab)
+  - Décret n°89-713 du 28 septembre 1989 - art. 3 (V)
+  - Décret n°89-750 du 18 octobre 1989 - art. 20 (Ab)
+  - Loi n°89-936 du 29 décembre 1989 - art. 127 (V)
+  - Décret n°90-195 du 27 février 1990 - art. 33 (VT)
+  - Décret n°90-238 du 16 mars 1990 - art. 10 (Ab)
+  - Décret n°90-239 du 16 mars 1990 - art. 13 (Ab)
+  - Décret n°90-257 du 16 mars 1990 - art. 9 (V)
+  - Décret n°90-258 du 16 mars 1990 - art. 7 (Ab)
+  - Décret n°90-360 du 23 avril 1990 - art. 37 (T)
+  - Décret n°90-360 du 23 avril 1990 - art. 52 (Ab)
+  - Décret n°90-360 du 23 avril 1990 - art. 53 (Ab)
+  - Décret n°90-379 du 4 mai 1990 - art. 4 (V)
+  - Décret n°90-393 du 2 mai 1990 - art. 21 (Ab)
+  - Loi n°90-568 du 2 juillet 1990 - art. 29-5 (V)
+  - Loi n°90-568 du 2 juillet 1990 - art. 29-3 (V)
+  - Décret n°90-675 du 18 juillet 1990 - art. 48 (V)
+  - Décret n°90-711 du 1 août 1990 - art. 8 (V)
+  - Décret n°90-712 du 1 août 1990 - art. 17 (T)
+  - Décret n°90-712 du 1 août 1990 - art. 22 (Ab)
+  - Décret n°90-713 du 1 août 1990 - art. 19 (Ab)
+  - Décret n°90-714 du 1 août 1990 - art. 30 (T)
+  - Décret n°90-714 du 1 août 1990 - art. 35 (Ab)
+  - Décret n°90-715 du 1 août 1990 - art. 25 (T)
+  - Décret n°90-715 du 1 août 1990 - art. 30 (Ab)
+  - Décret n°90-998 du 8 novembre 1990 - art. 27 (Ab)
+  - Décret n°90-1224 du 31 décembre 1990 - art. 18 (V)
+  - Décret n°90-1225 du 31 décembre 1990 - art. 19 (Ab)
+  - Décret n°90-1226 du 31 décembre 1990 - art. 8 (Ab)
+  - Décret n°90-1227 du 31 décembre 1990 - art. 23 (Ab)
+  - Décret n°90-1228 du 31 décembre 1990 - art. 13 (Ab)
+  - Décret n°90-1229 du 31 décembre 1990 - art. 12 (Ab)
+  - Décret n°90-1230 du 31 décembre 1990 - art. 7 (V)
+  - Décret n°90-1231 du 31 décembre 1990 - art. 11 (Ab)
+  - Décret n°90-1232 du 31 décembre 1990 - art. 9 (V)
+  - Décret n°90-1233 du 31 décembre 1990 - art. 16 (Ab)
+  - Décret n°90-1234 du 31 décembre 1990 - art. 13 (V)
+  - Décret n°90-1235 du 31 décembre 1990 - art. 18 (V)
+  - Décret n°90-1236 du 31 décembre 1990 - art. 15 (Ab)
+  - Décret n°90-1237 du 31 décembre 1990 - art. 15 (V)
+  - Décret n°90-1238 du 31 décembre 1990 - art. 11 (V)
+  - Décret n°90-1239 du 31 décembre 1990 - art. 7 (V)
+  - Décret n°91-11 du 4 janvier 1991 - art. 14 (V)
+  - Décret n°91-12 du 4 janvier 1991 - art. 24 (V)
+  - Décret n°91-13 du 4 janvier 1991 - art. 14 (Ab)
+  - Décret n°91-17 du 7 janvier 1991 - art. 11 (V)
+  - Décret n°91-56 du 16 janvier 1991 - art. 17 (V)
+  - Décret n°91-70 du 17 janvier 1991 - art. 19 (V)
+  - Décret n°91-82 du 14 janvier 1991 - art. 37 (M)
+  - Décret n°91-82 du 14 janvier 1991 - art. 39 (M)
+  - Décret n°91-101 du 24 janvier 1991 - art. 15 (V)
+  - Décret n°91-99 du 24 janvier 1991 - art. 21 (V)
+  - Décret n°91-103 du 25 janvier 1991 - art. 29 (Ab)
+  - Décret n°91-105 du 25 janvier 1991 - art. 25 (V)
+  - Décret n°91-237 du 28 février 1991 - art. 31 (V)
+  - Décret n°91-290 du 20 mars 1991 - art. 32 (VT)
+  - Décret n°91-290 du 20 mars 1991 - art. 32-1 (VT)
+  - Décret n°91-367 du 15 avril 1991 - art. 4 (V)
+  - Décret n°91-393 du 25 avril 1991 - art. 34 (Ab)
+  - Décret n°91-462 du 14 mai 1991 - art. 16 (Ab)
+  - Décret n°91-462 du 14 mai 1991 - art. 34 (Ab)
+  - Décret n°91-462 du 14 mai 1991 - art. 49 (M)
+  - Décret n°91-462 du 14 mai 1991 - art. 58 (Ab)
+  - Décret n°91-487 du 14 mai 1991 - art. 10 bis (V)
+  - Décret n°91-704 du 23 juillet 1991 - art. 7 (V)
+  - Décret n°91-741 du 30 juillet 1991 - art. 3 (V)
+  - Décret n°91-765 du 2 août 1991 - art. 5 (V)
+  - Décret n°91-765 du 2 août 1991 - art. 6 (V)
+  - Décret n°91-784 du 1 août 1991 - art. 18 (Ab)
+  - Décret n°91-826 du 28 août 1991 - art. 8 (V)
+  - Décret n°91-1025 du 7 octobre 1991 - art. 24 (V)
+  - Décret n°91-1148 du 7 novembre 1991 - art. 8 (Ab)
+  - Décret n°91-1149 du 7 novembre 1991 - art. 12 (Ab)
+  - Décret n°92-26 du 9 janvier 1992 - art. 50 (Ab)
+  - Décret n°92-28 du 9 janvier 1992 - art. 24 (Ab)
+  - Décret n°92-171 du 21 février 1992 - art. 66 (VT)
+  - Décret n°92-233 du 12 mars 1992 - art. 57 (V)
+  - Décret n°92-260 du 23 mars 1992 - art. 21 (Ab)
+  - Décret n°92-261 du 23 mars 1992 - art. 18 (Ab)
+  - Décret n°92-345 du 27 mars 1992 - art. 16 (V)
+  - Décret n°92-452 du 20 mai 1992 - art. 9 (Ab)
+  - Décret n°92-453 du 20 mai 1992 - art. 24 (Ab)
+  - Décret n°92-454 du 20 mai 1992 - art. 10 (Ab)
+  - Décret n°92-552 du 22 juin 1992 - art. 1 (V)
+  - Décret n°92-924 du 7 septembre 1992 - art. 18 (V)
+  - Décret n°92-925 du 7 septembre 1992 - art. 7 (V)
+  - Décret n°92-926 du 7 septembre 1992 - art. 7 (V)
+  - Décret n°92-927 du 7 septembre 1992 - art. 5 (V)
+  - Décret n°92-928 du 7 septembre 1992 - art. 13 (V)
+  - Décret n°92-929 du 7 septembre 1992 - art. 19 (Ab)
+  - Décret n°92-930 du 7 septembre 1992 - art. 16 (V)
+  - Décret n°92-931 du 7 septembre 1992 - art. 15 (V)
+  - Décret n°92-932 du 7 septembre 1992 - art. 16 (V)
+  - Décret n°92-933 du 7 septembre 1992 - art. 5 (V)
+  - Décret n°92-934 du 7 septembre 1992 - art. 4 (V)
+  - Décret n°92-935 du 7 septembre 1992 - art. 27 (V)
+  - Décret n°92-936 du 7 septembre 1992 - art. 11 (V)
+  - Décret n°92-937 du 7 septembre 1992 - art. 7 (V)
+  - Décret n°92-938 du 7 septembre 1992 - art. 9 (V)
+  - Décret n°92-939 du 7 septembre 1992 - art. 14 (V)
+  - Décret n°92-940 du 7 septembre 1992 - art. 17 (Ab)
+  - Décret n°92-941 du 7 septembre 1992 - art. 23 (V)
+  - Décret n°92-942 du 7 septembre 1992 - art. 28 (V)
+  - Décret n°92-943 du 7 septembre 1992 - art. 13 (V)
+  - Décret n°92-944 du 7 septembre 1992 - art. 3 (V)
+  - Décret n°92-945 du 7 septembre 1992 - art. 19 (V)
+  - Décret n°92-965 du 9 septembre 1992 - art. 27 (Ab)
+  - Décret n°92-980 du 10 septembre 1992 - art. 13 (Ab)
+  - Décret n°92-980 du 10 septembre 1992 - art. 30 (Ab)
+  - Décret n°92-980 du 10 septembre 1992 - art. 47 (Ab)
+  - Décret n°92-980 du 10 septembre 1992 - art. 70 (Ab)
+  - Décret n°92-1080 du 2 octobre 1992 - art. 61 (V)
+  - Décret n°92-1177 du 2 novembre 1992 - art. 21 (V)
+  - Décret n°92-1178 du 2 novembre 1992 - art. 46 (V)
+  - Décret n°92-1189 du 6 novembre 1992 - art. 38 (Ab)
+  - Décret n°92-1191 du 6 novembre 1992 - art. 21 (Ab)
+  - Décret n°92-1343 du 23 décembre 1992 - art. 4 (V)
+  - Décret n°92-1344 du 23 décembre 1992 - art. 21 (Ab)
+  - Décret n°92-1432 du 30 décembre 1992 - art. 31 (V)
+  - Décret n°93-21 du 7 janvier 1993 - art. 49 (M)
+  - Décret n°93-21 du 7 janvier 1993 - art. 51 (V)
+  - Décret n°93-94 du 19 janvier 1993 - art. 3 (Ab)
+  - Décret n°93-123 du 28 janvier 1993 - art. 2 (V)
+  - Décret n°93-278 du 3 mars 1993 - art. 21 (Ab)
+  - Décret n°93-292 du 8 mars 1993 - art. 30 (V)
+  - Décret n°93-293 du 8 mars 1993 - art. 28 (V)
+  - Décret n°93-355 du 9 mars 1993 - art. 4 (V)
+  - Décret n°93-374 du 17 mars 1993 - art. 1 (V)
+  - Décret n°93-569 du 27 mars 1993 - art. 26 (V)
+  - Décret n°93-599 du 27 mars 1993 - art. 29 (Ab)
+  - Décret n°93-607 du 25 mars 1993 - art. 8 (V)
+  - Décret n°93-615 du 26 mars 1993 - art. 19 (Ab)
+  - Décret n°93-616 du 26 mars 1993 - art. 19 (Ab)
+  - Décret n°93-617 du 26 mars 1993 - art. 18 (Ab)
+  - Décret n°93-622 du 27 mars 1993 - art. 20 (Ab)
+  - Décret n°93-752 du 29 mars 1993 - art. 27-2 (V)
+  - Décret n°93-776 du 29 mars 1993 - art. 25 (Ab)
+  - Décret n°93-967 du 30 juillet 1993 - art. 25 (Ab)
+  - Décret n°93-1028 du 27 août 1993 - art. 4 (V)
+  - Décret n°93-1880 du 6 septembre 1993 - art. 14 (Ab)
+  - Décret n°93-1880 du 6 septembre 1993 - art. 31 (Ab)
+  - Décret n°93-1880 du 6 septembre 1993 - art. 46 (Ab)
+  - Décret n°93-1880 du 6 septembre 1993 - art. 50 (Ab)
+  - Décret n°93-1113 du 21 septembre 1993 - art. 53 (Ab)
+  - Décret n°93-1113 du 21 septembre 1993 - art. 59 (T)
+  - Décret n°93-1113 du 21 septembre 1993 - art. 63 (Ab)
+  - Décret n°93-1114 du 21 septembre 1993 - art. 45 (Ab)
+  - Décret n°93-1240 du 17 novembre 1993 - art. 16 (Ab)
+  - Décret n°94-28 du 11 janvier 1994 - art. 9 (V)
+  - Décret n°94-29 du 11 janvier 1994 - art. 11 (V)
+  - Décret n°94-56 du 21 janvier 1994 - art. 13 (V)
+  - Décret n°94-60 du 21 janvier 1994 - art. 17 (V)
+  - Décret n°94-63 du 21 janvier 1994 - art. 14 (V)
+  - Décret n°94-64 du 21 janvier 1994 - art. 13 (V)
+  - Décret n°94-67 du 24 janvier 1994 - art. 13 (V)
+  - Décret n°94-129 du 10 février 1994 - art. 13 (Ab)
+  - Décret n°94-197 du 7 mars 1994 - art. 15 (V)
+  - Décret n°94-417 du 4 mai 1994 - art. 13 (V)
+  - Décret n°94-449 du 31 mai 1994 - art. 10 (V)
+  - Décret n°94-464 du 3 juin 1994 - art. 27 (Ab)
+  - Décret n°94-465 du 3 juin 1994 - art. 19 (Ab)
+  - Décret n°94-489 du 14 juin 1994 - art. 18 (V)
+  - Décret n°94-521 du 24 juin 1994 - art. 14 (V)
+  - Décret n°94-675 du 3 août 1994 - art. 6 (V)
+  - Décret n°94-744 du 25 août 1994 - art. 12 (V)
+  - Décret n°94-758 du 30 août 1994 - art. 23 (V)
+  - Décret n°94-827 du 22 septembre 1994 - art. 17 (V)
+  - Décret n°94-840 du 23 septembre 1994 - art. 5 (Ab)
+  - Décret n°94-854 du 26 septembre 1994 - art. 18 (V)
+  - Décret n°94-912 du 21 octobre 1994 - art. 18 (V)
+  - Décret n°94-955 du 3 novembre 1994 - art. 14 (Ab)
+  - Décret n°94-955 du 3 novembre 1994 - art. 56 (Ab)
+  - Décret n°94-998 du 18 novembre 1994 - art. 14 (V)
+  - Décret n°94-1020 du 23 novembre 1994 - art. 25 (Ab)
+  - Décret n°94-1020 du 23 novembre 1994 - art. 28 (Ab)
+  - Décret n°94-1035 du 28 novembre 1994 - art. 1 (V)
+  - Décret n°94-1035 du 28 novembre 1994 - art. 2 (V)
+  - Décret n°94-1035 du 28 novembre 1994 - art. 3 (V)
+  - Décret n°95-49 du 13 janvier 1995 - art. 8 (V)
+  - Décret n°95-78 du 19 janvier 1995 - art. 41 (V)
+  - Décret n°95-78 du 19 janvier 1995 - art. 42 (V)
+  - Décret n°95-78 du 19 janvier 1995 - art. 44 (V)
+  - Décret n°95-83 du 19 janvier 1995 - art. 52 (V)
+  - Décret n°95-83 du 19 janvier 1995 - art. 53 (V)
+  - Décret n°95-108 du 19 janvier 1995 - art. 16 (V)
+  - Décret n°95-109 du 31 janvier 1995 - art. 14 (Ab)
+  - Décret n°95-118 du 2 février 1995 - art. 24 (Ab)
+  - Décret n°95-120 du 2 février 1995 - art. 23 (Ab)
+  - Décret n°95-120 du 2 février 1995 - art. 24 (Ab)
+  - Décret n°95-138 du 8 février 1995 - art. 8 (V)
+  - Décret n°95-139 du 8 février 1995 - art. 9 (V)
+  - Décret n°95-199 du 23 février 1995 - art. 32 (Ab)
+  - Décret n°95-199 du 23 février 1995 - art. 32-1 (Ab)
+  - Décret n°95-200 du 24 février 1995 - art. 12 (V)
+  - Décret n°95-201 du 24 février 1995 - art. 25 (V)
+  - Décret n°95-201 du 24 février 1995 - art. 26 (V)
+  - Décret n°95-228 du 28 février 1995 - art. 12 (V)
+  - Décret n°95-229 du 28 février 1995 - art. 11 (V)
+  - Décret n°95-230 du 28 février 1995 - art. 10 (V)
+  - Décret n°95-231 du 28 février 1995 - art. 11 (V)
+  - Décret n°95-232 du 28 février 1995 - art. 18 (V)
+  - Décret n°95-239 du 2 mars 1995 - art. 24 (Ab)
+  - Décret n°95-272 du 8 mars 1995 - art. 13 (Ab)
+  - Décret n°95-272 du 8 mars 1995 - art. 30 (Ab)
+  - Décret n°95-272 du 8 mars 1995 - art. 47 (Ab)
+  - Décret n°95-272 du 8 mars 1995 - art. 70 (Ab)
+  - Décret n°95-273 du 8 mars 1995 - art. 13 (Ab)
+  - Décret n°95-273 du 8 mars 1995 - art. 30 (Ab)
+  - Décret n°95-273 du 8 mars 1995 - art. 47 (Ab)
+  - Décret n°95-273 du 8 mars 1995 - art. 70 (Ab)
+  - Décret n°95-275 du 9 mars 1995 - art. 13 (V)
+  - Décret n°95-370 du 6 avril 1995 - art. 121 (Ab)
+  - Décret n°95-380 du 10 avril 1995 - art. 40 (Ab)
+  - Décret n°95-380 du 10 avril 1995 - art. 41 (Ab)
+  - Décret n°95-578 du 6 mai 1995 - art. 12 (V)
+  - Décret n°95-579 du 6 mai 1995 - art. 9 (V)
+  - Décret n°95-580 du 6 mai 1995 - art. 8 (V)
+  - Décret n°95-581 du 6 mai 1995 - art. 8 (V)
+  - Décret n°95-583 du 6 mai 1995 - art. 6 (V)
+  - Décret n°95-619 du 6 mai 1995 - art. 27 (Ab)
+  - Décret n°95-655 du 9 mai 1995 - art. 24 (Ab)
+  - Décret n°95-656 du 9 mai 1995 - art. 22 (Ab)
+  - Décret n°95-656 du 9 mai 1995 - art. 23 (Ab)
+  - Décret n°95-657 du 9 mai 1995 - art. 25 (Ab)
+  - Décret n°95-669 du 9 mai 1995 - art. 5 (V)
+  - Décret n°95-670 du 9 mai 1995 - art. 5 (V)
+  - Décret n°95-671 du 9 mai 1995 - art. 5 (V)
+  - Décret n°95-691 du 9 mai 1995 - art. 8 (V)
+  - Décret n°95-693 du 9 mai 1995 - art. 22 (Ab)
+  - Décret n°95-693 du 9 mai 1995 - art. 23 (Ab)
+  - Décret n°95-720 du 9 mai 1995 - art. 23 (V)
+  - Décret n°95-720 du 9 mai 1995 - art. 24 (V)
+  - Décret n°95-736 du 10 mai 1995 - art. 20 (V)
+  - Décret n°95-866 du 2 août 1995 - art. 54 (VT)
+  - Décret n°95-866 du 2 août 1995 - art. 55 (VT)
+  - Décret n°95-869 du 2 août 1995 - art. 57 (VT)
+  - Décret n°95-870 du 2 août 1995 - art. 9 (VT)
+  - Décret n°95-871 du 2 août 1995 - art. 43 (Ab)
+  - Décret n°95-872 du 2 août 1995 - art. 17 (V)
+  - Décret n°95-873 du 2 août 1995 - art. 30 (V)
+  - Décret n°95-875 du 2 août 1995 - art. 26 (Ab)
+  - Décret n°95-888 du 7 août 1995 - art. 30 (Ab)
+  - Décret n°95-910 du 7 août 1995 - art. 6 (Ab)
+  - Décret n°95-1010 du 13 septembre 1995 - art. 17 (V)
+  - Décret n°95-1010 du 13 septembre 1995 - art. 18 (V)
+  - Décret n°95-1012 du 13 septembre 1995 - art. 25 (V)
+  - Décret n°95-1086 du 9 octobre 1995 - art. 17 (V)
+  - Décret n°95-1112 du 17 octobre 1995 - art. 22 (V)
+  - Décret n°95-1112 du 17 octobre 1995 - art. 23 (V)
+  - Décret n°95-1121 du 19 octobre 1995 - art. 9 (V)
+  - Décret n°95-1143 du 25 octobre 1995 - art. 19 (Ab)
+  - Décret n°95-1143 du 25 octobre 1995 - art. 20 (Ab)
+  - Décret n°95-1156 du 2 novembre 1995 - art. 31 (Ab)
+  - Décret n°95-1175 du 7 novembre 1995 - art. 16 (V)
+  - Décret n°95-1175 du 7 novembre 1995 - art. 17 (V)
+  - Décret n°95-1198 du 6 novembre 1995 - art. 19 (V)
+  - Décret n°96-34 du 15 janvier 1996 - art. 9 (Ab)
+  - Décret n°96-35 du 15 janvier 1996 - art. 7 (M)
+  - Décret n°96-36 du 15 janvier 1996 - art. 2 (Ab)
+  - Décret n°96-41 du 17 janvier 1996 - art. 20 (Ab)
+  - Décret n°96-94 du 5 février 1996 - art. 22 (Ab)
+  - Décret n°96-94 du 5 février 1996 - art. 23 (Ab)
+  - Décret n°96-122 du 9 février 1996 - art. 10 (V)
+  - Décret n°96-124 du 19 février 1996 - art. 7 (V)
+  - Décret n°96-124 du 19 février 1996 - art. 8 (V)
+  - Décret n°96-124 du 19 février 1996 - art. 9 (V)
+  - Décret n°96-158 du 29 février 1996 - art. 24 (Ab)
+  - Décret n°96-178 du 8 mars 1996 - art. 3 (V)
+  - Décret n°96-273 du 26 mars 1996 - art. 26 (Ab)
+  - Décret n°96-273 du 26 mars 1996 - art. 27 (Ab)
+  - Décret n°96-303 du 3 avril 1996 - art. 27 (Ab)
+  - Décret n°96-309 du 5 avril 1996 - art. 23 (V)
+  - Décret n°96-309 du 5 avril 1996 - art. 24 (V)
+  - Décret n°96-310 du 10 avril 1996 - art. 12 (Ab)
+  - Décret n°96-311 du 10 avril 1996 - art. 27 (V)
+  - Décret n°96-328 du 10 avril 1996 - art. 27 (V)
+  - Décret n°96-329 du 10 avril 1996 - art. 25 (V)
+  - Décret n°96-330 du 10 avril 1996 - art. 27 (V)
+  - Décret n°96-366 du 24 avril 1996 - art. 13 (V)
+  - Décret n°96-486 du 29 mai 1996 - art. 4 (V)
+  - Décret n°96-501 du 7 juin 1996 - art. 29 (Ab)
+  - Décret n°96-501 du 7 juin 1996 - art. 30 (Ab)
+  - Décret n°96-533 du 14 juin 1996 - art. 19 (Ab)
+  - Décret n°96-533 du 14 juin 1996 - art. 20 (Ab)
+  - Décret n°96-586 du 25 juin 1996 - art. 18 (V)
+  - Décret n°96-586 du 25 juin 1996 - art. 3 (V)
+  - Décret n°96-686 du 30 juillet 1996 - art. 6 (V)
+  - Décret n°96-766 du 29 août 1996 - art. 33 (Ab)
+  - Décret n°96-851 du 24 septembre 1996 - art. 16 (V)
+  - Décret n°96-852 du 24 septembre 1996 - art. 15 (V)
+  - Décret n°96-863 du 2 octobre 1996 - art. 16 (Ab)
+  - Décret n°96-875 du 4 octobre 1996 - art. 28 (Ab)
+  - Décret n°96-932 du 18 octobre 1996 - art. 7 (V)
+  - Décret n°96-980 du 7 novembre 1996 - art. 12 (V)
+  - Décret n°96-980 du 7 novembre 1996 - art. 13 (V)
+  - Décret n°96-990 du 13 novembre 1996 - art. 17 (V)
+  - Décret n°96-990 du 13 novembre 1996 - art. 18 (V)
+  - Décret n°96-1048 du 4 décembre 1996 - art. 12 (V)
+  - Décret n°96-1048 du 4 décembre 1996 - art. 13 (V)
+  - Décret n°96-1049 du 4 décembre 1996 - art. 27 (Ab)
+  - Décret n°96-1049 du 4 décembre 1996 - art. 28 (Ab)
+  - Décret n°96-1062 du 5 décembre 1996 - art. 7 (Ab)
+  - Décret n°96-1073 du 4 décembre 1996 - art. 27 (Ab)
+  - Décret n°96-1113 du 19 décembre 1996 - art. 26 (V)
+  - Décret n°97-8 du 7 janvier 1997 - art. 32 (Ab)
+  - Décret n°97-220 du 11 mars 1997 - art. 6 (V)
+  - Décret n°97-246 du 17 mars 1997 - art. 3 (V)
+  - Décret n°97-259 du 17 mars 1997 - art. 25 (Ab)
+  - Décret n°97-259 du 17 mars 1997 - art. 26 (Ab)
+  - Décret n°97-272 du 21 mars 1997 - art. 30 (VD)
+  - Décret n°97-272 du 21 mars 1997 - art. 9 (V)
+  - Décret n°97-348 du 11 avril 1997 - art. 20 (V)
+  - Décret n°97-364 du 18 avril 1997 - art. 21 (Ab)
+  - Décret n°97-364 du 18 avril 1997 - art. 22 (Ab)
+  - Décret n°97-364 du 18 avril 1997 - art. 26 (Ab)
+  - Décret n°97-401 du 23 avril 1997 - art. 34 (Ab)
+  - Décret n°97-415 du 24 avril 1997 - art. 12 (V)
+  - Décret n°97-415 du 24 avril 1997 - art. 17 (V)
+  - Décret n°97-415 du 24 avril 1997 - art. 19 (V)
+  - Décret n°97-415 du 24 avril 1997 - art. 21 (V)
+  - Décret n°97-416 du 23 avril 1997 - art. 26 (Ab)
+  - Décret n°97-433 du 24 avril 1997 - art. 8 (V)
+  - Décret n°97-510 du 21 mai 1997 - art. 20 (Ab)
+  - Décret n°97-526 du 26 mai 1997 - art. 26 (Ab)
+  - Décret n°97-565 du 30 mai 1997 - art. 20 (V)
+  - Décret n°97-567 du 30 mai 1997 - art. 4 (V)
+  - Décret n°97-571 du 30 mai 1997 - art. 4 (V)
+  - Décret n°97-583 du 30 mai 1997 - art. 31 (Ab)
+  - Décret n°97-584 du 30 mai 1997 - art. 9 (V)
+  - Décret n°97-657 du 31 mai 1997 - art. 12 (V)
+  - Décret n°97-658 du 31 mai 1997 - art. 31 (Ab)
+  - Décret n°97-793 du 18 août 1997 - art. 5 (V)
+  - Décret n°97-820 du 5 septembre 1997 - art. 14 (V)
+  - Décret n°97-886 du 25 septembre 1997 - art. 19 (Ab)
+  - Décret n°97-892 du 1 octobre 1997 - art. 46 (Ab)
+  - Décret n°97-892 du 1 octobre 1997 - art. 49 (Ab)
+  - Décret n°97-892 du 1 octobre 1997 - art. 52 (Ab)
+  - Décret n°97-896 du 2 octobre 1997 - art. 17 (M)
+  - Décret n°97-896 du 2 octobre 1997 - art. 21 (Ab)
+  - Décret n°97-910 du 6 octobre 1997 - art. 3 (V)
+  - Décret n°97-916 du 2 octobre 1997 - art. 9 (V)
+  - Décret n°97-921 du 7 octobre 1997 - art. 4 (V)
+  - Décret n°97-922 du 7 octobre 1997 - art. 5 (V)
+  - Décret n°97-923 du 7 octobre 1997 - art. 12 (V)
+  - Décret n°97-925 du 8 octobre 1997 - art. 23 (Ab)
+  - Décret n°97-956 du 15 octobre 1997 - art. 4 (V)
+  - Décret n°97-957 du 15 octobre 1997 - art. 5 (V)
+  - Décret n°97-958 du 15 octobre 1997 - art. 4 (V)
+  - Décret n°97-959 du 15 octobre 1997 - art. 5 (V)
+  - Décret n°97-981 du 21 octobre 1997 - art. 16 (V)
+  - Décret n°97-994 du 28 octobre 1997 - art. 26 (Ab)
+  - Décret n°97-994 du 28 octobre 1997 - art. 28 (Ab)
+  - Décret n°97-1028 du 5 novembre 1997 - art. 32 (Ab)
+  - Décret n°97-1029 du 12 novembre 1997 - art. 8 (V)
+  - Décret n°97-1046 du 14 novembre 1997 - art. 4 (V)
+  - Décret n°97-1047 du 14 novembre 1997 - art. 4 (V)
+  - Décret n°97-1078 du 19 novembre 1997 - art. 2 (V)
+  - Décret n°97-1130 du 9 décembre 1997 - art. 10 (V)
+  - Décret n°97-1144 du 12 décembre 1997 - art. 31 (Ab)
+  - Décret n°97-1145 du 12 décembre 1997 - art. 9 (Ab)
+  - Décret n°97-1166 du 17 décembre 1997 - art. 10 (V)
+  - Décret n°97-1166 du 17 décembre 1997 - art. 5 (V)
+  - Décret n°97-1276 du 29 décembre 1997 - art. 5 (V)
+  - Décret n°97-1277 du 29 décembre 1997 - art. 5 (V)
+  - Décret n°98-9 du 5 janvier 1998 - art. 6 (V)
+  - Décret n°98-24 du 12 janvier 1998 - art. 2 (V)
+  - Décret n°98-42 du 19 janvier 1998 - art. 6 (V)
+  - Décret n°98-186 du 19 mars 1998 - art. 24 (V)
+  - Décret n°98-188 du 19 mars 1998 - art. 34 (Ab)
+  - Décret n°98-188 du 19 mars 1998 - art. 35 (Ab)
+  - Décret n°98-194 du 20 mars 1998 - art. 10 (V)
+  - Décret n°98-220 du 25 mars 1998 - art. 3 (V)
+  - Décret n°98-231 du 1 avril 1998 - art. 6 (V)
+  - Décret n°98-248 du 1 avril 1998 - art. 13 (V)
+  - Décret n°98-268 du 3 avril 1998 - art. 25 (VT)
+  - Décret n°98-274 du 9 avril 1998 - art. 25 (Ab)
+  - Décret n°98-280 du 8 avril 1998 - art. 5 (V)
+  - Décret n°98-289 du 9 avril 1998 - art. 4 (V)
+  - Décret n°98-343 du 6 mai 1998 - art. 14 (Ab)
+  - Décret n°98-343 du 6 mai 1998 - art. 31 (Ab)
+  - Décret n°98-343 du 6 mai 1998 - art. 47 (Ab)
+  - Décret n°98-385 du 18 mai 1998 - art. 34 (Ab)
+  - Décret n°98-394 du 20 mai 1998 - art. 4 (V)
+  - Décret n°98-394 du 20 mai 1998 - art. 6 (V)
+  - Décret n°98-408 du 27 mai 1998 - art. 9 (Ab)
+  - Décret n°98-416 du 22 mai 1998 - art. 5 (V)
+  - Décret n°98-419 du 27 mai 1998 - art. 7 (Ab)
+  - Décret n°98-444 du 5 juin 1998 - art. 4 (V)
+  - Décret n°98-480 du 17 juin 1998 - art. 17 (V)
+  - Décret n°98-481 du 17 juin 1998 - art. 11 (Ab)
+  - Décret n°98-505 du 23 juin 1998 - art. 15 (V)
+  - Décret n°98-556 du 29 juin 1998 - art. 3 (V)
+  - Décret n°98-597 du 13 juillet 1998 - art. 21 (V)
+  - Décret n°98-597 du 13 juillet 1998 - art. 22 (V)
+  - Décret n°98-602 du 9 juillet 1998 - art. 2 (V)
+  - Décret n°98-629 du 20 juillet 1998 - art. 8 (V)
+  - Décret n°98-655 du 29 juillet 1998 - art. 27 (Ab)
+  - Décret n°98-658 du 24 juillet 1998 - art. 5 (V)
+  - Décret n°98-666 du 30 juillet 1998 - art. 20 (V)
+  - Décret n°98-695 du 30 juillet 1998 - art. 23 (Ab)
+  - Décret n°98-755 du 21 août 1998 - art. 3 (V)
+  - Décret n°98-760 du 27 août 1998 - art. 17 (Ab)
+  - Décret n°98-803 du 8 septembre 1998 - art. 9 (Ab)
+  - Décret n°98-809 du 9 septembre 1998 - art. 11 (V)
+  - Décret n°98-875 du 23 septembre 1998 - art. 10 (V)
+  - Décret n°98-878 du 29 septembre 1998 - art. 5 (V)
+  - Décret n°98-896 du 7 octobre 1998 - art. 9 (V)
+  - Décret n°98-898 du 8 octobre 1998 - art. 24 (Ab)
+  - Décret n°98-937 du 20 octobre 1998 - art. 17 (V)
+  - Décret n°98-954 du 27 octobre 1998 - art. 4 (V)
+  - Décret n°98-956 du 28 octobre 1998 - art. 14 (V)
+  - Décret n°98-956 du 28 octobre 1998 - art. 15 (V)
+  - Décret n°98-1150 du 16 décembre 1998 - art. 9 (V)
+  - Décret n°98-1158 du 16 décembre 1998 - art. 4 (V)
+  - Décret n°98-1182 du 23 décembre 1998 - art. 5 (V)
+  - Décret n°99-73 du 2 février 1999 - art. 10 (V)
+  - Décret n°99-100 du 10 février 1999 - art. 15 (V)
+  - Décret n°99-170 du 8 mars 1999 - art. 8 (V)
+  - Décret n°99-206 du 19 mars 1999 - art. 9 (V)
+  - Décret n°99-410 du 21 mai 1999 - art. 2 (V)
+  - Décret n°99-495 du 10 juin 1999 - art. 5 (V)
+  - Décret n°99-510 du 17 juin 1999 - art. 1 (V)
+  - Décret n°99-524 du 24 juin 1999 - art. 6 (V)
+  - Décret n°99-525 du 24 juin 1999 - art. 6 (V)
+  - Décret n°99-622 du 19 juillet 1999 - art. 14 (Ab)
+  - Décret n°99-622 du 19 juillet 1999 - art. 15 (Ab)
+  - Décret n°99-637 du 21 juillet 1999 - art. 8 (V)
+  - Décret n°99-669 du 2 août 1999 - art. 51 (V)
+  - Décret n°99-704 du 3 août 1999 - art. 4 (V)
+  - Décret n°99-714 du 3 août 1999 - art. 18 (VT)
+  - Décret n°99-838 du 22 septembre 1999 - art. 6 (V)
+  - Décret n°99-878 du 13 octobre 1999 - art. 14 (V)
+  - Décret n°99-911 du 21 octobre 1999 - art. 14 (Ab)
+  - Décret n°99-911 du 21 octobre 1999 - art. 18 (Ab)
+  - Décret n°99-911 du 21 octobre 1999 - art. 7 (Ab)
+  - Décret n°99-1073 du 21 décembre 1999 - art. 13 (M)
+  - Décret n°99-1073 du 21 décembre 1999 - art. 14 (M)
+  - Décret n°99-1153 du 29 décembre 1999 - art. 30 (V)
+  - Décret n°2000-390 du 5 mai 2000 - art. 7 (V)
+  - Décret n°2000-438 du 23 mai 2000 - art. 22 (V)
+  - Décret n°2000-508 du 8 juin 2000 - art. 19 (Ab)
+  - Décret n°2000-518 du 13 juin 2000 - art. 2 (V)
+  - Décret n°2000-572 du 26 juin 2000 - art. 23 (Ab)
+  - Décret n°2000-717 du 28 juillet 2000 - art. 5 (V)
+  - Décret n°2000-747 du 1 août 2000 - art. 22 (An)
+  - Décret n°2000-770 du 31 juillet 2000 - art. 8 (V)
+  - Décret n°2000-798 du 24 août 2000 - art. 18 (M)
+  - Décret n°2000-956 du 29 septembre 2000 - art. 10 (V)
+  - Décret n°2000-976 du 4 octobre 2000 - art. 13 (V)
+  - Décret n°2000-1011 du 17 octobre 2000 - art. 26 (Ab)
+  - Décret n°2000-1012 du 17 octobre 2000 - art. 7 (Ab)
+  - Décret n°2000-1013 du 17 octobre 2000 - art. 19 (Ab)
+  - Décret n°2001-156 du 15 février 2001 - art. 6 (V)
+  - Décret n°2001-157 du 15 février 2001 - art. 7 (V)
+  - Décret n°2001-188 du 26 février 2001 - art. 24 (V)
+  - Décret n°2001-248 du 22 mars 2001 - art. 4 (V)
+  - Décret n°2001-248 du 22 mars 2001 - art. 5 (V)
+  - Décret n°2001-283 du 29 mars 2001 - art. 13 (V)
+  - Décret n°2001-325 du 13 avril 2001 - art. 15 (V)
+  - Décret n°2001-326 du 13 avril 2001 - art. 16 (VT)
+  - Décret n°2001-416 du 7 mai 2001 - art. 8 (V)
+  - Décret n°2001-429 du 16 mai 2001 - art. 28 (V)
+  - Décret n°2001-527 du 12 juin 2001 - art. 10 (V)
+  - Décret n°2001-527 du 12 juin 2001 - art. 9 (V)
+  - Décret n°2001-585 du 5 juillet 2001 - art. 24 (Ab)
+  - Décret n°2001-586 du 5 juillet 2001 - art. 27 (Ab)
+  - Décret n°2001-696 du 30 juillet 2001 - art. 14 (V)
+  - Décret n°2001-1038 du 8 novembre 2001 - art. 15 (V)
+  - Décret n°2001-1174 du 11 décembre 2001 - art. 32 (Ab)
+  - Décret n°2001-1231 du 20 décembre 2001 - art. 10 (V)
+  - Décret n°2001-1231 du 20 décembre 2001 - art. 30 (V)
+  - Loi - art. 87 (V)
+  - Décret n°2002-19 du 4 janvier 2002 - art. 6 (V)
+  - Décret n°2002-53 du 10 janvier 2002 - art. 14 (Ab)
+  - Décret n°2002-121 du 31 janvier 2002 - art. 21 (V)
+  - Décret n°2002-150 du 7 février 2002 - art. 11 (V)
+  - Décret n°2002-261 du 22 février 2002 - art. 27 (VT)
+  - Décret n°2002-262 du 22 février 2002 - art. 27 (Ab)
+  - Décret n°2002-523 du 16 avril 2002 - art. 31 (VT)
+  - Décret n°2002-523 du 16 avril 2002 - art. 41 (VT)
+  - Décret n°2002-609 du 26 avril 2002 - art. 14 (V)
+  - Décret n°2002-724 du 30 avril 2002 - art. 8 (V)
+  - Décret n°2002-725 du 30 avril 2002 - art. 11 (Ab)
+  - Décret n°2002-734 du 2 mai 2002 - art. 10 (V)
+  - Décret n°2002-764 du 3 mai 2002 - art. 2 (V)
+  - Décret n°2002-811 du 3 mai 2002 - art. 24 (Ab)
+  - Décret n°2002-812 du 3 mai 2002 - art. 16 (Ab)
+  - Décret n°2002-829 du 3 mai 2002 - art. 4 (V)
+  - Décret n°2002-936 du 14 juin 2002 - art. 3 (V)
+  - Décret n°2002-1134 du 5 septembre 2002 - art. 11 (V)
+  - Décret n°2002-1136 du 6 septembre 2002 - art. 6 (V)
+  - Décret n°2002-1153 du 10 septembre 2002 - art. 15 (V)
+  - Décret n°2002-1173 du 16 septembre 2002 - art. 6 (V)
+  - Décret n°2002-1217 du 30 septembre 2002 - art. 16 (Ab)
+  - Décret n°2002-1318 du 31 octobre 2002 - art. 19 (VT)
+  - Décret n°2002-1490 du 20 décembre 2002 - art. 15 (V)
+  - Décret n°2002-1520 du 23 décembre 2002 - art. 23 (V)
+  - Décret n°2002-1557 du 24 décembre 2002 - art. 23 (VT)
+  - Décret n°2002-1569 du 24 décembre 2002 - art. 33 (V)
+  - Décret n°2003-35 du 7 janvier 2003 - art. 2 (V)
+  - Décret n°2003-273 du 25 mars 2003 - art. 15 (V)
+  - Décret n°2003-279 du 27 mars 2003 - art. 12 (V)
+  - Décret n°2003-333 du 9 avril 2003 - art. 6 (V)
+  - Décret n°2003-334 du 9 avril 2003 - art. 6 (V)
+  - Décret n°2003-335 du 9 avril 2003 - art. 6 (V)
+  - Décret n°2003-336 du 9 avril 2003 - art. 6 (V)
+  - Décret n°2003-446 du 19 mai 2003 - art. 13 (Ab)
+  - Décret n°2003-466 du 30 mai 2003 - art. 41 (VT)
+  - Décret n°2003-643 du 10 juillet 2003 - art. 23 (V)
+  - Décret n°2003-770 du 20 août 2003 - art. 22 (V)
+  - Décret n°2003-870 du 11 septembre 2003 - art. 8 (V)
+  - Décret n°2003-977 du 9 octobre 2003 - art. 2 (V)
+  - Décret n°2003-979 du 9 octobre 2003 - art. 2 (V)
+  - Décret n°2003-1247 du 22 décembre 2003 - art. 18 (V)
+  - Décret n°2003-1263 du 23 décembre 2003 - art. 3 (V)
+  - Décret n°2003-1306 du 26 décembre 2003 - art. 17 (V)
+  - Décret n°2003-1358 du 30 décembre 2003 - art. 3 (V)
+  - Décret n°2003-1359 du 30 décembre 2003 - art. 12 (V)
+  - Décret n°2003-1359 du 30 décembre 2003 - art. 13 (V)
+  - Décret n°2003-1360 du 30 décembre 2003 - art. 22 (V)
+  - Décret n°2003-1360 du 30 décembre 2003 - art. 23 (V)
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V)
+  - Décret n°2007-259 du 27 février 2007 - art. 3 (V)
+  - Décret n°2016-219 du 26 février 2016 - art. 10 (V)
+  - Décret n°2016-219 du 26 février 2016 - art. 11 (V)
+  - Décret n°2016-219 du 26 février 2016 - art. 12 (V)
+  - Décret n°2016-220 du 26 février 2016 - art. 8 (V)
+  - Décret n°2016-223 du 26 février 2016 - art. 102 (V)
+  - Décret n°2016-223 du 26 février 2016 - art. 65 (V)
+  - Décret n°2016-1892 du 27 décembre 2016 - art. 1 (V)
+  - Décret n°2016-2001 du 30 décembre 2016 (V)
+  - Code des pensions civiles et militaires de retr... - art. D15 (V)
+  - Code des pensions civiles et militaires de retr... - art. D21-1 (VD)
+  - Code des pensions civiles et militaires de retr... - art. L13 (V)
+  - Code des pensions civiles et militaires de retr... - art. L14 (V)
+  - Code des pensions civiles et militaires de retr... - art. L18 (V)
+  - Code des pensions civiles et militaires de retr... - art. L25 (V)
+  - Code des pensions civiles et militaires de retr... - art. L28 (V)
+  - Code des pensions civiles et militaires de retr... - art. L30 (V)
+  - Code des pensions civiles et militaires de retr... - art. L30 ter (V)
+  - Code des pensions civiles et militaires de retr... - art. R*76 (V)
+  - Code des pensions civiles et militaires de retr... - art. R*76 bis (V)
+  - Code des pensions civiles et militaires de retr... - art. R27 (V)
+  - Code des pensions civiles et militaires de retr... - art. R33 bis (M)
+  - Code des pensions civiles et militaires de retr... - art. R76 ter (V)
+  - Code des pensions civiles et militaires de retr... - art. R79 (V)
+  - Code des pensions civiles et militaires de retr... - art. R9 (V)
+  - Code des pensions civiles et militaires de retrait - art. L16 (M)
+  - Code des pensions civiles et militaires de retrait - art. R78 (Ab)
+
+_Cite_:
+
+  - Ordonnance 59-244 1959-02-04 art. 3
+  - Décret n°65-773 1965-09-09 art. 15 I
+  - Code des pensions civiles et militaires de retrait - art. L5 (M)
+
+_Modifié par_:
+
+  - Loi n°70-523 1970-06-19 art. 3 JORF 21 juin 1970 rectificatif JORF 10 juillet 1970
+  - Loi n°75-1280 du 30 décembre 1975 - art. 6 (V) JORF 31 décembre 1975
+  - Loi n°77-574 1977-06-07 art. 25 I JORF 8 juin 1977 rectificatif JORF 21 juin 1977
+  - Ordonnance 82-296 1982-03-31 art. 4 JORF 2 avril 1982
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°89-750 du 18 octobre 1989 - art. 20 (Ab)
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
 
 ###### Article L16
 
@@ -1428,7 +2320,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-##### Paragraphe III : Montant garanti.<a id=15></a>
+##### Paragraphe III : Montant garanti.<a id=17></a>
 
 ###### Article L17
 
@@ -1481,7 +2373,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-##### Paragraphe IV : Avantages de pension de caractère familial.<a id=16></a>
+##### Paragraphe IV : Avantages de pension de caractère familial.<a id=18></a>
 
 ###### Article L19
 
@@ -1503,7 +2395,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-#### Chapitre III : Règles particulières de liquidation.<a id=17></a>
+#### Chapitre III : Règles particulières de liquidation.<a id=19></a>
 
 ###### Article L20
 
@@ -1585,7 +2477,187 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-### Titre IV : Jouissance de la pension ou de la solde de réforme.<a id=18></a>
+### Titre IV : Jouissance de la pension ou de la solde de réforme.<a id=20></a>
+
+###### Article L24
+
+I. - La jouissance de la pension civile est immédiate :
+
+1° Pour les fonctionnaires civils radiés des cadres par limite d'âge ainsi que pour ceux qui ont atteint, à la date de
+radiation des cadres, l'âge de soixante ans ou, s'ils ont accompli au moins quinze ans de services actifs ou de la catégorie
+B, l'âge de cinquante-cinq ans.
+
+Sont rangés dans la catégorie B les emplois présentant un risque particulier ou des fatigues exceptionnelles. La nomenclature
+en est établie par décrets en Conseil d'Etat ;
+
+2° Pour les fonctionnaires civils mis à la retraite pour invalidité ;
+
+3° Pour les femmes fonctionnaires :
+
+a) Soit lorsqu'elles sont mères de trois enfants vivants ou décédés par faits de guerre ou d'un enfant vivant âgé de plus
+d'un an et atteint d'une invalidité égale ou supérieure à 80 %.
+
+Sont assimilés aux enfants visés à l'alinéa précédent les enfants énumérés au paragraphe II de l'article L. 18 que les
+intéressées ont élevés dans les conditions prévues au paragraphe III dudit article.
+
+b) Soit lorsqu'il est justifié, dans les formes prévues à l'article L. 31 :
+
+Qu'elles sont atteintes d'une infirmité ou d'une maladie incurable les plaçant dans l'impossibilité d'exercer leurs anciennes
+fonctions ;
+
+Ou que leur conjoint est atteint d'une infirmité ou d'une maladie incurable le plaçant dans l'impossibilité d'exercer une
+profession quelconque.
+
+II. - La jouissance de la pension militaire est immédiate :
+
+1° Pour les officiers radiés des cadres par limite d'âge ainsi que pour ceux réunissant, à la date de leur radiation des
+cadres, vingt-cinq ans de services effectifs ou qui ont été radiés des cadres par suite d'infirmités ;
+
+2° Pour les militaires non officiers.
+
+III. - La jouissance de la solde de réforme est immédiate. Toutefois, cette solde n'est perçue que pendant un temps égal à la
+durée des services effectivement accomplis par son bénéficiaire.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°57-444 du 8 avril 1957 - art. 2 (VD)
+  - Loi n°64-1339 du 26 décembre 1964 - art. 8 (V)
+  - Décret n°68-382 du 5 avril 1968 - art. 19 (V)
+  - Décret n°68-960 du 11 octobre 1968 - art. 17 (V)
+  - Décret n°74-338 du 22 avril 1974 - art. 40 (Ab)
+  - Décret n°76-1001 du 5 novembre 1976 - art. 18 (VD)
+  - Décret n°77-33 du 4 janvier 1977 - art. 19 (VD)
+  - Décret n°79-1135 du 27 décembre 1979 - art. 29 (VT)
+  - Ordonnance n°82-297 du 31 mars 1982 - art. 2 (M)
+  - Loi n°83-634 du 13 juillet 1983 - art. 6 (V)
+  - Loi n°84-834 du 13 septembre 1984 - art. 1-3 (VD)
+  - Décret n°86-999 du 27 août 1986 - art. 4 (V)
+  - Loi n°89-1007 du 31 décembre 1989 - art. 4 (VD)
+  - Loi n°89-1007 du 31 décembre 1989 - art. 5 (V)
+  - Loi n°90-568 du 2 juillet 1990 - art. 30-1 (V)
+  - Loi n°90-587 du 4 juillet 1990 - art. 35 (Ab)
+  - Décret n°90-1215 du 20 décembre 1990 - art. 84 (VT)
+  - Décret n°92-344 du 27 mars 1992 - art. 23 (Ab)
+  - Loi - art. 99 (V)
+  - Décret n°93-514 du 25 mars 1993 - art. 20 (Ab)
+  - Décret n°93-515 du 25 mars 1993 - art. 21 (Ab)
+  - Décret n°93-516 du 25 mars 1993 - art. 18 (Ab)
+  - Décret n°93-517 du 25 mars 1993 - art. 22 (Ab)
+  - Décret n°93-518 du 25 mars 1993 - art. 17 (Ab)
+  - Décret n°93-519 du 25 mars 1993 - art. 13 (V)
+  - Décret n°94-929 du 27 octobre 1994 - art. 13 (Ab)
+  - Loi n°96-452 du 28 mai 1996 - art. 24 (VD)
+  - Loi n°2001-616 du 11 juillet 2001 - art. 64-1 (M)
+  - Loi n°2003-775 du 21 août 2003 - art. 5 (V)
+  - Loi n°2003-775 du 21 août 2003 - art. 78 (VD)
+  - Décret n°2003-1306 du 26 décembre 2003 - art. 22 (V)
+  - Décret n°2003-1306 du 26 décembre 2003 - art. 25 (V)
+  - Décret n°2003-1306 du 26 décembre 2003 - art. 36 (V)
+  - Décret n°2003-1306 du 26 décembre 2003 - art. 39 (V)
+  - Loi n°2004-809 du 13 août 2004 - art. 111 (VD)
+  - Décret n°2004-1056 du 5 octobre 2004 - art. 21 (VD)
+  - Loi n°2004-1370 du 20 décembre 2004 - art. 57 (Ab)
+  - Loi n°2005-102 du 11 février 2005 - art. 28 (V)
+  - Décret n°2005-119 du 14 février 2005 - art. 1 (V)
+  - Loi n°2005-270 du 24 mars 2005 - art. 66 (Ab)
+  - Loi n°2005-270 du 24 mars 2005 - art. 69 (Ab)
+  - Loi n°2005-270 du 24 mars 2005 - art. 70 (Ab)
+  - Loi n°2005-270 du 24 mars 2005 - art. 73 (Ab)
+  - Loi n°2005-270 du 24 mars 2005 - art. 89 (V)
+  - Décret n°2005-1525 du 8 décembre 2005 - art. 3 (V)
+  - Décret n°2006-418 du 7 avril 2006 - art. 13 (V)
+  - Décret n°2006-933 du 28 juillet 2006 - art. 4 (V)
+  - Décret n°2006-941 du 28 juillet 2006 - art. 4 (V)
+  - Décret n°2006-941 du 28 juillet 2006 - art. 9 (V)
+  - Décret n°2007-262 du 27 février 2007 - art. ANNEXE (V)
+  - Décret n°2007-1329 du 10 septembre 2007 - art. 20 (V)
+  - Décret n°2007-1330 du 10 septembre 2007 - art. 23 (V)
+  - Décret n°2007-1332 du 10 septembre 2007 - art. 26 (V)
+  - Décret n°2007-1333 du 10 septembre 2007 - art. 20 (V)
+  - Décret n°2008-930 du 12 septembre 2008 - art. 14 (VD)
+  - Décret n°2008-931 du 12 septembre 2008 - art. 20 (VD)
+  - Décret n°2008-939 du 12 septembre 2008 - art. 9 (VD)
+  - Décret n°2008-940 du 12 septembre 2008 - art. 37 (V)
+  - Décret n°2008-941 du 12 septembre 2008 - art. 23 (V)
+  - Décret n°2008-942 du 12 septembre 2008 - art. 17 (V)
+  - Décret n°2008-943 du 12 septembre 2008 - art. 37 (VD)
+  - Décret n°2008-944 du 12 septembre 2008 - art. 31 (VD)
+  - Décret n°2008-946 du 12 septembre 2008 - art. 40 (V)
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 149 (VT)
+  - Décret n°2009-82 du 21 janvier 2009 - art. 3 (Ab)
+  - Loi n°2009-1291 du 26 octobre 2009 - art. 9 (V)
+  - Décret n°2009-1744 du 30 décembre 2009 - art. 6 (V)
+  - Décret n°2009-1744 du 30 décembre 2009 - art. 7 (V)
+  - Loi n°2010-751 du 5 juillet 2010 - art. 37 (VD)
+  - Décret n°2010-1239 du 20 octobre 2010 - art. 27 (V)
+  - Loi n°2010-1330 du 9 novembre 2010 - art. 45 (V)
+  - Décret n°2011-705 du 21 juin 2011 - art. 4 (V)
+  - Décret n°2011-1316 du 17 octobre 2011 - art. 9 (V)
+  - Décret n°2012-1029 du 5 septembre 2012 - art. 34 (VD)
+  - Décret n°2012-1546 du 28 décembre 2012 - art. 33 (V)
+  - Loi n°2013-1168 du 18 décembre 2013 - art. 36 (VD)
+  - Loi n°2013-1168 du 18 décembre 2013 - art. 37 (M)
+  - Décret n°2013-1308 du 27 décembre 2013 - art. 3 (V)
+  - Loi n°2014-58 du 27 janvier 2014 - art. 13 (V)
+  - Loi n°2014-58 du 27 janvier 2014 - art. 85 (V)
+  - Décret n°2014-1455 du 5 décembre 2014 - art. 25 (VD)
+  - Décret n°2015-1026 du 19 août 2015 - art. 31
+  - Décret n°2016-220 du 26 février 2016 - art. 9 (V)
+  - Décret n°2016-584 du 11 mai 2016 - art. 25
+  - Loi n°2017-257 du 28 février 2017 - art. 36 (V)
+  - Décret n°2017-1131 du 3 juillet 2017 - art. 13
+  - Ordonnance n°2018-20 du 17 janvier 2018 - art. 29 (V)
+  - Décret n°2018-546 du 28 juin 2018 - art. 12 (V)
+  - Décret n°2019-194 du 15 mars 2019 - art. 29 (V)
+  - Code de l'éducation - art. L921-4 (V)
+  - Code de l'éducation - art. R914-123 (V)
+  - Code de l'éducation - art. R914-128 (V)
+  - Code de la défense. - art. L4139-10 (V)
+  - Code de la défense. - art. L4139-13 (V)
+  - Code de la défense. - art. L4139-6 (V)
+  - Code de la défense. - art. L4139-9 (V)
+  - Code de la défense. - art. R4123-35 (V)
+  - Code de la sécurité sociale. - art. D161-2-4-3 (VD)
+  - Code de la sécurité sociale. - art. L161-17-2 (V)
+  - Code de la sécurité sociale. - art. L161-21-1 (V)
+  - Code de la sécurité sociale. - art. L173-7 (V)
+  - Code de la sécurité sociale. - art. L634-2-1 (VD)
+  - Code des pensions civiles et militaires de retr... - art. D20 (V)
+  - Code des pensions civiles et militaires de retr... - art. Emplois classés (V)
+  - Code des pensions civiles et militaires de retr... - art. L14 (V)
+  - Code des pensions civiles et militaires de retr... - art. L17 (V)
+  - Code des pensions civiles et militaires de retr... - art. L25 (V)
+  - Code des pensions civiles et militaires de retr... - art. L25 bis (V)
+  - Code des pensions civiles et militaires de retr... - art. L27 (V)
+  - Code des pensions civiles et militaires de retr... - art. L29 (V)
+  - Code des pensions civiles et militaires de retr... - art. L3 (V)
+  - Code des pensions civiles et militaires de retr... - art. L73 (V)
+  - Code des pensions civiles et militaires de retr... - art. R33 bis (V)
+  - Code des pensions civiles et militaires de retr... - art. R37 (V)
+  - Code des pensions civiles et militaires de retr... - art. R37 bis (V)
+  - Code des pensions civiles et militaires de retrait - art. L24 (V)
+  - Code des pensions civiles et militaires de retrait - art. L50 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L242-7 (VD)
+  - Code des pensions militaires d'invalidité et de... - art. L406 (VT)
+
+_Modifié par_:
+
+  - Loi n°70-523 1970-06-19 art. 4 JORF 21 juin 1970 rectificatif JORF 10 juillet 1970
+  - Loi n°70-1283 1970-12-31 art. 22 I JORF 31 décembre 1970
+  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
+  - Loi n°77-1466 1977-12-30 art. 15 III JORF 31 décembre 1977
+  - Ordonnance 82-296 1982-03-31 art. 5 JORF 2 avril 1982
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retraite L18 et L31
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
 
 ###### Article L25
 
@@ -1670,11 +2742,11 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-### Titre V : Invalidité.<a id=19></a>
+### Titre V : Invalidité.<a id=21></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=20></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=22></a>
 
-##### Paragraphe Ier : Invalidité résultant de l'exercice des fonctions.<a id=21></a>
+##### Paragraphe Ier : Invalidité résultant de l'exercice des fonctions.<a id=23></a>
 
 ###### Article L27
 
@@ -1819,7 +2891,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-##### Paragraphe II : Invalidité ne résultant pas de l'exercice des fonctions.<a id=22></a>
+##### Paragraphe II : Invalidité ne résultant pas de l'exercice des fonctions.<a id=24></a>
 
 ###### Article L29
 
@@ -1856,7 +2928,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-##### Paragraphe III : Dispositions communes.<a id=23></a>
+##### Paragraphe III : Dispositions communes.<a id=25></a>
 
 ###### Article L30
 
@@ -2057,7 +3129,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-#### Chapitre II : Militaires.<a id=24></a>
+#### Chapitre II : Militaires.<a id=26></a>
 
 ###### Article L34
 
@@ -2170,7 +3242,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-#### Chapitre III : Dispositions communes aux fonctionnaires et militaires.<a id=25></a>
+#### Chapitre III : Dispositions communes aux fonctionnaires et militaires.<a id=27></a>
 
 ###### Article L37 bis
 
@@ -2203,9 +3275,9 @@ _Cité par_:
   - Loi n°2003-775 du 21 août 2003 - art. 65 (V)
 
 
-### Titre VI : Pensions des ayants cause.<a id=26></a>
+### Titre VI : Pensions des ayants cause.<a id=28></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=27></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=29></a>
 
 ###### Article L38
 
@@ -2443,7 +3515,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L38 al. 1 et L50
 
 
-#### Chapitre II : Militaires.<a id=28></a>
+#### Chapitre II : Militaires.<a id=30></a>
 
 ###### Article L47
 
@@ -2528,7 +3600,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-### Titre VII : Dispositions spéciales.<a id=29></a>
+### Titre VII : Dispositions spéciales.<a id=31></a>
 
 ###### Article L51
 
@@ -2563,9 +3635,9 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-### Titre VIII : Dispositions d'ordre et diverses.<a id=30></a>
+### Titre VIII : Dispositions d'ordre et diverses.<a id=32></a>
 
-#### Paragraphe Ier : Concession et révision de la pension.<a id=31></a>
+#### Paragraphe Ier : Concession et révision de la pension.<a id=33></a>
 
 ###### Article L53
 
@@ -2643,7 +3715,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-#### Paragraphe II : Dispositions diverses.<a id=32></a>
+#### Paragraphe II : Dispositions diverses.<a id=34></a>
 
 ###### Article L56
 
@@ -2848,7 +3920,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-### Titre IX : Retenues pour pensions.<a id=33></a>
+### Titre IX : Retenues pour pensions.<a id=35></a>
 
 ###### Article L62
 
@@ -2908,7 +3980,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-### Titre X : Cessation ou reprise de service. -  Coordination avec le régime de sécurité sociale.<a id=34></a>
+### Titre X : Cessation ou reprise de service. -  Coordination avec le régime de sécurité sociale.<a id=36></a>
 
 ###### Article L65
 
@@ -3002,13 +4074,13 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-## Livre II : Dispositions particulières du régime général des retraites.<a id=35></a>
+## Livre II : Dispositions particulières du régime général des retraites.<a id=37></a>
 
-### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.<a id=36></a>
+### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.<a id=38></a>
 
-#### Chapitre Ier : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause.<a id=37></a>
+#### Chapitre Ier : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause.<a id=39></a>
 
-##### Paragraphe Ier : Droits des fonctionnaires.<a id=38></a>
+##### Paragraphe Ier : Droits des fonctionnaires.<a id=40></a>
 
 ###### Article L68
 
@@ -3096,7 +4168,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L27 et L28
 
 
-##### Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre.<a id=39></a>
+##### Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre.<a id=41></a>
 
 ###### Article L71
 
@@ -3125,7 +4197,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-##### Paragraphe III : Dispositions communes.<a id=40></a>
+##### Paragraphe III : Dispositions communes.<a id=42></a>
 
 ###### Article L72
 
@@ -3154,9 +4226,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L68 à L71
 
 
-### Titre II : Dispositions particulières relatives à certaines catégories de retraites civiles et militaires.<a id=41></a>
+### Titre II : Dispositions particulières relatives à certaines catégories de retraites civiles et militaires.<a id=43></a>
 
-#### Chapitre Ier : Agents en service détaché.<a id=42></a>
+#### Chapitre Ier : Agents en service détaché.<a id=44></a>
 
 ###### Article L73
 
@@ -3226,7 +4298,7 @@ _Abrogé par_:
   - Loi n°2003-775 du 21 août 2003 - art. 41 (V) JORF 22 août 2003
 
 
-#### Chapitre II : Fonctionnaires civils titulaires de deux emplois.<a id=43></a>
+#### Chapitre II : Fonctionnaires civils titulaires de deux emplois.<a id=45></a>
 
 ###### Article L76
 
@@ -3259,7 +4331,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-#### Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.<a id=44></a>
+#### Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.<a id=46></a>
 
 ###### Article L77
 
@@ -3413,7 +4485,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-#### Chapitre IV : Sapeurs-pompiers de Paris.<a id=45></a>
+#### Chapitre IV : Sapeurs-pompiers de Paris.<a id=47></a>
 
 ###### Article L82
 
@@ -3435,9 +4507,9 @@ _Abrogé par_:
   - Loi n°83-1179 1983-12-29 art. 131 II JORF 30 décembre 1983
 
 
-### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.<a id=46></a>
+### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.<a id=48></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=47></a>
+#### Chapitre Ier : Dispositions générales.<a id=49></a>
 
 ###### Article L84
 
@@ -3510,7 +4582,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-#### Chapitre II : Cumul de pensions et de rémunérations d'activité.<a id=48></a>
+#### Chapitre II : Cumul de pensions et de rémunérations d'activité.<a id=50></a>
 
 ###### Article L86
 
@@ -3556,7 +4628,7 @@ _Modifié par_:
   - Loi n°70-1283 1970-12-31 art. 22 II JORF 31 décembre 1970
 
 
-#### Chapitre III : Cumul de plusieurs pensions.<a id=49></a>
+#### Chapitre III : Cumul de plusieurs pensions.<a id=51></a>
 
 ###### Article L87
 
@@ -3626,7 +4698,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L84 (M)
 
 
-#### Chapitre IV : Cumul d'accessoires de pension.<a id=50></a>
+#### Chapitre IV : Cumul d'accessoires de pension.<a id=52></a>
 
 ###### Article L89
 
@@ -3654,11 +4726,11 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-## Livre III : Dispositions relatives au paiement des pensions.<a id=51></a>
+## Livre III : Dispositions relatives au paiement des pensions.<a id=53></a>
 
-### Chapitre Ier : Paiement des pensions.<a id=52></a>
+### Chapitre Ier : Paiement des pensions.<a id=54></a>
 
-#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=53></a>
+#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=55></a>
 
 ###### Article L90
 
@@ -3706,7 +4778,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. L161-4 (VD)
 
 
-#### Paragraphe II : Dispositions diverses.<a id=54></a>
+#### Paragraphe II : Dispositions diverses.<a id=56></a>
 
 ###### Article L92
 
@@ -3761,7 +4833,7 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-### Chapitre II : Avances mensuelles sur pensions concédées en paiement.<a id=55></a>
+### Chapitre II : Avances mensuelles sur pensions concédées en paiement.<a id=57></a>
 
 ###### Article L94
 
@@ -3814,11 +4886,11 @@ _Codifié par_:
   - Loi n°64-1339 1964-12-29
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=56></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=58></a>
 
-## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=57></a>
+## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=59></a>
 
-### Titre Ier : Généralités.<a id=58></a>
+### Titre Ier : Généralités.<a id=60></a>
 
 ###### Article R*1
 
@@ -3923,11 +4995,11 @@ _Codifié par_:
   - Décret n°66-809 1966-10-28
 
 
-### Titre II : Constitution du droit à la pension ou à la solde de réforme.<a id=59></a>
+### Titre II : Constitution du droit à la pension ou à la solde de réforme.<a id=61></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=60></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=62></a>
 
-##### Paragraphe II : Eléments constitutifs.<a id=61></a>
+##### Paragraphe II : Eléments constitutifs.<a id=63></a>
 
 ###### Article R*5
 
@@ -4022,9 +5094,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L5 (M)
 
 
-#### Chapitre II : Militaires.<a id=62></a>
+#### Chapitre II : Militaires.<a id=64></a>
 
-##### Paragraphe II : Eléments constitutifs.<a id=63></a>
+##### Paragraphe II : Eléments constitutifs.<a id=65></a>
 
 ###### Article R*8
 
@@ -4062,7 +5134,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L8 (V)
 
 
-#### Chapitre III : Dispositions communes.<a id=64></a>
+#### Chapitre III : Dispositions communes.<a id=66></a>
 
 ###### Article R9
 
@@ -4096,9 +5168,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L9 al. 1 et L15 al. 1
 
 
-### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=65></a>
+### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=67></a>
 
-#### Chapitre Ier : Services et bonifications valables.<a id=66></a>
+#### Chapitre Ier : Services et bonifications valables.<a id=68></a>
 
 ###### Article R10
 
@@ -4396,6 +5468,103 @@ _Cité par_:
   - Décret n°67-711 du 18 août 1967 - art. 9 (Ab)
 
 
+###### Article R20
+
+I. - Ouvrent droit à des bonifications, au sens de l'article L. 12-d du code des pensions civiles et militaires de retraite :
+
+1° Les services aériens commandés exécutés en dehors des opérations de guerre dans les conditions suivantes :
+
+A. - Par les personnels militaires :
+
+a) Services accomplis à bord d'aéronefs dans l'exercice des fonctions de leur spécialité militaire par les personnels
+navigants des armées ;
+
+b) Vols à bord d'aéronefs suivis d'une descente en parachute et les descentes elles-mêmes, les vols en planeur, les
+lancements par catapulte ou par fusée d'appoint et les accrochages sur plate-forme mobile ;
+
+c) Services accomplis à bord d'aéronefs dans l'exercice des fonctions de leur spécialité par des personnels techniques
+militaires à l'occasion d'essais, de mise au point, de mise en oeuvre de matériel, équipements et dispositifs ressortissant
+de leur spécialité ;
+
+d) Vols effectués par des personnels embarqués au-dessus de zones opérationnelles en vue de l'exécution d'une mission de
+combat en liaison avec des formations engagées ;
+
+e) Vols à bord d'aéronefs au cours d'une mission de secours ; vols à bord d'aéronefs suivis d'une descente en rappel ou par
+treuillage et les descentes elles-mêmes ;
+
+f) Vols effectués à bord d'aéronefs par les personnels militaires du service de santé des armées assurant une mission de
+convoyage de blessés ou malades.
+
+B. - Par les personnels civils :
+
+a) Services accomplis par le personnel des corps d'ingénieurs techniciens d'études et de fabrications ou de techniciens
+d'études et de fabrications relevant du ministre de la défense et par le personnel technique de la navigation aérienne
+relevant du ministre chargé de l'aviation civile, à bord d'aéronefs dans l'exercice des fonctions de leur spécialité
+professionnelle à l'occasion des vols d'instruction, d'essais, de mise au point, de mise en oeuvre de matériels, équipements
+et dispositifs ressortissant à leur spécialité.
+
+b) Services accomplis par les personnels techniques de la météorologie nationale embarqués à bord d'aéronefs en vue de
+l'exécution de missions météorologiques à l'occasion de vols d'instruction, d'essais, de mise au point, de mise en oeuvre de
+matériels, équipements et dispositifs ressortissant de leur spécialité.
+
+Tous autres vols accomplis en dehors des conditions prévues aux A et B ci-dessus, notamment en qualité de passager, n'ouvrent
+pas droit à bonification.
+
+2° Les services sous-marins ou subaquatiques exécutés en dehors des opérations de guerre dans les conditions suivantes :
+
+a) Services exécutés à bord des sous-marins en plongée effective en vertu d'ordres émanant d'autorités qualifiées soit au
+cours des essais techniques pour les sous-marins en armement pour essais, soit en navigation ou exercice pour les sous-marins
+armés ;
+
+b) Plongées accomplies sur ordre du commandant d'unité ou de formation ou du chef de service par les personnels brevetés
+plongeurs démineurs ou titulaires d'un des certificats de nageur de combat, plongeur ou scaphandrier.
+
+II. - Pour le calcul de la bonification, les services aériens, sous-marins ou subaquatiques, effectivement accomplis dans les
+conditions définies ci-dessus, sont évalués d'après leur durée réelle en heures ou fractions d'heure. Toutefois, les
+lancements par catapulte ou par fusée d'appoint, les accrochages sur plate-forme mobile et les descentes en parachute, sont
+assimilés, quelle que soit leur durée, à une heure de vol.
+
+La durée des services aériens, sous-marins ou subaquatiques est affectée de coefficients variables selon leur nature. Les
+produits ainsi obtenus représentent un nombre de journées de bonifications.
+
+Les bonifications pour services aériens, sous-marins ou subaquatiques sont comptées dans la liquidation de la pension dans la
+limite de deux ans par année civile de service ouvrant droit à bonification.
+
+Des arrêtés conjoints du ministre chargé de la défense nationale et des ministres disposant du personnel exécutant des
+services aériens, sous-marins ou subaquatiques et du ministre de l'économie et des finances fixent la valeur des coefficients
+à attribuer à chaque catégorie de services ainsi que les modalités de la constatation et du décompte des droits résultant du
+présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°66-809 1966-10-28
+
+_Cité par_:
+
+  - Décret n°67-711 du 18 août 1967 - art. 9 (Ab)
+  - Arrêté du 30 juin 1971 - art. 1 (V)
+  - Arrêté du 30 juin 1971 - art. 4 (V)
+  - Décret n°2010-1691 du 30 décembre 2010 - art. 5 (V)
+  - Code des pensions civiles et militaires de retr... - art. D12 (V)
+  - Code des pensions civiles et militaires de retr... - art. R*75 (V)
+
+_Modifié par_:
+
+  - Décret n°71-74 1971-01-21 art. 1 JORF 28 janvier 1971
+  - Décret n°72-980 1972-10-23 art. 1 JORF 29 octobre 1972
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°2002-510 du 11 avril 2002
+  - TXT_SOURCE: Décret n°2002-510 du 11 avril 2002 - art. 1 ()
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retrait - art. L12 (M)
+
+
 ###### Article R21
 
 Quand les services effectifs sont de nature à donner à la fois des droits à plusieurs des bonifications prévues aux articles
@@ -4549,9 +5718,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L12 (M)
 
 
-#### Chapitre II : Détermination du montant de la pension.<a id=67></a>
+#### Chapitre II : Détermination du montant de la pension.<a id=69></a>
 
-##### Paragraphe Ier : Décompte et valeur des annuités liquidables.<a id=68></a>
+##### Paragraphe Ier : Décompte et valeur des annuités liquidables.<a id=70></a>
 
 ###### Article R26
 
@@ -4565,7 +5734,7 @@ _Codifié par_:
   - Décret n°66-809 1966-10-28
 
 
-##### Paragraphe II : Emoluments de base.<a id=69></a>
+##### Paragraphe II : Emoluments de base.<a id=71></a>
 
 ###### Article R27
 
@@ -4703,7 +5872,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. R29 (M)
 
 
-##### Paragraphe IV : Avantages de pension à caractère familial.<a id=70></a>
+##### Paragraphe IV : Avantages de pension à caractère familial.<a id=72></a>
 
 ###### Article R*32
 
@@ -4778,7 +5947,7 @@ _Cité par_:
   - Code des pensions civiles et militaires de retr... - art. R*103 (V)
 
 
-### Titre IV : Jouissance de la pension ou de la solde de réforme.<a id=71></a>
+### Titre IV : Jouissance de la pension ou de la solde de réforme.<a id=73></a>
 
 ###### Article R*34
 
@@ -4848,11 +6017,11 @@ _Codifié par_:
   - Décret n°66-809 1966-10-28
 
 
-### Titre V : Invalidité.<a id=72></a>
+### Titre V : Invalidité.<a id=74></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=73></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=75></a>
 
-##### Paragraphe Ier : Invalidité résultant de l'exercice des fonctions.<a id=74></a>
+##### Paragraphe Ier : Invalidité résultant de l'exercice des fonctions.<a id=76></a>
 
 ###### Article R38
 
@@ -4922,7 +6091,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L28 (V)
 
 
-##### Paragraphe III : Dispositions communes.<a id=75></a>
+##### Paragraphe III : Dispositions communes.<a id=77></a>
 
 ###### Article R*43
 
@@ -5007,7 +6176,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L18, L28, L30 al. 1 et L38
 
 
-#### Chapitre II : Militaires.<a id=76></a>
+#### Chapitre II : Militaires.<a id=78></a>
 
 ###### Article R50
 
@@ -5069,9 +6238,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L48 (V)
 
 
-### Titre VI : Pensions des ayants cause.<a id=77></a>
+### Titre VI : Pensions des ayants cause.<a id=79></a>
 
-#### Chapitre III : Dispositions communes.<a id=78></a>
+#### Chapitre III : Dispositions communes.<a id=80></a>
 
 ###### Article R*53
 
@@ -5176,9 +6345,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L46 (V)
 
 
-### Titre VII : Dispositions spéciales.<a id=79></a>
+### Titre VII : Dispositions spéciales.<a id=81></a>
 
-#### Chapitre Ier : Solde de réserve des officiers généraux.<a id=80></a>
+#### Chapitre Ier : Solde de réserve des officiers généraux.<a id=82></a>
 
 ###### Article R*58
 
@@ -5198,7 +6367,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L51 (V)
 
 
-#### Chapitre II : Militaires ayant bénéficié d'un pécule.<a id=81></a>
+#### Chapitre II : Militaires ayant bénéficié d'un pécule.<a id=83></a>
 
 ###### Article R*59
 
@@ -5259,7 +6428,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L5 et R83
 
 
-#### Chapitre III : Droits des ayants cause des fonctionnaires et des militaires originaires des territoires d'outre-mer non mariés sous le régime du code civil.<a id=82></a>
+#### Chapitre III : Droits des ayants cause des fonctionnaires et des militaires originaires des territoires d'outre-mer non mariés sous le régime du code civil.<a id=84></a>
 
 ###### Article R*62
 
@@ -5282,7 +6451,7 @@ _Cité par_:
   - Décret n°2012-1256 du 13 novembre 2012 - art. 16 (V)
 
 
-#### Chapitre IV : Militaires servant à titre étranger.<a id=83></a>
+#### Chapitre IV : Militaires servant à titre étranger.<a id=85></a>
 
 ###### Article R*63
 
@@ -5300,7 +6469,7 @@ _Abrogé par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Chapitre V : Droits des personnels militaires féminins, officiers ou assimilés, aux avantages accordés aux femmes fonctionnaires.<a id=84></a>
+#### Chapitre V : Droits des personnels militaires féminins, officiers ou assimilés, aux avantages accordés aux femmes fonctionnaires.<a id=86></a>
 
 ###### Article R*64
 
@@ -5328,9 +6497,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L6 (M)
 
 
-### Titre VIII : Dispositions d'ordre et diverses.<a id=85></a>
+### Titre VIII : Dispositions d'ordre et diverses.<a id=87></a>
 
-#### Paragraphe Ier : Concession et révision de la pension.<a id=86></a>
+#### Paragraphe Ier : Concession et révision de la pension.<a id=88></a>
 
 ###### Article R65
 
@@ -5378,7 +6547,7 @@ _Cité par_:
   - Code des pensions civiles et militaires de retr... - art. R99 (V)
 
 
-#### Paragraphe II : Dispositions diverses.<a id=87></a>
+#### Paragraphe II : Dispositions diverses.<a id=89></a>
 
 ###### Article R*66
 
@@ -5497,11 +6666,11 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L60 (Ab)
 
 
-## Livre II : Dispositions particulières du régime général des retraites.<a id=88></a>
+## Livre II : Dispositions particulières du régime général des retraites.<a id=90></a>
 
-### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.<a id=89></a>
+### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.<a id=91></a>
 
-#### Chapitre Ier : Fonctionnaires civils anciens combattants.<a id=90></a>
+#### Chapitre Ier : Fonctionnaires civils anciens combattants.<a id=92></a>
 
 ###### Article R*71
 
@@ -5548,9 +6717,9 @@ _Abrogé par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Chapitre II : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause.<a id=91></a>
+#### Chapitre II : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause.<a id=93></a>
 
-##### Paragraphe Ier : Droits des fonctionnaires.<a id=92></a>
+##### Paragraphe Ier : Droits des fonctionnaires.<a id=94></a>
 
 ###### Article R*72
 
@@ -5577,7 +6746,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L68 à L71
 
 
-##### Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre.<a id=93></a>
+##### Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre.<a id=95></a>
 
 ###### Article R*73
 
@@ -5604,9 +6773,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L71 (Ab)
 
 
-### Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires.<a id=94></a>
+### Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires.<a id=96></a>
 
-#### Chapitre Ier : Agents en service détaché.<a id=95></a>
+#### Chapitre Ier : Agents en service détaché.<a id=97></a>
 
 ###### Article R*74
 
@@ -5686,7 +6855,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L15, L63 et R3
 
 
-#### Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.<a id=96></a>
+#### Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.<a id=98></a>
 
 ###### Article R*77
 
@@ -5709,7 +6878,7 @@ _Cite_:
   - Loi n°49-1097 1949-08-02
 
 
-#### Chapitre IV : Gendarmes et sapeurs-pompiers de Paris.<a id=97></a>
+#### Chapitre IV : Gendarmes et sapeurs-pompiers de Paris.<a id=99></a>
 
 ###### Article R78
 
@@ -5773,7 +6942,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L15 (M)
 
 
-#### Chapitre V : Inspecteurs des affaires d'outre-mer et surveillants des services pénitentiaires de la Guyane.<a id=98></a>
+#### Chapitre V : Inspecteurs des affaires d'outre-mer et surveillants des services pénitentiaires de la Guyane.<a id=100></a>
 
 ###### Article R*80
 
@@ -5793,7 +6962,7 @@ _Abrogé par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Chapitre VII : Anciens officiers de carrière ayant repris du service au cours des hostilités.<a id=99></a>
+#### Chapitre VII : Anciens officiers de carrière ayant repris du service au cours des hostilités.<a id=101></a>
 
 ###### Article R*82
 
@@ -5825,7 +6994,7 @@ _Abrogé par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Chapitre VIII : Officiers de réserve servant en situation d'activité.<a id=100></a>
+#### Chapitre VIII : Officiers de réserve servant en situation d'activité.<a id=102></a>
 
 ###### Article R*83
 
@@ -5848,7 +7017,7 @@ _Abrogé par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Chapitre IX : Personnel navigant de l'armée de l'air.<a id=101></a>
+#### Chapitre IX : Personnel navigant de l'armée de l'air.<a id=103></a>
 
 ###### Article R*84
 
@@ -5895,7 +7064,7 @@ _Cite_:
   - Ordonnance 1943-07-19 art. 8
 
 
-#### Chapitre X : Ayants cause des militaires rengagés sous l'empire de la loi du 7 août 1913.<a id=102></a>
+#### Chapitre X : Ayants cause des militaires rengagés sous l'empire de la loi du 7 août 1913.<a id=104></a>
 
 ###### Article R*86
 
@@ -5923,7 +7092,7 @@ _Cite_:
   - Loi n°1913-08-07
 
 
-#### Chapitre XI : Ayants cause des ex-officiers de carrière ayant repris du service au cours des hostilités.<a id=103></a>
+#### Chapitre XI : Ayants cause des ex-officiers de carrière ayant repris du service au cours des hostilités.<a id=105></a>
 
 ###### Article R*87
 
@@ -5946,7 +7115,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite R82
 
 
-#### Chapitre XII : Ayants cause des officiers de réserve ayant servi en situation d'activité.<a id=104></a>
+#### Chapitre XII : Ayants cause des officiers de réserve ayant servi en situation d'activité.<a id=106></a>
 
 ###### Article R*88
 
@@ -5969,9 +7138,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite L48 et R83
 
 
-### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.<a id=105></a>
+### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.<a id=107></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=106></a>
+#### Chapitre Ier : Dispositions générales.<a id=108></a>
 
 ###### Article R*89
 
@@ -6044,7 +7213,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L84 (M)
 
 
-#### Chapitre II : Cumul de pensions et de rémunérations d'activité.<a id=107></a>
+#### Chapitre II : Cumul de pensions et de rémunérations d'activité.<a id=109></a>
 
 ###### Article R*92
 
@@ -6106,11 +7275,11 @@ _Codifié par_:
   - Décret n°66-809 1966-10-28
 
 
-## Livre III : Dispositions relatives au paiement des pensions.<a id=108></a>
+## Livre III : Dispositions relatives au paiement des pensions.<a id=110></a>
 
-### Chapitre Ier : Paiement des pensions.<a id=109></a>
+### Chapitre Ier : Paiement des pensions.<a id=111></a>
 
-#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=110></a>
+#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=112></a>
 
 ###### Article R96
 
@@ -6163,7 +7332,7 @@ _Codifié par_:
   - Décret n°66-809 1966-10-28
 
 
-#### Paragraphe II : Contexture des titres de paiement.<a id=111></a>
+#### Paragraphe II : Contexture des titres de paiement.<a id=113></a>
 
 ###### Article R99
 
@@ -6186,7 +7355,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite R65
 
 
-### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=112></a>
+### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=114></a>
 
 ###### Article R*101
 
@@ -6296,7 +7465,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite R101 et R102 al. 1 et 2
 
 
-### CHAPITRE III : Avances mensuelles sur pensions concédées en paiement.<a id=113></a>
+### CHAPITRE III : Avances mensuelles sur pensions concédées en paiement.<a id=115></a>
 
 ###### Article R*105
 
@@ -6371,11 +7540,11 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. R100 (V)
 
 
-# Partie réglementaire - Décrets simples<a id=114></a>
+# Partie réglementaire - Décrets simples<a id=116></a>
 
-## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=115></a>
+## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=117></a>
 
-### Titre Ier : Généralités.<a id=116></a>
+### Titre Ier : Généralités.<a id=118></a>
 
 ###### Article D1
 
@@ -6405,11 +7574,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre II : Constitution du droit à la pension ou à la solde de réforme.<a id=117></a>
+### Titre II : Constitution du droit à la pension ou à la solde de réforme.<a id=119></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=118></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=120></a>
 
-##### Paragraphe II : Eléments constitutifs.<a id=119></a>
+##### Paragraphe II : Eléments constitutifs.<a id=121></a>
 
 ###### Article D2
 
@@ -6540,9 +7709,9 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=120></a>
+### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=122></a>
 
-#### Chapitre Ier : Services et bonifications valables.<a id=121></a>
+#### Chapitre Ier : Services et bonifications valables.<a id=123></a>
 
 ###### Article D8
 
@@ -6711,9 +7880,9 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Chapitre II : Détermination du montant de la pension.<a id=122></a>
+#### Chapitre II : Détermination du montant de la pension.<a id=124></a>
 
-##### Paragraphe II : Emoluments de base.<a id=123></a>
+##### Paragraphe II : Emoluments de base.<a id=125></a>
 
 ###### Article D15
 
@@ -6756,7 +7925,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-##### Paragraphe IV : Avantages de pension à caractère familial.<a id=124></a>
+##### Paragraphe IV : Avantages de pension à caractère familial.<a id=126></a>
 
 ###### Article D16
 
@@ -6783,11 +7952,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre V : Invalidité.<a id=125></a>
+### Titre V : Invalidité.<a id=127></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=126></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=128></a>
 
-##### Paragraphe III : Dispositions communes.<a id=127></a>
+##### Paragraphe III : Dispositions communes.<a id=129></a>
 
 ###### Article D17
 
@@ -6834,7 +8003,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Chapitre II : Militaires.<a id=128></a>
+#### Chapitre II : Militaires.<a id=130></a>
 
 ###### Article D19
 
@@ -6871,7 +8040,7 @@ _Créé par_:
   - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
 
 
-### Titre VI : Pensions des ayants cause.<a id=129></a>
+### Titre VI : Pensions des ayants cause.<a id=131></a>
 
 ###### Article D19-1
 
@@ -7030,9 +8199,9 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre VIII : Dispositions d'ordre et diverses.<a id=130></a>
+### Titre VIII : Dispositions d'ordre et diverses.<a id=132></a>
 
-#### Paragraphe Ier : Concession et révision de la pension.<a id=131></a>
+#### Paragraphe Ier : Concession et révision de la pension.<a id=133></a>
 
 ###### Article D20
 
@@ -7367,7 +8536,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe II : Dispositions diverses.<a id=132></a>
+#### Paragraphe II : Dispositions diverses.<a id=134></a>
 
 ###### Article D27
 
@@ -7415,7 +8584,7 @@ _Créé par_:
   - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
 
 
-### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=133></a>
+### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=135></a>
 
 ###### Article D30
 
@@ -7618,11 +8787,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-## Livre II : Dispositions particulières du régime général des retraites.<a id=134></a>
+## Livre II : Dispositions particulières du régime général des retraites.<a id=136></a>
 
-### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.<a id=135></a>
+### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.<a id=137></a>
 
-#### Chapitre Ier : Fonctionnaires civils anciens combattants.<a id=136></a>
+#### Chapitre Ier : Fonctionnaires civils anciens combattants.<a id=138></a>
 
 ###### Article D37
 
@@ -7648,11 +8817,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-## Livre III : Dispositions relatives au paiement des pensions.<a id=137></a>
+## Livre III : Dispositions relatives au paiement des pensions.<a id=139></a>
 
-### Chapitre Ier : Paiement des pensions.<a id=138></a>
+### Chapitre Ier : Paiement des pensions.<a id=140></a>
 
-#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=139></a>
+#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=141></a>
 
 ###### Article D39
 
@@ -7669,7 +8838,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe III : Modalités de paiement des pensions.<a id=140></a>
+#### Paragraphe III : Modalités de paiement des pensions.<a id=142></a>
 
 ###### Article D41
 
@@ -7755,7 +8924,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe IV : Paiement par l'intermédiaire d'un établissement bancaire.<a id=141></a>
+#### Paragraphe IV : Paiement par l'intermédiaire d'un établissement bancaire.<a id=143></a>
 
 ###### Article D48
 
@@ -7842,7 +9011,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe V : Précompte de la cotisation de sécurité sociale.<a id=142></a>
+#### Paragraphe V : Précompte de la cotisation de sécurité sociale.<a id=144></a>
 
 ###### Article D53
 
@@ -7923,7 +9092,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe VI : Abandon de jouissance.<a id=143></a>
+#### Paragraphe VI : Abandon de jouissance.<a id=145></a>
 
 ###### Article D57
 
@@ -7944,9 +9113,9 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. D472 (V)
 
 
-### Chapitre III : Avances mensuelles sur pensions concédées en paiement.<a id=144></a>
+### Chapitre III : Avances mensuelles sur pensions concédées en paiement.<a id=146></a>
 
-#### Paragraphe Ier : Demande et autorisation de paiement d'avances.<a id=145></a>
+#### Paragraphe Ier : Demande et autorisation de paiement d'avances.<a id=147></a>
 
 ###### Article D59
 
@@ -8038,7 +9207,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe III : Paiement du solde du trimestre.<a id=146></a>
+#### Paragraphe III : Paiement du solde du trimestre.<a id=148></a>
 
 ###### Article D64
 
@@ -8102,7 +9271,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe IV : Dispositions particulières à la Caisse nationale d'épargne.<a id=147></a>
+#### Paragraphe IV : Dispositions particulières à la Caisse nationale d'épargne.<a id=149></a>
 
 ###### Article D68
 
@@ -8169,7 +9338,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe V : Dispositions particulières aux caisses de crédit municipal.<a id=148></a>
+#### Paragraphe V : Dispositions particulières aux caisses de crédit municipal.<a id=150></a>
 
 ###### Article D73
 
