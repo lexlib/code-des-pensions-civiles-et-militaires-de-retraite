@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1968-05-19
+Version Consolidée au 1970-06-05
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -29,7 +29,7 @@ Version Consolidée au 1968-05-19
       - [Titre VII : Dispositions spéciales. (art. L51 à L52)](#26)
       - [Titre VIII : Dispositions d'ordre et diverses. (art. L54 à L59)](#27)
         - [Paragraphe Ier : Concession et révision de la pension. (art. L54)](#28)
-        - [Paragraphe II : Dispositions diverses. (art. L59)](#29)
+        - [Paragraphe II : Dispositions diverses. (art. L58 à L59)](#29)
       - [Titre IX : Retenues pour pensions. (art. L62 à L64)](#30)
       - [Titre X : Cessation ou reprise de service. -  Coordination avec le régime de sécurité sociale. (art. L65 à L67)](#31)
     - [Livre II : Dispositions particulières du régime général des retraites. (art. L68 à L87)](#32)
@@ -2069,6 +2069,40 @@ _Codifié par_:
 
 
 #### Paragraphe II : Dispositions diverses.<a id=29></a>
+
+###### Article L58
+
+Le droit à l'obtention ou à la jouissance de la pension et de la rente viagère d'invalidité est suspendu :
+
+Par la révocation avec suspension des droits à pension ;
+
+Par la condamnation à la destitution prononcée par application du code de justice militaire ou maritime ;
+
+Par la condamnation à une peine afflictive ou infamante pendant la durée de la peine ;
+
+Par les circonstances qui font perdre la qualité de Français durant la privation de cette qualité ;
+
+Par la déchéance totale ou partielle de l'autorité parentale pour les veuves et les femmes divorcées.
+
+S'il y a lieu, par la suite, à la liquidation ou au rétablissement de la pension ou de la rente d'invalidité, aucun rappel
+n'est dû pour les périodes d'application de la suspension.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°60-1089 du 6 octobre 1960 - art. 4 (V)
+  - Décret n°67-711 du 18 août 1967 - art. 30 (Ab)
+  - Loi n°2003-775 du 21 août 2003 - art. 65 (V)
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
+_Modifié par_:
+
+  - Loi n°70-459 du 4 juin 1970 - art. 6 (V) JORF 5 juin 1970 rectificatif JORF 21 août 1970
+
 
 ###### Article L59
 
