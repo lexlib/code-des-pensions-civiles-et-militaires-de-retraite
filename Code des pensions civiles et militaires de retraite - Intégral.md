@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2000-04-13
+Version Consolidée au 2001-07-18
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -4236,6 +4236,11 @@ Par la déchéance totale ou partielle de l'autorité parentale pour les veuves 
 S'il y a lieu, par la suite, à la liquidation ou au rétablissement de la pension ou de la rente d'invalidité, aucun rappel
 n'est dû pour les périodes d'application de la suspension.
 
+La suspension prévue en raison de la perte de la nationalité française ne s'applique pas aux veuves algériennes d'anciens
+fonctionnaires français dès lors que n'ayant pas souscrit la déclaration récognitive de nationalité française après
+l'accession à l'indépendance de l'Algérie, elles ont établi leur domicile en France depuis le 1er janvier 1963 et y résident
+de manière habituelle.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -4250,7 +4255,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°70-459 du 4 juin 1970 - art. 6 (V) JORF 5 juin 1970 rectificatif JORF 21 août 1970
+  - Loi n°2001-624 du 17 juillet 2001 - art. 32 ()
 
 
 ###### Article L59
