@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1967-09-16
+Version Consolidée au 1968-05-19
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -122,8 +122,8 @@ Version Consolidée au 1967-09-16
         - [Chapitre Ier : Fonctionnaires civils. (art. D17 à D18)](#119)
           - [Paragraphe III : Dispositions communes. (art. D17 à D18)](#120)
         - [Chapitre II : Militaires. (art. D19)](#121)
-      - [Titre VIII : Dispositions d'ordre et diverses. (art. D27 à D29)](#122)
-        - [Paragraphe II : Dispositions diverses. (art. D27 à D29)](#123)
+      - [Titre VIII : Dispositions d'ordre et diverses. (art. D27)](#122)
+        - [Paragraphe II : Dispositions diverses. (art. D27)](#123)
       - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D36)](#124)
     - [Livre II : Dispositions particulières du régime général des retraites. (art. D37)](#125)
       - [Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause. (art. D37)](#126)
@@ -5616,27 +5616,6 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
-
-
-###### Article D29
-
-**Nota:**
-
-[*(Abrogé par l'article 6 du décret n° 68-445 du 13 mai 1968)*]
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°68-445 du 13 mai 1968 - art. 6 (Ab) JORF 19 mai 1968
-
-_Cité par_:
-
-  - Décret n°68-445 du 13 mai 1968 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°66-810 1966-10-28
 
 
 ### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=124></a>
