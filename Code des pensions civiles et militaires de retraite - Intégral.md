@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1989-12-30
+Version Consolidée au 1990-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -5374,6 +5374,29 @@ _Cite_:
 _Codifié par_:
 
   - Loi n°64-1339 1964-12-29
+
+
+###### Article L95
+
+Sont nulles de plein droit et de nul effet les obligations contractées envers les intermédiaires qui se chargent, moyennant
+stipulation d'émoluments, d'assurer aux pensionnaires de l'Etat le bénéfice du présent code.
+
+Est passible d'une amende de 3000 F à 6000 F et, en cas de récidive d'une amende de 6000 F à 12000 F  tout intermédiaire
+convaincu d'avoir offert les services spécifiés à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
+
+_Cité par_:
+
+  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
+
+_Modifié par_:
+
+  - Loi n°89-469 du 10 juillet 1989 - art. 6 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
 
 
 ###### Article L96
