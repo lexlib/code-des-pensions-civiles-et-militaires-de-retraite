@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2002-12-31
+Version Consolidée au 2003-08-22
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -45,7 +45,7 @@ Version Consolidée au 2002-12-31
           - [Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre. (art. L71)](#42)
           - [Paragraphe III : Dispositions communes. (art. L72)](#43)
       - [Titre II : Dispositions particulières relatives à certaines catégories de retraites civiles et militaires. (art. L73 à L83)](#44)
-        - [Chapitre Ier : Agents en service détaché. (art. L73 à L75)](#45)
+        - [Chapitre Ier : Agents en service détaché. (art. L73 à L74)](#45)
         - [Chapitre II : Fonctionnaires civils titulaires de deux emplois. (art. L76)](#46)
         - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités. (art. L77 à L81)](#47)
         - [Chapitre IV : Sapeurs-pompiers de Paris. (art. L83)](#48)
@@ -4151,30 +4151,20 @@ _Modifié par_:
 
 ###### Article L56
 
-Les pensions et les rentes viagères d'invalidité instituées par le présent code sont incessibles et insaisissables, sauf en
-cas de débet envers l'Etat, les départements, communes ou établissements publics, les territoires d'outre-mer ou pour les
-créances privilégiées aux termes de l'article 2101 du code civil et pour le paiement des dettes alimentaires prévues par le
-code civil ou l'exécution de la contribution aux charges du mariage.
+Les pensions et les rentes viagères d'invalidité instituées par le présent code sont cessibles et saisissables dans les
+conditions prévues à l'article L. 355-2 du code de la sécurité sociale.
 
-Les débets envers l'Etat, ainsi que ceux contractés envers les diverses autres collectivités publiques visées au précédent
-alinéa, rendent les pensions et les rentes viagères d'invalidité passibles de retenues jusqu'à concurrence d'un cinquième de
-leur montant. Il en est de même pour les créances privilégiées de l'article 2101 du code civil. Dans les autres cas prévus au
-précédent alinéa, la retenue peut s'élever jusqu'au tiers du montant de la pension ou de la rente viagère d'invalidité.
-
-Les retenues du cinquième et du tiers peuvent s'exercer simultanément.
-
-En cas de débets simultanés envers l'Etat et autres collectivités publiques, les retenues devront être effectuées en premier
-lieu au profit de l'Etat.
+Par dérogation aux dispositions du premier alinéa, la saisie peut s'élever à la totalité de la pension, réserve faite d'une
+somme d'un montant égal au tiers du minimum garanti prévu à l'article L. 17 du présent code, lorsque cette saisie a pour
+objet d'exécuter les condamnations à des réparations civiles ou aux frais dus à la victime au titre de l'article 375 du code
+de procédure pénale et que ces condamnations ont été prononcées à l'encontre d'une personne qui a été jugée coupable de crime
+ou complicité de crime contre l'humanité.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°64-1339 1964-12-29
-
 _Modifié par_:
 
-  - Loi n°73-5 du 2 janvier 1973 - art. 9 () JORF 3 janvier 1973
+  - Loi n°2003-775 du 21 août 2003 - art. 62 (V) JORF 22 août 2003
 
 _Cité par_:
 
@@ -4184,7 +4174,13 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 2101 (M)
+  - Code des pensions civiles et militaires de retrait - art. L17 (M)
+  - CODE DE PROCEDURE PENALE - art. 375 (M)
+  - Code de la sécurité sociale. - art. L355-2 (M)
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
 
 
 ###### Article L57
@@ -4756,29 +4752,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°64-1339 1964-12-29
-
-
-###### Article L75
-
-Tout fonctionnaire ou militaire qui réunit au moins quinze ans de services à l'époque de l'acceptation du mandat de député ou
-sénateur, pourra, dès qu'il aura atteint sa cinquantième année, obtenir une pension à jouissance immédiate, calculée dans les
-conditions prévues au titre III du livre Ier du présent code, sur la base du traitement ou de la solde afférent à l'emploi ou
-au grade dont il était titulaire au jour de sa demande d'admission à la retraite.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°64-1339 1964-12-29
-
-_Cité par_:
-
-  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
-  - Loi n°2003-775 du 21 août 2003 - art. 41 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-775 du 21 août 2003 - art. 41 (V) JORF 22 août 2003
 
 
 #### Chapitre II : Fonctionnaires civils titulaires de deux emplois.<a id=46></a>
