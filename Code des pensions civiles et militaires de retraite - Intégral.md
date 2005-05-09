@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2005-02-24
+Version Consolidée au 2005-05-10
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -119,9 +119,9 @@ Version Consolidée au 2005-02-24
       - [Titre VIII : Dispositions d'ordre et diverses. (art. D20 à D26)](#116)
         - [Paragraphe Ier : Concession et révision de la pension. (art. D20 à D26)](#117)
       - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D32)](#118)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. D39 à D58)](#119)
-      - [Chapitre Ier : Paiement des pensions. (art. D39 à D57)](#120)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D39)](#121)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. D38 à D58)](#119)
+      - [Chapitre Ier : Paiement des pensions. (art. D38 à D57)](#120)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D38 à D39)](#121)
         - [Paragraphe II : Contexture des titres de paiement. (art. D40)](#122)
         - [Paragraphe III : Modalités de paiement des pensions. (art. D43 à D47)](#123)
         - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D54)](#124)
@@ -6955,7 +6955,7 @@ La commission de réforme instituée à l'article L. 31 est composée comme suit
 
 Le directeur ou chef de service dont dépend l'intéressé ou son représentant ;
 
-Le contrôleur financier ou son représentant ;
+Le membre du corps du contrôle général économique et financier ou son représentant ;
 
 Deux représentants titulaires du personnel à la commission administrative paritaire dont relève le fonctionnaire intéressé
 appartenant au même grade ou au même corps que ce dernier ou, éventuellement, leurs suppléants élus par les représentants du
@@ -7009,11 +7009,6 @@ _Codifié par_:
 
   - Décret n°66-809 1966-10-28
 
-_Modifié par_:
-
-  - Décret n°71-74 1971-01-21 art. 2 JORF 28 janvier 1971
-  - Décret n°86-626 1986-03-18 art. 1 JORF 20 mars 1986
-
 _Cite_:
 
   - Décret n°86-442 1986-03-14 art. 5 et 6
@@ -7023,6 +7018,10 @@ _Cité par_:
 
   - Arrêté du 28 août 1998 - art. 1 (Ab)
   - Arrêté du 3 juillet 2007 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 
 ###### Article R46
@@ -7034,7 +7033,7 @@ judiciaire, composée comme suit :
 
 - le directeur ou chef de corps ou de service dont dépend l'intéressé, ou son représentant, président ;
 
-- le contrôleur financier ou son représentant ;
+- le membre du corps du contrôle général économique et financier ou son représentant ;
 
 - deux représentants, titulaires ou éventuellement suppléants, des membres du Conseil d'Etat ou des magistrats à l'égard
 desquels la commission est compétente et qui sont désignés par leurs collègues dans les conditions fixées par arrêté du garde
@@ -7079,11 +7078,6 @@ _Codifié par_:
 
   - Décret n°66-809 1966-10-28
 
-_Modifié par_:
-
-  - Décret n°71-74 1971-01-21 art. 2 JORF 28 janvier 1971
-  - Décret n°86-626 1986-03-18 art. 2 JORF 20 mars 1986
-
 _Cite_:
 
   - Décret n°86-442 1986-03-14 art. 5 et 6
@@ -7092,6 +7086,10 @@ _Cité par_:
 
   - Décret n°86-442 du 14 mars 1986 - art. 10 (V)
   - Arrêté du 5 octobre 1987 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 
 ###### Article R47
@@ -9474,6 +9472,25 @@ _Codifié par_:
 
 #### Paragraphe Ier : Règles générales du paiement des pensions.<a id=121></a>
 
+###### Article D38
+
+Les arrérages des pensions inscrites au grand-livre de la Dette publique et de leurs accessoires sont payés sans
+ordonnancement préalable et sans visa du membre du corps du contrôle général économique et financier par les comptables du
+Trésor assignataires ; les dépenses correspondantes sont imputées par ces comptables aux chapitres ouverts au budget à cet
+effet.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°86-112 1986-01-23 art. 1 JORF 26 janvier 1986
+  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+_Codifié par_:
+
+  - Décret n°66-810 1966-10-28
+
+
 ###### Article D39
 
 La solde de réserve visée à l'article L. 51 est payée mensuellement par le ministre de la défense.
@@ -9664,9 +9681,9 @@ _Cite_:
 
 ###### Article D58
 
-Les avances visées aux articles R. 101 à R. 104 sont payées sans ordonnancement préalable et sans visa du contrôleur
-financier par les comptables du Trésor assignataires ; les dépenses correspondantes sont imputées par ces comptables aux
-chapitres ouverts au budget pour le service des pensions auxquelles elles se rapportent.
+Les avances visées aux articles R. 101 à R. 104 sont payées sans ordonnancement préalable et sans visa du membre du corps du
+contrôle général économique et financier par les comptables du Trésor assignataires ; les dépenses correspondantes sont
+imputées par ces comptables aux chapitres ouverts au budget pour le service des pensions auxquelles elles se rapportent.
 
 Lorsqu'il attribue des avances, le département ministériel compétent adresse immédiatement une copie de sa décision au
 service des pensions du ministère chargé du budget.
@@ -9675,7 +9692,7 @@ service des pensions du ministère chargé du budget.
 
 _Modifié par_:
 
-  - Décret n°2003-1309 du 26 décembre 2003 - art. 26 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 _Cite_:
 
