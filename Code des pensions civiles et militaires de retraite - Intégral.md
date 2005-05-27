@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2005-05-11
+Version Consolidée au 2005-05-28
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -7985,13 +7985,14 @@ _Cite_:
 
 ###### Article R79
 
-La pension attribuée aux militaires officiers et non officiers de la brigade de sapeurs-pompiers de Paris, à l'exclusion des
-médecins, dont les services dans cette brigade, consécutifs ou non, atteignent quinze années au moins pour les officiers et
-sous-officiers et dix années au moins pour les caporaux-chefs, caporaux et sapeurs, ou dont la mise à la retraite résulte
-d'infirmités contractées en service, est augmentée d'un supplément de 0,50 p. 100 de la solde de base pour chaque année
-d'activité accomplie dans ladite brigade.
+La pension attribuée aux militaires de la brigade de sapeurs-pompiers de Paris et du bataillon des marins-pompiers de
+Marseille, à l'exclusion des médecins, dont les services dans cette brigade ou ce bataillon, consécutifs ou non, atteignent
+quinze années au moins pour les officiers et sous-officiers et dix années au moins pour les militaires du rang, ou dont la
+mise à la retraite résulte d'infirmités contractées en service, est augmentée d'un supplément de 0,50 % de la solde de base
+pour chaque année d'activité accomplie dans la brigade pour les sapeurs-pompiers de Paris ou dans le bataillon pour les
+marins-pompiers de Marseille. 
 
-La pension ainsi majorée ne peut excéder en aucun cas le montant du traitement ou de la solde mentionné à l'article L. 15.
+La pension ainsi majorée ne peut excéder en aucun cas le montant du traitement ou de la solde mentionné à l'article L. 15. 
 
 Le supplément de pension est réversible au profit des ayants cause comme la pension militaire elle-même.
 
@@ -8003,8 +8004,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-1305 du 26 décembre 2003 - art. 34 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+  - Décret n°2005-561 du 26 mai 2005 - art. 1 () JORF 28 mai 2005
 
 _Cité par_:
 
@@ -8012,7 +8012,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des pensions civiles et militaires de retrait - art. L15 (M)
+  - Code des pensions civiles et militaires de retr... - art. L15 (V)
 
 
 #### Chapitre VI : Agents des offices ou établissements de l'Etat dotés de l'autonomie financière.<a id=89></a>
