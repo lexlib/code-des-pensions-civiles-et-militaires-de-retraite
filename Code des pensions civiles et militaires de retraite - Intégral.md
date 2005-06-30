@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2005-05-28
+Version Consolidée au 2005-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -423,15 +423,7 @@ Le droit à pension est acquis :
 
 1° Aux officiers et aux militaires non officiers qui ont accompli quinze ans de services civils et militaires effectifs ;
 
-2° Sans condition de durée de services, aux officiers et sous-officiers de carrière radiés des cadres par suite d'infirmités.
-
-3° Aux militaires non officiers ne possédant pas le statut de militaires de carrière qui ont accompli plus de cinq ans et
-moins de quinze ans de services effectifs et qui ont été radiés des cadres pour infirmités imputables au service ;
-
-4° Sans condition de durée de services aux militaires non officiers servant par contrat au-delà de la durée légale qui ont
-accompli moins de quinze ans de services effectifs et qui ont été radiés des cadres pour infirmités attribuables à un service
-en opérations de guerre ouvrant droit au bénéfice de campagne double et contractées après l'expiration de la durée légale du
-service militaire obligatoire.
+2° Sans condition de durée de service aux officiers et aux militaires non officiers radiés des cadres par suite d'infirmités.
 
 **Liens relatifs à cet article**
 
@@ -457,10 +449,6 @@ _Cité par_:
   - Code des pensions civiles et militaires de retrait - art. R*83 (Ab)
   - Code des transports - art. L6527-9 (V)
 
-_Modifié par_:
-
-  - Loi n°72-662 1972-07-13 art. 109-1 JORF 14 juillet 1972
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°79-156 du 27 février 1979
@@ -469,6 +457,10 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°79-156 du 27 février 1979 - art. 3 (V)
   - TXT_SOURCE: Décret n°79-156 du 27 février 1979 - art. 4 (V)
 
+_Modifié par_:
+
+  - Loi n°2005-270 du 24 mars 2005 - art. 95 () JORF 26 mars 2005 en vigueur le 1er juillet 2005
+
 _Codifié par_:
 
   - Loi n°64-1339 1964-12-29
@@ -476,15 +468,8 @@ _Codifié par_:
 
 ###### Article L7
 
-Le droit à la solde de réforme est acquis :
-
-1° S'ils sont réformés définitivement pour infirmités, aux militaires non officiers servant par contrat au-delà de la durée
-légale et qui ne peuvent prétendre au bénéfice des dispositions de l'article L. 6 (3° et 4°) .Toutefois, ils ont la faculté
-de renoncer à la solde de réforme afin de bénéficier des dispositions de l'article L. 65. L'option formulée par ces
-militaires le jour de la radiation des cadres est définitive.
-
-2° Aux officiers et aux sous-officiers de carrière comptant moins de quinze ans de services civils et militaires radiés des
-cadres par mesure disciplinaire.
+Le droit à solde de réforme est acquis aux officiers et aux sous-officiers de carrière comptant moins de quinze ans de
+services civils et militaires radiés des cadres par mesure disciplinaire.
 
 **Liens relatifs à cet article**
 
@@ -500,7 +485,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°96-1111 du 19 décembre 1996 - art. 10 ()
+  - Loi n°2005-270 du 24 mars 2005 - art. 95 () JORF 26 mars 2005 en vigueur le 1er juillet 2005
 
 _Cite_:
 
@@ -562,7 +547,7 @@ d) Ou d'une disponibilité pour élever un enfant de moins de huit ans.
 Les modalités de prise en compte de ces périodes d'interruption ou de réduction d'activité prévues par les articles 37 bis,
 54 et 54 bis de la loi n° 84-16 du 11 janvier 1984 précitée, par l'article 47 du décret n° 85-986 du 16 septembre 1985
 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation
-définitive de fonctions et par la loi n° 72-662 du 13 juillet 1972 portant statut général des militaires sont précisées par
+définitive de fonctions et par la loi n° 2005-270 du 24 mars 2005 portant statut général des militaires sont précisées par
 décret en Conseil d'Etat ;
 
 2° Dans les cas exceptionnels prévus par une loi ou par un décret en Conseil d'Etat.
@@ -620,20 +605,20 @@ _Cité par_:
   - Code des pensions civiles et militaires de retr... - art. L25 bis (V)
   - Code des pensions civiles et militaires de retr... - art. R9 (V)
 
-_Codifié par_:
-
-  - Loi n°64-1339 1964-12-29
-
 _Cite_:
 
-  - Loi n°72-662 1972-07-13
   - Loi n°84-16 1984-01-11 art. 37 bis, art. 54, art. 54 bis, art. 34, art. 45
   - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
+  - Loi n°2005-270 2005-03-24
   - Code des pensions civiles et militaires de retrait - art. L5 (M)
 
 _Modifié par_:
 
-  - Loi n°2003-775 du 21 août 2003 - art. 44 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+  - Loi n°2005-270 du 24 mars 2005 - art. 102 () JORF 26 mars 2005 en vigueur le 1er juillet 2005
+
+_Codifié par_:
+
+  - Loi n°64-1339 1964-12-29
 
 
 ###### Article L9 bis
@@ -2969,10 +2954,9 @@ _Modifié par_:
 
 ###### Article L23
 
-La pension ou la solde de réforme des caporaux, des soldats et de tous les militaires de rang correspondant est égale à 85 p.
-100 pour les caporaux et quartiers-maîtres de 2e classe et à 80 p. 100 pour les soldats et matelots de la pension ou de la
-solde de réforme qui serait obtenue par un sergent ou un second maître de 2e classe comptant le même nombre d'années de
-services et de bonifications.
+La pension des caporaux, des soldats et de tous les militaires de rang correspondant est égale à 85 %, pour les caporaux et
+quartiers-maîtres de deuxième classe, et à 80 %, pour les soldats et matelots, de la pension qui serait obtenue par un
+sergent ou un second maître comptant le même nombre d'années de services et de bonifications.
 
 **Liens relatifs à cet article**
 
@@ -2985,6 +2969,10 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°64-1339 1964-12-29
+
+_Modifié par_:
+
+  - Loi n°2005-270 du 24 mars 2005 - art. 95 () JORF 26 mars 2005 en vigueur le 1er juillet 2005
 
 
 ### Titre IV : Jouissance de la pension ou de la solde de réforme.<a id=20></a>
@@ -3030,6 +3018,16 @@ II. - La liquidation de la pension militaire intervient :
 1° Lorsqu'un officier est radié des cadres par limite d'âge ou par limite de durée de services, ou par suite d'infirmités, ou
 encore s'il réunit, à la date de son admission à la retraite, vingt-cinq ans de services effectifs ;
 
+1° bis Lorsqu'un officier est parent de trois enfants vivants, ou décédés par fait de guerre, ou d'un enfant vivant de plus
+d'un an et atteint d'une invalidité égale ou supérieure à 80 %, à condition qu'il ait, pour chaque enfant, interrompu son
+activité dans des conditions fixées par décret en Conseil d'Etat.
+
+Sont assimilées à l'interruption d'activité mentionnée à l'alinéa précédent les périodes n'ayant pas donné lieu à cotisation
+obligatoire dans un régime de retraite de base, dans des conditions fixées par décret en Conseil d'Etat.
+
+Sont assimilés aux enfants mentionnés au premier alinéa les enfants énumérés au II de l'article L. 18 que l'intéressé a
+élevés dans les conditions prévues au III dudit article ;
+
 2° Lorsqu'un militaire non officier est radié des cadres par limite d'âge ou par limite de durée de services, ou par suite
 d'infirmités, ou encore s'il réunit, à la date de son admission à la retraite, quinze ans de services effectifs ;
 
@@ -3042,9 +3040,12 @@ temps égal à la durée des services effectivement accomplis par son bénéfici
 
 **Nota:**
 
-NOTA : Loi 2005-102 2005-02-11 art. 28 III : Les dispositions du 5° de l'article L24 sont applicables aux fonctionnaires
+Nota : Loi 2005-102 2005-02-11 art. 28 III : Les dispositions du 5° de l'article L. 24 sont applicables aux fonctionnaires
 affiliés à la Caisse nationale de retraite des agents des collectivités locales ainsi qu'aux ouvriers régis par le régime des
 pensions des ouvriers des établissements industriels de l'Etat.
+
+Nota : Loi 2005-270 2005-03-24 art. 95 II : Les dispositions du 1° bis de l'article L. 24 sont applicables aux demandes
+présentées avant leur entrée en vigueur qui n'ont pas donné lieu à une décision de justice passée en force de chose jugée.
 
 **Liens relatifs à cet article**
 
@@ -3172,7 +3173,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-102 du 11 février 2005 - art. 28 (V) JORF 12 février 2005
+  - Loi n°2005-102 du 11 février 2005 - art. 28 (V)
+  - Loi n°2005-270 du 24 mars 2005 - art. 95 () JORF 26 mars 2005 en vigueur le 1er juillet 2005
 
 _Cite_:
 
@@ -4265,25 +4267,25 @@ _Codifié par_:
 
 ###### Article L47
 
-Les dispositions du chapitre Ier du présent titre sont applicables aux ayants cause des militaires mentionnés à l'article L.
-6.
+Les dispositions du chapitre Ier du présent titre sont applicables aux ayants cause des militaires mentionnés aux articles L.
+6 et L. 7. 
 
 La pension des veuves de maréchaux de France et amiraux de France est fixée à 75 % des émoluments de base servant au calcul
 de la solde de réserve d'un général de division au taux le plus élevé.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2003-775 du 21 août 2003 - art. 59 () JORF 22 août 2003 en vigueur le 1er janvier 2004
-
 _Cite_:
 
-  - Code des pensions civiles et militaires de retrait - art. L6 (M)
+  - Code des pensions civiles et militaires de retr... - art. L6 (V)
 
 _Codifié par_:
 
   - Loi n°64-1339 1964-12-29
+
+_Modifié par_:
+
+  - Loi n°2005-270 du 24 mars 2005 - art. 95 () JORF 26 mars 2005 en vigueur le 1er juillet 2005
 
 
 ###### Article L48
@@ -4319,10 +4321,9 @@ _Codifié par_:
 
 ###### Article L49
 
-Les ayants cause des militaires visés à l'article L. 7 qui sont décédés titulaires d'une solde de réforme bénéficient, s'ils
-satisfont aux conditions prévues à l'article L. 47, a ou b, selon que la radiation des cadres n'a pas ou a été prononcée pour
-infirmité, d'une allocation temporaire égale à 50 p. 100 de ladite solde. La jouissance de cette allocation est limitée à la
-date d'expiration initialement prévue de la solde de réforme de l'ancien militaire.
+Les ayants cause des militaires visés à l'article L. 7 qui sont décédés titulaires d'une solde de réforme bénéficient d'une
+allocation temporaire égale à 50 % de ladite solde. La jouissance de cette allocation est limitée à la date d'expiration
+initialement prévue de la solde de réforme de l'ancien militaire. 
 
 Les ayants cause des militaires servant sous contrat au-delà de la durée légale décédés en activité par suite d'invalidité
 contractée ou non en service avant d'avoir accompli quinze ans de services bénéficient, s'ils ne peuvent prétendre à la
@@ -4331,9 +4332,13 @@ liquidable.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2005-270 du 24 mars 2005 - art. 95 () JORF 26 mars 2005 en vigueur le 1er juillet 2005
+
 _Cite_:
 
-  - Code des pensions civiles et militaires de retraite L7 et L47
+  - Code des pensions civiles et militaires de retr... - art. L7 (V)
 
 _Cité par_:
 
@@ -4759,10 +4764,9 @@ _Codifié par_:
 ###### Article L65
 
 Le fonctionnaire civil ou le militaire qui vient à quitter le service, pour quelque cause que ce soit, sans pouvoir obtenir
-une pension ou une solde de réforme ou qui a renoncé à cette dernière dans les conditions prévues au 1° de l'article L. 7,
-est rétabli, en ce qui concerne l'assurance vieillesse, dans la situation qu'il aurait eue s'il avait été affilié au régime
-général des assurances sociales et à l'institution de retraite complémentaire des agents non titulaires de l'Etat et des
-collectivités locales (Ircantec) pendant la période où il a été soumis au présent régime.
+une pension ou une solde de réforme, est rétabli, en ce qui concerne l'assurance vieillesse, dans la situation qu'il aurait
+eue s'il avait été affilié au régime général des assurances sociales et à l'institution de retraite complémentaire des agents
+non titulaires de l'Etat et des collectivités locales (Ircantec) pendant la période où il a été soumis au présent régime.
 
 L'agent non susceptible de bénéficier de l'affiliation rétroactive au régime général des assurances sociales pour tout ou
 partie de sa carrière peut prétendre, au titre des mêmes périodes, au remboursement direct et immédiat des retenues subies
@@ -4770,26 +4774,26 @@ d'une manière effective sur son traitement ou sa solde.
 
 Les mêmes dispositions sont applicables au fonctionnaire civil ou militaire qui, après avoir quitté le service, reprend un
 emploi relevant du régime institué par le présent code, sans pouvoir obtenir une pension ou une solde de réforme au titre
-dudit emploi ou qui a renoncé à cette dernière dans les conditions prévues au 1° de l'article L. 7 .
+dudit emploi.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
+  - Loi n°96-1111 du 19 décembre 1996 - art. 12 (V)
   - Décret n°2000-511 du 8 juin 2000 - art. 22 (VT)
   - Décret n°2004-1056 du 5 octobre 2004 - art. 46 (V)
   - Code des pensions civiles et militaires de retr... - art. D30 (V)
   - Code des pensions civiles et militaires de retr... - art. R*59 (V)
   - Code des pensions civiles et militaires de retrait - art. L7 (V)
-  - Loi n°96-1111 du 19 décembre 1996 - art. 12 (V)
+
+_Modifié par_:
+
+  - Loi n°2005-270 du 24 mars 2005 - art. 95 () JORF 26 mars 2005 en vigueur le 1er juillet 2005
 
 _Codifié par_:
 
   - Loi n°64-1339 1964-12-29
-
-_Modifié par_:
-
-  - Loi n°96-1111 1996-12-16 art. 11 jorf 20 décembre 1996
 
 
 ###### Article L66
