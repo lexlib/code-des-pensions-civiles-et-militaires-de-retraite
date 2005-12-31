@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2005-12-20
+Version Consolidée au 2006-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -4601,8 +4601,18 @@ _Cite_:
 
 ###### Article L61
 
-Les agents visés à l'article L. 2 supportent une retenue de 7,85 % sur les sommes payées à titre de traitement ou de solde, à
-l'exclusion d'indemnités de toute nature.
+La couverture des charges résultant, pour l'Etat, de la constitution et du service des pensions prévues par le présent code
+et les lois et règlements en vigueur ainsi que des dispositions du code de la sécurité sociale applicables aux régimes
+spéciaux d'assurance vieillesse est assurée par : 
+
+1° Une contribution employeur à la charge de l'Etat, assise sur les sommes payées aux agents visés à l'article L. 2 à titre
+de traitement ou de solde, à l'exclusion d'indemnités de toute nature, dans des conditions fixées par la loi de finances ; 
+
+2° Une cotisation à la charge des agents visés à l'article L. 2, assise sur les sommes payées à ces agents à titre de
+traitement ou de solde, à l'exclusion d'indemnités de toute nature, dont le taux est fixé par décret ; 
+
+3° Les contributions et transferts d'autres personnes morales, dans les conditions définies par les lois et règlements en
+vigueur.
 
 **Liens relatifs à cet article**
 
@@ -4671,18 +4681,17 @@ _Cité par_:
   - Code des pensions civiles et militaires de retr... - art. R*76 ter (V)
   - Code des pensions civiles et militaires de retr... - art. R*81 (V)
 
-_Modifié par_:
-
-  - Loi n°91-73 1991-01-18 art. 25 JORF 20 janvier 1991 en vigueur le 1er février 1991
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°91-73 1991-01-18 art. 31
   - TXT_SOURCE: Loi n°91-73 du 18 janvier 1991 - art. 25 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-775 du 21 août 2003 - art. 63 (V) JORF 22 août 2003 en vigueur le 1er janvier 2006
 
 _Cite_:
 
-  - Code des pensions civiles et militaires de retrait - art. L2 (M)
+  - Code des pensions civiles et militaires de retr... - art. L2 (V)
 
 _Codifié par_:
 
