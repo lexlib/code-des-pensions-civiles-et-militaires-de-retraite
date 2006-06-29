@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2006-06-28
+Version Consolidée au 2006-06-30
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -76,57 +76,56 @@ Version Consolidée au 2006-06-28
         - [Chapitre II : Militaires. (art. R50 à R52)](#73)
       - [Titre VI : Pensions des ayants cause. (art. R53 à R57 bis)](#74)
         - [Chapitre III : Dispositions communes. (art. R53 à R57 bis)](#75)
-      - [Titre VII : Dispositions spéciales. (art. R58 à R*64)](#76)
+      - [Titre VII : Dispositions spéciales. (art. R58 à R62)](#76)
         - [Chapitre Ier : Solde de réserve des officiers généraux. (art. R58)](#77)
         - [Chapitre II : Militaires ayant bénéficié d'un pécule. (art. R*59 à R*61)](#78)
         - [Chapitre III : Droits des ayants cause des fonctionnaires et des militaires originaires des territoires d'outre-mer non mariés sous le régime du code civil. (art. R62)](#79)
-        - [Chapitre V : Droits des personnels militaires féminins, officiers ou assimilés, aux avantages accordés aux femmes fonctionnaires. (art. R*64)](#80)
-      - [Titre VIII : Dispositions d'ordre et diverses. (art. R65 à R*68)](#81)
-        - [Paragraphe Ier : Concession et révision de la pension. (art. R65)](#82)
-        - [Paragraphe II : Dispositions diverses. (art. R*66 à R*68)](#83)
-    - [Livre II : Dispositions particulières du régime général des retraites. (art. R*74 à R95-3)](#84)
-      - [Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires. (art. R*74 à R*81)](#85)
-        - [Chapitre Ier : Agents en service détaché. (art. R*74 à R74-3)](#86)
-        - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités. (art. R*77)](#87)
-        - [Chapitre IV : Gendarmes et sapeurs-pompiers de Paris. (art. R79)](#88)
-        - [Chapitre VI : Agents des offices ou établissements de l'Etat dotés de l'autonomie financière. (art. R*81)](#89)
-      - [Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions. (art. R*90 à R95-3)](#90)
-        - [Chapitre Ier : Dispositions générales. (art. R*90 à R91)](#91)
-        - [Chapitre II : Cumul de pensions et de rémunérations d'activité. (art. R*93 à R95)](#92)
-        - [Chapitre III : Cumul de plusieurs pensions. (art. R95-1 à R95-3)](#93)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. R96 à R*104)](#94)
-      - [Chapitre Ier : Paiement des pensions. (art. R96 à R100)](#95)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. R96 à R98)](#96)
-        - [Paragraphe II : Contexture des titres de paiement. (art. R99)](#97)
-        - [Paragraphe III : Modalités de paiement des pensions. (art. R100)](#98)
-      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. R*101 à R*104)](#99)
-  - [Partie réglementaire - Décrets simples (art. D1 à D58)](#100)
-    - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. D1 à D32)](#101)
-      - [Titre Ier : Généralités. (art. D1)](#102)
-      - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. D2 à D4)](#103)
-        - [Chapitre Ier : Fonctionnaires civils. (art. D2 à D4)](#104)
-          - [Paragraphe II : Eléments constitutifs. (art. D2 à D4)](#105)
-      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. D8 à D16)](#106)
-        - [Chapitre Ier : Services et bonifications valables. (art. D8 à D12)](#107)
-        - [Chapitre II : Détermination du montant de la pension. (art. D15 à D16)](#108)
-          - [Paragraphe II : Emoluments de base. (art. D15)](#109)
-          - [Paragraphe IV : Avantages de pension à caractère familial. (art. D16)](#110)
-      - [Titre V : Invalidité. (art. D17 à D19)](#111)
-        - [Chapitre Ier : Fonctionnaires civils. (art. D17 à D18)](#112)
-          - [Paragraphe III : Dispositions communes. (art. D17 à D18)](#113)
-        - [Chapitre II : Militaires. (art. D19)](#114)
-      - [Titre VI : Pensions des ayants cause. (art. D19-1 à D19-6)](#115)
-      - [Titre VIII : Dispositions d'ordre et diverses. (art. D20 à D26)](#116)
-        - [Paragraphe Ier : Concession et révision de la pension. (art. D20 à D26)](#117)
-      - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D32)](#118)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. D38 à D58)](#119)
-      - [Chapitre Ier : Paiement des pensions. (art. D38 à D57)](#120)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D38 à D39)](#121)
-        - [Paragraphe II : Contexture des titres de paiement. (art. D40)](#122)
-        - [Paragraphe III : Modalités de paiement des pensions. (art. D43 à D47)](#123)
-        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D54)](#124)
-        - [Paragraphe VI : Abandon de jouissance. (art. D57)](#125)
-      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. D58)](#126)
+      - [Titre VIII : Dispositions d'ordre et diverses. (art. R65 à R*68)](#80)
+        - [Paragraphe Ier : Concession et révision de la pension. (art. R65)](#81)
+        - [Paragraphe II : Dispositions diverses. (art. R*66 à R*68)](#82)
+    - [Livre II : Dispositions particulières du régime général des retraites. (art. R*74 à R95-3)](#83)
+      - [Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires. (art. R*74 à R*81)](#84)
+        - [Chapitre Ier : Agents en service détaché. (art. R*74 à R74-3)](#85)
+        - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités. (art. R*77)](#86)
+        - [Chapitre IV : Gendarmes et sapeurs-pompiers de Paris. (art. R79)](#87)
+        - [Chapitre VI : Agents des offices ou établissements de l'Etat dotés de l'autonomie financière. (art. R*81)](#88)
+      - [Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions. (art. R*90 à R95-3)](#89)
+        - [Chapitre Ier : Dispositions générales. (art. R*90 à R91)](#90)
+        - [Chapitre II : Cumul de pensions et de rémunérations d'activité. (art. R*93 à R95)](#91)
+        - [Chapitre III : Cumul de plusieurs pensions. (art. R95-1 à R95-3)](#92)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. R96 à R*104)](#93)
+      - [Chapitre Ier : Paiement des pensions. (art. R96 à R100)](#94)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. R96 à R98)](#95)
+        - [Paragraphe II : Contexture des titres de paiement. (art. R99)](#96)
+        - [Paragraphe III : Modalités de paiement des pensions. (art. R100)](#97)
+      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. R*101 à R*104)](#98)
+  - [Partie réglementaire - Décrets simples (art. D1 à D58)](#99)
+    - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. D1 à D32)](#100)
+      - [Titre Ier : Généralités. (art. D1)](#101)
+      - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. D2 à D4)](#102)
+        - [Chapitre Ier : Fonctionnaires civils. (art. D2 à D4)](#103)
+          - [Paragraphe II : Eléments constitutifs. (art. D2 à D4)](#104)
+      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. D8 à D16)](#105)
+        - [Chapitre Ier : Services et bonifications valables. (art. D8 à D12)](#106)
+        - [Chapitre II : Détermination du montant de la pension. (art. D15 à D16)](#107)
+          - [Paragraphe II : Emoluments de base. (art. D15)](#108)
+          - [Paragraphe IV : Avantages de pension à caractère familial. (art. D16)](#109)
+      - [Titre V : Invalidité. (art. D17 à D19)](#110)
+        - [Chapitre Ier : Fonctionnaires civils. (art. D17 à D18)](#111)
+          - [Paragraphe III : Dispositions communes. (art. D17 à D18)](#112)
+        - [Chapitre II : Militaires. (art. D19)](#113)
+      - [Titre VI : Pensions des ayants cause. (art. D19-1 à D19-6)](#114)
+      - [Titre VIII : Dispositions d'ordre et diverses. (art. D20 à D26)](#115)
+        - [Paragraphe Ier : Concession et révision de la pension. (art. D20 à D26)](#116)
+      - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D32)](#117)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. D38 à D58)](#118)
+      - [Chapitre Ier : Paiement des pensions. (art. D38 à D57)](#119)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D38 à D39)](#120)
+        - [Paragraphe II : Contexture des titres de paiement. (art. D40)](#121)
+        - [Paragraphe III : Modalités de paiement des pensions. (art. D43 à D47)](#122)
+        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D54)](#123)
+        - [Paragraphe VI : Abandon de jouissance. (art. D57)](#124)
+      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. D58)](#125)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=2></a>
@@ -6874,10 +6873,10 @@ _Modifié par_:
 
 ###### Article R37
 
-I. - L'interruption d'activité prévue au premier alinéa du 3° du I de l'article L. 24 doit avoir eu une durée continue au
-moins égale à deux mois et être intervenue alors que le fonctionnaire était affilié à un régime de retraite obligatoire. En
-cas de naissances ou d'adoptions simultanées, la durée d'interruption d'activité prise en compte au titre de l'ensemble des
-enfants en cause est également de deux mois.
+I. - L'interruption d'activité prévue au premier alinéa du 3° du I et au premier alinéa du 1 bis du II de l'article L. 24
+doit avoir eu une durée continue au moins égale à deux mois et être intervenue alors que le fonctionnaire ou le militaire
+était affilié à un régime de retraite obligatoire. En cas de naissances ou d'adoptions simultanées, la durée d'interruption
+d'activité prise en compte au titre de l'ensemble des enfants en cause est également de deux mois.
 
 Cette interruption d'activité doit avoir eu lieu pendant la période comprise entre le premier jour de la quatrième semaine
 précédant la naissance ou l'adoption et le dernier jour de la seizième semaine suivant la naissance ou l'adoption.
@@ -6890,31 +6889,32 @@ charge au sens des articles L. 512-3 et R. 512-2 à R. 512-3 du code de la sécu
 II. - Sont prises en compte pour le calcul de la durée d'interruption d'activité les périodes correspondant à une suspension
 de l'exécution du contrat de travail ou à une interruption du service effectif, intervenues dans le cadre :
 
-a) Du congé pour maternité, tel que prévu à l'article 53 de la loi du 13 juillet 1972 portant statut général des militaires,
-au 5° de l'article 34 de la loi du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de
-l'Etat, au 5° de l'article 57 de la loi du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique
-territoriale, au 5° de l'article 41 de la loi du 9 janvier 1986 portant dispositions statutaires relatives à la fonction
-publique hospitalière, aux articles L. 331-3 et L. 615-19 du code de la sécurité sociale, à l'article 4 du décret n° 72-154
-du 24 février 1972 modifié relatif aux congés en cas de maladie, maternité et d'accidents du travail dont peuvent bénéficier
-certains personnels ouvriers de l'Etat mensualisés, ainsi qu'aux articles L. 732-10 et L. 732-11 du code rural ;
+a) Du congé pour maternité, tel que prévu aux articles 46 et 48 de la loi du 24 mars 2005 portant statut général des
+militaires, au 5° de l'article 34 de la loi du 11 janvier 1984 portant dispositions statutaires relatives à la fonction
+publique de l'Etat, au 5° de l'article 57 de la loi du 26 janvier 1984 portant dispositions statutaires relatives à la
+fonction publique territoriale, au 5° de l'article 41 de la loi du 9 janvier 1986 portant dispositions statutaires relatives
+à la fonction publique hospitalière, aux articles L. 331-3 et L. 615-19 du code de la sécurité sociale, à l'article 4 du
+décret n° 72-154 du 24 février 1972 modifié relatif aux congés en cas de maladie, maternité et d'accidents du travail dont
+peuvent bénéficier certains personnels ouvriers de l'Etat mensualisés, ainsi qu'aux articles L. 732-10 et L. 732-11 du code
+rural ;
 
-b) Du congé de paternité, tel que prévu à l'article 53 de la loi du 13 juillet 1972 susmentionnée, au 5° de l'article 34 de
-la loi du 11 janvier 1984 susmentionnée, au 5° de l'article 57 de la loi du 26 janvier 1984 susmentionnée, au 5° de l'article
-41 de la loi du 9 janvier 1986 susmentionnée, à l'article 4 du décret du 24 février 1972 susmentionné, aux articles L. 331-8
-et L. 615-19-2 du code de la sécurité sociale, ainsi qu'à l'article L. 732-12 du code rural ;
+b) Du congé de paternité, tel que prévu aux articles 46 et 48 de la loi du 24 mars 2005 susmentionnée, au 5° de l'article 34
+de la loi du 11 janvier 1984 susmentionnée, au 5° de l'article 57 de la loi du 26 janvier 1984 susmentionnée, au 5° de
+l'article 41 de la loi du 9 janvier 1986 susmentionnée, à l'article 4 du décret du 24 février 1972 susmentionné, aux articles
+L. 331-8 et L. 615-19-2 du code de la sécurité sociale, ainsi qu'à l'article L. 732-12 du code rural ;
 
-c) Du congé d'adoption, tel que prévu à l'article 53 de la loi du 13 juillet 1972 susmentionnée, au 5° de l'article 34 de la
-loi du 11 janvier 1984 susmentionnée, à l'article 57 de la loi du 26 janvier 1984 susmentionnée, à l'article 41 de la loi du
-9 janvier 1986 susmentionnée, à l'article 4 du décret du 24 février 1972 susmentionné, aux articles L. 331-7 et L. 615-19 du
-code de la sécurité sociale, ainsi qu'aux articles L. 732-12 et L. 732-12-1 du code rural ;
+c) Du congé d'adoption, tel que prévu aux articles 46 et 48 de la loi du 24 mars 2005 susmentionnée, au 5° de l'article 34 de
+la loi du 11 janvier 1984 susmentionnée, à l'article 57 de la loi du 26 janvier 1984 susmentionnée, à l'article 41 de la loi
+du 9 janvier 1986 susmentionnée, à l'article 4 du décret du 24 février 1972 susmentionné, aux articles L. 331-7 et L. 615-19
+du code de la sécurité sociale, ainsi qu'aux articles L. 732-12 et L. 732-12-1 du code rural ;
 
-d) Du congé parental, tel que prévu à l'article 65-1 de la loi du 13 juillet 1972 susmentionnée, à l'article 54 de la loi du
-11 janvier 1984 susmentionnée, à l'article 75 de la loi du 26 janvier 1984 susmentionnée, à l'article 64 de la loi du 9
+d) Du congé parental, tel que prévu aux articles 54 et 57 de la loi du 24 mars 2005 susmentionnée, à l'article 54 de la loi
+du 11 janvier 1984 susmentionnée, à l'article 75 de la loi du 26 janvier 1984 susmentionnée, à l'article 64 de la loi du 9
 janvier 1986 susmentionnée, à l'article 4 bis du décret du 24 février 1972 susmentionné et à l'article L. 122-28-1 du code du
 travail ;
 
-e) Du congé de présence parentale, tel que prévu à l'article 65-3 de la loi du 13 juillet 1972 susmentionnée, à l'article 40
-bis de la loi du 11 janvier 1984 susmentionnée, à l'article 75 bis de la loi du 26 janvier 1984 susmentionnée, à l'article
+e) Du congé de présence parentale, tel que prévu aux articles 54 et 58 de la loi du 24 mars 2005 susmentionnée, à l'article
+40 bis de la loi du 11 janvier 1984 susmentionnée, à l'article 75 bis de la loi du 26 janvier 1984 susmentionnée, à l'article
 64-1 de la loi du 9 janvier 1986 susmentionnée, à l'article 4 ter du décret du 24 février 1972 susmentionné et à l'article
 122-28-9 du code du travail ;
 
@@ -6925,31 +6925,15 @@ de disponibilité et de congé parental des fonctionnaires territoriaux, au b de
 relatif à certaines positions des fonctionnaires hospitaliers et à l'article 5 du décret du 5 octobre 2004 relatif au régime
 des pensions des ouvriers des établissements industriels de l'Etat.
 
-III. - Les périodes visées au deuxième alinéa du 3° du I de l'article L. 24 sont les périodes n'ayant pas donné lieu à
-cotisation de l'intéressé et pendant lesquelles celui-ci n'exerçait aucune activité professionnelle.
+III. - Les périodes visées au deuxième alinéa du 3° du I et au deuxième alinéa du 1° bis du II de l'article L. 24 sont les
+périodes n'ayant pas donné lieu à cotisation de l'intéressé et pendant lesquelles celui-ci n'exerçait aucune activité
+professionnelle.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°66-809 1966-10-28
-
-_Cité par_:
-
-  - Décret n°68-382 du 5 avril 1968 - art. 19 (V)
-  - Décret n°68-960 du 11 octobre 1968 - art. 17 (V)
-  - Décret n°90-1215 du 20 décembre 1990 - art. 84 (VT)
-  - Décret n°2003-1306 du 26 décembre 2003 - art. 25 (V)
-  - Décret n°2003-1306 du 26 décembre 2003 - art. 65-2 (V)
-  - Décret n°2004-1056 du 5 octobre 2004 - art. 21 (VD)
-  - Décret n°2006-933 du 28 juillet 2006 - art. 4 (V)
-  - Décret n°2006-941 du 28 juillet 2006 - art. 4 (V)
-  - Décret n°2010-1741 du 30 décembre 2010 - art. 2 (V)
-  - Décret n°2016-810 du 16 juin 2016 (V)
-  - Code de l'éducation - art. R914-123 (V)
-
 _Cite_:
 
+  - Code rural L732-10, L732-11, L732-12, L732-12-1
   - Décret n°72-154 1972-02-24 art. 4, art. 4 bis, art. 4 ter
   - Décret n°72-154 du 24 février 1972 - art. 4 (M)
   - Loi n°72-662 1972-07-13 art. 53, art. 65-1, art. 65-3
@@ -6975,11 +6959,28 @@ _Cite_:
   - Code de la sécurité sociale. - art. L512-3 (M)
   - Code de la sécurité sociale. - art. L615-19 (M)
   - Code de la sécurité sociale. - art. L615-19-2 (T)
-  - Code rural L732-10, L732-11, L732-12, L732-12-1
+
+_Codifié par_:
+
+  - Décret n°66-809 1966-10-28
+
+_Cité par_:
+
+  - Décret n°68-382 du 5 avril 1968 - art. 19 (V)
+  - Décret n°68-960 du 11 octobre 1968 - art. 17 (V)
+  - Décret n°90-1215 du 20 décembre 1990 - art. 84 (VT)
+  - Décret n°2003-1306 du 26 décembre 2003 - art. 25 (V)
+  - Décret n°2003-1306 du 26 décembre 2003 - art. 65-2 (V)
+  - Décret n°2004-1056 du 5 octobre 2004 - art. 21 (VD)
+  - Décret n°2006-933 du 28 juillet 2006 - art. 4 (V)
+  - Décret n°2006-941 du 28 juillet 2006 - art. 4 (V)
+  - Décret n°2010-1741 du 30 décembre 2010 - art. 2 (V)
+  - Décret n°2016-810 du 16 juin 2016 (V)
+  - Code de l'éducation - art. R914-123 (V)
 
 _Modifié par_:
 
-  - Décret n°2006-536 du 11 mai 2006 - art. 4 () JORF 12 mai 2006
+  - Décret n°2006-748 du 28 juin 2006 - art. 1 () JORF 30 juin 2006
 
 
 ### Titre V : Invalidité.<a id=69></a>
@@ -7680,38 +7681,9 @@ _Cité par_:
   - Décret n°2012-1256 du 13 novembre 2012 - art. 16 (V)
 
 
-#### Chapitre V : Droits des personnels militaires féminins, officiers ou assimilés, aux avantages accordés aux femmes fonctionnaires.<a id=80></a>
+### Titre VIII : Dispositions d'ordre et diverses.<a id=80></a>
 
-###### Article R*64
-
-Pour les personnels militaires féminins, officiers ou assimilés, admis à faire valoir leurs droits à pension en application
-de l'article L. 6 (1°), la jouissance de la pension est immédiate :
-
-a) Soit lorsque les intéressées sont mères de trois enfants vivants ou décédés par faits de guerre ou d'un enfant vivant âgé
-de plus d'un an et atteint d'une invalidité égale ou supérieure à 80 p. 100.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°66-809 1966-10-28
-
-_Modifié par_:
-
-  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2006-748 du 28 juin 2006 - art. 2 () JORF 30 juin 2006
-
-_Cite_:
-
-  - Code des pensions civiles et militaires de retrait - art. L6 (M)
-
-
-### Titre VIII : Dispositions d'ordre et diverses.<a id=81></a>
-
-#### Paragraphe Ier : Concession et révision de la pension.<a id=82></a>
+#### Paragraphe Ier : Concession et révision de la pension.<a id=81></a>
 
 ###### Article R65
 
@@ -7758,7 +7730,7 @@ _Cité par_:
   - Code des pensions civiles et militaires de retr... - art. R99 (V)
 
 
-#### Paragraphe II : Dispositions diverses.<a id=83></a>
+#### Paragraphe II : Dispositions diverses.<a id=82></a>
 
 ###### Article R*66
 
@@ -7827,11 +7799,11 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L57 (V)
 
 
-## Livre II : Dispositions particulières du régime général des retraites.<a id=84></a>
+## Livre II : Dispositions particulières du régime général des retraites.<a id=83></a>
 
-### Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires.<a id=85></a>
+### Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires.<a id=84></a>
 
-#### Chapitre Ier : Agents en service détaché.<a id=86></a>
+#### Chapitre Ier : Agents en service détaché.<a id=85></a>
 
 ###### Article R*74
 
@@ -8033,7 +8005,7 @@ _Créé par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 28 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.<a id=87></a>
+#### Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.<a id=86></a>
 
 ###### Article R*77
 
@@ -8056,7 +8028,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L77 (V)
 
 
-#### Chapitre IV : Gendarmes et sapeurs-pompiers de Paris.<a id=88></a>
+#### Chapitre IV : Gendarmes et sapeurs-pompiers de Paris.<a id=87></a>
 
 ###### Article R79
 
@@ -8090,7 +8062,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L15 (V)
 
 
-#### Chapitre VI : Agents des offices ou établissements de l'Etat dotés de l'autonomie financière.<a id=89></a>
+#### Chapitre VI : Agents des offices ou établissements de l'Etat dotés de l'autonomie financière.<a id=88></a>
 
 ###### Article R*81
 
@@ -8127,9 +8099,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L61 (M)
 
 
-### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.<a id=90></a>
+### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.<a id=89></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=91></a>
+#### Chapitre Ier : Dispositions générales.<a id=90></a>
 
 ###### Article R*90
 
@@ -8168,7 +8140,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L86-1 (V)
 
 
-#### Chapitre II : Cumul de pensions et de rémunérations d'activité.<a id=92></a>
+#### Chapitre II : Cumul de pensions et de rémunérations d'activité.<a id=91></a>
 
 ###### Article R*93
 
@@ -8249,7 +8221,7 @@ _Modifié par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 39 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Chapitre III : Cumul de plusieurs pensions.<a id=93></a>
+#### Chapitre III : Cumul de plusieurs pensions.<a id=92></a>
 
 ###### Article R95-1
 
@@ -8342,11 +8314,11 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite R95-1, R95-2, L87
 
 
-## Livre III : Dispositions relatives au paiement des pensions.<a id=94></a>
+## Livre III : Dispositions relatives au paiement des pensions.<a id=93></a>
 
-### Chapitre Ier : Paiement des pensions.<a id=95></a>
+### Chapitre Ier : Paiement des pensions.<a id=94></a>
 
-#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=96></a>
+#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=95></a>
 
 ###### Article R96
 
@@ -8407,7 +8379,7 @@ _Modifié par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 42 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Paragraphe II : Contexture des titres de paiement.<a id=97></a>
+#### Paragraphe II : Contexture des titres de paiement.<a id=96></a>
 
 ###### Article R99
 
@@ -8434,7 +8406,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. R65 (V)
 
 
-#### Paragraphe III : Modalités de paiement des pensions.<a id=98></a>
+#### Paragraphe III : Modalités de paiement des pensions.<a id=97></a>
 
 ###### Article R100
 
@@ -8459,7 +8431,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R24 (VT)
 
 
-### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=99></a>
+### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=98></a>
 
 ###### Article R*101
 
@@ -8568,11 +8540,11 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite R101, R102
 
 
-# Partie réglementaire - Décrets simples<a id=100></a>
+# Partie réglementaire - Décrets simples<a id=99></a>
 
-## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=101></a>
+## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=100></a>
 
-### Titre Ier : Généralités.<a id=102></a>
+### Titre Ier : Généralités.<a id=101></a>
 
 ###### Article D1
 
@@ -8605,11 +8577,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre II : Constitution du droit à la pension ou à la solde de réforme.<a id=103></a>
+### Titre II : Constitution du droit à la pension ou à la solde de réforme.<a id=102></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=104></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=103></a>
 
-##### Paragraphe II : Eléments constitutifs.<a id=105></a>
+##### Paragraphe II : Eléments constitutifs.<a id=104></a>
 
 ###### Article D2
 
@@ -8711,9 +8683,9 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=106></a>
+### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=105></a>
 
-#### Chapitre Ier : Services et bonifications valables.<a id=107></a>
+#### Chapitre Ier : Services et bonifications valables.<a id=106></a>
 
 ###### Article D8
 
@@ -8843,9 +8815,9 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Chapitre II : Détermination du montant de la pension.<a id=108></a>
+#### Chapitre II : Détermination du montant de la pension.<a id=107></a>
 
-##### Paragraphe II : Emoluments de base.<a id=109></a>
+##### Paragraphe II : Emoluments de base.<a id=108></a>
 
 ###### Article D15
 
@@ -8892,7 +8864,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-##### Paragraphe IV : Avantages de pension à caractère familial.<a id=110></a>
+##### Paragraphe IV : Avantages de pension à caractère familial.<a id=109></a>
 
 ###### Article D16
 
@@ -8923,11 +8895,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre V : Invalidité.<a id=111></a>
+### Titre V : Invalidité.<a id=110></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=112></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=111></a>
 
-##### Paragraphe III : Dispositions communes.<a id=113></a>
+##### Paragraphe III : Dispositions communes.<a id=112></a>
 
 ###### Article D17
 
@@ -8974,7 +8946,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Chapitre II : Militaires.<a id=114></a>
+#### Chapitre II : Militaires.<a id=113></a>
 
 ###### Article D19
 
@@ -9011,7 +8983,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre VI : Pensions des ayants cause.<a id=115></a>
+### Titre VI : Pensions des ayants cause.<a id=114></a>
 
 ###### Article D19-1
 
@@ -9177,9 +9149,9 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre VIII : Dispositions d'ordre et diverses.<a id=116></a>
+### Titre VIII : Dispositions d'ordre et diverses.<a id=115></a>
 
-#### Paragraphe Ier : Concession et révision de la pension.<a id=117></a>
+#### Paragraphe Ier : Concession et révision de la pension.<a id=116></a>
 
 ###### Article D20
 
@@ -9619,7 +9591,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=118></a>
+### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=117></a>
 
 ###### Article D30
 
@@ -9663,11 +9635,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-## Livre III : Dispositions relatives au paiement des pensions.<a id=119></a>
+## Livre III : Dispositions relatives au paiement des pensions.<a id=118></a>
 
-### Chapitre Ier : Paiement des pensions.<a id=120></a>
+### Chapitre Ier : Paiement des pensions.<a id=119></a>
 
-#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=121></a>
+#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=120></a>
 
 ###### Article D38
 
@@ -9707,7 +9679,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe II : Contexture des titres de paiement.<a id=122></a>
+#### Paragraphe II : Contexture des titres de paiement.<a id=121></a>
 
 ###### Article D40
 
@@ -9729,7 +9701,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe III : Modalités de paiement des pensions.<a id=123></a>
+#### Paragraphe III : Modalités de paiement des pensions.<a id=122></a>
 
 ###### Article D43
 
@@ -9805,7 +9777,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe V : Précompte de la cotisation de sécurité sociale.<a id=124></a>
+#### Paragraphe V : Précompte de la cotisation de sécurité sociale.<a id=123></a>
 
 ###### Article D53
 
@@ -9853,7 +9825,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe VI : Abandon de jouissance.<a id=125></a>
+#### Paragraphe VI : Abandon de jouissance.<a id=124></a>
 
 ###### Article D57
 
@@ -9874,7 +9846,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. D472 (V)
 
 
-### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=126></a>
+### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=125></a>
 
 ###### Article D58
 
