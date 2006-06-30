@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2006-06-30
+Version Consolidée au 2006-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -611,9 +611,13 @@ _Cite_:
   - Loi n°2005-270 2005-03-24
   - Code des pensions civiles et militaires de retrait - art. L5 (M)
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : spécificités d'application
+
 _Modifié par_:
 
-  - Loi n°2005-1579 du 19 décembre 2005 - art. 87 (V) JORF 20 décembre 2005
+  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 19 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 _Codifié par_:
 
