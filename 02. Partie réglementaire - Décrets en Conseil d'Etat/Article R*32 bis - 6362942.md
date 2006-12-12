@@ -11,6 +11,10 @@ _Codifié par_:
 
   - Décret n°66-809 1966-10-28
 
+_Modifié par_:
+
+  - Décret n°2006-1582 du 12 décembre 2006 - art. 1 () JORF 13 décembre 2006
+
 _Cite_:
 
-  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+  - Code des pensions civiles et militaires de retr... - art. L18 (V)
