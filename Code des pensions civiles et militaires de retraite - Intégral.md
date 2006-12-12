@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2006-12-07
+Version Consolidée au 2006-12-13
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -62,13 +62,13 @@ Version Consolidée au 2006-12-07
         - [Chapitre II : Militaires. (art. R*8)](#59)
           - [Paragraphe II : Eléments constitutifs. (art. R*8)](#60)
         - [Chapitre III : Dispositions communes. (art. R9)](#61)
-      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. R10 à R33)](#62)
+      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. R10 à R33 bis)](#62)
         - [Chapitre Ier : Services et bonifications valables. (art. R10 à R25-1)](#63)
-        - [Chapitre II : Détermination du montant de la pension. (art. R26 à R33)](#64)
+        - [Chapitre II : Détermination du montant de la pension. (art. R26 à R33 bis)](#64)
           - [Paragraphe Ier : Décompte et valeur des annuités liquidables. (art. R26 à R26 bis)](#65)
           - [Paragraphe II : Emoluments de base. (art. R27 à R31-2)](#66)
-          - [Paragraphe IV : Avantages de pension à caractère familial. (art. R*32 à R33)](#67)
-      - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. R*34 à R37)](#68)
+          - [Paragraphe IV : Avantages de pension. (art. R*32 à R33 bis)](#67)
+      - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. R*34 à R37 bis)](#68)
       - [Titre V : Invalidité. (art. R38 à R52)](#69)
         - [Chapitre Ier : Fonctionnaires civils. (art. R38 à R49)](#70)
           - [Paragraphe Ier : Invalidité résultant de l'exercice des fonctions. (art. R38 à R40)](#71)
@@ -6723,11 +6723,11 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite - art. L16
 
 
-##### Paragraphe IV : Avantages de pension à caractère familial.<a id=67></a>
+##### Paragraphe IV : Avantages de pension.<a id=67></a>
 
 ###### Article R*32
 
-Pour l'application des règles de cumul prévues aux articles L. 84 à L. 88, la majoration pour enfants s'ajoute à la pension.
+Pour l'application des règles de cumul prévues aux articles L. 84 à L. 88, la majoration pour enfants s'ajoute à la pension. 
 
 Les règles de prescription, de suspension et de paiement applicables à la pension sont également applicables à la majoration
 pour enfants.
@@ -6740,11 +6740,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-1305 du 26 décembre 2003 - art. 14 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+  - Décret n°2006-1582 du 12 décembre 2006 - art. 1 () JORF 13 décembre 2006
 
 _Cite_:
 
-  - Code des pensions civiles et militaires de retraite L84 à L88
+  - Code des pensions civiles et militaires de retr... - art. L84 (V)
 
 
 ###### Article R*32 bis
@@ -6760,9 +6760,13 @@ _Codifié par_:
 
   - Décret n°66-809 1966-10-28
 
+_Modifié par_:
+
+  - Décret n°2006-1582 du 12 décembre 2006 - art. 1 () JORF 13 décembre 2006
+
 _Cite_:
 
-  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+  - Code des pensions civiles et militaires de retr... - art. L18 (V)
 
 
 ###### Article R33
@@ -6798,7 +6802,37 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2003-1305 du 26 décembre 2003 - art. 15 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+  - Décret n°2006-1582 du 12 décembre 2006 - art. 1 () JORF 13 décembre 2006
+
+
+###### Article R33 bis
+
+I. - Le taux de la majoration de pension prévue au 5° du I de l'article L. 24 est fixé à un tiers du quotient obtenu en
+divisant la durée des services accomplis au sens de l'article L. 5 durant laquelle l'intéressé était atteint d'une incapacité
+permanente au moins égale à 80 %, par la durée de services et bonifications admise en liquidation. Le taux ainsi obtenu est
+arrondi, le cas échéant, au centième le plus proche.
+
+II. - La pension ainsi majorée ne peut excéder la pension qui aurait été obtenue par application du pourcentage maximum
+mentionné à l'article L. 13. Lorsque la pension est également majorée en application des dispositions de l'article L. 18, son
+montant ne peut excéder celui des éléments de rémunération déterminés à l'article L. 15.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°66-809 1966-10-28
+
+_Créé par_:
+
+  - Décret n°2006-1582 du 12 décembre 2006 - art. 2 () JORF 13 décembre 2006
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retrait - art. L13 (M)
+  - Code des pensions civiles et militaires de retrait - art. L15 (M)
+  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+  - Code des pensions civiles et militaires de retrait - art. L24 (M)
+  - Code des pensions civiles et militaires de retrait - art. L5 (M)
 
 
 ### Titre IV : Jouissance de la pension ou de la solde de réforme.<a id=68></a>
@@ -6975,6 +7009,55 @@ _Cité par_:
 _Modifié par_:
 
   - Décret n°2006-1535 du 5 décembre 2006 - art. 4 () JORF 7 décembre 2006
+
+
+###### Article R37 bis
+
+Pour les fonctionnaires handicapés mentionnés au 5° du I de l'article L. 24, la condition d'âge de 60 ans est abaissée :
+
+1° A cinquante-cinq ans s'ils justifient alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
+de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au second alinéa de l'article L. 13, diminué de 40 trimestres, et d'une durée d'assurance ayant donné lieu
+à cotisation à leur charge au moins égale au nombre de trimestres fixé à l'article L. 13, diminué de 60 trimestres ;
+
+2° A cinquante-six ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
+de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au second alinéa de l'article L. 13, diminué de 50 trimestres, et d'une durée d'assurance ayant donné lieu
+à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 70 trimestres ;
+
+3° A cinquante-sept ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
+de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au second alinéa de l'article L. 13, diminué de 60 trimestres, et d'une durée d'assurance ayant donné lieu
+à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 80 trimestres ;
+
+4° A cinquante-huit ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
+de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au second alinéa de l'article L. 13, diminué de 70 trimestres, et d'une durée d'assurance ayant donné lieu
+à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 90 trimestres ;
+
+5° A cinquante-neuf ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
+de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au second alinéa de l'article L. 13, diminué de 80 trimestres, et d'une durée d'assurance ayant donné lieu
+à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 100 trimestres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°66-809 1966-10-28
+
+_Créé par_:
+
+  - Décret n°2006-1582 du 12 décembre 2006 - art. 3 () JORF 13 décembre 2006
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. D161-2-4-2 (VD)
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retrait - art. L13 (M)
+  - Code des pensions civiles et militaires de retrait - art. L24 (M)
 
 
 ### Titre V : Invalidité.<a id=69></a>
