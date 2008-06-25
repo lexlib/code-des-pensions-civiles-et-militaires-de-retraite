@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-06-26
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -85,7 +85,7 @@ Version Consolidée au 2008-01-01
         - [Paragraphe II : Dispositions diverses. (art. R*66 à R*68)](#82)
     - [Livre II : Dispositions particulières du régime général des retraites. (art. R*74 à R95-3)](#83)
       - [Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires. (art. R*74 à R*81)](#84)
-        - [Chapitre Ier : Agents en service détaché. (art. R*74 à R74-3)](#85)
+        - [Chapitre Ier : Agents en service détaché. (art. R*74 à R76 ter)](#85)
         - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités. (art. R*77)](#86)
         - [Chapitre IV : Gendarmes et sapeurs-pompiers de Paris. (art. R79)](#87)
         - [Chapitre VI : Agents des offices ou établissements de l'Etat dotés de l'autonomie financière. (art. R*81)](#88)
@@ -6507,32 +6507,33 @@ _Créé par_:
 
 ###### Article R27
 
-L'application des dispositions du II de l'article L. 15 est subordonnée :
+L'application des dispositions du II de l'article L. 15 est subordonnée : 
 
 Soit à l'occupation continue pendant quatre ans au moins d'un même emploi dont le traitement ou solde défini à l'article R.
-30 est supérieur à celui qui résulterait de l'application des dispositions de l'article L. 15 ;
+30 est supérieur à celui qui résulterait de l'application des dispositions de l'article L. 15 ; 
 
 Soit à l'occupation continue pendant deux ans au moins de l'un ou de plusieurs des emplois supérieurs visés par le décret n°
 85-779 du 24 juillet 1985, des emplois de chef de service, directeur adjoint ou sous-directeur d'administration centrale ou
 assimilés, des emplois d'officier général classés dans les groupes hors échelle E, F et G prévus par l'arrêté du 29 août
-1957.
+1957. 
 
 La période de quatre ou deux ans doit être entièrement comprise dans les quinze dernières années d'activité valables pour la
-retraite.
+retraite. 
 
 Les dispositions du II de l'article L. 15 ne sont pas applicables lorsque la cessation des fonctions mentionnées ci-dessus
-résulte d'une sanction disciplinaire ou est motivée par une insuffisance professionnelle.
+résulte d'une sanction disciplinaire ou est motivée par une insuffisance professionnelle. 
 
 Les fonctionnaires civils et les militaires ayant renoncé au bénéfice de leur pension pour acquérir de nouveaux droits à
 pension au titre d'un nouvel emploi ou dont la pension a été annulée en vertu des dispositions de l'article L. 77 ne peuvent
-demander le bénéfice des dispositions ci-dessus au titre d'un emploi occupé antérieurement.
+demander le bénéfice des dispositions ci-dessus au titre d'un emploi occupé antérieurement. 
 
-La liste des emplois fonctionnels mentionnée dans le II de l'article L. 15 est la suivante :
+La liste des emplois fonctionnels mentionnée dans le II de l'article L. 15 est la suivante : 
 
 1° Pour les emplois relevant de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction
 publique territoriale :
 
-- directeur général des services des départements et des régions et directeur général adjoint des services des régions ;
+- directeur général des services des départements et des régions et directeur général adjoint des services des départements
+et des régions ;
 
 - directeur général des services des communes de plus de 150 000 habitants ;
 
@@ -6540,7 +6541,7 @@ publique territoriale :
 plus de 150 000 habitants ;
 
 - directeur des établissements publics locaux assimilés à l'un des emplois de directeurs des collectivités territoriales
-précités.
+précités. 
 
 2° Pour les emplois relevant de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction
 publique hospitalière :
@@ -6551,9 +6552,15 @@ publique hospitalière :
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°66-809 1966-10-28
+  - Arrêté du 29 août 1957
+  - Loi n°84-53 du 26 janvier 1984
+  - Décret n°85-779 du 24 juillet 1985
+  - Loi n°86-33 du 9 janvier 1986
+  - Code des pensions civiles et militaires de retraite - art. L15
+  - Code des pensions civiles et militaires de retraite - art. L77
+  - Code des pensions civiles et militaires de retraite - art. R30
 
 _Cité par_:
 
@@ -6569,7 +6576,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2003-1305 du 26 décembre 2003 - art. 10 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+  - Décret n°2008-594 du 23 juin 2008 - art. 1
 
 
 ###### Article R28
@@ -7945,60 +7952,57 @@ _Cite_:
 Lorsque le fonctionnaire ou le militaire détaché dans un emploi conduisant à pension du présent code a acquitté jusqu'à la
 date de sa radiation des cadres la retenue pour pension sur le traitement afférent à cet emploi en vertu de l'article L. 63,
 la liquidation de la pension est effectuée sur proposition du ministre dont relève l'emploi considéré et sur la base des
-traitement ou solde correspondants déterminés conformément à l'article L. 15.
+traitement ou solde correspondants déterminés conformément à l'article L. 15. 
 
 Toutefois, si l'intéressé le demande dans le délai fixé à l'article R. 3 et qui court à compter de la date de la décision de
 radiation des cadres, la liquidation de la pension est effectuée sur la base des traitement ou solde afférents à l'emploi ou
-grade détenu dans le corps d'origine sur proposition du ministre dont relève cet emploi ou grade.
+grade détenu dans le corps d'origine sur proposition du ministre dont relève cet emploi ou grade. Lorsque l'intéressé
+bénéficie dans son corps d'origine de la prise en compte dans le calcul de sa pension d'éléments de rémunération non
+mentionnés à l'article L. 15 ou d'une bonification du cinquième des services effectués, à l'exception de celle prévue au i de
+l'article L. 12, il ne peut être fait droit à sa demande que s'il s'est acquitté pendant son détachement des retenues
+majorées correspondantes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°66-809 1966-10-28
-
 _Modifié par_:
 
-  - Décret n°2003-1305 du 26 décembre 2003 - art. 30 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+  - Décret n°2008-594 du 23 juin 2008 - art. 1
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retraite - art. L12
+  - Code des pensions civiles et militaires de retraite - art. L15
+  - Code des pensions civiles et militaires de retraite - art. L63
+  - Code des pensions civiles et militaires de retraite - art. R*3
 
 
 ###### Article R*76 bis
 
 Lorsque le fonctionnaire ou le militaire détaché dans un emploi conduisant à pension du régime de retraite des fonctionnaires
 affiliés à la Caisse nationale de retraites des agents des collectivités locales a acquitté jusqu'à la date de la cessation
-des services valables pour la retraite la retenue pour pension sur le traitement ou solde afférent aux emplois prévus au II
-de l'article L. 15, la liquidation de la pension est effectuée sur la base du traitement ou solde correspondant.
+des services valables pour la retraite la retenue pour pension sur le traitement ou solde afférent à cet emploi, la
+liquidation de la pension est effectuée sur la base du traitement ou solde correspondant déterminé conformément aux
+dispositions de l'article L. 15. 
 
 Toutefois, si l'intéressé le demande dans le délai fixé à l'article R. 3 et qui court à compter de la date de la décision de
-radiation des cadres, la liquidation de la pension est effectuée sur la base  du traitement ou solde afférent à l'emploi ou
-grade détenu dans le corps d'origine sur proposition du ministre dont relève cet emploi ou grade.
+radiation des cadres, la liquidation de la pension est effectuée sur la base du traitement ou solde afférent à l'emploi ou
+grade détenu dans le corps d'origine sur proposition du ministre dont relève cet emploi ou grade. Lorsque l'intéressé
+bénéficie dans son corps d'origine de la prise en compte dans le calcul de sa pension d'éléments de rémunération non
+mentionnés à l'article L. 15 ou d'une bonification du cinquième des services effectués, à l'exception de celle prévue au i de
+l'article L. 12, il ne peut être fait droit à sa demande que s'il s'est acquitté pendant son détachement des retenues
+majorées correspondantes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°66-809 1966-10-28
+  - Décret n°2008-594 du 23 juin 2008 - art. 1
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2003-1305 du 26 décembre 2003 - art. 31 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-
-###### Article R*76 ter
-
-Lorsque le fonctionnaire ou le militaire est détaché dans un emploi conduisant à pension du présent code ou du régime de
-retraite des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales, la retenue pour
-pension prévue à l'article L. 61 fait l'objet d'un précompte mensuel par l'administration ou la collectivité qui l'emploie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°66-809 1966-10-28
-
-_Créé par_:
-
-  - Décret n°2003-1305 du 26 décembre 2003 - art. 32 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+  - Code des pensions civiles et militaires de retraite - art. L12
+  - Code des pensions civiles et militaires de retraite - art. L15
+  - Code des pensions civiles et militaires de retraite - art. R*3
 
 
 ###### Article R74-1
@@ -8080,6 +8084,29 @@ _Cite_:
 _Créé par_:
 
   - Décret n°2003-1305 du 26 décembre 2003 - art. 28 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+
+###### Article R76 ter
+
+Lorsque le fonctionnaire ou le militaire est détaché dans un emploi conduisant à pension du présent code ou du régime de
+retraite des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales, la retenue pour
+pension prévue à l'article L. 61 fait l'objet d'un précompte mensuel par l'administration ou la collectivité qui l'emploie. 
+
+Si l'intéressé bénéficie dans son corps d'origine de la prise en compte dans le calcul de sa pension d'éléments de
+rémunération non mentionnés à l'article L. 15 ou d'une bonification du cinquième des services effectués, à l'exception de
+celle prévue au i de l'article L. 12, il s'acquitte pendant son détachement des retenues majorées correspondantes.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2008-594 du 23 juin 2008 - art. 1
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retraite - art. L12
+  - Code des pensions civiles et militaires de retraite - art. L15
+  - Code des pensions civiles et militaires de retraite - art. L61
 
 
 #### Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.<a id=86></a>
