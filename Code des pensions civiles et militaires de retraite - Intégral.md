@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2008-12-19
+Version Consolidée au 2009-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -66,7 +66,7 @@ Version Consolidée au 2008-12-19
         - [Chapitre Ier : Services et bonifications valables. (art. R10 à R25-1)](#63)
         - [Chapitre II : Détermination du montant de la pension. (art. R26 à R33 bis)](#64)
           - [Paragraphe Ier : Décompte et valeur des annuités liquidables. (art. R26 à R26 bis)](#65)
-          - [Paragraphe II : Emoluments de base. (art. R27 à R31-2)](#66)
+          - [Paragraphe II : Emoluments de base. (art. R27 à R31)](#66)
           - [Paragraphe IV : Avantages de pension. (art. R*32 à R33 bis)](#67)
       - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. R*34 à R37 bis)](#68)
       - [Titre V : Invalidité. (art. R38 à R52)](#69)
@@ -6660,65 +6660,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°2003-1305 du 26 décembre 2003 - art. 13 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-
-###### Article R31-1
-
-La revalorisation des pensions, soldes de réforme et rentes d'invalidité prévue à l'article L. 16 intervient au 1er janvier
-de chaque année.
-
-Cette revalorisation s'applique aux pensions, soldes de réforme et rentes d'invalidité dont la date d'effet est au plus tard
-ce même 1er janvier.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°66-809 1966-10-28
-
-_Créé par_:
-
-  - Décret n°2005-167 du 22 février 2005 - art. 1 () JORF 24 février 2005
-
-_Abrogé par_:
-
-  - Décret n°2008-1497 du 22 décembre 2008 - art. 2
-
-_Cite_:
-
-  - Code des pensions civiles et militaires de retraite - art. L16
-
-
-###### Article R31-2
-
-L'indice des prix retenu pour l'application du premier alinéa de l'article L. 16 est le taux prévisionnel d'évolution en
-moyenne annuelle des prix à la consommation de tous les ménages, hors les prix du tabac, qui est prévu, pour l'année civile
-considérée, dans le rapport économique, social et financier annexé au projet de loi de finances pour cette même année.
-
-L'ajustement mentionné au deuxième alinéa de l'article L. 16 est obtenu en faisant la différence entre, d'une part, le taux
-prévisionnel d'évolution en moyenne annuelle des prix à la consommation de tous les ménages, hors les prix du tabac, qui est
-prévu pour l'année civile antérieure dans le rapport économique, social et financier annexé au projet de loi de finances de
-l'année, et, d'autre part, le taux prévisionnel d'évolution en moyenne annuelle des prix à la consommation de tous les
-ménages, hors les prix du tabac, qui était prévu pour cette même année civile antérieure dans le rapport économique, social
-et financier annexé au projet de loi de finances pour l'année antérieure.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°66-809 1966-10-28
-
-_Créé par_:
-
-  - Décret n°2005-167 du 22 février 2005 - art. 1 () JORF 24 février 2005
-
-_Abrogé par_:
-
-  - Décret n°2008-1497 du 22 décembre 2008 - art. 2
-
-_Cite_:
-
-  - Code des pensions civiles et militaires de retraite - art. L16
 
 
 ##### Paragraphe IV : Avantages de pension.<a id=67></a>
