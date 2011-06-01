@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-06-02
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -8725,14 +8725,24 @@ _Cite_:
 
 ###### Article D1
 
-La demande d'admission à la retraite du fonctionnaire ou du militaire doit être adressée au ministre ou à son délégué par la
-voie hiérarchique, au moins six mois avant la date à laquelle il souhaite cesser son activité. Il en est accusé réception.
+Pour obtenir la concession et la liquidation de sa pension à la date à laquelle il souhaite cesser son activité, le
+fonctionnaire, le magistrat ou le militaire doit déposer sa demande d'admission à la retraite, par la voie hiérarchique, six
+mois avant cette date, auprès du service gestionnaire dont il relève. 
+
+La décision de radiation des cadres prononcée pour un motif autre que l'invalidité doit être prise dans les deux mois qui
+suivent le dépôt de la demande d'admission à la retraite et, en tout état de cause, quatre mois au moins avant la date à
+laquelle elle prend effet. 
+
+La décision de radiation des cadres par limite d'âge doit être prise quatre mois au moins avant la date à laquelle elle prend
+effet. 
+
+La concession de la pension doit intervenir au plus tard un mois avant la date d'effet de la radiation des cadres.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2003-1309 du 26 décembre 2003 - art. 1 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+  - Décret n°2011-616 du 30 mai 2011 - art. 1
 
 _Cité par_:
 
@@ -8751,7 +8761,7 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°66-810 1966-10-28
+  - Décret n°66-810 du 28 octobre 1966
 
 
 ### Titre II : Constitution du droit à la pension ou à la solde de réforme.<a id=103></a>
