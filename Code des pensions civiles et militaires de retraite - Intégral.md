@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2012-03-14
+Version Consolidée au 2012-04-26
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -122,7 +122,7 @@ Version Consolidée au 2012-03-14
       - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D32)](#119)
     - [Livre III : Dispositions relatives au paiement des pensions. (art. D38 à D58)](#120)
       - [Chapitre Ier : Paiement des pensions. (art. D38 à D57)](#121)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D38 à D39)](#122)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D38 à D39 bis)](#122)
         - [Paragraphe II : Contexture des titres de paiement. (art. D40)](#123)
         - [Paragraphe III : Modalités de paiement des pensions. (art. D43 à D47)](#124)
         - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D54)](#125)
@@ -10368,6 +10368,30 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°66-810 1966-10-28
+
+
+###### Article D39 bis
+
+La pension dont le montant total mensuel brut est inférieur au douzième de la somme prévue à l'article R. 351-26 du code de
+la sécurité sociale et revalorisée selon les modalités fixées par cet article est payée annuellement et à terme échu. 
+
+Le titulaire d'une pension mentionnée au premier alinéa peut toutefois opter de manière irrévocable, dans un délai d'un an à
+compter de la date de la liquidation de la pension, pour le versement d'un capital égal à quinze fois le montant annuel de
+cette pension. Ce capital est réduit, le cas échéant, de la somme des pensions déjà payées à la date de son versement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-551 du 23 avril 2012 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2015-1872 du 30 décembre 2015 - art. 2
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. R351-26
 
 
 #### Paragraphe II : Contexture des titres de paiement.<a id=123></a>
