@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2012-04-26
+Version Consolidée au 2012-08-25
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -4562,15 +4562,10 @@ viagère, en cas d'erreur de droit.
 
 La restitution des sommes payées indûment au titre de la pension ou de la rente viagère d'invalidité supprimée ou révisée est
 exigible lorsque l'intéressé était de mauvaise foi. Cette restitution est, en tant que de besoin, poursuivie par l'agent
-judiciaire du Trésor. 
+judiciaire de l'Etat. 
 
 La pension des militaires n'est pas assimilée à un avantage vieillesse avant l'âge mentionné à l'article L. 161-17-2 du code
 de la sécurité sociale.
-
-**Nota:**
-
-Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 23 sont applicables aux pensions prenant
-effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
@@ -4582,10 +4577,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 162 (V)
+  - Décret n°2012-985 du 23 août 2012 - art. 1
 
 _Cite_:
 
+  - Code des pensions civiles et militaires de retraite - art. L43
   - Code de la sécurité sociale. - art. L161-17-2
 
 _Codifié par_:
