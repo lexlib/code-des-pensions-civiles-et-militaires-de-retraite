@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2012-08-25
+Version Consolidée au 2012-11-01
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -111,7 +111,7 @@ Version Consolidée au 2012-08-25
         - [Chapitre II : Détermination du montant de la pension. (art. D15 à D16)](#108)
           - [Paragraphe II : Emoluments de base. (art. D15)](#109)
           - [Paragraphe IV : Avantages de pension à caractère familial. (art. D16)](#110)
-      - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. D16-1 à D16-4)](#111)
+      - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. D16-1 à D16-3)](#111)
       - [Titre V : Invalidité. (art. D17 à D19)](#112)
         - [Chapitre Ier : Fonctionnaires civils. (art. D17 à D18)](#113)
           - [Paragraphe III : Dispositions communes. (art. D17 à D18)](#114)
@@ -9287,180 +9287,148 @@ _Codifié par_:
 
 ###### Article D16-1
 
-L'âge d'ouverture du droit à une pension de retraite est abaissé, en application de l'article L. 25 bis, pour les
-fonctionnaires relevant du régime des pensions civiles et militaires de retraite qui justifient, dans ce régime et, le cas
-échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée minimale d'assurance, ou de périodes reconnues
-équivalentes, au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n°
-2003-775 du 21 août 2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans,
-majorée de huit trimestres : 
+I. ― L'âge d'ouverture du droit à une pension de retraite est abaissé à soixante ans, en application de l'article L. 25 bis,
+pour les fonctionnaires ayant débuté leur activité avant l'âge de vingt ans et qui justifient, dans le régime des pensions
+civiles et militaires de retraite et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée
+d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance ou de services et de
+bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août 2003portant réforme des retraites et applicable l'année
+où ils atteignent l'âge de soixante ans. 
 
-I. ― Pour les fonctionnaires nés avant le 1er juillet 1951 : 
+II. ― L'âge d'ouverture du droit à une pension de retraite est abaissé, en application de l'article L. 25 bis, pour les
+assurés qui justifient, dans le régime des pensions civiles et militaires de retraite et, le cas échéant, dans un ou
+plusieurs autres régimes obligatoires, d'une durée d'assurance ayant donné lieu à cotisations à leur charge, au moins égale
+aux seuils définis ci-après : 
+
+A. ― Pour les fonctionnaires nés avant le 1er juillet 1951 : 
 
 1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur activité avant
-l'âge de seize ans ; 
-
-2° A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de quatre trimestres, et
-ayant débuté leur activité avant l'âge de seize ans ; 
-
-3° A cinquante-neuf ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
 charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du
-21 août 2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté
-leur activité avant l'âge de dix-sept ans. 
-
-II. ― Pour les fonctionnaires nés entre le 1er juillet 1951 inclus et le 31 décembre 1951 inclus : 
-
-1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur activité avant
-l'âge de seize ans ; 
+21 août 2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit
+trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 2° A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de quatre trimestres, et
-ayant débuté leur activité avant l'âge de seize ans ; 
-
-3° A cinquante-neuf ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du
-21 août 2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté
-leur activité avant l'âge de dix-sept ans. 
-
-4° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
-moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
-2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
-activité avant l'âge de dix-huit ans. 
-
-III.-Pour les fonctionnaires nés en 1952 : 
-
-1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur activité avant
-l'âge de seize ans ; 
-
-2° A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de quatre trimestres, et
-ayant débuté leur activité avant l'âge de seize ans ; 
-
-3° A cinquante-neuf ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
-cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la
-loi n° 2003-775 du 21 août 2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans
-et ayant débuté leur activité avant l'âge de dix-sept ans. 
-
-4° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
-moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
-2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
-activité avant l'âge de dix-huit ans. 
-
-IV.-Pour les fonctionnaires nés en 1953 : 
-
-1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur activité avant
-l'âge de seize ans ; 
-
-2° A cinquante-huit ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
-cotisations à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de
-quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
-
-3° A cinquante-neuf ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
-cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la
-loi n° 2003-775 du 21 août 2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans
-et ayant débuté leur activité avant l'âge de dix-sept ans. 
-
-4° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
-moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
-2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
-activité avant l'âge de dix-huit ans ; 
-
-V.-Pour les fonctionnaires nés en 1954 : 
-
-1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur activité avant
-l'âge de seize ans ; 
-
-2° A cinquante-huit ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
-cotisations à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de
-quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
-
-3° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
-moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
-2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
-activité avant l'âge de dix-huit ans ; 
-
-VI.-Pour les fonctionnaires nés en 1955 : 
-
-1° A cinquante-six ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
-cotisations à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté
-leur activité avant l'âge de seize ans ; 
-
-2° A cinquante-neuf ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de quatre trimestres, et
-ayant débuté leur activité avant l'âge de seize ans ; 
-
-3° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
-moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
-2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
-activité avant l'âge de dix-huit ans ; 
-
-VII.-Pour les fonctionnaires nés en 1956 : 
-
-1° A cinquante-six ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations
-à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur
+charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003
+précitée et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur
 activité avant l'âge de seize ans ; 
 
-2° A cinquante-neuf ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
-cotisations à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de
-quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
+3° A cinquante-neuf ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003
+précitée et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de dix-
+sept ans ; 
 
-3° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
-moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
-2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
-activité avant l'âge de dix-huit ans ; 
+B. ― Pour les fonctionnaires nés entre le 1er juillet 1951 inclus et le 31 décembre 1951 inclus : 
 
-VIII. ― Pour les fonctionnaires nés en 1957 : 
+1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003
+précitée et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur
+activité avant l'âge de seize ans ; 
 
-1° A cinquante-sept ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur activité avant
-l'âge de seize ans ; 
+2° A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003
+précitée et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur
+activité avant l'âge de seize ans ; 
 
-2° A cinquante-neuf ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
-cotisations à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de
-quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
+3° A cinquante-neuf ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003
+précitée et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de dix-
+sept ans. 
 
-3° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
-moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
-2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
-activité avant l'âge de dix-huit ans ; 
+C. ― Pour les fonctionnaires nés en 1952 : 
 
-IX. ― Pour les fonctionnaires nés en 1958 : 
+1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003
+précitée et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur
+activité avant l'âge de seize ans ; 
 
-1° A cinquante-sept ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
-cotisations à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté
-leur activité avant l'âge de seize ans ; 
+2° A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003
+précitée et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur
+activité avant l'âge de seize ans ; 
 
-2° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
-moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
-2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
-activité avant l'âge de dix-huit ans ; 
+3° A cinquante-neuf ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
+durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme
+des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de
+dix-sept ans. 
 
-X. ― Pour les fonctionnaires nés en 1959 : 
+D. ― Pour les fonctionnaires nés en 1953 : 
 
-1° A cinquante-sept ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
-cotisations à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté
-leur activité avant l'âge de seize ans ; 
+1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la durée
+d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable l'année où
+l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
-2° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
-moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
-2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
-activité avant l'âge de dix-huit ans ; 
+2° A cinquante-huit ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
+durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
+l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de
+seize ans ; 
 
-XI.-Pour les fonctionnaires nés à compter du 1er janvier 1960 : 
+3° A cinquante-neuf ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
+durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
+l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de dix-sept ans ; 
 
-1° A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur activité avant
-l'âge de seize ans ; 
+E. ― Pour les fonctionnaires nés en 1954 : 
 
-2° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
-moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
-2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
-activité avant l'âge de dix-huit ans.
+1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la durée
+d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable l'année où
+l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
+
+2° A cinquante-huit ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
+durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
+l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de
+seize ans ; 
+
+F. ― Pour les fonctionnaires nés en 1955 : 
+
+1° A cinquante-six ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
+durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
+l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de
+seize ans ; 
+
+2° A cinquante-neuf ans pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la durée
+d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable l'année où
+l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize
+ans ; 
+
+G. ― Pour les fonctionnaires nés en 1956 : 
+
+1° A cinquante-six ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
+durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
+l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de
+seize ans ; 
+
+2° A cinquante-neuf ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
+durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
+l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de
+seize ans ; 
+
+H. ― Pour les fonctionnaires nés en 1957 : 
+
+1° A cinquante-sept ans pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la durée
+d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable l'année où
+l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
+
+2° A cinquante-neuf ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
+durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
+l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de seize ans ; 
+
+I. ― Pour les fonctionnaires nés en 1958 : 
+
+A cinquante-sept ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
+durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
+l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de
+seize ans ; 
+
+J. ― Pour les fonctionnaires nés en 1959 : 
+
+A cinquante-sept ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
+durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
+l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de
+seize ans ; 
+
+K. ― Pour les fonctionnaires nés à compter du 1er janvier 1960 : 
+
+A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la durée d'assurance
+ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable l'année où l'assuré
+atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans.
 
 **Liens relatifs à cet article**
 
@@ -9477,36 +9445,50 @@ _Cité par_:
   - Code des pensions civiles et militaires de retr... - art. D16-3 (VD)
   - Code des pensions civiles et militaires de retr... - art. D16-4 (VT)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1748 du 30 décembre 2010 - art. 1
+  - Décret n°2012-847 du 2 juillet 2012 - art. 4
 
 
 ###### Article D16-2
 
-Pour l'application de la condition de durée d'assurance ayant donné lieu à cotisations à la charge des fonctionnaires définie
-à l'article D. 16-1, sont réputées avoir donné lieu à cotisations : 
+I. ― Pour l'application de la condition de durée d'assurance ayant donné lieu à cotisations à la charge des fonctionnaires
+définie à l'article D. 16-1, sont réputées avoir donné lieu à cotisations : 
 
-― les périodes de service national, à raison d'un trimestre par période d'au moins quatre-vingt-dix jours, consécutifs ou
-non. Lorsque la période couvre deux années civiles, elle peut être affectée à l'une ou l'autre de ces années, la solution la
-plus favorable étant retenue ; 
+1° Les périodes de service national, à raison d'un trimestre par période d'au moins quatre-vingt-dix jours, consécutifs ou
+non dans la limite de quatre trimestres. Lorsque la période couvre deux années civiles, elle peut être affectée à l'une ou
+l'autre de ces années, la solution la plus favorable étant retenue ; 
 
-― les périodes pendant lesquelles les fonctionnaires ont été placés en congé de maladie statutaire ainsi que les périodes
-comptées comme périodes d'assurance dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité
-et de l'inaptitude temporaire. 
+2° Les périodes pendant lesquelles les fonctionnaires ont été placés en congé de maladie statutaire dans la limite de quatre
+trimestres. 
 
-Ces périodes sont retenues respectivement dans la limite de quatre trimestres et sans que le nombre de trimestres ayant donné
-lieu à cotisations ou réputés tels puisse excéder quatre pour une même année civile. 
+Ces périodes sont retenues sans que le nombre de trimestres ayant donné lieu à cotisations ou réputés tels puisse excéder
+quatre pour une même année civile. 
 
-Pour l'application de cette même condition de durée d'activité ayant donné lieu à cotisations à la charge des fonctionnaires,
+II. ― Sont également réputées avoir donné lieu à cotisations les périodes accomplies dans les autres régimes obligatoires de
+base et réputées comme telles en application du présent article ou, dans les conditions qu'elles fixent, de dispositions
+réglementaires ayant le même objet. Les trimestres réputés cotisés dans le régime des pensions civiles et militaires de
+retraite et dans les autres régimes obligatoires de base sont pris en compte dans les limites suivantes : 
+
+1° Les trimestres réputés cotisés au titre du service national ne peuvent excéder quatre trimestres ; 
+
+2° Les trimestres réputés cotisés au titres des périodes pendant lesquelles les fonctionnaires ont été placés en congé de
+maladie statutaire et des périodes réputées cotisées dans un ou plusieurs autres régimes obligatoires au titre de la maladie,
+de la maternité et de l'inaptitude temporaire ne peuvent excéder au total six trimestres, sans que le nombre total de
+trimestres réputés cotisés au titre de la maladie et de l'inaptitude temporaire ne puisse excéder quatre trimestres ; 
+
+3° Les trimestres réputés cotisés au titre des périodes comptées comme périodes d'assurance au titre du chômage ne peuvent
+excéder deux trimestres. 
+
+III. ― Pour l'application de la condition de durée d'assurance ayant donné lieu à cotisations à la charge des fonctionnaires,
 il est retenu un nombre de trimestres au plus égal à quatre au titre de chaque année civile au cours de laquelle l'assuré a
-été affilié successivement ou simultanément à plusieurs des régimes considérés.
+été affilié successivement ou simultanément à plusieurs régimes obligatoires.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1748 du 30 décembre 2010 - art. 1
+  - Décret n°2012-847 du 2 juillet 2012 - art. 4
 
 _Cite_:
 
@@ -9516,50 +9498,24 @@ _Cite_:
 ###### Article D16-3
 
 Pour l'application de la condition de début d'activité définie à l'article D. 16-1, sont considérés comme ayant débuté leur
-activité avant l'âge de seize, dix-sept ou dix-huit ans les fonctionnaires justifiant : 
+activité avant l'âge de seize, dix-sept ou vingt ans les fonctionnaires justifiant :
 
-― soit d'une durée d'assurance d'au moins cinq trimestres à la fin de l'année au cours de laquelle est survenu,
-respectivement, leur seizième, dix-septième ou dix-huitième anniversaire ; 
+– soit d'une durée d'assurance d'au moins cinq trimestres à la fin de l'année au cours de laquelle est survenu,
+respectivement, leur seizième, dix-septième ou vingtième anniversaire ;
 
-― soit, s'ils sont nés au cours du quatrième trimestre et ne justifient pas de la durée d'assurance prévue à l'alinéa
-précédent, d'une durée d'assurance d'au moins quatre trimestres au titre de l'année au cours de laquelle est survenu,
-respectivement, leur seizième, dix-septième ou dix-huitième anniversaire.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-1748 du 30 décembre 2010 - art. 1
-
-_Cite_:
-
-  - Code des pensions civiles et militaires de retraite - art. D16-1
-
-
-###### Article D16-4
-
-Pour l'application de la condition de durée minimale d'assurance ou de périodes reconnues équivalentes définie au premier
-alinéa de l'article D. 16-1, sont prises en compte la bonification pour enfant mentionnée aux b et b bis de l'article L. 12,
-les majorations de durée d'assurance mentionnées aux articles L. 12 bis et L. 12 ter et les périodes d'interruption ou de
-réduction d'activité mentionnées au 1 de l'article L. 9 lorsqu'elles se rapportent à des enfants nés ou adoptés avant le 1er
-janvier 2010.
+– soit, s'ils sont nés au cours du quatrième trimestre et ne justifient pas de la durée d'assurance prévue à l'alinéa
+précédent, d'une durée d'assurance d'au moins quatre trimestres à la fin de l'année au cours de laquelle est survenu,
+respectivement, leur seizième, dix-septième ou vingtième anniversaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2010-1748 du 30 décembre 2010 - art. 1
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2012-847 du 2 juillet 2012 - art. 4
 
 _Cite_:
 
   - Code des pensions civiles et militaires de retraite - art. D16-1
-  - Code des pensions civiles et militaires de retraite - art. L12
-  - Code des pensions civiles et militaires de retraite - art. L12 bis
-  - Code des pensions civiles et militaires de retraite - art. L9
 
 
 ### Titre V : Invalidité.<a id=112></a>
