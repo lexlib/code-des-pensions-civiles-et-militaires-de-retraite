@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2012-11-01
+Version Consolidée au 2012-12-01
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -117,17 +117,18 @@ Version Consolidée au 2012-11-01
           - [Paragraphe III : Dispositions communes. (art. D17 à D18)](#114)
         - [Chapitre II : Militaires. (art. D19)](#115)
       - [Titre VI : Pensions des ayants cause. (art. D19-1 à D19-6)](#116)
-      - [Titre VIII : Dispositions d'ordre et diverses. (art. D20 à D26)](#117)
+      - [Titre VIII : Dispositions d'ordre et diverses. (art. D20 à D27)](#117)
         - [Paragraphe Ier : Concession et révision de la pension. (art. D20 à D26)](#118)
-      - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D32)](#119)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. D38 à D58)](#120)
-      - [Chapitre Ier : Paiement des pensions. (art. D38 à D57)](#121)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D38 à D39 bis)](#122)
-        - [Paragraphe II : Contexture des titres de paiement. (art. D40)](#123)
-        - [Paragraphe III : Modalités de paiement des pensions. (art. D43 à D47)](#124)
-        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D54)](#125)
-        - [Paragraphe VI : Abandon de jouissance. (art. D57)](#126)
-      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. D58)](#127)
+        - [Paragraphe II : Dispositions spécifiques à la concession les prestations d'invalidité (art. D27)](#119)
+      - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D32)](#120)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. D38 à D58)](#121)
+      - [Chapitre Ier : Paiement des pensions. (art. D38 à D57)](#122)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D38 à D39 bis)](#123)
+        - [Paragraphe II : Contexture des titres de paiement. (art. D40)](#124)
+        - [Paragraphe III : Modalités de paiement des pensions. (art. D43 à D47)](#125)
+        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D54)](#126)
+        - [Paragraphe VI : Abandon de jouissance. (art. D57)](#127)
+      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. D58)](#128)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=2></a>
@@ -9980,22 +9981,35 @@ _Codifié par_:
 
 ###### Article D21-2
 
-Pour assurer sa mission de contrôle, ou en cas de difficulté dans la liquidation de la pension, le service des pensions du
-ministère chargé du budget peut demander communication de tout ou partie des pièces justificatives ayant permis au ministre
-dont relevait le fonctionnaire ou le militaire d'établir les états mentionnés à l'article D. 21-1. Le cas échéant, ces pièces
-peuvent être demandées après la concession de la pension.
+Les informations qui doivent être portées au compte individuel de retraite sont communiquées au service des retraites de
+l'Etat au plus tard le 31 janvier de chaque année sous la forme d'une déclaration annuelle par les administrations, offices
+ou établissements de l'Etat ou tous autres organismes employeurs des fonctionnaires de l'Etat, magistrats et militaires qui
+les détiennent. Cette déclaration dématérialisée est effectuée selon le format d'échange commun fixé par arrêté conjoint des
+ministres chargés du budget et de la fonction publique après avis du comité de coordination stratégique en matière de
+retraites de l'Etat. 
+
+Au plus tard deux mois avant la radiation des cadres du fonctionnaire, magistrat ou militaire ou après son décès en activité,
+les administrations, offices ou établissements de l'Etat ou tous autres organismes employeurs des fonctionnaires de l'Etat,
+magistrats et militaires mentionnés au premier alinéa communiquent au service des retraites de l'Etat les données relatives à
+la dernière situation d'activité de l'intéressé nécessaires à la liquidation de sa pension et les informations énumérées à
+l'article D. 21-1. 
+
+Pour assurer sa mission de contrôle, le service des retraites de l'Etat peut demander, y compris après la concession de la
+pension, communication de tout ou partie des pièces justificatives des informations portées au compte individuel de retraite.
+Au vu de ces pièces, toute erreur affectant ces informations peut être rectifiée par le service des retraites de l'Etat.
 
 **Nota:**
 
-Décret 2003-1309 art. 29 : Les dispositions du présent décret entrent en vigueur le 1er janvier 2004. Toutefois les
-dispositions des articles D. 21-1 et D. 21-2 du code des pensions civiles et militaires de retraite issus de l'article 12
-s'appliquent aux demandes d'admission à la retraite déposées à compter du 1er janvier 2004.
+Décret n° 2011-616 du 30 mai 2011, article 6 et décret n° 2013-39 du 10 janvier 2013, article 2 : Les présentes dispositions
+prennent effet à l'égard des employeurs de fonctionnaires, magistrats et militaires chacun pour ce qui le concerne, à une
+date et selon les modalités fixées par arrêté conjoint des ministres chargés du budget et de la fonction publique et du
+ministre concerné et au plus tard le 31 décembre 2014.
+
+Jusqu'à cette date, la pension ou la rente viagère d'invalidité des agents des employeurs en cause est liquidée et concédée
+dans les conditions prévues aux articles D. 21-1 et D. 21-2 dans leur rédaction antérieure à l'entrée en vigueur du présent
+décret.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1309 du 26 décembre 2003 - art. 12 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 _Cité par_:
 
@@ -10030,13 +10044,17 @@ _Cité par_:
   - Arrêté du 7 novembre 2014 - art. 3 (V)
   - Arrêté du 21 août 2015 - art. 3 (V)
 
+_Modifié par_:
+
+  - Décret n°2011-616 du 30 mai 2011 - art. 3
+
 _Cite_:
 
-  - Code des pensions civiles et militaires de retrait - art. D21-1 (V)
+  - Code des pensions civiles et militaires de retraite - art. D21-1
 
 _Codifié par_:
 
-  - Décret n°66-810 1966-10-28
+  - Décret n°66-810 du 28 octobre 1966
 
 
 ###### Article D22
@@ -10221,7 +10239,57 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=119></a>
+#### Paragraphe II : Dispositions spécifiques à la concession les prestations d'invalidité<a id=119></a>
+
+###### Article D27
+
+En vue de la concession des prestations d'invalidité, les  administrations, établissements, offices de l'Etat ou tous autres
+organismes employeurs des fonctionnaires de l'Etat, magistrats et  militaires constituent des dossiers, transmis au service
+des retraites  de l'Etat, dans lesquels figurent : 
+
+- la demande de mise à la retraite pour invalidité ; 
+
+- le cas échéant, la copie de la carte d'invalidité ; 
+
+-  les procès-verbaux des instances médicales obligatoirement saisies en  vertu des lois et règlements applicables à la
+situation de l'intéressé  accompagnés des pièces justificatives médicales et administratives  produites à ces organismes.
+
+**Nota:**
+
+Décret n° 2011-616 du 30 mai 2011, article 6 et décret n° 2013-39 du 10 janvier 2013, article 2 : Les présentes dispositions
+prennent effet à l'égard des employeurs de fonctionnaires, magistrats et militaires chacun pour ce qui le concerne, à une
+date et selon les modalités fixées par arrêté conjoint des ministres chargés du budget et de la fonction publique et du
+ministre concerné et au plus tard le 31 décembre 2014.
+
+Jusqu'à cette date, la pension ou la rente viagère d'invalidité des agents des employeurs en cause est liquidée et concédée
+dans les conditions prévues aux articles D. 21-1 et D. 21-2 dans leur rédaction antérieure à l'entrée en vigueur du présent
+décret.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2011-616 du 30 mai 2011 - art. 4
+
+_Cité par_:
+
+  - Arrêté du 7 décembre 2012 - art. 1 (V)
+  - Arrêté du 12 décembre 2012 - art. 1 (V)
+  - Arrêté du 18 décembre 2012 - art. 1 (V)
+  - Arrêté du 19 décembre 2012 - art. 1 (V)
+  - Arrêté du 21 décembre 2012 - art. 1 (V)
+  - Arrêté du 14 décembre 2012 - art. 1 (V)
+  - Arrêté du 26 décembre 2012 - art. 1 (V)
+  - Arrêté du 3 octobre 2014 - art. 1 (V)
+  - Arrêté du 7 novembre 2014 - art. 1 (V)
+  - Arrêté du 21 août 2015 - art. 1 (V)
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retrait - art. L59 (Ab)
+
+
+### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=120></a>
 
 ###### Article D30
 
@@ -10265,11 +10333,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-## Livre III : Dispositions relatives au paiement des pensions.<a id=120></a>
+## Livre III : Dispositions relatives au paiement des pensions.<a id=121></a>
 
-### Chapitre Ier : Paiement des pensions.<a id=121></a>
+### Chapitre Ier : Paiement des pensions.<a id=122></a>
 
-#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=122></a>
+#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=123></a>
 
 ###### Article D38
 
@@ -10333,7 +10401,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R351-26
 
 
-#### Paragraphe II : Contexture des titres de paiement.<a id=123></a>
+#### Paragraphe II : Contexture des titres de paiement.<a id=124></a>
 
 ###### Article D40
 
@@ -10355,7 +10423,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe III : Modalités de paiement des pensions.<a id=124></a>
+#### Paragraphe III : Modalités de paiement des pensions.<a id=125></a>
 
 ###### Article D43
 
@@ -10431,7 +10499,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe V : Précompte de la cotisation de sécurité sociale.<a id=125></a>
+#### Paragraphe V : Précompte de la cotisation de sécurité sociale.<a id=126></a>
 
 ###### Article D53
 
@@ -10479,7 +10547,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe VI : Abandon de jouissance.<a id=126></a>
+#### Paragraphe VI : Abandon de jouissance.<a id=127></a>
 
 ###### Article D57
 
@@ -10500,7 +10568,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. D472 (V)
 
 
-### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=127></a>
+### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=128></a>
 
 ###### Article D58
 
