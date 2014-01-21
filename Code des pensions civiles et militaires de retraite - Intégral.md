@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-01-22
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -433,11 +433,17 @@ _Codifié par_:
 
 ###### Article L6
 
-Le droit à pension est acquis :
+Le droit à pension est acquis : 
 
-1° Aux officiers et aux militaires non officiers qui ont accompli quinze ans de services civils et militaires effectifs ;
+1° Aux officiers et aux militaires non officiers après la durée fixée par le décret en Conseil d'Etat mentionné au 1° de
+l'article L. 4 ; 
 
 2° Sans condition de durée de service aux officiers et aux militaires non officiers radiés des cadres par suite d'infirmités.
+
+**Nota:**
+
+Conformément à l'article 42 II de la loi n° 2014-40 du 20 janvier 2014,  l'article 42 est applicable aux militaires dont le
+premier engagement a  été conclu à compter du 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -473,7 +479,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-270 du 24 mars 2005 - art. 95 () JORF 26 mars 2005 en vigueur le 1er juillet 2005
+  - Loi n°2014-40 du 20 janvier 2014 - art. 42 (V)
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retraite - art. L4
 
 _Codifié par_:
 
@@ -482,8 +492,13 @@ _Codifié par_:
 
 ###### Article L7
 
-Le droit à solde de réforme est acquis aux officiers et aux sous-officiers de carrière comptant moins de quinze ans de
-services civils et militaires radiés des cadres par mesure disciplinaire.
+Le droit à solde de réforme est acquis aux officiers et aux sous-officiers de carrière comptant moins de deux ans de services
+civils et militaires radiés des cadres par mesure disciplinaire.
+
+**Nota:**
+
+Conformément à l'article 42 II de la loi n° 2014-40 du 20 janvier 2014,  l'article 42 est applicable aux militaires dont le
+premier engagement a  été conclu à compter du 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -499,11 +514,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-270 du 24 mars 2005 - art. 95 () JORF 26 mars 2005 en vigueur le 1er juillet 2005
-
-_Cite_:
-
-  - Code des pensions civiles et militaires de retrait - art. L6 (M)
+  - Loi n°2014-40 du 20 janvier 2014 - art. 42 (V)
 
 _Codifié par_:
 
@@ -644,19 +655,22 @@ sécurité sociale sont prises en compte :
 - soit au titre du I ou du II de l'article L. 14 ;
 
 - soit pour obtenir un supplément de liquidation au titre de l'article L. 13 sans que ce supplément soit pris en compte dans
-la durée d'assurance définie à l'article L. 14.
+la durée d'assurance définie à l'article L. 14. 
 
 Cette prise en compte peut concerner au plus douze trimestres, sous réserve de l'obtention du diplôme et du versement des
 cotisations nécessaires dans des conditions de neutralité actuarielle pour le régime selon un barème et des modalités de
-paiement définis par décret.
+paiement définis par décret. 
+
+Par dérogation aux conditions prévues au cinquième alinéa, le montant du versement de cotisations prévu au même alinéa peut
+être abaissé par décret pour les périodes de formation initiale, dans des conditions et limites tenant notamment au délai de
+présentation de la demande, fixé à dix ans à compter de la fin des études, et au nombre de trimestres éligibles à ce montant
+spécifique. 
 
 Les périodes d'études ayant permis l'obtention d'un diplôme équivalent délivré par un Etat membre de l'Union européenne
-peuvent également être prises en compte.
+peuvent également être prises en compte. 
 
 L'admission dans les grandes écoles et classes du second degré préparatoires à ces écoles est assimilée à l'obtention d'un
-diplôme.
-
-Ces trimestres ne doivent pas avoir donné lieu à une affiliation à un régime de retraite de base obligatoire.
+diplôme. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
@@ -671,15 +685,15 @@ _Cité par_:
   - Code des pensions civiles et militaires de retrait - art. D21-1 (V)
   - Code général des impôts, CGI. - art. 83 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-775 du 21 août 2003 - art. 45 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+  - Loi n°2014-40 du 20 janvier 2014 - art. 27
 
 _Cite_:
 
-  - Code des pensions civiles et militaires de retrait - art. L13 (M)
-  - Code des pensions civiles et militaires de retrait - art. L14 (M)
-  - Code de la sécurité sociale. - art. L381-4 (M)
+  - Code des pensions civiles et militaires de retraite - art. L13
+  - Code des pensions civiles et militaires de retraite - art. L14
+  - Code de la sécurité sociale. - art. L381-4
 
 _Codifié par_:
 
@@ -1003,16 +1017,28 @@ _Créé par_:
 
 ###### Article L13
 
-I.-La durée des services et bonifications admissibles en liquidation s'exprime en trimestres. Le nombre de trimestres
-nécessaires pour obtenir le pourcentage maximum de la pension civile ou militaire est fixé à cent soixante trimestres. 
+I. – La durée des services et bonifications admissibles en liquidation s'exprime en trimestres. Le nombre de trimestres
+nécessaires pour obtenir le pourcentage maximum de la pension civile ou militaire est fixé à cent soixante trimestres.
 
-Ce pourcentage maximum est fixé à 75 % du traitement ou de la solde mentionné à l'article L. 15. 
+Ce pourcentage maximum est fixé à 75 % du traitement ou de la solde mentionné à l'article L. 15.
 
 Chaque trimestre est rémunéré en rapportant le pourcentage maximum défini au deuxième alinéa au nombre de trimestres
-mentionné au premier alinéa. 
+mentionné au premier alinéa.
 
-II.-Le nombre de trimestres mentionné au premier alinéa du I évolue dans les conditions définies, pour la durée d'assurance
+II. – Le nombre de trimestres mentionné au premier alinéa du I évolue dans les conditions définies, pour la durée d'assurance
 ou de services, à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
+
+III. – Pour les assurés nés à compter du 1er janvier 1958, la durée des services et bonifications évolue dans les conditions
+prévues à l'article L. 161-17-3 du code de la sécurité sociale. Par dérogation, la durée des services et bonifications exigée
+des fonctionnaires de l'Etat et des militaires qui remplissent les conditions de liquidation d'une pension avant l'âge de
+soixante ans est celle exigée des fonctionnaires atteignant cet âge l'année à compter de laquelle la liquidation peut
+intervenir.
+
+**Nota:**
+
+Loi n° 2014-40 du 20 janvier 2014, article 2 IV : Le III de l'article L. 13 du code des pensions civiles et militaires de
+retraite s'applique aux fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales et
+aux ouvriers des établissements industriels de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1098,17 +1124,14 @@ _Cité par_:
   - Code des pensions civiles et militaires de retr... - art. R37 bis (V)
   - Code des pensions civiles et militaires de retrait - art. L24 (M)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2003-775 2003-08-21 art. 66 : Réserves
-
 _Cite_:
 
-  - Loi n°2003-775 du 21 août 2003 - art. 5 (V)
+  - Loi n°2003-775 du 21 août 2003 - art. 5
+  - Code de la sécurité sociale. - art. L161-17-3
 
 _Modifié par_:
 
-  - Loi n°2003-775 du 21 août 2003 - art. 51 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+  - Loi n°2014-40 du 20 janvier 2014 - art. 2 (V)
 
 _Codifié par_:
 
@@ -1117,8 +1140,8 @@ _Codifié par_:
 
 ###### Article L14
 
-I.-La durée d'assurance totalise la durée des services et bonifications admissibles en liquidation prévue à l'article L. 13,
-augmentée, le cas échéant, de la durée d'assurance et des périodes reconnues équivalentes validées dans un ou plusieurs
+I. – La durée d'assurance totalise la durée des services et bonifications admissibles en liquidation prévue à l'article L.
+13, augmentée, le cas échéant, de la durée d'assurance et des périodes reconnues équivalentes validées dans un ou plusieurs
 autres régimes de retraite de base obligatoires. 
 
 Lorsque la durée d'assurance est inférieure au nombre de trimestres nécessaire pour obtenir le pourcentage de la pension
@@ -1137,11 +1160,11 @@ Le nombre de trimestres correspondant est arrondi à l'entier supérieur dans de
 des deux nombres de trimestres résultant des dispositions du 1° et du 2° du présent I est pris en considération. 
 
 Le coefficient de minoration n'est pas applicable aux fonctionnaires handicapés dont l'incapacité permanente est au moins
-égale à 80 % ou mis à la retraite pour invalidité ainsi qu'aux fonctionnaires âgés d'au moins soixante-cinq ans qui
-bénéficient d'un nombre minimum de trimestres fixé par décret au titre de la majoration de durée d'assurance prévue à
-l'article L. 12 ter ou qui, pendant une durée et dans des conditions fixées par décret, ont apporté une aide effective à leur
-enfant bénéficiaire de l'élément de la prestation relevant du 1° de l'article L. 245-3 du code de l'action sociale et des
-familles. 
+égale à un taux fixé par décret ou mis à la retraite pour invalidité ainsi qu'aux fonctionnaires âgés d'au moins soixante-
+cinq ans qui bénéficient d'un nombre minimum de trimestres fixé par décret au titre de la majoration de durée d'assurance
+prévue à l'article L. 12 ter ou qui, pendant une durée et dans des conditions fixées par décret, ont apporté une aide
+effective à leur enfant bénéficiaire de l'élément de la prestation relevant du 1° de l'article L. 245-3 du code de l'action
+sociale et des familles. 
 
 Le coefficient de minoration n'est pas applicable aux pensions de réversion lorsque la liquidation de la pension dont le
 fonctionnaire aurait pu bénéficier intervient après son décès. 
@@ -1149,7 +1172,7 @@ fonctionnaire aurait pu bénéficier intervient après son décès.
 Pour le calcul de la durée d'assurance, les périodes de services accomplis à temps partiel telles que définies à l'article L.
 5 sont décomptées comme des périodes de services à temps complet. 
 
-II.-Les dispositions du I sont applicables aux militaires dont la limite d'âge est supérieure ou égale à cinquante-sept ans
+II. – Les dispositions du I sont applicables aux militaires dont la limite d'âge est supérieure ou égale à cinquante-sept ans
 lorsqu'ils sont mis à la retraite à compter de l'âge de cinquante-deux ans. Les dispositions suivantes s'appliquent aux
 militaires qui ne remplissent pas ces conditions. 
 
@@ -1173,7 +1196,7 @@ des deux nombres de trimestres résultant des dispositions du 1° et du 2° du p
 
 Le coefficient de minoration n'est pas applicable aux militaires radiés des cadres par suite d'infirmité. 
 
-III.-Lorsque la durée d'assurance, définie au premier alinéa du I, est supérieure au nombre de trimestres nécessaires pour
+III. – Lorsque la durée d'assurance, définie au premier alinéa du I, est supérieure au nombre de trimestres nécessaires pour
 obtenir le pourcentage maximum mentionné à l'article L. 13 et que le fonctionnaire civil a atteint l'âge mentionné à
 l'article L. 161-17-2 du code de la sécurité sociale, un coefficient de majoration s'applique au montant de la pension
 liquidée en application des articles L. 13 et L. 15. 
@@ -1186,8 +1209,8 @@ sécurité sociale et en sus du nombre de trimestres nécessaires pour obtenir l
 Toutefois, les bonifications de durée de services et majorations de durée d'assurance, à l'exclusion de celles accordées au
 titre des enfants et du handicap, prévues par les dispositions législatives et réglementaires, quel que soit le régime de
 retraite de base au titre duquel elles ont été acquises, ne sont pas prises en compte pour le calcul de la durée d'assurance
-mentionnée au premier alinéa du présent III . Un décret fixe la liste des bonifications et majorations de durée auxquelles
-s'applique le présent alinéa.
+mentionnée au premier alinéa du présent III. Un décret fixe la liste des bonifications et majorations de durée auxquelles
+s'applique le présent alinéa. 
 
 Sont pris en compte pour ce calcul les trimestres entiers cotisés. 
 
@@ -1195,9 +1218,8 @@ Le coefficient de majoration est de 1,25 % par trimestre supplémentaire.
 
 **Nota:**
 
-Loi n° 2011-1906 du 21 décembre 2011 article 86 V : Le présent article n'est pas applicable aux assurés qui remplissent,
-avant le 1er janvier 2013, les conditions d'âge et de durée d'assurance ouvrant droit au bénéfice de la majoration de pension
-prévue au III du présent article dans sa rédaction antérieure au 23 décembre 2011.
+Conformément à l'article 37 IV de la loi n° 2014-40 du 20 janvier 2014,   l'article L14, dans sa rédaction issue de la
+présente loi, est   applicable aux pensions prenant effet à compter du 1er février 2014.
 
 **Liens relatifs à cet article**
 
@@ -1248,14 +1270,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1906 du 21 décembre 2011 - art. 86 (V)
+  - Loi n°2014-40 du 20 janvier 2014 - art. 37 (V)
 
 _Cite_:
 
+  - Code des pensions civiles et militaires de retr... - art. L24 (V)
   - Code des pensions civiles et militaires de retraite - art. L13
   - Code des pensions civiles et militaires de retraite - art. L15
-  - Code de la sécurité sociale. - art. L161-17-2
-  - Code de l'action sociale et des familles - art. L245-3
+  - Code de la sécurité sociale. - art. L161-17-2 (V)
+  - Code de la sécurité sociale. - art. L245-3 (V)
 
 
 ##### Paragraphe II : Emoluments de base.<a id=16></a>
@@ -3047,69 +3070,73 @@ _Modifié par_:
 
 ###### Article L24
 
-I.-La liquidation de la pension intervient : 
+I. – La liquidation de la pension intervient :
 
 1° Lorsque le fonctionnaire civil est radié des cadres par limite d'âge, ou s'il a atteint, à la date de l'admission à la
 retraite, l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale, ou de cinquante-sept ans s'il a accompli au
-moins dix-sept ans de services dans des emplois classés dans la catégorie active. 
+moins dix-sept ans de services dans des emplois classés dans la catégorie active.
 
 Sont classés dans la catégorie active les emplois présentant un risque particulier ou des fatigues exceptionnelles. La
-nomenclature en est établie par décret en Conseil d'Etat ; 
+nomenclature en est établie par décret en Conseil d'Etat ;
 
 2° Lorsque le fonctionnaire est mis à la retraite pour invalidité et qu'il n'a pas pu être reclassé dans un emploi compatible
-avec son état de santé ; 
+avec son état de santé ;
 
 3° Lorsque le fonctionnaire civil est parent d'un enfant vivant, âgé de plus d'un an et atteint d'une invalidité égale ou
 supérieure à 80 %, à condition qu'il ait, pour cet enfant, interrompu ou réduit son activité dans des conditions fixées par
-décret en Conseil d'Etat et qu'il ait accompli quinze années de services effectifs. 
+décret en Conseil d'Etat et qu'il ait accompli quinze années de services effectifs.
 
 Sont assimilées à l'interruption ou à la réduction d'activité mentionnée à l'alinéa précédent les périodes n'ayant pas donné
-lieu à cotisation obligatoire dans un régime de retraite de base, dans des conditions fixées par décret en Conseil d'Etat. 
+lieu à cotisation obligatoire dans un régime de retraite de base, dans des conditions fixées par décret en Conseil d'Etat.
 
 Sont assimilés à l'enfant mentionné au premier alinéa les enfants énumérés au II de l'article L. 18 que l'intéressé a élevés
 dans les conditions prévues au III dudit article. Les conditions d'ouverture du droit liées à l'enfant doivent être remplies
-à la date de la demande de pension ; 
+à la date de la demande de pension ;
 
 4° Lorsque le fonctionnaire ou son conjoint est atteint d'une infirmité ou d'une maladie incurable le plaçant dans
 l'impossibilité d'exercer une quelconque profession, dans les conditions prévues à l'article L. 31 et sous réserve que le
-fonctionnaire ait accompli au moins quinze ans de services ; 
+fonctionnaire ait accompli au moins quinze ans de services ;
 
 5° Un décret fixe les conditions dans lesquelles l'âge d'ouverture du droit à pension est abaissé, par rapport à un âge de
 référence de soixante ans, pour les fonctionnaires handicapés qui totalisent, alors qu'ils étaient atteints d'une incapacité
-permanente d'   au moins 80 % ou qu'ils avaient la qualité de travailleur handicapé au sens de l'article L. 5213-1 du code du
-travail, une durée d'assurance au moins égale à une limite fixée par ce décret, tout ou partie de cette durée ayant donné
-lieu à versement de retenues pour pensions. 
+permanente d' au moins 50 %, une durée d'assurance au moins égale à une limite fixée par ce décret, tout ou partie de cette
+durée ayant donné lieu à versement de retenues pour pensions.
 
 Une majoration de pension est accordée aux fonctionnaires handicapés visés à l'alinéa précédent, dans des conditions
-déterminées par décret en Conseil d'Etat. 
+déterminées par décret en Conseil d'Etat.
 
-II.-La liquidation de la pension militaire intervient : 
+II. – La liquidation de la pension militaire intervient :
 
 1° Lorsqu'un officier est radié des cadres par limite d'âge ou par limite de durée de services, ou par suite d'infirmités, ou
-encore s'il réunit, à la date de son admission à la retraite, vingt-sept ans de services effectifs ; 
+encore s'il réunit, à la date de son admission à la retraite, vingt-sept ans de services effectifs ;
 
 1° bis Lorsqu'un militaire est parent d'un enfant vivant de plus d'un an et atteint d'une invalidité égale ou supérieure à 80
 %, à condition qu'il ait, pour cet enfant, interrompu ou réduit son activité dans des conditions fixées par décret en Conseil
-d'Etat et qu'il ait accompli quinze années de services effectifs. 
+d'Etat et qu'il ait accompli quinze années de services effectifs.
 
 Sont assimilées à l'interruption ou à la réduction d'activité mentionnée à l'alinéa précédent les périodes n'ayant pas donné
-lieu à cotisation obligatoire dans un régime de retraite de base, dans des conditions fixées par décret en Conseil d'Etat. 
+lieu à cotisation obligatoire dans un régime de retraite de base, dans des conditions fixées par décret en Conseil d'Etat.
 
 Sont assimilés à l'enfant mentionné au premier alinéa les enfants énumérés au II de l'article L. 18 que l'intéressé a élevés
-dans les conditions prévues au III dudit article ; 
+dans les conditions prévues au III dudit article ;
 
-2° Lorsqu'un militaire non officier est radié des cadres par limite d'âge ou par limite de durée de services, ou par suite
-d'infirmités, ou encore s'il réunit, à la date de son admission à la retraite, dix-sept ans de services effectifs ; 
+2° Lorsqu'un militaire non officier est radié des cadres par limite d'âge, ou par suite d'infirmités, ou encore s'il réunit,
+à la date de son admission à la retraite, dix-sept ans de services effectifs ;
 
 3° Pour un militaire, lorsque son conjoint est atteint d'une infirmité ou d'une maladie incurable le plaçant dans
 l'impossibilité d'exercer une quelconque profession, et sous réserve que le militaire ait accompli au moins quinze ans de
-services ; 
+services ;
 
 4° Pour les officiers généraux placés en deuxième section, conformément aux dispositions de l'article L. 4141-1 du code de la
-défense, à compter de soixante-sept ans. 
+défense, à compter de soixante-sept ans.
 
-III.-La liquidation de la solde de réforme intervient immédiatement. Toutefois, cette solde n'est perçue que pendant un temps
-égal à la durée des services effectivement accomplis par son bénéficiaire.
+III. – La liquidation de la solde de réforme intervient immédiatement. Toutefois, cette solde n'est perçue que pendant un
+temps égal à la durée des services effectivement accomplis par son bénéficiaire.
+
+**Nota:**
+
+Conformément à l'article 36 IV de la loi n° 2014-40 du 20 janvier 2014, l'article L24, dans sa rédaction issue de ladite loi,
+est applicable aux pensions prenant effet à compter du 1er février 2014.
 
 **Liens relatifs à cet article**
 
@@ -3236,7 +3263,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-347 du 12 mars 2012 - art. 126 (V)
+  - Loi n°2014-40 du 20 janvier 2014 - art. 36 (V)
+  - Loi n°2014-40 du 20 janvier 2014 - art. 42 (V)
 
 _Cite_:
 
@@ -3258,15 +3286,22 @@ du code de la sécurité sociale, ou avant l'âge de cinquante-sept ans s'ils on
 emplois classés dans la catégorie active ; 
 
 2° Par dérogation à l'article L. 161-17-2 du code de la sécurité sociale, pour les officiers de carrière autres que ceux
-mentionnés à l'article L. 24 avant l'âge de cinquante-deux ans ou, pour un officier radié des cadres par mesure disciplinaire
-avant d'avoir accompli vingt-sept ans de services effectifs, avant la date à laquelle il aurait atteint la limite d'âge en
-vigueur à la date de cette radiation et sans que la liquidation puisse être antérieure à l'âge de cinquante-deux ans ; 
+mentionnés à l'article L. 24, sous réserve qu'ils aient accompli quinze ans de services effectifs à la date de leur radiation
+des cadres, avant l'âge de cinquante-deux ans ou, pour un officier radié des cadres par mesure disciplinaire avant d'avoir
+accompli vingt-sept ans de services effectifs, avant la date à laquelle il aurait atteint la limite d'âge en vigueur à la
+date de cette radiation et sans que la liquidation puisse être antérieure à l'âge de cinquante-deux ans ; 
 
-3° Par dérogation à l'article L. 161-17-2 du code de la sécurité sociale, pour les officiers sous contrat radiés des cadres
-sans avoir atteint les limites de durée de services, avant l'âge de cinquante-deux ans ; 
+3° Par dérogation à l'article L. 161-17-2 du code de la sécurité sociale, pour les officiers sous contrat, ayant accompli
+quinze ans de services effectifs à la date de leur radiation des contrôles et n'ayant pas atteint les limites de durée de
+services, avant l'âge de cinquante-deux ans ; 
 
 4° Par dérogation à l'article L. 161-17-2 du code de la sécurité sociale, pour les non-officiers autres que ceux mentionnés à
-l'article L. 24, avant l'âge de cinquante-deux ans. 
+l'article L. 24, sous réserve qu'ils aient accompli quinze ans de services effectifs à la date de leur radiation des cadres
+ou des contrôles, avant l'âge de cinquante-deux ans ;
+
+5° Avant l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale, pour les militaires autres que ceux
+mentionnés à l'article L. 24 du présent code, lorsqu'ils ont accompli à la date de leur radiation des cadres ou des contrôles
+moins de quinze ans de services effectifs. 
 
 Pour l'application des dispositions du présent article, les règles de liquidation de la pension sont celles en vigueur au
 moment de sa mise en paiement. 
@@ -3276,8 +3311,8 @@ cadres et la mise en paiement de la pension, conformément aux dispositions de l
 
 **Nota:**
 
-Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 23 sont applicables aux pensions prenant
-effet à compter du 1er juillet 2011.
+Conformément à l'article 42 II de la loi n° 2014-40 du 20 janvier 2014, l'article 42 est applicable aux militaires dont le
+premier engagement a été conclu à compter du 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -3298,8 +3333,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1330 du 9 novembre 2010 - art. 23 (V)
-  - Loi n°2010-1330 du 9 novembre 2010 - art. 36
+  - Loi n°2014-40 du 20 janvier 2014 - art. 42 (V)
 
 _Cite_:
 
@@ -3432,7 +3466,11 @@ intérêt public, soit en exposant ses jours pour sauver la vie d'une ou plusieu
 un autre corps en application de l'article 63 de la loi n° 84-16 du 11 janvier 1984 précitée peut être radié des cadres par
 anticipation soit sur sa demande, soit d'office à l'expiration d'un délai de douze mois à compter de sa mise en congé si
 cette dernière a été prononcée en application des 2° et 3° de l'article 34 de la même loi ou à la fin du congé qui lui a été
-accordé en application du 4° du même article.
+accordé en application du 4° du même article. 
+
+L'intéressé a droit à la pension rémunérant les services prévue au 2° du I de l'article L. 24 du présent code. Par dérogation
+à l'article L. 16 du même code, cette pension est revalorisée dans les conditions fixées à l'article L. 341-6 du code de la
+sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -3491,12 +3529,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°84-16 1984-01-11 art. 63, art. 34
-  - Loi n°84-16 du 11 janvier 1984 - art. 63 (V)
+  - Loi n°84-16 du 11 janvier 1984 - art. 63
+  - Code des pensions civiles et militaires de retraite - art. L16
+  - Code des pensions civiles et militaires de retraite - art. L24
+  - Code de la sécurité sociale. - art. L341-6
 
 _Modifié par_:
 
-  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
+  - Loi n°2014-40 du 20 janvier 2014 - art. 5 (V)
 
 _Codifié par_:
 
@@ -3506,7 +3546,7 @@ _Codifié par_:
 ###### Article L28
 
 Le fonctionnaire civil radié des cadres dans les conditions prévues à l'article L. 27 a droit à une rente viagère
-d'invalidité cumulable, selon les modalités définies à l'article L. 30 ter,  avec la pension rémunérant les services. 
+d'invalidité cumulable, selon les modalités définies à l'article L. 30 ter, avec la pension rémunérant les services. 
 
 Le droit à cette rente est également ouvert au fonctionnaire retraité qui est atteint d'une maladie professionnelle dont
 l'imputabilité au service est reconnue par la commission de réforme postérieurement à la date de la radiation des cadres,
@@ -3517,26 +3557,20 @@ jouissance de la pension est différée en application de l'article L. 25 du pr�
 
 Le montant de la rente d'invalidité est fixé à la fraction du traitement ou de la solde de base définis à l'article L. 15
 égale au pourcentage d'invalidité. Si le montant de ce traitement ou de cette solde de base dépasse un montant correspondant
-à la valeur de l'indice majoré 681 au 1er janvier 2004, revalorisé dans les conditions prévues à l'article L. 16, la fraction
-dépassant cette limite n'est comptée que pour le tiers. Toutefois, il n'est pas tenu compte de la fraction excédant dix fois
-ce montant brut. 
+à la valeur de l'indice majoré 681 au 1er janvier 2004, revalorisé dans les conditions prévues à l'article L. 341-6 du code
+de la sécurité sociale, la fraction dépassant cette limite n'est comptée que pour le tiers. Toutefois, il n'est pas tenu
+compte de la fraction excédant dix fois ce montant brut. 
 
 Le taux d'invalidité est déterminé compte tenu d'un barème indicatif fixé par décret. 
 
-La rente d'invalidité est liquidée, concédée et payée dans les mêmes conditions et suivant les mêmes modalités que la
-pension. 
+La rente d'invalidité est liquidée, concédée, payée et revalorisée dans les mêmes conditions que la pension prévue à
+l'article L. 27. 
 
-Le total de la pension et de la rente d'invalidité est élevé au  produit du pourcentage maximum prévu à l'article L. 13 par
-le  traitement mentionné à l'article L. 15 et revalorisé dans les conditions  prévues à l'article L. 16 lorsque le
-fonctionnaire civil est mis à la retraite à la suite d'un attentat ou d'une lutte dans l'exercice de ses fonctions ou d'un
-acte de dévouement dans un intérêt public ou pour avoir exposé ses jours pour sauver la vie d'une ou plusieurs personnes.
-Toutefois, le taux de l'invalidité rémunérable doit être au moins égal à 60 %.
-
-**Nota:**
-
-Dans sa décision n° 2010-83 QPC du 13 janvier 2011 (NOR : CSCX1101353S), le Conseil constitutionnel a déclaré contraire à la
-Constitution la première phrase du cinquième alinéa de l'article L. 28. La déclaration d'inconstitutionnalité prend effet le
-1er janvier 2012 dans les conditions fixées au considérant 7 de la présente décision.
+Le total de la pension et de la rente d'invalidité est élevé au produit du pourcentage maximum prévu à l'article L. 13 par le
+traitement mentionné à l'article L. 15 et revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité
+sociale lorsque le fonctionnaire civil est mis à la retraite à la suite d'un attentat ou d'une lutte dans l'exercice de ses
+fonctions ou d'un acte de dévouement dans un intérêt public ou pour avoir exposé ses jours pour sauver la vie d'une ou
+plusieurs personnes. Toutefois, le taux de l'invalidité rémunérable doit être au moins égal à 60 %.
 
 **Liens relatifs à cet article**
 
@@ -3573,13 +3607,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 163 (V)
+  - Loi n°2014-40 du 20 janvier 2014 - art. 5 (V)
 
 _Cite_:
 
+  - Code des pensions civiles et militaires de retr... - art. L13 (V)
+  - Code des pensions civiles et militaires de retr... - art. L30 ter (V)
+  - Code des pensions civiles et militaires de retr... - art. L31 (V)
   - Code des pensions civiles et militaires de retraite - art. L15
   - Code des pensions civiles et militaires de retraite - art. L25
   - Code des pensions civiles et militaires de retraite - art. L27
+  - Code de la sécurité sociale. - art. L341-6 (V)
 
 
 ##### Paragraphe II : Invalidité ne résultant pas de l'exercice des fonctions.<a id=24></a>
@@ -3593,15 +3631,19 @@ cas, la radiation des cadres est prononcée sans délai si l'inaptitude résulte
 caractère définitif et stabilisé ne rend pas susceptible de traitement, ou à l'expiration d'un délai de douze mois à compter
 de sa mise en congé si celle-ci a été prononcée en application de l'article 36 (2°) de l'ordonnance du 4 février 1959
 relative au statut général des fonctionnaires ou à la fin du congé qui lui a été accordé en application de l'article 36 (3°)
-de ladite ordonnance. L'intéressé a droit à la pension rémunérant les services, sous réserve que ses blessures ou maladies
-aient été contractées ou aggravées au cours d'une période durant laquelle il acquérait des droits à pension.
+de ladite ordonnance. L'intéressé a droit à la pension rémunérant les services prévue au 2° du I de l'article L. 24 du
+présent code, sous réserve que ses blessures ou maladies aient été contractées ou aggravées au cours d'une période durant
+laquelle il acquérait des droits à pension. Par dérogation à l'article L. 16 du même code, cette pension est revalorisée dans
+les conditions fixées à l'article L. 341-6 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance 59-244 1959-02-04 art. 36
-  - Loi n°84-16 du 11 janvier 1984 - art. 63 (V)
+  - Loi n°84-16 du 11 janvier 1984 - art. 63
+  - Code des pensions civiles et militaires de retr... - art. L16 (V)
+  - Code des pensions civiles et militaires de retraite - art. L24
+  - Code de la sécurité sociale. - art. L341-6
 
 _Cité par_:
 
@@ -3614,7 +3656,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°91-715 du 26 juillet 1991 - art. 5 () JORF 27 juillet 1991
+  - Loi n°2014-40 du 20 janvier 2014 - art. 5 (V)
 
 _Codifié par_:
 
@@ -3625,18 +3667,11 @@ _Codifié par_:
 
 ###### Article L30
 
-Lorsque  le fonctionnaire est atteint d'une invalidité d'un taux au moins égal à  60 %, le montant de la pension prévue aux
-articles L. 28 et L. 29 ne  peut être inférieur à 50 % du traitement mentionné à l'article L. 15 et  revalorisé dans les
-conditions prévues à l'article L. 16.
+Lorsque le fonctionnaire est atteint d'une invalidité d'un taux au moins égal à 60 %, le montant de la pension prévue aux
+articles L. 28 et L. 29 ne peut être inférieur à 50 % du traitement mentionné à l'article L. 15 et revalorisé dans les
+conditions prévues à l'article L. 341-6 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°48-1108 du 10 juillet 1948 - art. 1
-  - Code des pensions civiles et militaires de retraite - art. L15
-  - Code des pensions civiles et militaires de retraite - art. L28
-  - Code des pensions civiles et militaires de retraite - art. L29
 
 _Cité par_:
 
@@ -3659,7 +3694,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 163 (V)
+  - Loi n°2014-40 du 20 janvier 2014 - art. 5 (V)
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retraite - art. L15
+  - Code des pensions civiles et militaires de retraite - art. L28
+  - Code de la sécurité sociale. - art. L341-6 (V)
 
 _Codifié par_:
 
@@ -3668,25 +3709,16 @@ _Codifié par_:
 
 ###### Article L30 bis
 
-Lorsque  le fonctionnaire est dans l'obligation d'avoir recours d'une manière  constante à l'assistance d'une tierce personne
-pour accomplir les actes  ordinaires de la vie, il a droit à une majoration spéciale d'un montant  correspondant à la valeur
-de l'indice majoré 227 au 1er janvier 2004,  revalorisé dans les conditions prévues à l'article L. 16. Le droit à  cette
-majoration est également ouvert au fonctionnaire relevant du  deuxième alinéa de l'article L. 28.
-
-**Nota:**
-
-Conformément à l'article 163-II de la loi n° 2011-1977 du 28 décembre 2011, ces dispositions sont applicables aux
-fonctionnaires relevant de la Caisse nationale de retraites des agents des collectivités locales ainsi qu'aux ouvriers
-relevant du régime de retraite des ouvriers des établissements industriels de l'Etat, dans les conditions prévues par décret
-en Conseil d'Etat. Aux termes du paragraphe III du même article, elles sont applicables aux instances en cours à la date du
-13 janvier 2011, la révision des pensions prenant effet à compter de la date de réception par l'administration de la demande
-qui est à l'origine de ces instances.
+Lorsque le fonctionnaire est dans l'obligation d'avoir recours d'une manière constante à l'assistance d'une tierce personne
+pour accomplir les actes ordinaires de la vie, il a droit à une majoration spéciale d'un montant correspondant à la valeur de
+l'indice majoré 227 au 1er janvier 2004, revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité
+sociale. Le droit à cette majoration est également ouvert au fonctionnaire relevant du deuxième alinéa de l'article L. 28.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 163 (V)
+  - Loi n°2014-40 du 20 janvier 2014 - art. 5 (V)
 
 _Cité par_:
 
@@ -3694,32 +3726,35 @@ _Cité par_:
   - Code des pensions civiles et militaires de retr... - art. L56 (V)
   - Code des pensions civiles et militaires de retr... - art. R*43 (V)
 
+_Cite_:
+
+  - Code des pensions civiles et militaires de retraite - art. L28
+  - Code de la sécurité sociale. - art. L341-6
+
 
 ###### Article L30 ter
 
-Sans  préjudice du plafond fixé au V de l'article L. 18, le montant total des  prestations accordées au fonctionnaire
-invalide, à l'exclusion des  majorations prévues aux articles L. 18 et L. 30 bis, ne peut excéder le  montant du traitement
-mentionné à l'article L. 15 et revalorisé dans les  conditions prévues à l'article L. 16. En cas de dépassement, le montant
-de chaque prestation est réduit à due proportion.
-
-**Nota:**
-
-Conformément à l'article 163-II de la loi n° 2011-1977 du 28 décembre 2011, ces dispositions sont applicables aux
-fonctionnaires relevant de la Caisse nationale de retraites des agents des collectivités locales ainsi qu'aux ouvriers
-relevant du régime de retraite des ouvriers des établissements industriels de l'Etat, dans les conditions prévues par décret
-en Conseil d'Etat. Aux termes du paragraphe III du même article, elles sont applicables aux instances en cours à la date du
-13 janvier 2011, la révision des pensions prenant effet à compter de la date de réception par l'administration de la demande
-qui est à l'origine de ces instances.
+Sans préjudice du plafond fixé au V de l'article L. 18, le montant total des prestations accordées au fonctionnaire invalide,
+à l'exclusion des majorations prévues aux articles L. 18 et L. 30 bis, ne peut excéder le montant du traitement mentionné à
+l'article L. 15 et revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale. En cas de
+dépassement, le montant de chaque prestation est réduit à due proportion.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 163 (V)
+  - Loi n°2014-40 du 20 janvier 2014 - art. 5 (V)
 
 _Cité par_:
 
   - Code des pensions civiles et militaires de retr... - art. L28 (V)
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retraite - art. L15
+  - Code des pensions civiles et militaires de retraite - art. L18
+  - Code des pensions civiles et militaires de retraite - art. L30 bis
+  - Code de la sécurité sociale. - art. L341-6
 
 
 ###### Article L31
@@ -3907,6 +3942,8 @@ _Créé par_:
 Les militaires qui ont été atteints en service d'infirmités susceptibles d'ouvrir droit à pension au titre du code des
 pensions militaires d'invalidité reçoivent la pension dudit code afférente à leur grade à laquelle s'ajoute, le cas échéant,
 la pension ou la solde de réforme susceptible de leur être allouée en application des dispositions des articles L. 6 et L. 7.
+Par dérogation à l'article L. 16, la pension versée en application du 2° de l'article L. 6 du présent code est revalorisée
+dans les conditions fixées à l'article L. 341-6 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -3918,9 +3955,15 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. L138 (VT)
   - Code des pensions militaires d'invalidité et de... - art. L186 (VT)
 
+_Modifié par_:
+
+  - Loi n°2014-40 du 20 janvier 2014 - art. 5 (V)
+
 _Cite_:
 
-  - Code des pensions civiles et militaires de retraite L6 et L7
+  - Code des pensions civiles et militaires de retraite - art. L16
+  - Code des pensions civiles et militaires de retraite - art. L6
+  - Code de la sécurité sociale. - art. L341-6
 
 _Codifié par_:
 
@@ -4387,14 +4430,14 @@ _Codifié par_:
 
 ###### Article L50
 
-I. - En cas de décès d'un fonctionnaire civil ou militaire par suite d'un attentat, d'une lutte dans l'exercice de ses
+I.-En cas de décès d'un fonctionnaire civil ou militaire par suite d'un attentat, d'une lutte dans l'exercice de ses
 fonctions, d'un acte de dévouement dans un intérêt public ou pour sauver la vie d'une ou plusieurs personnes, une pension de
-réversion est concédée aux conjoints.A cette pension de réversion s'ajoute soit la moitié de la rente viagère d'invalidité
+réversion est concédée aux conjoints. A cette pension de réversion s'ajoute soit la moitié de la rente viagère d'invalidité
 dont aurait pu bénéficier le fonctionnaire, soit la pension prévue au code des pensions militaires d'invalidité, de manière à
 ce que le total ne soit pas inférieur à un montant correspondant à la valeur de l'indice majoré 227 au 1er janvier 2004,
-revalorisé dans les conditions de l'article L. 16. 
+revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale. 
 
-II. - Le total des pensions et, selon les cas, de la rente viagère d'invalidité ou de la pension militaire d'invalidité
+II.-Le total des pensions et, selon les cas, de la rente viagère d'invalidité ou de la pension militaire d'invalidité
 attribuables aux conjoints survivants et aux orphelins ne peut être inférieur à celui de la pension et de la rente viagère
 d'invalidité ou de la pension militaire d'invalidité dont le fonctionnaire ou le militaire aurait pu bénéficier, si le décès
 intervient dans les conditions suivantes : 
@@ -4424,7 +4467,7 @@ sur route ;
 sous l'autorité ou à la disposition du ministre chargé de la mer est tué en service au cours d'une mission de contrôle ou de
 surveillance. 
 
-III. - Le total des pensions et, selon les cas, de la rente viagère ou de la pension militaire d'invalidité attribuables aux
+III.-Le total des pensions et, selon les cas, de la rente viagère ou de la pension militaire d'invalidité attribuables aux
 conjoints survivants et aux orphelins est porté à 100 % du traitement ou de la solde de base détenu par le fonctionnaire ou
 le militaire au jour de son décès lorsqu'un fonctionnaire, un militaire de carrière ou un militaire servant sous contrat est
 tué dans un attentat alors qu'il se trouvait en service sur le territoire national ou à l'étranger ou au cours d'une
@@ -4442,11 +4485,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-431 du 28 mai 2013 - art. 31
+  - Loi n°2014-40 du 20 janvier 2014 - art. 5 (V)
 
 _Cite_:
 
-  - Code des pensions civiles et militaires de retraite - art. L16
+  - Code de la sécurité sociale. - art. L341-6 (V)
 
 _Codifié par_:
 
@@ -5188,11 +5231,13 @@ _Modifié par_:
 
 ###### Article L84
 
-L'article L. 161-22 du code de la sécurité sociale n'est pas applicable aux personnes régies par le présent code. 
+L'article L. 161-22 du code de la sécurité sociale, à l'exception de son premier alinéa, n'est pas applicable aux personnes
+régies par le présent code. Par dérogation, les articles L. 161-22 et L. 161-22-1 A du même code ne sont pas applicables aux
+bénéficiaires d'une pension militaire. 
 
 Si, à compter de la mise en paiement d'une pension civile ou militaire, son titulaire perçoit des revenus d'activité de l'un
-des employeurs mentionnés à l'article L. 86-1, il peut cumuler sa pension dans les conditions fixées aux articles L. 85, L.
-86 et L. 86-1. 
+des employeurs mentionnés à l'article L. 86-1, ou de tout autre employeur pour les fonctionnaires civils, il peut cumuler sa
+pension dans les conditions fixées aux articles L. 85, L. 86 et L. 86-1. 
 
 Par dérogation au précédent alinéa, et sous réserve que l'assuré ait liquidé ses pensions de vieillesse personnelles auprès
 de la totalité des régimes légaux ou rendus légalement obligatoires, de base et complémentaires, français et étrangers, ainsi
@@ -5203,7 +5248,17 @@ a) A partir de l'âge prévu au 1° de l'article L. 351-8 du code de la sécurit
 
 b) A partir de l'âge prévu au premier alinéa de l'article L. 351-1 du même code, lorsque l'assuré justifie d'une durée
 d'assurance et de périodes reconnues équivalentes mentionnée au deuxième alinéa du même article au moins égale à la limite
-mentionnée au même alinéa.
+mentionnée au même alinéa. 
+
+La pension due par un régime de retraite légalement obligatoire dont l'âge d'ouverture des droits, le cas échéant sans
+minoration, est supérieur à l'âge prévu à l'article L. 161-17-2 du code de la sécurité sociale n'est pas retenue pour
+apprécier la condition de liquidation de l'ensemble des pensions de retraite, et ce jusqu'à ce que l'assuré ait atteint l'âge
+à partir duquel il peut liquider cette pension ou, en cas de minoration, l'âge auquel celles-ci prennent fin.
+
+**Nota:**
+
+Conformément à l'article 19 VIII de la loi n° 2014-40 du 20 janvier 2014, le présent article est applicable aux assurés dont
+la première pension prend effet à compter du 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
@@ -5233,15 +5288,19 @@ _Cité par_:
   - Code des pensions civiles et militaires de retrait - art. R*91 (M)
   - Code des pensions civiles et militaires de retrait - art. R*93 (M)
 
-_Modifié par_:
-
-  - Loi n°2008-1330 du 17 décembre 2008 - art. 88
-
 _Cite_:
 
+  - Loi n°2010-1330 du 9 novembre 2010 - art. 85
+  - Code de la sécurité sociale. - art. L161-17-2
   - Code de la sécurité sociale. - art. L161-22
+  - Code de la sécurité sociale. - art. L161-22-1 A
   - Code de la sécurité sociale. - art. L351-1
   - Code de la sécurité sociale. - art. L351-8
+
+_Modifié par_:
+
+  - Loi n°2014-40 du 20 janvier 2014 - art. 19 (V)
+  - Loi n°2014-40 du 20 janvier 2014 - art. 20
 
 
 ###### Article L85
@@ -5283,31 +5342,37 @@ _Cite_:
 
 ###### Article L86
 
-I. - Par dérogation aux dispositions du deuxième alinéa de l'article L. 84 et de l'article L. 85, les revenus perçus à
-l'occasion de l'exercice des activités suivantes peuvent être entièrement cumulés avec la pension :
+I.-Par dérogation au premier alinéa de l'article L. 161-22 du code de la sécurité sociale, ainsi qu'aux dispositions du
+deuxième alinéa de l'article L. 84 et de l'article L. 85, les revenus perçus à l'occasion de l'exercice des activités
+suivantes peuvent être entièrement cumulés avec la pension : 
 
 1° Activités entraînant affiliation au régime général de la sécurité sociale en application du 15° de l'article L. 311-3 et
 de l'article L. 382-1 du code de la sécurité sociale ainsi que les activités exercées par les artistes interprètes rattachés
-au régime mentionné au premier alinéa de l'article L. 622-5 du même code ;
+au régime mentionné au premier alinéa de l'article L. 622-5 du même code ; 
 
 2° Activités entraînant la production d'oeuvres de l'esprit au sens des articles L. 112-2 et L. 112-3 du code de la propriété
-intellectuelle ;
+intellectuelle ; 
 
 3° Participation aux activités juridictionnelles ou assimilées, ou à des instances consultatives ou délibératives réunies en
-vertu d'un texte législatif ou réglementaire.
+vertu d'un texte législatif ou réglementaire. 
 
-II. - En outre, par dérogation aux mêmes dispositions, peuvent cumuler intégralement le montant de leur pension avec des
-revenus d'activité :
+II.-En outre, par dérogation aux mêmes dispositions, peuvent cumuler intégralement le montant de leur pension avec des
+revenus d'activité : 
 
-1° Les titulaires de pensions civiles et militaires ou d'une solde de réforme allouées pour invalidité ;
+1° Les titulaires de pensions civiles et militaires ou d'une solde de réforme allouées pour invalidité ; 
 
 2° Les titulaires de pensions militaires non officiers rémunérant moins de vingt-cinq ans de services et les titulaires de
 pensions militaires atteignant la limite d'âge du grade qu'ils détenaient en activité ou la limite de durée de services qui
 leur était applicable en activité, même dans le cas où ces pensions se trouveraient modifiées à la suite de services nouveaux
-effectués pendant un rappel à l'activité donnant lieu à promotion de grade ;
+effectués pendant un rappel à l'activité donnant lieu à promotion de grade ; 
 
 3° Les titulaires de pensions ayant atteint, avant le 1er janvier 2004, la limite d'âge qui leur était applicable dans leur
 ancien emploi.
+
+**Nota:**
+
+Conformément à l'article 19 VIII de la loi n° 2014-40 du 20 janvier 2014, le présent article est applicable aux assurés dont
+la première pension prend effet à compter du 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
@@ -5321,16 +5386,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-775 du 21 août 2003 - art. 64 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+  - Loi n°2014-40 du 20 janvier 2014 - art. 19 (V)
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L112-2 (M)
-  - Code de la propriété intellectuelle - art. L112-3 (M)
-  - Code des pensions civiles et militaires de retrait - art. L85 (M)
-  - Code des pensions civiles et militaires de retraite L84, L85, L311-3
-  - Code de la sécurité sociale. - art. L382-1 (M)
-  - Code de la sécurité sociale. - art. L622-5 (M)
+  - Code de la propriété intellectuelle - art. L112-2
+  - Code des pensions civiles et militaires de retraite - art. L85
+  - Code de la sécurité sociale. - art. L161-22
+  - Code de la sécurité sociale. - art. L311-3
+  - Code de la sécurité sociale. - art. L382-1
+  - Code de la sécurité sociale. - art. L622-5
 
 _Codifié par_:
 
