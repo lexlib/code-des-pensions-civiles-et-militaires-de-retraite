@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2014-09-01
+Version Consolidée au 2015-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -108,27 +108,28 @@ Version Consolidée au 2014-09-01
           - [Paragraphe II : Eléments constitutifs. (art. D2 à D4)](#105)
       - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. D8 à D16)](#106)
         - [Chapitre Ier : Services et bonifications valables. (art. D8 à D13)](#107)
-        - [Chapitre II : Détermination du montant de la pension. (art. D15 à D16)](#108)
-          - [Paragraphe II : Emoluments de base. (art. D15)](#109)
-          - [Paragraphe IV : Avantages de pension à caractère familial. (art. D16)](#110)
-      - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. D16-1 à D16-3)](#111)
-      - [Titre V : Invalidité. (art. D17 à D19)](#112)
-        - [Chapitre Ier : Fonctionnaires civils. (art. D17 à D18)](#113)
-          - [Paragraphe III : Dispositions communes. (art. D17 à D18)](#114)
-        - [Chapitre II : Militaires. (art. D19)](#115)
-      - [Titre VI : Pensions des ayants cause. (art. D19-1 à D19-6)](#116)
-      - [Titre VIII : Dispositions d'ordre et diverses. (art. D20 à D27)](#117)
-        - [Paragraphe Ier : Concession et révision de la pension. (art. D20 à D26)](#118)
-        - [Paragraphe II : Dispositions spécifiques à la concession les prestations d'invalidité (art. D27)](#119)
-      - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D32)](#120)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. D38 à D58)](#121)
-      - [Chapitre Ier : Paiement des pensions. (art. D38 à D57)](#122)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D38 à D39 bis)](#123)
-        - [Paragraphe II : Contexture des titres de paiement. (art. D40)](#124)
-        - [Paragraphe III : Modalités de paiement des pensions. (art. D43 à D47)](#125)
-        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D54)](#126)
-        - [Paragraphe VI : Abandon de jouissance. (art. D57)](#127)
-      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. D58)](#128)
+        - [Chapitre II : Détermination du montant de la pension. (art. D14 à D16)](#108)
+          - [Paragraphe Ier : Décompte et valeur des annuités liquidables. (art. D14)](#109)
+          - [Paragraphe II : Emoluments de base. (art. D15)](#110)
+          - [Paragraphe IV : Avantages de pension à caractère familial. (art. D16)](#111)
+      - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. D16-1 à D16-3)](#112)
+      - [Titre V : Invalidité. (art. D17 à D19)](#113)
+        - [Chapitre Ier : Fonctionnaires civils. (art. D17 à D18)](#114)
+          - [Paragraphe III : Dispositions communes. (art. D17 à D18)](#115)
+        - [Chapitre II : Militaires. (art. D19)](#116)
+      - [Titre VI : Pensions des ayants cause. (art. D19-1 à D19-6)](#117)
+      - [Titre VIII : Dispositions d'ordre et diverses. (art. D20 à D27)](#118)
+        - [Paragraphe Ier : Concession et révision de la pension. (art. D20 à D26)](#119)
+        - [Paragraphe II : Dispositions spécifiques à la concession les prestations d'invalidité (art. D27)](#120)
+      - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D32)](#121)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. D38 à D58)](#122)
+      - [Chapitre Ier : Paiement des pensions. (art. D38 à D57)](#123)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D38 à D39 bis)](#124)
+        - [Paragraphe II : Contexture des titres de paiement. (art. D40)](#125)
+        - [Paragraphe III : Modalités de paiement des pensions. (art. D43 à D47)](#126)
+        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D54)](#127)
+        - [Paragraphe VI : Abandon de jouissance. (art. D57)](#128)
+      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. D58)](#129)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=2></a>
@@ -7084,8 +7085,8 @@ _Modifié par_:
 
 I.-Le taux de la majoration de pension prévue au 5° du I de l'article L. 24 est fixé à un tiers du quotient obtenu en
 divisant la durée des services accomplis au sens de l'article L. 5 durant laquelle l'intéressé était atteint d'une incapacité
-permanente d'un taux au moins égal à 80 % ou avait la qualité de travailleur handicapé, par la durée de services et
-bonifications admise en liquidation. Le taux ainsi obtenu est arrondi, le cas échéant, au centième le plus proche. 
+permanente d'un taux au moins égal à 50 %, par la durée de services et bonifications admise en liquidation. Le taux ainsi
+obtenu est arrondi, le cas échéant, au centième le plus proche. 
 
 II.-La pension ainsi majorée ne peut excéder la pension qui aurait été obtenue par application du pourcentage maximum
 mentionné à l'article L. 13. Lorsque la pension est également majorée en application des dispositions de l'article L. 18, son
@@ -7099,10 +7100,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1060 du 18 septembre 2012 - art. 1
+  - Décret n°2014-1702 du 30 décembre 2014 - art. 5
 
 _Cite_:
 
+  - Code des pensions civiles et militaires de retr... - art. L5 (V)
   - Code des pensions civiles et militaires de retraite - art. L13
   - Code des pensions civiles et militaires de retraite - art. L15
   - Code des pensions civiles et militaires de retraite - art. L18
@@ -7304,34 +7306,40 @@ Pour les fonctionnaires handicapés mentionnés au 5° du I de l'article L. 24, 
 abaissé : 
 
 1° A cinquante-cinq ans s'ils justifient alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
-nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 40
-trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
-fixé à l'article L. 13, diminué de 60 trimestres ; 
+de 50 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au deuxième alinéa du I de l'article L. 13, diminué de 40 trimestres, et d'une durée d'assurance ayant
+donné lieu à cotisation à leur charge au moins égale au nombre de trimestres fixé à l'article L. 13, diminué de 60
+trimestres ; 
 
 2° A cinquante-six ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
-nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 50
-trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
-fixé par l'article L. 13, diminué de 70 trimestres ; 
+de 50 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au deuxième alinéa du I de l'article L. 13, diminué de 50 trimestres, et d'une durée d'assurance ayant
+donné lieu à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 70
+trimestres ; 
 
 3° A cinquante-sept ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
-nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 60
-trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
-fixé par l'article L. 13, diminué de 80 trimestres ; 
+de 50 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au deuxième alinéa du I de l'article L. 13, diminué de 60 trimestres, et d'une durée d'assurance ayant
+donné lieu à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 80
+trimestres ; 
 
 4° A cinquante-huit ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
-nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 70
-trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
-fixé par l'article L. 13, diminué de 90 trimestres ; 
+de 50 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au deuxième alinéa du I de l'article L. 13, diminué de 70 trimestres, et d'une durée d'assurance ayant
+donné lieu à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 90
+trimestres ; 
 
 5° A cinquante-neuf ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
-nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 80
-trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
-fixé par l'article L. 13, diminué de 100 trimestres.
+de 50 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au deuxième alinéa du I de l'article L. 13, diminué de 80 trimestres, et d'une durée d'assurance ayant
+donné lieu à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 100
+trimestres. 
+
+Pour bénéficier des dispositions du présent article, le fonctionnaire handicapé produit, à l'appui de sa demande de
+liquidation, les pièces justifiant de la décision relative à son taux d'incapacité permanente. La liste des pièces
+justificatives et documents permettant d'attester du taux d'incapacité requis ou d'une situation équivalente du point de vue
+de l'impact des altérations personnelles de la personne est fixée par l'arrêté mentionné à l'article D. 351-1-6 du code de la
+sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -7341,7 +7349,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1060 du 18 septembre 2012 - art. 1
+  - Décret n°2014-1702 du 30 décembre 2014 - art. 5
 
 _Cité par_:
 
@@ -7351,6 +7359,7 @@ _Cite_:
 
   - Code des pensions civiles et militaires de retraite - art. L13
   - Code des pensions civiles et militaires de retraite - art. L24
+  - Code de la sécurité sociale. - art. D351-1-6 (V)
 
 
 ### Titre V : Invalidité.<a id=70></a>
@@ -9278,7 +9287,29 @@ _Codifié par_:
 
 #### Chapitre II : Détermination du montant de la pension.<a id=108></a>
 
-##### Paragraphe II : Emoluments de base.<a id=109></a>
+##### Paragraphe Ier : Décompte et valeur des annuités liquidables.<a id=109></a>
+
+###### Article D14
+
+Pour bénéficier des dispositions prévues au septième alinéa du I de l'article L. 14, le fonctionnaire handicapé doit
+justifier d'un taux d'incapacité permanente d'au moins 50 %.
+
+La condition d'incapacité permanente mentionnée ci-dessus est appréciée dans les conditions prévues à l'article D. 821-1 du
+code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1702 du 30 décembre 2014 - art. 5
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retr... - art. L14 (V)
+  - Code de la sécurité sociale. - art. D821-1
+
+
+##### Paragraphe II : Emoluments de base.<a id=110></a>
 
 ###### Article D15
 
@@ -9325,7 +9356,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-##### Paragraphe IV : Avantages de pension à caractère familial.<a id=110></a>
+##### Paragraphe IV : Avantages de pension à caractère familial.<a id=111></a>
 
 ###### Article D16
 
@@ -9356,7 +9387,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre IV : Jouissance de la pension ou de la solde de réforme.<a id=111></a>
+### Titre IV : Jouissance de la pension ou de la solde de réforme.<a id=112></a>
 
 ###### Article D16-1
 
@@ -9592,11 +9623,11 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite - art. D16-1
 
 
-### Titre V : Invalidité.<a id=112></a>
+### Titre V : Invalidité.<a id=113></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=113></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=114></a>
 
-##### Paragraphe III : Dispositions communes.<a id=114></a>
+##### Paragraphe III : Dispositions communes.<a id=115></a>
 
 ###### Article D17
 
@@ -9643,7 +9674,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Chapitre II : Militaires.<a id=115></a>
+#### Chapitre II : Militaires.<a id=116></a>
 
 ###### Article D19
 
@@ -9680,7 +9711,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre VI : Pensions des ayants cause.<a id=116></a>
+### Titre VI : Pensions des ayants cause.<a id=117></a>
 
 ###### Article D19-1
 
@@ -9846,9 +9877,9 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre VIII : Dispositions d'ordre et diverses.<a id=117></a>
+### Titre VIII : Dispositions d'ordre et diverses.<a id=118></a>
 
-#### Paragraphe Ier : Concession et révision de la pension.<a id=118></a>
+#### Paragraphe Ier : Concession et révision de la pension.<a id=119></a>
 
 ###### Article D20
 
@@ -10272,7 +10303,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe II : Dispositions spécifiques à la concession les prestations d'invalidité<a id=119></a>
+#### Paragraphe II : Dispositions spécifiques à la concession les prestations d'invalidité<a id=120></a>
 
 ###### Article D27
 
@@ -10322,7 +10353,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L59 (Ab)
 
 
-### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=120></a>
+### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=121></a>
 
 ###### Article D30
 
@@ -10366,11 +10397,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-## Livre III : Dispositions relatives au paiement des pensions.<a id=121></a>
+## Livre III : Dispositions relatives au paiement des pensions.<a id=122></a>
 
-### Chapitre Ier : Paiement des pensions.<a id=122></a>
+### Chapitre Ier : Paiement des pensions.<a id=123></a>
 
-#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=123></a>
+#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=124></a>
 
 ###### Article D38
 
@@ -10433,7 +10464,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R351-26
 
 
-#### Paragraphe II : Contexture des titres de paiement.<a id=124></a>
+#### Paragraphe II : Contexture des titres de paiement.<a id=125></a>
 
 ###### Article D40
 
@@ -10455,7 +10486,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe III : Modalités de paiement des pensions.<a id=125></a>
+#### Paragraphe III : Modalités de paiement des pensions.<a id=126></a>
 
 ###### Article D43
 
@@ -10535,7 +10566,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe V : Précompte de la cotisation de sécurité sociale.<a id=126></a>
+#### Paragraphe V : Précompte de la cotisation de sécurité sociale.<a id=127></a>
 
 ###### Article D53
 
@@ -10583,7 +10614,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe VI : Abandon de jouissance.<a id=127></a>
+#### Paragraphe VI : Abandon de jouissance.<a id=128></a>
 
 ###### Article D57
 
@@ -10604,7 +10635,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. D472 (V)
 
 
-### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=128></a>
+### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=129></a>
 
 ###### Article D58
 
