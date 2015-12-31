@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2015-10-12
+Version Consolidée au 2016-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -124,7 +124,7 @@ Version Consolidée au 2015-10-12
       - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D32)](#121)
     - [Livre III : Dispositions relatives au paiement des pensions. (art. D38 à D58)](#122)
       - [Chapitre Ier : Paiement des pensions. (art. D38 à D57)](#123)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D38 à D39 bis)](#124)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D38 à D39)](#124)
         - [Paragraphe II : Contexture des titres de paiement. (art. D40)](#125)
         - [Paragraphe III : Modalités de paiement des pensions. (art. D43 à D47)](#126)
         - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D54)](#127)
@@ -10490,30 +10490,6 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-###### Article D39 bis
-
-La pension dont le montant total mensuel brut est inférieur au douzième de la somme prévue à l'article R. 351-26 du code de
-la sécurité sociale et revalorisée selon les modalités fixées par cet article est payée annuellement et à terme échu. 
-
-Le titulaire d'une pension mentionnée au premier alinéa peut toutefois opter de manière irrévocable, dans un délai d'un an à
-compter de la date de la liquidation de la pension, pour le versement d'un capital égal à quinze fois le montant annuel de
-cette pension. Ce capital est réduit, le cas échéant, de la somme des pensions déjà payées à la date de son versement.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2012-551 du 23 avril 2012 - art. 1 (V)
-
-_Abrogé par_:
-
-  - Décret n°2015-1872 du 30 décembre 2015 - art. 2
-
-_Cite_:
-
-  - Code de la sécurité sociale. - art. R351-26
-
-
 #### Paragraphe II : Contexture des titres de paiement.<a id=125></a>
 
 ###### Article D40
@@ -10728,7 +10704,7 @@ leur demande obtenir leur admission à la retraite et la concession d'une pensio
 
 AGRICULTURE
 
-<table cellpadding="0" border="1" cellspacing="0">
+<table cellpadding="0" cellspacing="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -10778,21 +10754,21 @@ Observations
 
 Adjoint technique de
 
-2e classe de l'Etablissement Public "Les Haras nationaux"
+2e classe de l'Etablissement Public " Les Haras nationaux "
 
 </td>
       <td rowspan="8">
 
 Décret n° 2006-1761 du 23.12.2006
 
-(J.O. du 30.12.2006)
+(J. O. du 30.12.2006)
 
 </td>
       <td rowspan="8">
 
 Décret n° 2009-566 du 20.05.2009
 
-(J.O. du 23.05.2009)
+(J. O. du 23.05.2009)
 
 </td>
       <td rowspan="8">
@@ -10814,7 +10790,7 @@ Catégorie B
 
 Adjoint technique de
 
-1re classe de l'Etablissement Public "Les Haras nationaux"
+1re classe de l'Etablissement Public " Les Haras nationaux "
 
 </td>
     </tr>
@@ -10826,7 +10802,7 @@ Adjoint technique de
 </td>
       <td>
 
-Adjoint technique principal de 2e classe de l'Etablissement Public "Les Haras nationaux"
+Adjoint technique principal de 2e classe de l'Etablissement Public " Les Haras nationaux "
 
 </td>
     </tr>
@@ -10838,7 +10814,7 @@ Adjoint technique principal de 2e classe de l'Etablissement Public "Les Haras na
 </td>
       <td>
 
-Adjoint technique principal de 1re classe de l'Etablissement Public "Les Haras nationaux"
+Adjoint technique principal de 1re classe de l'Etablissement Public " Les Haras nationaux "
 
 </td>
     </tr>
@@ -10852,7 +10828,7 @@ Adjoint technique principal de 1re classe de l'Etablissement Public "Les Haras n
 
 Adjoint technique de
 
-2e classe de l'Etablissement Public "Les Haras nationaux" Polynésie
+2e classe de l'Etablissement Public " Les Haras nationaux " Polynésie
 
 </td>
     </tr>
@@ -10866,7 +10842,7 @@ Adjoint technique de
 
 Adjoint technique de
 
-1re classe de l'Etablissement Public "Les Haras nationaux" Polynésie
+1re classe de l'Etablissement Public " Les Haras nationaux " Polynésie
 
 </td>
     </tr>
@@ -10878,7 +10854,7 @@ Adjoint technique de
 </td>
       <td>
 
-Adjoint technique principal de 2e classe de l'Etablissement Public "Les Haras nationaux" Polynésie
+Adjoint technique principal de 2e classe de l'Etablissement Public " Les Haras nationaux " Polynésie
 
 </td>
     </tr>
@@ -10890,7 +10866,7 @@ Adjoint technique principal de 2e classe de l'Etablissement Public "Les Haras na
 </td>
       <td>
 
-Adjoint technique principal de 1re classe de l'Etablissement Public "Les Haras nationaux" Polynésie
+Adjoint technique principal de 1re classe de l'Etablissement Public " Les Haras nationaux " Polynésie
 
 </td>
     </tr>
@@ -10902,21 +10878,21 @@ Adjoint technique principal de 1re classe de l'Etablissement Public "Les Haras n
 </td>
       <td>
 
-Chef de district forestier de 2e classe de l'O.N.F.
+Chef de district forestier de 2e classe de l'O. N. F.
 
 </td>
       <td rowspan="4">
 
 Décret n° 74-1000 du 14.11.1974 modifié par décret n° 2007-1894 du 26.12.2007
 
-(J.O. du 30.12.2007)
+(J. O. du 30.12.2007)
 
 </td>
       <td rowspan="4">
 
 Décret n° 95-1088 du 09.10.1995
 
-(J.O. du 11.10.1995)
+(J. O. du 11.10.1995)
 
 </td>
       <td rowspan="4">
@@ -10936,7 +10912,7 @@ Catégorie B
 </td>
       <td>
 
-Chef de district forestier de 1re classe de l'O.N.F.
+Chef de district forestier de 1re classe de l'O. N. F.
 
 </td>
     </tr>
@@ -10948,7 +10924,7 @@ Chef de district forestier de 1re classe de l'O.N.F.
 </td>
       <td>
 
-Chef de district forestier principal de 2e classe de l'O.N.F.
+Chef de district forestier principal de 2e classe de l'O. N. F.
 
 </td>
     </tr>
@@ -10960,16 +10936,16 @@ Chef de district forestier principal de 2e classe de l'O.N.F.
 </td>
       <td>
 
-Chef de district forestier principal de 1re classe de l'O.N.F.
+Chef de district forestier principal de 1re classe de l'O. N. F.
 
 </td>
     </tr>
   </tbody>
 </table>
 
-DEFENSE - INSTITUTION NATIONALE DES INVALIDES
+DEFENSE-INSTITUTION NATIONALE DES INVALIDES
 
-<table cellspacing="0" border="1" cellpadding="0">
+<table border="1" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -11024,7 +11000,7 @@ Infirmier civil de soins généraux de classe normale
 
 Décret n° 2005-1597 du 19.12.2005 modifié par décret n° 2014-848 du 28.07.2014
 
-(J.O. du 30.07.2014)
+(J. O. du 30.07.2014)
 
 </td>
       <td rowspan="2">
@@ -11076,7 +11052,7 @@ Infirmier de classe normale de l'INI
 
 Décret n° 90-360 du 23.04.1990 modifié par décret n° 2014-847 du 28.07.2014
 
-(J.O. du 30.07.2014)
+(J. O. du 30.07.2014)
 
 </td>
       <td rowspan="2">
@@ -11138,7 +11114,7 @@ Catégorie A
       <td>
 
 (*) En application du décret n° 2015-1259 du 09/10/2015 prenant effet au 12/10/2015, les agents des services hospitaliers
-qualifiés civils occupant un emploi, en contact direct et permanent avec les malades, au service de santé des armées
+qualifiés civils occupant un emploi, en contact direct et permanent avec les malades, du service de santé des armées
 bénéficient du classement en catégorie active et d'une limite d'âge à
 
 60 ans (62 ans).
@@ -11168,9 +11144,9 @@ Décret n° 2009-1357 du 03.11.2009 modifié
 </td>
       <td rowspan="3">
 
-(*) En application du décret n° 2015-1259 du 09/10/2015 prenant effet au 12/10/2015, les aides-soignants occupant un emploi,
-en contact direct et permanent avec les malades, au service de santé des armées ou à l'Institution nationale des invalides
-bénéficient du classement en catégorie active et d'une limite d'âge à
+(*) En application du décret n° 2015-1259 du 09/10/2015 prenant effet au 12/10/2015, les aides-soignants civils occupant un
+emploi, en contact direct et permanent avec les malades, du service de santé des armées et de l'Institution nationale des
+invalides bénéficient du classement en catégorie active et d'une limite d'âge à
 
 60 ans (62 ans).
 
@@ -11260,14 +11236,14 @@ Instituteur
 
 Décret n° 61-1012 du 07.09.1961
 
-(J.O. du 08.09.1961)
+(J. O. du 08.09.1961)
 
 </td>
       <td>
 
 Décret du 02.02.1937
 
-(J.O. du 03.02.1937)
+(J. O. du 03.02.1937)
 
 </td>
       <td>
@@ -11284,7 +11260,7 @@ Catégorie B
 
 EQUIPEMENT
 
-<table cellspacing="0" cellpadding="0" border="1">
+<table border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -11332,21 +11308,21 @@ Observations
 </td>
       <td>
 
-Agent d'exploitation des T.P.E.
+Agent d'exploitation des T. P. E.
 
 </td>
       <td rowspan="4">
 
 Décret n° 91-393 du 25.04.1991
 
-(J.O. du 26.04.1991)
+(J. O. du 26.04.1991)
 
 </td>
       <td rowspan="4">
 
-Décret n° 91-393 du 25.04.1991 Art.35
+Décret n° 91-393 du 25.04.1991 Art. 35
 
-(J.O. du 26.04.1991)
+(J. O. du 26.04.1991)
 
 </td>
       <td rowspan="4">
@@ -11366,7 +11342,7 @@ Catégorie B
 </td>
       <td>
 
-Agent d'exploitation spécialisé des T.P.E.
+Agent d'exploitation spécialisé des T. P. E.
 
 </td>
     </tr>
@@ -11378,7 +11354,7 @@ Agent d'exploitation spécialisé des T.P.E.
 </td>
       <td>
 
-Chef d'équipe d'exploitation des T.P.E.
+Chef d'équipe d'exploitation des T. P. E.
 
 </td>
     </tr>
@@ -11390,7 +11366,7 @@ Chef d'équipe d'exploitation des T.P.E.
 </td>
       <td>
 
-Chef d'équipe d'exploitation principal des T.P.E.
+Chef d'équipe d'exploitation principal des T. P. E.
 
 </td>
     </tr>
@@ -11402,21 +11378,21 @@ Chef d'équipe d'exploitation principal des T.P.E.
 </td>
       <td>
 
-Conducteur des T.P.E.
+Conducteur des T. P. E.
 
 </td>
       <td rowspan="5">
 
 Décret n° 66-900 du 18.11.1966
 
-(J.O. du 07.12.1966)
+(J. O. du 07.12.1966)
 
 </td>
       <td rowspan="5">
 
 Décret n° 77-1235 du 28.10.1977
 
-(J.O. du 11.11.1977)
+(J. O. du 11.11.1977)
 
 </td>
       <td rowspan="5">
@@ -11436,7 +11412,7 @@ Catégorie B
 </td>
       <td>
 
-Conducteur principal des T.P.E.
+Conducteur principal des T. P. E.
 
 </td>
     </tr>
@@ -11448,7 +11424,7 @@ Conducteur principal des T.P.E.
 </td>
       <td>
 
-Conducteur des T.P.E. Polynésie
+Conducteur des T. P. E. Polynésie
 
 </td>
     </tr>
@@ -11460,7 +11436,7 @@ Conducteur des T.P.E. Polynésie
 </td>
       <td>
 
-Conducteur principal des T.P.E. Polynésie
+Conducteur principal des T. P. E. Polynésie
 
 </td>
     </tr>
@@ -11472,7 +11448,7 @@ Conducteur principal des T.P.E. Polynésie
 </td>
       <td>
 
-Conducteur des T.P.E. St Pierre et Miquelon
+Conducteur des T. P. E. St Pierre et Miquelon
 
 </td>
     </tr>
@@ -11491,14 +11467,14 @@ Gardien de phare
 
 Décret n° 66-1033 du 09.12.1966
 
-(J.O. du 30.12.1966)
+(J. O. du 30.12.1966)
 
 </td>
       <td>
 
 Décret du 02.02.1937
 
-(J.O. du 03.02.1937)
+(J. O. du 03.02.1937)
 
 </td>
       <td>
@@ -11518,31 +11494,31 @@ Catégorie B
 </td>
       <td>
 
-Géomètre de l'I.G.N.
+Géomètre de l'I. G. N.
 
 </td>
-      <td rowspan="3">
+      <td rowspan="2">
 
 Décret n° 67-91 du 20.01.1967
 
-(J.O. du 02.02.1967)
+(J. O. du 02.02.1967)
 
 </td>
-      <td rowspan="3">
+      <td rowspan="2">
 
 Décret n° 77-1235 du 28.10.1977
 
-(J.O. du 11.11.1977)
+(J. O. du 11.11.1977)
 
 </td>
-      <td rowspan="3">
+      <td rowspan="2">
 
 Catégorie B
 
 60 ans
 
 </td>
-      <td rowspan="3">
+      <td rowspan="2">
     </td></tr>
     <tr>
       <td>
@@ -11552,19 +11528,7 @@ Catégorie B
 </td>
       <td>
 
-Géomètre principal de l'I.G.N.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-30
-
-</td>
-      <td>
-
-Technicien géomètre de l'I.G.N.
+Géomètre principal de l'I. G. N.
 
 </td>
     </tr>
@@ -11583,20 +11547,20 @@ Ingénieur des travaux géographiques et cartographiques de l'Etat (1)
 
 Décret n° 73-264 du 06.03.1973
 
-(J.O. du 13.03.1973)
+(J. O. du 13.03.1973)
 
 </td>
       <td rowspan="2">
 
 Décret n° 74-561 du 17.05.1974
 
-(J.O. du 28.05.1974)
+(J. O. du 28.05.1974)
 
 Circulaire interministérielle du 17.05.1974
 
 Décret n° 77-1235 du 28.10.1977
 
-(J.O. du 11.11.1977)
+(J. O. du 11.11.1977)
 
 </td>
       <td rowspan="2">
@@ -11632,7 +11596,7 @@ Ingénieur divisionnaire des travaux géographiques et cartographiques de l'Etat
 
 FINANCES
 
-<table border="1" cellspacing="0" cellpadding="0">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -11687,14 +11651,14 @@ Contrôleur principal des douanes et droits indirects (1)
 
 Décret n° 95-380 du 10.04.1995
 
-(J.O. du 12.04.1995)
+(J. O. du 12.04.1995)
 
 </td>
       <td rowspan="4">
 
 Décret n° 95-380 du 10.04.1995 Art. 27 et 28
 
-(J.O. du 12.04.1995)
+(J. O. du 12.04.1995)
 
 </td>
       <td rowspan="4">
@@ -11772,14 +11736,14 @@ Décret n° 2006-1760 et
 
 décret n° 2006-1761 du 23.12.2006
 
-(J.O. du 30.12.2006)
+(J. O. du 30.12.2006)
 
 </td>
       <td rowspan="4">
 
 Décret n° 79-89 du 25.01.1979 Art. 20
 
-(J.O. du 31.01.1979)
+(J. O. du 31.01.1979)
 
 </td>
       <td rowspan="4">
@@ -11846,14 +11810,14 @@ Agent de constatation principal de 1re classe des douanes (2)
 
 Décret n° 79-88 du 25.01.1979
 
-(J.O. du 31.01.1979)
+(J. O. du 31.01.1979)
 
 </td>
       <td rowspan="8">
 
 Décret n° 79-88 du 25.01.1979 Art. 22
 
-(J.O. du 31.01.1979)
+(J. O. du 31.01.1979)
 
 </td>
       <td rowspan="8">
@@ -11983,14 +11947,14 @@ Agents de catégorie A des services déconcentrés de la direction générale de
 
 Décret n° 2007-400 et décret n° 2007-401 du 22.03.2007
 
-(J.O. du 24.03.2007)
+(J. O. du 24.03.2007)
 
 </td>
       <td rowspan="2">
 
 Décret n° 2007-400 du 22.03.2007 Art. 42
 
-(J.O. du 24.03.2007)
+(J. O. du 24.03.2007)
 
 </td>
       <td rowspan="2">
@@ -12004,7 +11968,7 @@ Catégorie A
 
 (1) chargés exclusivement de fonctions de surveillance, de recherche ou de mission de police judiciaire. Dans ce cas, ils
 sont soumis à la limite d'âge de 60 ans. Les fonctions de ces personnels, dont l'emploi est classé en catégorie active, sont
-fixées par l'arrêté du 13.03.2008 (J.O. du 26.03.2008).
+fixées par l'arrêté du 13.03.2008 (J. O. du 26.03.2008).
 
 </td>
     </tr>
@@ -12048,7 +12012,7 @@ Décret n° 91-804 du 19.08.1991 modifié
 
 Décret n° 2007-400 du 22.03.2007 Art. 42
 
-(J.O. du 24.03.2007)
+(J. O. du 24.03.2007)
 
 </td>
       <td>
@@ -12062,7 +12026,7 @@ Catégorie A
 
 (1) chargés exclusivement de fonctions de surveillance, de recherche ou de mission de police judiciaire. Dans ce cas, ils
 sont soumis à la limite d'âge de 60 ans. Les fonctions de ces personnels, dont l'emploi est classé en catégorie active, sont
-fixées par l'arrêté du 13.03.2008 (J.O. du 26.03.2008).
+fixées par l'arrêté du 13.03.2008 (J. O. du 26.03.2008).
 
 </td>
     </tr>
@@ -12071,7 +12035,7 @@ fixées par l'arrêté du 13.03.2008 (J.O. du 26.03.2008).
 
 INTERIEUR
 
-<table cellspacing="0" border="1" cellpadding="0">
+<table cellpadding="0" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -12126,7 +12090,7 @@ Directeur des services actifs de police
 
 Décret n° 85-779 du 24.07.1985
 
-(J.O. du 27.07.1985)
+(J. O. du 27.07.1985)
 
 </td>
       <td rowspan="5">
@@ -12135,7 +12099,7 @@ Décret n° 79-65 et
 
 n° 79-66 du 23.01.1979
 
-(J.O. du 24.01.1979)
+(J. O. du 24.01.1979)
 
 </td>
       <td rowspan="5">
@@ -12162,7 +12126,7 @@ Directeur des services actifs de police de la préfecture de police
 
 Décret n° 79-63 du 23.01.1979
 
-(J.O. du 24.01.1979)
+(J. O. du 24.01.1979)
 
 </td>
     </tr>
@@ -12181,7 +12145,7 @@ Chef du service de l'inspection générale de la police nationale
 
 Décret. n° 85-779 du 24.07.1985
 
-(J.O. du 27.07.1985)
+(J. O. du 27.07.1985)
 
 </td>
     </tr>
@@ -12200,7 +12164,7 @@ Inspecteur général des services actifs de la police nationale
 
 Décret n° 2007-315 du 07.03.2007
 
-(J.O. du 09.03.2007)
+(J. O. du 09.03.2007)
 
 </td>
     </tr>
@@ -12231,14 +12195,14 @@ Commissaire divisionnaire de police
 
 Décret n° 2005-939 du 02.08.2005
 
-(J.O. du 06.08.2005)
+(J. O. du 06.08.2005)
 
 </td>
       <td rowspan="2">
 
 Décret n° 2005-938 du 02.08.2005
 
-(J.O. du 06.08.2005)
+(J. O. du 06.08.2005)
 
 </td>
       <td>
@@ -12252,7 +12216,7 @@ Catégorie B
 </td>
       <td rowspan="2">
 
-(*) Nouvelle limite d'âge à/c du 01.01.2006
+(*) Nouvelle limite d'âge à/ c du 01.01.2006
 
 (Décret n° 2005-938 du 02.08.2005)
 
@@ -12294,14 +12258,14 @@ Commandant de police emploi fonctionnel (2)
 
 Décret n° 2005-716 du 29.06.2005
 
-(J.O. du 30.06.2005)
+(J. O. du 30.06.2005)
 
 </td>
       <td rowspan="7">
 
 Décret n° 96-245 du 25.03.1996
 
-(J.O. du 27.03.1996)
+(J. O. du 27.03.1996)
 
 </td>
       <td rowspan="8">
@@ -12315,7 +12279,7 @@ Catégorie B
 
 (2) La liste des emplois fonctionnels est fixée par l'arrêté du 14.09.1999
 
-(J.O. du 05.11.1999)
+(J. O. du 05.11.1999)
 
 </td>
     </tr>
@@ -12382,7 +12346,7 @@ Major de police
 
 Décret n° 2004-1439 du 23.12.2004
 
-(J.O. du 30.12.2004)
+(J. O. du 30.12.2004)
 
 </td>
     </tr>
@@ -12435,14 +12399,14 @@ Responsable d'unité locale de police
 
 Décret n° 2005-1622 du 22.12.2005
 
-(J.O. du 24.12.2005)
+(J. O. du 24.12.2005)
 
 </td>
       <td>
 
 Décret n° 96-245 du 25.03.1996
 
-(J.O. du 27.03.1996)
+(J. O. du 27.03.1996)
 
 </td>
     </tr>
@@ -12510,14 +12474,14 @@ Commandant pénitentiaire et commandant pénitentiaire (emploi fonctionnelle)
 
 Décret n° 2006-441 du 14.06.2006
 
-(J.O. du 15.06.2006)
+(J. O. du 15.06.2006)
 
 </td>
       <td rowspan="7">
 
 Décret du 02.02.1937
 
-(J.O. du 03.02.1937)
+(J. O. du 03.02.1937)
 
 </td>
       <td rowspan="7">
@@ -12609,7 +12573,7 @@ Surveillant de petit effectif de l'administration pénitentiaire
 
 Décret n° 58-1204 du 12.12.1958
 
-(J.O. du 13.12.1958)
+(J. O. du 13.12.1958)
 
 </td>
     </tr>
@@ -12630,7 +12594,7 @@ Educateur de
 
 Décret n° 92-344 du 27.03.1992
 
-(J.O. du 02.04.1992)
+(J. O. du 02.04.1992)
 
 </td>
       <td rowspan="2">
@@ -12682,9 +12646,9 @@ Infirmier de classe normale des services médicaux des administrations de l'Etat
 </td>
       <td rowspan="2">
 
-Décret n° 94-1020 du 23.11.1994 (J.O. du 16.03.1990) modifié par décret n° 2012-761 du 09.05.2012
+Décret n° 94-1020 du 23.11.1994 (J. O. du 16.03.1990) modifié par décret n° 2012-761 du 09.05.2012
 
-(J.O. du 09.05.2012)
+(J. O. du 09.05.2012)
 
 </td>
       <td rowspan="2">
@@ -12722,9 +12686,9 @@ Infirmier de classe supérieure des services médicaux des administrations de l'
   </tbody>
 </table>
 
-LA POSTE - FRANCE TELECOM
+LA POSTE-FRANCE TELECOM
 
-<table cellpadding="0" border="1" cellspacing="0">
+<table border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -12753,7 +12717,7 @@ Services
 </td>
       <td>
 
-Fonctions - Affectations
+Fonctions-Affectations
 
 </td>
       <td>
@@ -12779,14 +12743,14 @@ Catégorie d'emploi et limite d'âge
 
 Assistant administratif
 
-(La Poste - France Télécom)
+(La Poste-France Télécom)
 
 </td>
       <td rowspan="2">
 
 Décret n° 92-931 du 07.09.1992
 
-(J.O. du 08.09.1992)
+(J. O. du 08.09.1992)
 
 </td>
       <td>
@@ -12803,7 +12767,7 @@ Agent technique
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -12852,9 +12816,9 @@ Adjoint administratif de 2e classe (emplois communs)
 </td>
       <td rowspan="3">
 
-Décret n° 2006 -1760 du 23.12.2006
+Décret n° 2006-1760 du 23.12.2006
 
-(J.O. du 30.12.2006)
+(J. O. du 30.12.2006)
 
 </td>
       <td rowspan="2">
@@ -12873,7 +12837,7 @@ Services du tri dans les recettes centralisatrices
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -12925,9 +12889,9 @@ Adjoint administratif de 2e classe (emplois communs)
 </td>
       <td rowspan="5">
 
-Décret n° 2006 -1760 et décret n° 2006-1761 du 23.12.2006
+Décret n° 2006-1760 et décret n° 2006-1761 du 23.12.2006
 
-(J.O. du 30.12.2006)
+(J. O. du 30.12.2006)
 
 </td>
       <td rowspan="4">
@@ -12944,7 +12908,7 @@ Centres de tri
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -13082,9 +13046,9 @@ Autres directions
 </td>
       <td>
 
-D.M n° B-2C 89/73 du 08.03.1989
+D. M n° B-2C 89/73 du 08.03.1989
 
-A/c du 01.12.1988
+A/ c du 01.12.1988
 
 </td>
     </tr>
@@ -13096,14 +13060,14 @@ A/c du 01.12.1988
 </td>
       <td rowspan="8">
 
-Agent d'exploitation du service général (La Poste - France Télécom)
+Agent d'exploitation du service général (La Poste-France Télécom)
 
 </td>
       <td rowspan="9">
 
-Décret n° 92-929 du 07. 09.1992
+Décret n° 92-929 du 07.09.1992
 
-(J.O. du 08.09.1992) Lignes
+(J. O. du 08.09.1992) Lignes
 
 </td>
       <td>
@@ -13240,7 +13204,7 @@ Cat. B
 </td>
       <td>
 
-Agent d'exploitation du service général Polynésie (La Poste - France Télécom)
+Agent d'exploitation du service général Polynésie (La Poste-France Télécom)
 
 </td>
       <td>
@@ -13262,7 +13226,7 @@ Agent d'exploitation (La Poste)
 
 Décret n° 72-500 du 23.06.1972
 
-(J.O. du 24.06.1972)
+(J. O. du 24.06.1972)
 
 </td>
       <td rowspan="3">
@@ -13380,7 +13344,7 @@ quelle que soit leur affectation géographique.
 (4) Les agents d'administration principaux et les agents d'exploitation en fonction au 1er janvier 1985 ont été intégrés dans
 le nouveau grade de receveur rural.
 
-(Décret n° 86-261 du 25.02.1986 Art. 8 - J.O. du 27.02.1986)
+(Décret n° 86-261 du 25.02.1986 Art. 8-J. O. du 27.02.1986)
 
 </td>
     </tr>
@@ -13392,14 +13356,14 @@ le nouveau grade de receveur rural.
 </td>
       <td rowspan="4">
 
-Agent de service (La Poste - France Télécom)
+Agent de service (La Poste-France Télécom)
 
 </td>
       <td rowspan="4">
 
 Décret n° 90-1234 du 31.12.1990
 
-(J.O. du 01.01.1991)
+(J. O. du 01.01.1991)
 
 </td>
       <td>
@@ -13418,7 +13382,7 @@ Préposé distribution
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -13484,7 +13448,7 @@ Chef d'établissement de classe exceptionnelle
 
 Décret n° 58-776 du 25.08.1958
 
-(J.O. du 29.08.1958)
+(J. O. du 29.08.1958)
 
 </td>
       <td>
@@ -13503,7 +13467,7 @@ Centres de tri
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -13571,7 +13535,7 @@ Chef de secteur du service des lignes
 
 Décret n° 54-865 du 02.09.1954
 
-(J.O. du 05.09.1954)
+(J. O. du 05.09.1954)
 
 </td>
       <td>
@@ -13580,7 +13544,7 @@ Décret n° 54-865 du 02.09.1954
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -13620,14 +13584,14 @@ Cat. B
 </td>
       <td>
 
-Contrôleur (La Poste - France Télécom)
+Contrôleur (La Poste-France Télécom)
 
 </td>
       <td>
 
 Décret n° 72-503 du 23.06.1972
 
-(J.O. du 24.06.1972)
+(J. O. du 24.06.1972)
 
 </td>
       <td>
@@ -13648,7 +13612,7 @@ Services du tri dans les centres de chèques postaux
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -13678,14 +13642,14 @@ qu'ils sont définis par le code des pensions civiles et militaires de retraite.
 </td>
       <td rowspan="2">
 
-Inspecteur (La Poste - France Télécom)
+Inspecteur (La Poste-France Télécom)
 
 </td>
       <td rowspan="2">
 
 Décret n° 58-777 du 25.08.1958
 
-(J.O. du 29.08.1958)
+(J. O. du 29.08.1958)
 
 </td>
       <td>
@@ -13698,7 +13662,7 @@ Ambulant
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -13739,7 +13703,7 @@ Conducteur chef de transbordement (La Poste)
 
 Décret n° 57-1319 du 21.12.1957
 
-(J.O. du 28.12.1957)
+(J. O. du 28.12.1957)
 
 </td>
       <td rowspan="2">
@@ -13752,7 +13716,7 @@ Acheminement
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td rowspan="2">
@@ -13783,14 +13747,14 @@ Conducteur chef du transbordement de 1re classe (La Poste)
 </td>
       <td rowspan="2">
 
-Contremaître (La Poste - France Télécom)
+Contremaître (La Poste-France Télécom)
 
 </td>
       <td rowspan="2">
 
 Décret n° 92-942 du 07.09.1992
 
-(J.O. du 08.09.1992)
+(J. O. du 08.09.1992)
 
 </td>
       <td>
@@ -13803,7 +13767,7 @@ Installations
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -13843,7 +13807,7 @@ Conducteur des travaux des lignes (France Télécom)
 
 Décret n° 54-865 du 02.09.1954
 
-(J.O. du 05.09.1954)
+(J. O. du 05.09.1954)
 
 </td>
       <td>
@@ -13852,7 +13816,7 @@ Décret n° 54-865 du 02.09.1954
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -13878,7 +13842,7 @@ Conducteur de travaux de la distribution et de l'acheminement (La Poste)
 
 Décret n° 57-1319 du 21.12.1957
 
-(J.O. du 28.12.1957)
+(J. O. du 28.12.1957)
 
 </td>
       <td>
@@ -13893,7 +13857,7 @@ Acheminement
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -13912,14 +13876,14 @@ Cat. B
 </td>
       <td rowspan="3">
 
-Contrôleur divisionnaire (La Poste - France Télécom)
+Contrôleur divisionnaire (La Poste-France Télécom)
 
 </td>
       <td rowspan="3">
 
 Décret n° 64-953 du 11.09.1964
 
-(J.O. du 13.09.1964)
+(J. O. du 13.09.1964)
 
 </td>
       <td>
@@ -13940,7 +13904,7 @@ Services du tri dans les centres de chèques postaux
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -14004,7 +13968,7 @@ Directeur d'établissement principal de La Poste
 
 Décret n° 91-68 du 17.01.1991
 
-(J.O. du 19.01.1991)
+(J. O. du 19.01.1991)
 
 </td>
       <td>
@@ -14019,9 +13983,9 @@ Centres de tri
 </td>
       <td rowspan="2">
 
-Décret n° 81-402 du 22.04.1981 (J.O. du 28.04.1981)
+Décret n° 81-402 du 22.04.1981 (J. O. du 28.04.1981)
 
-A/C du 01.01.1975
+A/ C du 01.01.1975
 
 </td>
       <td>
@@ -14055,14 +14019,14 @@ Cat. A
 </td>
       <td rowspan="2">
 
-Inspecteur principal (La Poste - France Télécom)
+Inspecteur principal (La Poste-France Télécom)
 
 </td>
       <td rowspan="2">
 
 Décret n° 58-778 du 25.08.1958
 
-(J.O. du 29.08.1958)
+(J. O. du 29.08.1958)
 
 </td>
       <td>
@@ -14073,7 +14037,7 @@ Ambulant
       <td>
       </td><td rowspan="2">
 
-Décret n° 81-402 du 22.04.1981 (J.O. du 28.04.1981)
+Décret n° 81-402 du 22.04.1981 (J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -14107,14 +14071,14 @@ Cat. B
 </td>
       <td>
 
-Mécanicien dépanneur (La Poste - France Télécom)
+Mécanicien dépanneur (La Poste-France Télécom)
 
 </td>
       <td>
 
 Décret n° 65-306 du 12.04.1965
 
-(J.O. du 21.04.1965)
+(J. O. du 21.04.1965)
 
 </td>
       <td>
@@ -14123,7 +14087,7 @@ Décret n° 65-306 du 12.04.1965
       <td>
       </td><td>
 
-Décret n° 81-402 du 22.04.1981 (J.O. du 28.04.1981)
+Décret n° 81-402 du 22.04.1981 (J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -14142,14 +14106,14 @@ Cat. B
 </td>
       <td>
 
-Ouvrier d'Etat (La Poste - France Télécom)
+Ouvrier d'Etat (La Poste-France Télécom)
 
 </td>
       <td rowspan="4">
 
 Décret n° 92-942 du 07.09.1992
 
-(J.O. du 08.09.1992)
+(J. O. du 08.09.1992)
 
 </td>
       <td>
@@ -14166,7 +14130,7 @@ Affecté au dépoussiérage
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -14185,7 +14149,7 @@ Cat. B
 </td>
       <td>
 
-Contremaître (La Poste - France Télécom)
+Contremaître (La Poste-France Télécom)
 
 </td>
       <td>
@@ -14202,7 +14166,7 @@ Contremaître (La Poste - France Télécom)
 </td>
       <td>
 
-Ouvrier d'Etat Polynésie (La Poste - France Télécom)
+Ouvrier d'Etat Polynésie (La Poste-France Télécom)
 
 </td>
       <td>
@@ -14227,7 +14191,7 @@ Cat. A
 </td>
       <td>
 
-Contremaître Polynésie (La Poste - France Télécom)
+Contremaître Polynésie (La Poste-France Télécom)
 
 </td>
       <td>
@@ -14266,7 +14230,7 @@ Préposé Polynésie (La Poste)
 
 Décret n° 57-1319 du 21.12.1957
 
-(J.O. du 28.12.1957)
+(J. O. du 28.12.1957)
 
 </td>
       <td>
@@ -14279,7 +14243,7 @@ Acheminement
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -14344,7 +14308,7 @@ Receveur rural (La Poste)
 
 Décret n° 86-261 du 25.02.1986
 
-(J.O. du 27.02.1986)
+(J. O. du 27.02.1986)
 
 </td>
       <td>
@@ -14357,9 +14321,9 @@ Acheminement
       <td>
       </td><td>
 
-Décret n° 86-266 du 25.02.1986 (J.O. du 27.02.1986)
+Décret n° 86-266 du 25.02.1986 (J. O. du 27.02.1986)
 
-A/C du 01.01.1985
+A/ C du 01.01.1985
 
 </td>
       <td>
@@ -14378,7 +14342,7 @@ Cat. B
 </td>
       <td>
 
-Assistant de service social (La Poste - France Télécom
+Assistant de service social (La Poste-France Télécom
 
 </td>
       <td rowspan="2">
@@ -14400,7 +14364,7 @@ Centres de tri (1)
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
 </td>
       <td>
@@ -14419,7 +14383,7 @@ Cat. B
 </td>
       <td>
 
-Assistant de service social chef (La Poste - France Télécom)
+Assistant de service social chef (La Poste-France Télécom)
 
 </td>
       <td>
@@ -14451,7 +14415,7 @@ Vérificateur des services de la distribution et de l'acheminement (La Poste)
 
 Décret n° 57-1319 du 21.12.1957
 
-(J.O. du 28.12.1957)
+(J. O. du 28.12.1957)
 
 </td>
       <td rowspan="2">
@@ -14466,9 +14430,9 @@ Acheminement
 
 Décret n° 81-402 du 22.04.1981
 
-(J.O. du 28.04.1981)
+(J. O. du 28.04.1981)
 
-A/C du 01.01.1970 (2)
+A/ C du 01.01.1970 (2)
 
 </td>
       <td rowspan="2">
@@ -14497,16 +14461,16 @@ Vérificateur principal des services de la distribution et de l'acheminement (La
 (1) Services accomplis à temps complet pendant des périodes continues de trois mois au moins (arrêté interministériel n° 77
 du 12.01.1976)
 
-(2) Date du changement de dénomination des services. (Décret n° 72-501 du 23.06.1972 - J.O. du 24.06.1972)
+(2) Date du changement de dénomination des services. (Décret n° 72-501 du 23.06.1972-J. O. du 24.06.1972)
 
 </td>
     </tr>
   </tbody>
 </table>
 
-TRANSPORTS - AVIATION CIVILE
+TRANSPORTS-AVIATION CIVILE
 
-<table cellpadding="0" border="1" cellspacing="0">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -14561,14 +14525,14 @@ Ingénieur divisionnaire du contrôle de la navigation aérienne
 
 Décret n° 90-998 du 08.11.1990
 
-(J.O. du 10.11.1990)
+(J. O. du 10.11.1990)
 
 </td>
       <td rowspan="3">
 
 Décret n° 90-999 du 08.11.1990
 
-(J.O. du 10.11.1990)
+(J. O. du 10.11.1990)
 
 </td>
       <td rowspan="3">
@@ -14612,9 +14576,9 @@ Ingénieur du contrôle de la navigation aérienne de classe normale
   </tbody>
 </table>
 
-TRANSPORTS - MER
+TRANSPORTS-MER
 
-<table cellspacing="0" border="1" cellpadding="0">
+<table cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -14680,14 +14644,14 @@ Technicien supérieur du développement durable
 
 Décret n° 2012-1064 du 18.09.2012
 
-(J.O. du 20.09.2012)
+(J. O. du 20.09.2012)
 
 </td>
       <td rowspan="3">
 
 Décret n° 2012-1064 du 18.09.2012
 
-(J.O. du 20.09.2012)
+(J. O. du 20.09.2012)
 
 </td>
       <td rowspan="7">
@@ -14699,8 +14663,8 @@ Cat. A
 </td>
       <td rowspan="3">
 
-(1) Seuls les techniciens supérieurs du développement durable classés dans la spécialité "navigation, sécurité maritime et
-gestion de la ressource halieutique et des espaces marin et littoral" et affectés sur un moyen nautique des affaires
+(1) Seuls les techniciens supérieurs du développement durable classés dans la spécialité " navigation, sécurité maritime et
+gestion de la ressource halieutique et des espaces marin et littoral " et affectés sur un moyen nautique des affaires
 maritimes, dans une unité littorale des affaires maritimes ou dans un centre de sécurité des navires bénéficient du
 classement en catégorie active et d'une limite d'âge à 62 ans.
 
@@ -14755,20 +14719,20 @@ Syndic (2)
 
 Décret n° 2000-572 du 26.06.2000
 
-(J.O. du 27.06.2000)
+(J. O. du 27.06.2000)
 
 </td>
       <td rowspan="3">
 
 Décret n° 2000-573 du 26.06.2000
 
-(J.O. du 27.06.2000)
+(J. O. du 27.06.2000)
 
 </td>
       <td rowspan="4">
 
-(2) Seuls les syndics des gens de mer classés dans la spécialité "navigation et sécurité" définie à l'article 4 du décret n°
-2000-572 du 26 juin 2000 et affectés sur un moyen nautique des affaires maritimes, dans une unité littorale des affaires
+(2) Seuls les syndics des gens de mer classés dans la spécialité " navigation et sécurité " définie à l'article 4 du décret
+n° 2000-572 du 26 juin 2000 et affectés sur un moyen nautique des affaires maritimes, dans une unité littorale des affaires
 maritimes ou dans un centre de sécurité des navires, bénéficient du classement en catégorie active et d'une limite d'âge à 62
 ans.
 
@@ -14817,14 +14781,14 @@ Garde maritime principal
 
 Décret n° 54-320 du 15.03.1954
 
-(J.O. du 23.03.1954)
+(J. O. du 23.03.1954)
 
 </td>
       <td>
 
 Décret du 02.02.1937
 
-(J.O. du 03.02.1937)
+(J. O. du 03.02.1937)
 
 </td>
       <td>
@@ -14842,6 +14806,10 @@ Cat. B
 
 _Modifié par_:
 
-  - Décret n°2015-1259 du 9 octobre 2015 - art. 1
+  - Décret n°2016-581 du 11 mai 2016 - art. 11 (V)
+
+_Cite_:
+
+  - Code des pensions civiles et militaires de retr... - art. L24 (V)
 
 
