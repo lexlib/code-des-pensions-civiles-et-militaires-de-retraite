@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-06-19
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -7202,22 +7202,13 @@ _Modifié par_:
 
 ###### Article R37
 
-I.-L'interruption d'activité prévue au premier alinéa du 3° du I et au premier alinéa du 1 bis du II de l'article L. 24 doit
-avoir eu une durée continue au moins égale à deux mois et être intervenue alors que le fonctionnaire ou le militaire était
-affilié à un régime de retraite obligatoire. La réduction d'activité prévue au même article doit avoir eu une durée continue
-au moins égale à celle mentionnée au II bis du présent article. 
+I. – L'interruption d'activité prévue au premier alinéa du 3° du I et au premier alinéa du 1 bis du II de l'article L. 24
+doit avoir eu une durée continue au moins égale à deux mois et être intervenue alors que le fonctionnaire ou le militaire
+était affilié à un régime de retraite obligatoire. La réduction d'activité prévue au même article doit avoir eu une durée
+continue au moins égale à celle mentionnée au II bis du présent article. 
 
-Cette interruption ou réduction d'activité doit avoir eu lieu pendant la période comprise entre le premier jour de la
-quatrième semaine précédant la naissance ou l'adoption et le dernier jour du trente-sixième mois suivant la naissance ou
-l'adoption. 
-
-Par dérogation aux dispositions de l'alinéa précédent, pour les enfants énumérés aux troisième, quatrième, cinquième et
-sixième alinéas du II de l'article L. 18 que l'intéressé a élevés dans les conditions prévues au III dudit article,
-l'interruption ou la réduction d'activité doit intervenir soit avant leur seizième anniversaire, soit avant l'âge où ils ont
-cessé d'être à charge au sens des articles L. 512-3 et R. 512-2 à R. 512-3 du code de la sécurité sociale. 
-
-II.-Sont prises en compte pour le calcul de la durée d'interruption d'activité les périodes correspondant à une suspension de
-l'exécution du contrat de travail ou à une interruption du service effectif, intervenues dans le cadre : 
+II. – Sont prises en compte pour le calcul de la durée d'interruption d'activité les périodes correspondant à une suspension
+de l'exécution du contrat de travail ou à une interruption du service effectif, intervenues dans le cadre : 
 
 a) Du congé pour maternité, tel que prévu aux articles L. 4138-2 et L. 4138-4 du code de la défense, au 5° de l'article 34 de
 la loi du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, au 5° de l'article 57
@@ -7247,14 +7238,15 @@ bis de la loi du 11 janvier 1984 susmentionnée, à l'article 60 sexies de la lo
 l'article 41 de la loi du 9 janvier 1986 susmentionnée, à l'article 4 ter du décret du 24 février 1972 susmentionné et à
 l'article 122-28-9 du code du travail ; 
 
-f) D'une disponibilité pour élever un enfant de moins de huit ans prévue au b de l'article 47 du décret du 16 septembre 1985
-relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation
-définitive d'activité, au b de l'article 24 du décret du 13 janvier 1986 relatif aux positions de détachement, hors cadres,
-de disponibilité et de congé parental des fonctionnaires territoriaux, au b de l'article 34 du décret du 13 octobre 1988
-relatif à certaines positions des fonctionnaires hospitaliers et à l'article 5 du décret du 5 octobre 2004 relatif au régime
-des pensions des ouvriers des établissements industriels de l'Etat. 
+f) D'une disponibilité pour élever un enfant de moins de huit ans prévue au 1° de l'article 47 du décret n° 85-986 du 16
+septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat, à la mise à disposition, à
+l'intégration et à la cessation définitive de fonctions, au 1° de l'article 24 du décret n° 86-68 du 13 janvier 1986 relatif
+aux positions de détachement, hors cadres, de disponibilité, de congé parental des fonctionnaires territoriaux et à
+l'intégration, au a de l'article 34 du décret n° 88-976 du 13 octobre 1988 relatif au régime particulier de certaines
+positions des fonctionnaires hospitaliers, à l'intégration et à certaines modalités de mise à disposition et à l'article 5 du
+décret du 5 octobre 2004 relatif au régime des pensions des ouvriers des établissements industriels de l'Etat. 
 
-II bis. - La réduction d'activité mentionnée au I est constituée d'une période de service à temps partiel d'une durée
+II bis. – La réduction d'activité mentionnée au I est constituée d'une période de service à temps partiel d'une durée
 continue d'au moins quatre mois pour une quotité de temps de travail de 50 % de la durée du service que les agents à temps
 plein exerçant les mêmes fonctions doivent effectuer, d'au moins cinq mois pour une quotité de 60 % et d'au moins sept mois
 pour une quotité de 70 %. 
@@ -7267,9 +7259,12 @@ de l'article 46-1 de la loi n° 86-33 du 9 janvier 1986 portant dispositions sta
 hospitalière et du premier alinéa du I de l'article 1 bis du décret n° 84-105 du 13 février 1984 relatif au régime de travail
 à temps partiel des personnels ouvriers de l'Etat rémunérés sur une base mensuelle. 
 
-III.-Les périodes visées au deuxième alinéa du 3° du I et au deuxième alinéa du 1° bis du II de l'article L. 24 sont les
+III. – Les périodes visées au deuxième alinéa du 3° du I et au deuxième alinéa du 1° bis du II de l'article L. 24 sont les
 périodes n'ayant pas donné lieu à cotisation de l'intéressé et pendant lesquelles celui-ci n'exerçait aucune activité
-professionnelle.
+professionnelle. 
+
+IV. – L'interruption ou la réduction d'activité prévues au 3° du I et au 1° bis du II de l'article L. 24 doit intervenir
+avant l'âge où l'enfant a cessé d'être à charge au sens des articles L. 512-3 et R. 512-2 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -7293,24 +7288,31 @@ _Cite_:
   - Décret n°72-154 du 24 février 1972 - art. 4 bis
   - Décret n°72-154 du 24 février 1972 - art. 4 ter
   - Loi n°84-16 du 11 janvier 1984 - art. 34
+  - Loi n°84-16 du 11 janvier 1984 - art. 37 bis (V)
   - Loi n°84-16 du 11 janvier 1984 - art. 40 bis
   - Loi n°84-16 du 11 janvier 1984 - art. 54
-  - Loi n°84-53 du 26 janvier 1984 - art. 53
-  - Loi n°84-53 du 26 janvier 1984 - art. 57
+  - Loi n°84-53 du 26 janvier 1984 - art. 57 (V)
+  - Loi n°84-53 du 26 janvier 1984 - art. 60 bis (V)
   - Loi n°84-53 du 26 janvier 1984 - art. 60 sexies
-  - Loi n°84-53 du 26 janvier 1984 - art. 64
   - Loi n°84-53 du 26 janvier 1984 - art. 75
+  - Décret n°84-105 du 13 février 1984 - art. 1 bis (V)
+  - Décret n°85-986 du 16 septembre 1985 - art. 47
   - Loi n°86-33 du 9 janvier 1986 - art. 41
+  - Loi n°86-33 du 9 janvier 1986 - art. 46-1 (V)
+  - Loi n°86-33 du 9 janvier 1986 - art. 64
+  - Décret n°86-68 du 13 janvier 1986 - art. 24
   - Décret n°88-976 du 13 octobre 1988 - art. 34
-  - Décret n°2004-1056 du 5 octobre 2004 - art. 5
   - Code des pensions civiles et militaires de retraite - art. L24
   - Code de la défense. - art. L4138-11
   - Code de la défense. - art. L4138-14
   - Code de la défense. - art. L4138-2
-  - Code de la défense. - art. L4138-4
+  - Code de la défense. - art. L4138-4 (V)
   - Code de la défense. - art. L4138-7
   - Code rural - art. L732-10
-  - Code rural - art. L732-12
+  - Code rural - art. L732-11
+  - Code rural - art. L732-12 (V)
+  - Code rural - art. L732-12-1
+  - Code du travail - art. L122-28-1
   - Code de la sécurité sociale. - art. L331-3
   - Code de la sécurité sociale. - art. L331-7
   - Code de la sécurité sociale. - art. L331-8
@@ -7321,7 +7323,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2010-1741 du 30 décembre 2010 - art. 1
+  - Décret n°2016-810 du 16 juin 2016 - art. 1
 
 
 ###### Article R37 bis
