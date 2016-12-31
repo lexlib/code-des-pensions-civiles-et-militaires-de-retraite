@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2017-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -4436,44 +4436,47 @@ _Codifié par_:
 
 ###### Article L50
 
-I.-En cas de décès d'un fonctionnaire civil ou militaire par suite d'un attentat, d'une lutte dans l'exercice de ses
+I. – En cas de décès d'un fonctionnaire civil ou militaire par suite d'un attentat, d'une lutte dans l'exercice de ses
 fonctions, d'un acte de dévouement dans un intérêt public ou pour sauver la vie d'une ou plusieurs personnes, une pension de
 réversion est concédée aux conjoints. A cette pension de réversion s'ajoute soit la moitié de la rente viagère d'invalidité
 dont aurait pu bénéficier le fonctionnaire, soit la pension prévue au code des pensions militaires d'invalidité, de manière à
 ce que le total ne soit pas inférieur à un montant correspondant à la valeur de l'indice majoré 227 au 1er janvier 2004,
-revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale. 
+revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale.
 
-II.-Le total des pensions et, selon les cas, de la rente viagère d'invalidité ou de la pension militaire d'invalidité
+II. – Le total des pensions et, selon les cas, de la rente viagère d'invalidité ou de la pension militaire d'invalidité
 attribuables aux conjoints survivants et aux orphelins ne peut être inférieur à celui de la pension et de la rente viagère
 d'invalidité ou de la pension militaire d'invalidité dont le fonctionnaire ou le militaire aurait pu bénéficier, si le décès
-intervient dans les conditions suivantes : 
+intervient dans les conditions suivantes :
 
-1° Lorsqu'un fonctionnaire des douanes de la branche de la surveillance est tué au cours d'une opération douanière ; 
+1° Lorsqu'un fonctionnaire des douanes de la branche de la surveillance est tué au cours d'une opération douanière ;
 
 2° Lorsqu'un fonctionnaire de la police nationale est tué au cours d'une opération de police ou décède en service et est cité
-à l'ordre de la Nation ; 
+à l'ordre de la Nation ;
 
 3° Lorsqu'un militaire de la gendarmerie nationale est tué au cours d'une opération de police ou décède en service et est
-cité à l'ordre de la Nation ou à l'ordre de la gendarmerie ; 
+cité à l'ordre de la Nation ou à l'ordre de la gendarmerie ;
 
 4° Lorsqu'un fonctionnaire appartenant au personnel de l'administration pénitentiaire décède à la suite d'un acte de violence
-dans le cadre de l'exercice de ses fonctions ; 
+dans le cadre de l'exercice de ses fonctions ;
 
 5° Lorsqu'un sapeur-pompier de la brigade des sapeurs-pompiers de Paris ou du bataillon des marins-pompiers de Marseille ou
 un militaire des formations militaires de la sécurité civile est tué dans l'exercice de ses fonctions et est cité à l'ordre
-de la Nation ; 
+de la Nation ou à l'ordre de l'armée ;
 
 6° Lorsqu'un agent d'exploitation des travaux publics de l'Etat ou un chef d'équipe des travaux publics de l'Etat est tué en
-service dans le cadre d'une intervention sur voirie circulée ; 
+service dans le cadre d'une intervention sur voirie circulée ;
 
 7° Lorsqu'un contrôleur des transports terrestres est tué en service dans le cadre de l'exercice de ses missions de contrôle
-sur route ; 
+sur route ;
 
 8° Lorsqu'un fonctionnaire affecté dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes
 sous l'autorité ou à la disposition du ministre chargé de la mer est tué en service au cours d'une mission de contrôle ou de
-surveillance. 
+surveillance ;
 
-III.-Le total des pensions et, selon les cas, de la rente viagère ou de la pension militaire d'invalidité attribuables aux
+9° Lorsqu'un militaire est tué dans l'exercice de ses fonctions sur le territoire national ou décède en service et est cité à
+l'ordre de la Nation ou à l'ordre de l'armée.
+
+III. – Le total des pensions et, selon les cas, de la rente viagère ou de la pension militaire d'invalidité attribuables aux
 conjoints survivants et aux orphelins est porté à 100 % du traitement ou de la solde de base détenu par le fonctionnaire ou
 le militaire au jour de son décès lorsqu'un fonctionnaire, un militaire de carrière ou un militaire servant sous contrat est
 tué dans un attentat alors qu'il se trouvait en service sur le territoire national ou à l'étranger ou au cours d'une
@@ -4491,11 +4494,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-40 du 20 janvier 2014 - art. 5 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 121 (V)
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. L341-6 (V)
+  - Code de la sécurité sociale. - art. L341-6
 
 _Codifié par_:
 
@@ -5347,13 +5350,13 @@ _Cite_:
 
 ###### Article L86
 
-I.-Par dérogation au premier alinéa de l'article L. 161-22 du code de la sécurité sociale, ainsi qu'aux dispositions du
+I. – Par dérogation au premier alinéa de l'article L. 161-22 du code de la sécurité sociale, ainsi qu'aux dispositions du
 deuxième alinéa de l'article L. 84 et de l'article L. 85, les revenus perçus à l'occasion de l'exercice des activités
 suivantes peuvent être entièrement cumulés avec la pension : 
 
 1° Activités entraînant affiliation au régime général de la sécurité sociale en application du 15° de l'article L. 311-3 et
 de l'article L. 382-1 du code de la sécurité sociale ainsi que les activités exercées par les artistes interprètes rattachés
-au régime mentionné au premier alinéa de l'article L. 622-5 du même code ; 
+au régime mentionné au premier alinéa de l'article L. 640-1 du même code ; 
 
 2° Activités entraînant la production d'oeuvres de l'esprit au sens des articles L. 112-2 et L. 112-3 du code de la propriété
 intellectuelle ; 
@@ -5361,7 +5364,7 @@ intellectuelle ;
 3° Participation aux activités juridictionnelles ou assimilées, ou à des instances consultatives ou délibératives réunies en
 vertu d'un texte législatif ou réglementaire. 
 
-II.-En outre, par dérogation aux mêmes dispositions, peuvent cumuler intégralement le montant de leur pension avec des
+II. – En outre, par dérogation aux mêmes dispositions, peuvent cumuler intégralement le montant de leur pension avec des
 revenus d'activité : 
 
 1° Les titulaires de pensions civiles et militaires ou d'une solde de réforme allouées pour invalidité ; 
@@ -5373,11 +5376,6 @@ effectués pendant un rappel à l'activité donnant lieu à promotion de grade ;
 
 3° Les titulaires de pensions ayant atteint, avant le 1er janvier 2004, la limite d'âge qui leur était applicable dans leur
 ancien emploi.
-
-**Nota:**
-
-Conformément à l'article 19 VIII de la loi n° 2014-40 du 20 janvier 2014, le présent article est applicable aux assurés dont
-la première pension prend effet à compter du 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
@@ -5391,16 +5389,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-40 du 20 janvier 2014 - art. 19 (V)
+  - Loi n°2016-1827 du 23 décembre 2016 - art. 50 (V)
 
 _Cite_:
 
   - Code de la propriété intellectuelle - art. L112-2
   - Code des pensions civiles et militaires de retraite - art. L85
   - Code de la sécurité sociale. - art. L161-22
-  - Code de la sécurité sociale. - art. L311-3
+  - Code de la sécurité sociale. - art. L311-3 (V)
   - Code de la sécurité sociale. - art. L382-1
-  - Code de la sécurité sociale. - art. L622-5
+  - Code de la sécurité sociale. - art. L640-1 (V)
 
 _Codifié par_:
 
@@ -6838,48 +6836,50 @@ _Créé par_:
 
 ###### Article R27
 
-L'application des dispositions du II de l'article L. 15 est subordonnée : 
+L'application des dispositions du II de l'article L. 15 est subordonnée :
 
 Soit à l'occupation continue pendant quatre ans au moins d'un même emploi dont le traitement ou solde défini à l'article R.
-30 est supérieur à celui qui résulterait de l'application des dispositions de l'article L. 15 ; 
+30 est supérieur à celui qui résulterait de l'application des dispositions de l'article L. 15 ;
 
 Soit à l'occupation continue pendant deux ans au moins de l'un ou de plusieurs des emplois supérieurs visés par le décret n°
 85-779 du 24 juillet 1985, des emplois de chef de service, directeur adjoint ou sous-directeur d'administration centrale ou
 assimilés, des emplois d'officier général classés dans les groupes hors échelle E, F et G prévus par l'arrêté du 29 août
-1957. 
+1957.
 
 La période de quatre ou deux ans doit être entièrement comprise dans les quinze dernières années d'activité valables pour la
-retraite. 
+retraite.
 
 Les dispositions du II de l'article L. 15 ne sont pas applicables lorsque la cessation des fonctions mentionnées ci-dessus
-résulte d'une sanction disciplinaire ou est motivée par une insuffisance professionnelle. 
+résulte d'une sanction disciplinaire ou est motivée par une insuffisance professionnelle.
 
 Les fonctionnaires civils et les militaires ayant renoncé au bénéfice de leur pension pour acquérir de nouveaux droits à
 pension au titre d'un nouvel emploi ou dont la pension a été annulée en vertu des dispositions de l'article L. 77 ne peuvent
-demander le bénéfice des dispositions ci-dessus au titre d'un emploi occupé antérieurement. 
+demander le bénéfice des dispositions ci-dessus au titre d'un emploi occupé antérieurement.
 
-La liste des emplois fonctionnels mentionnée dans le II de l'article L. 15 est la suivante : 
+La liste des emplois fonctionnels mentionnée dans le II de l'article L. 15 est la suivante :
 
 1° Pour les emplois relevant de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction
 publique territoriale :
 
-- directeur général des services des départements et des régions et directeur général adjoint des services des départements
+– directeur général des services des départements et des régions et directeur général adjoint des services des départements
 et des régions ;
 
-- directeur général des services des communes de plus de 150 000 habitants ;
+– directeur général des services des communes de plus de 150 000 habitants ;
 
-- directeur général des établissements publics de coopération intercommunale à fiscalité propre concernant une population de
+– directeur général des établissements publics de coopération intercommunale à fiscalité propre concernant une population de
 plus de 150 000 habitants ;
 
-- directeur des établissements publics locaux assimilés à l'un des emplois de directeurs des collectivités territoriales
-précités. 
+– directeur des établissements publics locaux assimilés à l'un des emplois de directeurs des collectivités territoriales
+précités ;
+
+– directeur départemental et directeur départemental adjoint des services d'incendie et de secours.
 
 2° Pour les emplois relevant de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction
 publique hospitalière :
 
-- directeur général de centre hospitalier régional ;
+– directeur général de centre hospitalier régional ;
 
-- secrétaire général et directeur général adjoint des hospices civils de Lyon et de l'assistance publique de Marseille.
+– secrétaire général et directeur général adjoint des hospices civils de Lyon et de l'assistance publique de Marseille.
 
 **Liens relatifs à cet article**
 
@@ -6907,7 +6907,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-594 du 23 juin 2008 - art. 1
+  - Décret n°2016-2001 du 30 décembre 2016 - art. 2
 
 
 ###### Article R28
