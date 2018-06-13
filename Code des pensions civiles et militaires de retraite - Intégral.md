@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2017-11-01
+Version Consolidée au 2018-06-14
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -4738,8 +4738,8 @@ de traitement ou de solde, à l'exclusion d'indemnités de toute nature, dans de
 2° Une cotisation à la charge des agents visés à l'article L. 2, assise sur les sommes payées à ces agents à titre de
 traitement ou de solde, à l'exclusion d'indemnités de toute nature, dont le taux est fixé par décret. Ce taux prend en
 considération les taux des cotisations à la charge des assurés sociaux relevant de la Caisse nationale d'assurance vieillesse
-des travailleurs salariés et des institutions de retraite complémentaire visées à l'article L. 922-1 du code de la sécurité
-sociale pour la partie de leur rémunération inférieure au plafond prévu à l'article L. 241-3 du même code ; 
+et des institutions de retraite complémentaire visées à l'article L. 922-1 du code de la sécurité sociale pour la partie de
+leur rémunération inférieure au plafond prévu à l'article L. 241-3 du même code ; 
 
 3° Les contributions et transferts d'autres personnes morales, dans les conditions définies par les lois et règlements en
 vigueur.
@@ -4818,13 +4818,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1330 du 9 novembre 2010 - art. 42
+  - Ordonnance n°2018-470 du 12 juin 2018 - art. 9
 
 _Cite_:
 
   - Code des pensions civiles et militaires de retraite - art. L2
   - Code de la sécurité sociale. - art. L241-3
-  - Code de la sécurité sociale. - art. L922-1 (V)
+  - Code de la sécurité sociale. - art. L922-1
 
 _Codifié par_:
 
