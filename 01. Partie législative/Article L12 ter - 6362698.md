@@ -1,8 +1,8 @@
 # Article L12 ter
 
-Les fonctionnaires, élevant à leur domicile un enfant de moins de vingt ans atteint d'une invalidité égale ou supérieure à 80
-%, bénéficient d'une majoration de leur durée d'assurance d'un trimestre par période d'éducation de trente mois, dans la
-limite de quatre trimestres.
+Les fonctionnaires et les militaires, élevant à leur domicile un enfant de moins de vingt ans atteint d'une invalidité égale
+ou supérieure à 80 %, bénéficient d'une majoration de leur durée d'assurance d'un trimestre par période d'éducation de trente
+mois, dans la limite de quatre trimestres.
 
 **Liens relatifs à cet article**
 
@@ -14,14 +14,14 @@ _Cité par_:
   - Code des pensions civiles et militaires de retr... - art. L25 bis (V)
   - Code des pensions civiles et militaires de retrait - art. D21-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2018-607 du 13 juillet 2018 - art. 25
+
 _Cite_:
 
-  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+  - Code des pensions civiles et militaires de retraite - art. L18
 
 _Codifié par_:
 
   - Loi n°64-1339 1964-12-29
-
-_Créé par_:
-
-  - Loi n°2003-775 du 21 août 2003 - art. 49 () JORF 22 août 2003 en vigueur le 1er janvier 2004
