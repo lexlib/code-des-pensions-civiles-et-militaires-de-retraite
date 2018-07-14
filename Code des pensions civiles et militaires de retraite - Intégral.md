@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2018-06-14
+Version Consolidée au 2018-07-15
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -851,42 +851,43 @@ _Cite_:
 ###### Article L12
 
 Aux services effectifs s'ajoutent, dans les conditions déterminées par un décret en Conseil d'Etat, les bonifications ci-
-après : 
+après :
 
-a) Bonification de dépaysement pour les services civils rendus hors d'Europe ; 
+a) Bonification de dépaysement pour les services civils rendus hors d'Europe ;
 
 b) Pour chacun de leurs enfants légitimes et de leurs enfants naturels nés antérieurement au 1er janvier 2004, pour chacun de
 leurs enfants dont l'adoption est antérieure au 1er janvier 2004 et, sous réserve qu'ils aient été élevés pendant neuf ans au
 moins avant leur vingt et unième anniversaire, pour chacun des autres enfants énumérés au II de l'article L. 18 dont la prise
 en charge a débuté antérieurement au 1er janvier 2004, les fonctionnaires et militaires bénéficient d'une bonification fixée
 à un an, qui s'ajoute aux services effectifs, à condition qu'ils aient interrompu ou réduit leur activité dans des conditions
-fixées par décret en Conseil d'Etat ; 
+fixées par décret en Conseil d'Etat ;
 
 b bis La bonification prévue au b est acquise aux femmes fonctionnaires ou militaires ayant accouché au cours de leurs années
 d'études, antérieurement à leur recrutement dans la fonction publique, dès lors que ce recrutement est intervenu dans un
 délai de deux ans après l'obtention du diplôme nécessaire pour se présenter au concours, sans que puisse leur être opposée
-une condition d'interruption d'activité ; 
+une condition d'interruption d'activité ;
 
-c) Bénéfices de campagne dans le cas de services militaires, notamment pour services à la mer et outre-mer ; 
+c) Bénéfices de campagne dans le cas de services militaires, notamment pour services à la mer et outre-mer ;
 
 d) Bonification pour l'exécution d'un service aérien ou sous-marin commandé. Le décompte des coefficients applicables aux
 heures de vol ou à la durée des services sous-marins est effectué conformément aux dispositions en vigueur au moment où s'est
-ouvert le droit à ces bonifications ; 
+ouvert le droit à ces bonifications ;
 
-e) Abrogé ; 
+e) Abrogé ;
 
-f) Abrogé ; 
+f) Abrogé ;
 
-g) Abrogé ; 
+g) Abrogé ;
 
-h) Abrogé ; 
+h) Abrogé ;
 
 i) Une bonification du cinquième du temps de service accompli est accordée dans la limite de cinq annuités à tous les
 militaires à la condition qu'ils aient accompli au moins dix-sept ans de services militaires effectifs ou qu'ils aient été
 rayés des cadres pour invalidité ; le maximum de bonifications est donné aux militaires qui quittent le service à cinquante-
 neuf ans ; la bonification est diminuée d'une annuité pour chaque année supplémentaire de service jusqu'à l'âge mentionné à
 l'article L. 161-17-2 du code de la sécurité sociale. Le temps passé en congé de longue durée pour maladie et en congé de
-longue maladie est assimilé à des services militaires effectifs. 
+longue maladie est assimilé à des services militaires effectifs. Les services accomplis dans la réserve opérationnelle durant
+un congé pour convenances personnelles pour élever un enfant de moins huit ans sont pris en compte.
 
 Le pourcentage maximum fixé à l'article L 13 peut-être augmenté de cinq points du chef des bonifications prévues au présent
 article.
@@ -953,7 +954,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-917 du 28 juillet 2015 - art. 16
+  - Loi n°2018-607 du 13 juillet 2018 - art. 12
 
 _Cite_:
 
@@ -996,9 +997,9 @@ _Codifié par_:
 
 ###### Article L12 ter
 
-Les fonctionnaires, élevant à leur domicile un enfant de moins de vingt ans atteint d'une invalidité égale ou supérieure à 80
-%, bénéficient d'une majoration de leur durée d'assurance d'un trimestre par période d'éducation de trente mois, dans la
-limite de quatre trimestres.
+Les fonctionnaires et les militaires, élevant à leur domicile un enfant de moins de vingt ans atteint d'une invalidité égale
+ou supérieure à 80 %, bénéficient d'une majoration de leur durée d'assurance d'un trimestre par période d'éducation de trente
+mois, dans la limite de quatre trimestres.
 
 **Liens relatifs à cet article**
 
@@ -1010,17 +1011,17 @@ _Cité par_:
   - Code des pensions civiles et militaires de retr... - art. L25 bis (V)
   - Code des pensions civiles et militaires de retrait - art. D21-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2018-607 du 13 juillet 2018 - art. 25
+
 _Cite_:
 
-  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+  - Code des pensions civiles et militaires de retraite - art. L18
 
 _Codifié par_:
 
   - Loi n°64-1339 1964-12-29
-
-_Créé par_:
-
-  - Loi n°2003-775 du 21 août 2003 - art. 49 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 
 #### Chapitre II : Détermination du montant de la pension.<a id=14></a>
@@ -1154,77 +1155,78 @@ _Codifié par_:
 
 I. – La durée d'assurance totalise la durée des services et bonifications admissibles en liquidation prévue à l'article L.
 13, augmentée, le cas échéant, de la durée d'assurance et des périodes reconnues équivalentes validées dans un ou plusieurs
-autres régimes de retraite de base obligatoires. 
+autres régimes de retraite de base obligatoires.
 
 Lorsque la durée d'assurance est inférieure au nombre de trimestres nécessaire pour obtenir le pourcentage de la pension
 mentionné à l'article L. 13, un coefficient de minoration de 1,25 % par trimestre s'applique au montant de la pension
-liquidée en application des articles L. 13 et L. 15 dans la limite de vingt trimestres. 
+liquidée en application des articles L. 13 et L. 15 dans la limite de vingt trimestres.
 
-Le nombre de trimestres pris en compte pour ce calcul est égal : 
+Le nombre de trimestres pris en compte pour ce calcul est égal :
 
 1° Soit au nombre de trimestres correspondant à la durée qui sépare l'âge auquel la pension est liquidée de la limite d'âge
-du grade détenu par le pensionné ; 
+du grade détenu par le pensionné ;
 
 2° Soit au nombre de trimestres supplémentaires qui serait nécessaire, à la date de liquidation de la pension, pour atteindre
-le nombre de trimestres permettant d'obtenir le pourcentage maximum mentionné à l'article L. 13. 
+le nombre de trimestres permettant d'obtenir le pourcentage maximum mentionné à l'article L. 13.
 
 Le nombre de trimestres correspondant est arrondi à l'entier supérieur dans des conditions définies par décret. Le plus petit
-des deux nombres de trimestres résultant des dispositions du 1° et du 2° du présent I est pris en considération. 
+des deux nombres de trimestres résultant des dispositions du 1° et du 2° du présent I est pris en considération.
 
 Le coefficient de minoration n'est pas applicable aux fonctionnaires handicapés dont l'incapacité permanente est au moins
 égale à un taux fixé par décret ou mis à la retraite pour invalidité ainsi qu'aux fonctionnaires âgés d'au moins soixante-
 cinq ans qui bénéficient d'un nombre minimum de trimestres fixé par décret au titre de la majoration de durée d'assurance
 prévue à l'article L. 12 ter ou qui, pendant une durée et dans des conditions fixées par décret, ont apporté une aide
 effective à leur enfant bénéficiaire de l'élément de la prestation relevant du 1° de l'article L. 245-3 du code de l'action
-sociale et des familles. 
+sociale et des familles.
 
 Le coefficient de minoration n'est pas applicable aux pensions de réversion lorsque la liquidation de la pension dont le
-fonctionnaire aurait pu bénéficier intervient après son décès. 
+fonctionnaire aurait pu bénéficier intervient après son décès.
 
 Pour le calcul de la durée d'assurance, les périodes de services accomplis à temps partiel telles que définies à l'article L.
-5 sont décomptées comme des périodes de services à temps complet. 
+5 sont décomptées comme des périodes de services à temps complet.
 
 II. – Les dispositions du I sont applicables aux militaires dont la limite d'âge est supérieure ou égale à cinquante-sept ans
 lorsqu'ils sont mis à la retraite à compter de l'âge de cinquante-deux ans. Les dispositions suivantes s'appliquent aux
-militaires qui ne remplissent pas ces conditions. 
+militaires qui ne remplissent pas ces conditions.
 
 Lorsque la durée de services militaires effectifs est inférieure à la durée nécessaire pour pouvoir bénéficier d'une
 liquidation de la pension, définie au II de l'article L. 24, augmentée d'une durée de services effectifs de dix trimestres,
 un coefficient de minoration de 1,25 % s'applique au montant de la pension militaire liquidée en application des articles L.
-13 et L. 15 dans la limite de dix trimestres. 
+13 et L. 15 dans la limite de dix trimestres. Le temps passé en congé de longue durée pour maladie et en congé de longue
+maladie est assimilé à des services militaires effectifs.
 
-Le nombre de trimestres pris en compte pour ce calcul est égal : 
+Le nombre de trimestres pris en compte pour ce calcul est égal :
 
 1° Soit au nombre de trimestres manquants, à la date de liquidation de la pension militaire, pour atteindre un nombre de
 trimestres correspondant à la durée de services militaires effectifs nécessaire pour pouvoir bénéficier d'une liquidation de
-la pension, définie au II de l'article L. 24, augmentée d'une durée de services effectifs de dix trimestres ; 
+la pension, définie au II de l'article L. 24, augmentée d'une durée de services effectifs de dix trimestres ;
 
 2° Soit au nombre de trimestres supplémentaires qui serait nécessaire, à la date de liquidation de la pension, pour atteindre
 le nombre de trimestres permettant d'obtenir le pourcentage maximum de la pension mentionné à l'article L. 13 dans la limite
-de vingt trimestres. 
+de vingt trimestres.
 
 Le nombre de trimestres correspondant est arrondi à l'entier supérieur dans des conditions définies par décret. Le plus petit
-des deux nombres de trimestres résultant des dispositions du 1° et du 2° du présent II est pris en considération. 
+des deux nombres de trimestres résultant des dispositions du 1° et du 2° du présent II est pris en considération.
 
-Le coefficient de minoration n'est pas applicable aux militaires radiés des cadres par suite d'infirmité. 
+Le coefficient de minoration n'est pas applicable aux militaires radiés des cadres par suite d'infirmité.
 
 III. – Lorsque la durée d'assurance, définie au premier alinéa du I, est supérieure au nombre de trimestres nécessaires pour
 obtenir le pourcentage maximum mentionné à l'article L. 13 et que le fonctionnaire civil a atteint l'âge mentionné à
 l'article L. 161-17-2 du code de la sécurité sociale, un coefficient de majoration s'applique au montant de la pension
-liquidée en application des articles L. 13 et L. 15. 
+liquidée en application des articles L. 13 et L. 15.
 
 Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de
 trimestres d'assurance effectués après le 1er janvier 2004, au-delà de l'âge mentionné à l'article L. 161-17-2 du code de la
 sécurité sociale et en sus du nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné à l'article L.
-13. 
+13.
 
 Toutefois, les bonifications de durée de services et majorations de durée d'assurance, à l'exclusion de celles accordées au
 titre des enfants et du handicap, prévues par les dispositions législatives et réglementaires, quel que soit le régime de
 retraite de base au titre duquel elles ont été acquises, ne sont pas prises en compte pour le calcul de la durée d'assurance
 mentionnée au premier alinéa du présent III. Un décret fixe la liste des bonifications et majorations de durée auxquelles
-s'applique le présent alinéa. 
+s'applique le présent alinéa.
 
-Sont pris en compte pour ce calcul les trimestres entiers cotisés. 
+Sont pris en compte pour ce calcul les trimestres entiers cotisés.
 
 Le coefficient de majoration est de 1,25 % par trimestre supplémentaire.
 
@@ -1269,7 +1271,7 @@ _Cité par_:
   - Loi n°2013-1168 du 18 décembre 2013 - art. 36 (V)
   - Code de l'éducation - art. R914-125 (V)
   - Code de la défense. - art. L4139-16 (VD)
-  - Code de la défense. - art. L4141-5 (V)
+  - Code de la défense. - art. L4141-5 (VD)
   - Code de la sécurité sociale. - art. L161-19-1 (V)
   - Code des pensions civiles et militaires de retr... - art. D13 (V)
   - Code des pensions civiles et militaires de retr... - art. D14 (V)
@@ -1282,15 +1284,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-40 du 20 janvier 2014 - art. 37 (V)
+  - Loi n°2018-607 du 13 juillet 2018 - art. 24
 
 _Cite_:
 
-  - Code des pensions civiles et militaires de retr... - art. L24 (V)
   - Code des pensions civiles et militaires de retraite - art. L13
   - Code des pensions civiles et militaires de retraite - art. L15
-  - Code de la sécurité sociale. - art. L161-17-2 (V)
-  - Code de la sécurité sociale. - art. L245-3 (V)
+  - Code des pensions civiles et militaires de retraite - art. L24
+  - Code de la sécurité sociale. - art. L161-17-2
+  - Code de la sécurité sociale. - art. L245-3
 
 
 ##### Paragraphe II : Emoluments de base.<a id=16></a>
