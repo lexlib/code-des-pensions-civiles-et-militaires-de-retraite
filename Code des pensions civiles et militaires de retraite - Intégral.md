@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2018-09-01
+Version Consolidée au 2018-11-01
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -54,7 +54,7 @@ Version Consolidée au 2018-09-01
         - [Paragraphe II : Dispositions diverses. (art. L92 à L93)](#51)
       - [Chapitre II : Avances mensuelles sur pensions concédées en paiement. (art. L94 à L96)](#52)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*3 à R*104)](#53)
-    - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. R*3 à R*68)](#54)
+    - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. R*3 à R73-1)](#54)
       - [Titre Ier : Généralités. (art. R*3 à R1)](#55)
       - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. R4-1 à R9)](#56)
         - [Chapitre Ier : Fonctionnaires civils. (art. R4-1 à R7)](#57)
@@ -84,53 +84,56 @@ Version Consolidée au 2018-09-01
       - [Titre VIII : Dispositions d'ordre et diverses. (art. R65 à R*68)](#81)
         - [Paragraphe Ier : Concession et révision de la pension. (art. R65)](#82)
         - [Paragraphe II : Dispositions diverses. (art. R*66 à R*68)](#83)
-    - [Livre II : Dispositions particulières du régime général des retraites. (art. R*74 à R95-3)](#84)
-      - [Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires. (art. R*74 à R*81)](#85)
-        - [Chapitre Ier : Agents en service détaché. (art. R*74 à R76 ter)](#86)
-        - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités. (art. R*77)](#87)
-        - [Chapitre IV : Gendarmes et sapeurs-pompiers de Paris. (art. R79)](#88)
-        - [Chapitre VI : Agents des offices ou établissements de l'Etat dotés de l'autonomie financière. (art. R*81)](#89)
-      - [Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions. (art. R*90 à R95-3)](#90)
-        - [Chapitre Ier : Dispositions générales. (art. R*90 à R91)](#91)
-        - [Chapitre II : Cumul de pensions et de rémunérations d'activité. (art. R*93 à R95)](#92)
-        - [Chapitre III : Cumul de plusieurs pensions. (art. R95-1 à R95-3)](#93)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. R96 à R*104)](#94)
-      - [Chapitre Ier : Paiement des pensions. (art. R96 à R100)](#95)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. R96 à R98)](#96)
-        - [Paragraphe II : Contexture des titres de paiement. (art. R99)](#97)
-        - [Paragraphe III : Modalités de paiement des pensions. (art. R100)](#98)
-      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. R*101 à R*104)](#99)
-  - [Partie réglementaire - Décrets simples (art. D1 à D58)](#100)
-    - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. D1 à D32)](#101)
-      - [Titre Ier : Généralités. (art. D1)](#102)
-      - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. D2 à D4)](#103)
-        - [Chapitre Ier : Fonctionnaires civils. (art. D2 à D4)](#104)
-          - [Paragraphe II : Eléments constitutifs. (art. D2 à D4)](#105)
-      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. D8 à D16)](#106)
-        - [Chapitre Ier : Services et bonifications valables. (art. D8 à D13)](#107)
-        - [Chapitre II : Détermination du montant de la pension. (art. D14 à D16)](#108)
-          - [Paragraphe Ier : Décompte et valeur des annuités liquidables. (art. D14)](#109)
-          - [Paragraphe II : Emoluments de base. (art. D15)](#110)
-          - [Paragraphe IV : Avantages de pension à caractère familial. (art. D16)](#111)
-      - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. D16-1 à D16-3)](#112)
-      - [Titre V : Invalidité. (art. D17 à D19)](#113)
-        - [Chapitre Ier : Fonctionnaires civils. (art. D17 à D18)](#114)
-          - [Paragraphe III : Dispositions communes. (art. D17 à D18)](#115)
-        - [Chapitre II : Militaires. (art. D19)](#116)
-      - [Titre VI : Pensions des ayants cause. (art. D19-1 à D19-6)](#117)
-      - [Titre VIII : Dispositions d'ordre et diverses. (art. D20 à D27)](#118)
-        - [Paragraphe Ier : Concession et révision de la pension. (art. D20 à D26)](#119)
-        - [Paragraphe II : Dispositions spécifiques à la concession les prestations d'invalidité (art. D27)](#120)
-      - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D32)](#121)
-    - [Livre III : Dispositions relatives au paiement des pensions. (art. D38 à D58)](#122)
-      - [Chapitre Ier : Paiement des pensions. (art. D38 à D57)](#123)
-        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D38 à D39)](#124)
-        - [Paragraphe II : Contexture des titres de paiement. (art. D40)](#125)
-        - [Paragraphe III : Modalités de paiement des pensions. (art. D43 à D47)](#126)
-        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D54)](#127)
-        - [Paragraphe VI : Abandon de jouissance. (art. D57)](#128)
-      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. D58)](#129)
-  - [Annexe (art. Emplois classés)](#130)
+      - [Titre IX : Cotisations et contributions pour pension (art. R69 à R73-1)](#84)
+        - [Chapitre Ier : Liquidation, recouvrement et déclaration (art. R69 à R72)](#85)
+        - [Chapitre II : Agents en détachement (art. R73 à R73-1)](#86)
+    - [Livre II : Dispositions particulières du régime général des retraites. (art. R*74 à R95-3)](#87)
+      - [Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires. (art. R*74 à R*81)](#88)
+        - [Chapitre Ier : Agents en service détaché. (art. R*74 à R76 ter)](#89)
+        - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités. (art. R*77)](#90)
+        - [Chapitre IV : Gendarmes et sapeurs-pompiers de Paris. (art. R79)](#91)
+        - [Chapitre VI : Agents des offices ou établissements de l'Etat dotés de l'autonomie financière. (art. R*81)](#92)
+      - [Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions. (art. R*90 à R95-3)](#93)
+        - [Chapitre Ier : Dispositions générales. (art. R*90 à R91)](#94)
+        - [Chapitre II : Cumul de pensions et de rémunérations d'activité. (art. R*93 à R95)](#95)
+        - [Chapitre III : Cumul de plusieurs pensions. (art. R95-1 à R95-3)](#96)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. R96 à R*104)](#97)
+      - [Chapitre Ier : Paiement des pensions. (art. R96 à R100)](#98)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. R96 à R98)](#99)
+        - [Paragraphe II : Contexture des titres de paiement. (art. R99)](#100)
+        - [Paragraphe III : Modalités de paiement des pensions. (art. R100)](#101)
+      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. R*101 à R*104)](#102)
+  - [Partie réglementaire - Décrets simples (art. D1 à D58)](#103)
+    - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. D1 à D32)](#104)
+      - [Titre Ier : Généralités. (art. D1)](#105)
+      - [Titre II : Constitution du droit à la pension ou à la solde de réforme. (art. D2 à D4)](#106)
+        - [Chapitre Ier : Fonctionnaires civils. (art. D2 à D4)](#107)
+          - [Paragraphe II : Eléments constitutifs. (art. D2 à D4)](#108)
+      - [Titre III : Liquidation de la pension ou de la solde de réforme. (art. D8 à D16)](#109)
+        - [Chapitre Ier : Services et bonifications valables. (art. D8 à D13)](#110)
+        - [Chapitre II : Détermination du montant de la pension. (art. D14 à D16)](#111)
+          - [Paragraphe Ier : Décompte et valeur des annuités liquidables. (art. D14)](#112)
+          - [Paragraphe II : Emoluments de base. (art. D15)](#113)
+          - [Paragraphe IV : Avantages de pension à caractère familial. (art. D16)](#114)
+      - [Titre IV : Jouissance de la pension ou de la solde de réforme. (art. D16-1 à D16-3)](#115)
+      - [Titre V : Invalidité. (art. D17 à D19)](#116)
+        - [Chapitre Ier : Fonctionnaires civils. (art. D17 à D18)](#117)
+          - [Paragraphe III : Dispositions communes. (art. D17 à D18)](#118)
+        - [Chapitre II : Militaires. (art. D19)](#119)
+      - [Titre VI : Pensions des ayants cause. (art. D19-1 à D19-6)](#120)
+      - [Titre VIII : Dispositions d'ordre et diverses. (art. D20 à D27)](#121)
+        - [Paragraphe Ier : Concession et révision de la pension. (art. D20 à D26)](#122)
+        - [Paragraphe II : Dispositions spécifiques à la concession les prestations d'invalidité (art. D27)](#123)
+      - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale. (art. D30 à D32)](#124)
+    - [Livre III : Dispositions relatives au paiement des pensions. (art. D38 à D58)](#125)
+      - [Chapitre Ier : Paiement des pensions. (art. D38 à D57)](#126)
+        - [Paragraphe Ier : Règles générales du paiement des pensions. (art. D38 à D39)](#127)
+        - [Paragraphe II : Contexture des titres de paiement. (art. D40)](#128)
+        - [Paragraphe III : Modalités de paiement des pensions. (art. D43 à D47)](#129)
+        - [Paragraphe V : Précompte de la cotisation de sécurité sociale. (art. D53 à D54)](#130)
+        - [Paragraphe VI : Abandon de jouissance. (art. D57)](#131)
+      - [Chapitre II : Avances provisoires sur pensions en instance de liquidation. (art. D58)](#132)
+  - [Annexe (art. Emplois classés)](#133)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=2></a>
@@ -8276,11 +8279,169 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L57 (V)
 
 
-## Livre II : Dispositions particulières du régime général des retraites.<a id=84></a>
+### Titre IX : Cotisations et contributions pour pension<a id=84></a>
 
-### Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires.<a id=85></a>
+#### Chapitre Ier : Liquidation, recouvrement et déclaration<a id=85></a>
 
-#### Chapitre Ier : Agents en service détaché.<a id=86></a>
+###### Article R69
+
+Les cotisations et contributions pour pension sont liquidées dans les conditions prévues au  premier alinéa du II de
+l'article R. 242-1 du code de la sécurité sociale et précomptées mensuellement :
+
+1° Par les comptables publics en charge du paiement sans ordonnancement préalable des dépenses de personnel prévu à l'
+article 128 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique ;
+
+2° Par l'employeur des agents publics mentionnés à l'article L. 2 s'il ne relève pas des dispositions de l'alinéa précédent.
+
+Elles sont versées mensuellement au comptable public désigné par arrêté du ministre chargé du budget, au plus tard aux
+échéances prévues au  II de l'article R. 243-6 du code de la sécurité sociale .
+
+Ce versement est accompagné d'un justificatif de paiement établi selon le modèle mis à disposition par le service des
+retraites de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°60-1089 du 6 octobre 1960 - art. 9 bis (V)
+  - Décret n°97-139 du 13 février 1997 - art. 4 (V)
+
+_Codifié par_:
+
+  - Décret n°66-809 du 28 octobre 1966
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 128
+  - Code de la sécurité sociale. - art. R242-1
+  - Code de la sécurité sociale. - art. R243-6
+
+_Modifié par_:
+
+  - Décret n°2018-935 du 30 octobre 2018 - art. 1
+
+
+###### Article R71
+
+En l'absence de paiement intégral des cotisations et contributions pour pension dans les conditions prévues à l'article R.
+69, l'employeur est passible des majorations prévues à l' article R. 243-18 du code de la sécurité sociale .
+
+En cas de défaut de production, dans le délai prescrit, de la déclaration mentionnée à l'article R. 70 ou d'inexactitude des
+données qui y sont portées, l'employeur est passible des pénalités prévues au  III de l'article R. 133-14 du code de la
+sécurité sociale .
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2018-935 du 30 octobre 2018, ces dispositions entrent en vigueur à compter du 1er
+novembre 2018, le dernier alinéa de l'article R. 71 entrera en vigueur à compter de la date fixée, pour le régime des
+retraites de l'Etat, par le décret prévu au 1° du III de l'article 13 de l'ordonnance du 18 juin 2015 susvisée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°66-809 du 28 octobre 1966
+
+_Modifié par_:
+
+  - Décret n°2018-935 du 30 octobre 2018 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. R133-14
+  - Code de la sécurité sociale. - art. R243-18
+
+
+###### Article R72
+
+Les majorations et pénalités prévues à l'article R. 71, ainsi que les remises éventuelles, sont mises en œuvre dans les
+conditions prévues aux articles  R. 243-18 ,  R. 243-19-1 et  R. 243-20 du code de la sécurité sociale. Elles donnent lieu à
+l'émission d'un titre de perception par le directeur du service des retraites de l'Etat. Le recouvrement en est assuré par le
+comptable de la direction générale des finances publiques comme en matière de créances de l'Etat étrangères à l'impôt et au
+domaine en application des articles 112 à 124 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°60-1089 du 6 octobre 1960 - art. 9 bis (V)
+
+_Codifié par_:
+
+  - Décret n°66-809 du 28 octobre 1966
+
+_Modifié par_:
+
+  - Décret n°2018-935 du 30 octobre 2018 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. R243-18
+  - Code de la sécurité sociale. - art. R243-19-1
+  - Code de la sécurité sociale. - art. R243-20
+
+
+#### Chapitre II : Agents en détachement<a id=86></a>
+
+###### Article R73
+
+Pour les agents en position de détachement, l'assiette des cotisations et contributions pour pension est constituée par le
+traitement afférent à l'emploi de détachement lorsque celui-ci conduit à pension de l'Etat ou de la Caisse nationale de
+retraites des agents des collectivités locales.
+
+Lorsque cet emploi ne conduit pas à pension de l'Etat ou de la Caisse nationale de retraites des agents des collectivités
+locales, l'assiette est constituée par le traitement afférent à l'emploi d'origine, conformément aux  dispositions de
+l'article 32 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires
+de l'Etat, à la mise à disposition, à l'intégration et à la cessation définitive de fonctions ou de l' article R. 4138-43 du
+code de la défense . Dans ce cas, l'employeur d'origine communique à l'employeur d'accueil, dès l'entrée en fonctions de
+l'agent dans son emploi de détachement, les grade, échelon, indice détenus par l'intéressé et le traitement correspondant. Il
+lui notifie tout changement ultérieur de ces données.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°60-1089 du 6 octobre 1960 - art. 9 bis (V)
+
+_Codifié par_:
+
+  - Décret n°66-809 du 28 octobre 1966
+
+_Cite_:
+
+  - Décret n°85-986 du 16 septembre 1985 - art. 32
+  - Code de la défense. - art. R4138-43
+
+_Modifié par_:
+
+  - Décret n°2018-935 du 30 octobre 2018 - art. 1
+
+
+###### Article R73-1
+
+Les contributions employeur mentionnées à l'article L. 61 du présent code, au  deuxième alinéa de l'article 46 de la loi n°
+84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et au  dernier alinéa de
+l'article L. 4138-8 du code de la défense ne sont pas exigées en ce qui concerne les agents détachés pour exercer une
+fonction publique élective ou un mandat syndical.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°84-16 du 11 janvier 1984 - art. 46
+  - Code de la défense. - art. L4138-8
+
+_Créé par_:
+
+  - Décret n°2018-935 du 30 octobre 2018 - art. 1
+
+
+## Livre II : Dispositions particulières du régime général des retraites.<a id=87></a>
+
+### Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires.<a id=88></a>
+
+#### Chapitre Ier : Agents en service détaché.<a id=89></a>
 
 ###### Article R*74
 
@@ -8409,9 +8570,10 @@ renouvellement de celui-ci leur a été notifiée.
 
 La demande est présentée par écrit à l'administration dont le fonctionnaire est détaché. 
 
-Le fonctionnaire qui a souscrit à l'option prévue au premier alinéa est redevable de la cotisation mentionnée au 2° de
-l'article L. 61 auprès du comptable unique désigné par arrêté du ministre chargé du budget, selon des modalités fixées par
-arrêté. Le non-respect de cette obligation de versement suspend l'affiliation du fonctionnaire au présent régime. 
+Le fonctionnaire qui a, en application du premier alinéa, demandé à cotiser au régime des pensions civiles et militaires, est
+redevable de la cotisation mentionnée au 2° de l'article L. 61. Cette cotisation est liquidée par l'employeur d'origine et
+versée par le fonctionnaire auprès du comptable unique désigné par arrêté du ministre chargé du budget, selon des modalités
+fixées par arrêté. Le non-respect de cette obligation de versement suspend l'affiliation du fonctionnaire au présent régime. 
 
 Le fonctionnaire qui, dans le délai prescrit, n'a pas exercé son droit d'option, est réputé avoir renoncé à la possibilité de
 cotiser au régime du code des pensions civiles et militaires de retraite. 
@@ -8424,7 +8586,7 @@ contraire.
 
 _Cite_:
 
-  - Loi n°84-16 du 11 janvier 1984 - art. 46 ter (V)
+  - Loi n°84-16 du 11 janvier 1984 - art. 46 ter
   - Code des pensions civiles et militaires de retraite - art. L61
 
 _Cité par_:
@@ -8435,7 +8597,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-1796 du 19 décembre 2007 - art. 7
+  - Décret n°2018-935 du 30 octobre 2018 - art. 2
 
 
 ###### Article R74-1-1
@@ -8514,19 +8676,17 @@ _Cite_:
 
 ###### Article R76 ter
 
-Lorsque le fonctionnaire ou le militaire est détaché dans un emploi conduisant à pension du présent code ou du régime de
-retraite des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales, la retenue pour
-pension prévue à l'article L. 61 fait l'objet d'un précompte mensuel par l'administration ou la collectivité qui l'emploie. 
-
-Si l'intéressé bénéficie dans son corps d'origine de la prise en compte dans le calcul de sa pension d'éléments de
-rémunération non mentionnés à l'article L. 15 ou d'une bonification du cinquième des services effectués, à l'exception de
-celle prévue au i de l'article L. 12, il s'acquitte pendant son détachement des retenues majorées correspondantes.
+Si le fonctionnaire ou le militaire détaché dans un emploi conduisant à pension du présent code ou du régime de retraite des
+fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales bénéficie dans son corps
+d'origine de la prise en compte dans le calcul de sa pension d'éléments de rémunération non mentionnés à l'article L. 15 ou
+d'une bonification du cinquième des services effectués, à l'exception de celle prévue au i de l'article L. 12, il s'acquitte
+pendant son détachement des retenues majorées correspondantes.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-594 du 23 juin 2008 - art. 1
+  - Décret n°2018-935 du 30 octobre 2018 - art. 3
 
 _Cite_:
 
@@ -8535,7 +8695,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite - art. L61
 
 
-#### Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.<a id=87></a>
+#### Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.<a id=90></a>
 
 ###### Article R*77
 
@@ -8558,7 +8718,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L77 (V)
 
 
-#### Chapitre IV : Gendarmes et sapeurs-pompiers de Paris.<a id=88></a>
+#### Chapitre IV : Gendarmes et sapeurs-pompiers de Paris.<a id=91></a>
 
 ###### Article R79
 
@@ -8592,7 +8752,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L15 (V)
 
 
-#### Chapitre VI : Agents des offices ou établissements de l'Etat dotés de l'autonomie financière.<a id=89></a>
+#### Chapitre VI : Agents des offices ou établissements de l'Etat dotés de l'autonomie financière.<a id=92></a>
 
 ###### Article R*81
 
@@ -8626,9 +8786,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L61 (V)
 
 
-### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.<a id=90></a>
+### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.<a id=93></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=91></a>
+#### Chapitre Ier : Dispositions générales.<a id=94></a>
 
 ###### Article R*90
 
@@ -8667,7 +8827,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L86-1 (V)
 
 
-#### Chapitre II : Cumul de pensions et de rémunérations d'activité.<a id=92></a>
+#### Chapitre II : Cumul de pensions et de rémunérations d'activité.<a id=95></a>
 
 ###### Article R*93
 
@@ -8748,7 +8908,7 @@ _Modifié par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 39 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Chapitre III : Cumul de plusieurs pensions.<a id=93></a>
+#### Chapitre III : Cumul de plusieurs pensions.<a id=96></a>
 
 ###### Article R95-1
 
@@ -8841,11 +9001,11 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite - art. R95-1
 
 
-## Livre III : Dispositions relatives au paiement des pensions.<a id=94></a>
+## Livre III : Dispositions relatives au paiement des pensions.<a id=97></a>
 
-### Chapitre Ier : Paiement des pensions.<a id=95></a>
+### Chapitre Ier : Paiement des pensions.<a id=98></a>
 
-#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=96></a>
+#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=99></a>
 
 ###### Article R96
 
@@ -8905,7 +9065,7 @@ _Modifié par_:
   - Décret n°2003-1305 du 26 décembre 2003 - art. 42 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
-#### Paragraphe II : Contexture des titres de paiement.<a id=97></a>
+#### Paragraphe II : Contexture des titres de paiement.<a id=100></a>
 
 ###### Article R99
 
@@ -8932,7 +9092,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. R65 (V)
 
 
-#### Paragraphe III : Modalités de paiement des pensions.<a id=98></a>
+#### Paragraphe III : Modalités de paiement des pensions.<a id=101></a>
 
 ###### Article R100
 
@@ -8957,7 +9117,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R24 (VT)
 
 
-### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=99></a>
+### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=102></a>
 
 ###### Article R*101
 
@@ -9066,11 +9226,11 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite R101, R102
 
 
-# Partie réglementaire - Décrets simples<a id=100></a>
+# Partie réglementaire - Décrets simples<a id=103></a>
 
-## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=101></a>
+## Livre Ier : Dispositions générales relatives au régime général des retraites.<a id=104></a>
 
-### Titre Ier : Généralités.<a id=102></a>
+### Titre Ier : Généralités.<a id=105></a>
 
 ###### Article D1
 
@@ -9257,11 +9417,11 @@ _Codifié par_:
   - Décret n°66-810 du 28 octobre 1966
 
 
-### Titre II : Constitution du droit à la pension ou à la solde de réforme.<a id=103></a>
+### Titre II : Constitution du droit à la pension ou à la solde de réforme.<a id=106></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=104></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=107></a>
 
-##### Paragraphe II : Eléments constitutifs.<a id=105></a>
+##### Paragraphe II : Eléments constitutifs.<a id=108></a>
 
 ###### Article D2
 
@@ -9372,9 +9532,9 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=106></a>
+### Titre III : Liquidation de la pension ou de la solde de réforme.<a id=109></a>
 
-#### Chapitre Ier : Services et bonifications valables.<a id=107></a>
+#### Chapitre Ier : Services et bonifications valables.<a id=110></a>
 
 ###### Article D8
 
@@ -9531,9 +9691,9 @@ _Codifié par_:
   - Décret n°66-810 du 28 octobre 1966
 
 
-#### Chapitre II : Détermination du montant de la pension.<a id=108></a>
+#### Chapitre II : Détermination du montant de la pension.<a id=111></a>
 
-##### Paragraphe Ier : Décompte et valeur des annuités liquidables.<a id=109></a>
+##### Paragraphe Ier : Décompte et valeur des annuités liquidables.<a id=112></a>
 
 ###### Article D14
 
@@ -9555,7 +9715,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. D821-1
 
 
-##### Paragraphe II : Emoluments de base.<a id=110></a>
+##### Paragraphe II : Emoluments de base.<a id=113></a>
 
 ###### Article D15
 
@@ -9602,7 +9762,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-##### Paragraphe IV : Avantages de pension à caractère familial.<a id=111></a>
+##### Paragraphe IV : Avantages de pension à caractère familial.<a id=114></a>
 
 ###### Article D16
 
@@ -9633,7 +9793,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre IV : Jouissance de la pension ou de la solde de réforme.<a id=112></a>
+### Titre IV : Jouissance de la pension ou de la solde de réforme.<a id=115></a>
 
 ###### Article D16-1
 
@@ -9869,11 +10029,11 @@ _Cite_:
   - Code des pensions civiles et militaires de retraite - art. D16-1
 
 
-### Titre V : Invalidité.<a id=113></a>
+### Titre V : Invalidité.<a id=116></a>
 
-#### Chapitre Ier : Fonctionnaires civils.<a id=114></a>
+#### Chapitre Ier : Fonctionnaires civils.<a id=117></a>
 
-##### Paragraphe III : Dispositions communes.<a id=115></a>
+##### Paragraphe III : Dispositions communes.<a id=118></a>
 
 ###### Article D17
 
@@ -9920,7 +10080,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Chapitre II : Militaires.<a id=116></a>
+#### Chapitre II : Militaires.<a id=119></a>
 
 ###### Article D19
 
@@ -9957,7 +10117,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre VI : Pensions des ayants cause.<a id=117></a>
+### Titre VI : Pensions des ayants cause.<a id=120></a>
 
 ###### Article D19-1
 
@@ -10123,9 +10283,9 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-### Titre VIII : Dispositions d'ordre et diverses.<a id=118></a>
+### Titre VIII : Dispositions d'ordre et diverses.<a id=121></a>
 
-#### Paragraphe Ier : Concession et révision de la pension.<a id=119></a>
+#### Paragraphe Ier : Concession et révision de la pension.<a id=122></a>
 
 ###### Article D20
 
@@ -10604,28 +10764,21 @@ l'Etat au plus tard le 31 janvier de chaque année sous la forme d'une déclarat
 ou établissements de l'Etat ou tous autres organismes employeurs des fonctionnaires de l'Etat, magistrats et militaires qui
 les détiennent. Cette déclaration dématérialisée est effectuée selon le format d'échange commun fixé par arrêté conjoint des
 ministres chargés du budget et de la fonction publique après avis du comité de coordination stratégique en matière de
-retraites de l'Etat. 
+retraites de l'Etat. Le défaut de production, dans le délai prescrit, de cette déclaration ou l'inexactitude des données qui
+y sont portées, peut donner lieu à l'application de pénalités, dans les mêmes conditions que celles prévues au  III de
+l'article R. 133-14 du code de la sécurité sociale . Ces pénalités sont recouvrées au moyen d'un titre de perception émis par
+le directeur du service des retraites de l'Etat. Le recouvrement en est assuré par le comptable de la direction générale des
+finances publiques comme en matière de créances de l'Etat étrangères à l'impôt et au domaine.
 
 Au plus tard deux mois avant la radiation des cadres du fonctionnaire, magistrat ou militaire ou après son décès en activité,
 les administrations, offices ou établissements de l'Etat ou tous autres organismes employeurs des fonctionnaires de l'Etat,
 magistrats et militaires mentionnés au premier alinéa communiquent au service des retraites de l'Etat les données relatives à
 la dernière situation d'activité de l'intéressé nécessaires à la liquidation de sa pension et les informations énumérées à
-l'article D. 21-1. 
+l'article D. 21-1.
 
 Pour assurer sa mission de contrôle, le service des retraites de l'Etat peut demander, y compris après la concession de la
 pension, communication de tout ou partie des pièces justificatives des informations portées au compte individuel de retraite.
 Au vu de ces pièces, toute erreur affectant ces informations peut être rectifiée par le service des retraites de l'Etat.
-
-**Nota:**
-
-Décret n° 2011-616 du 30 mai 2011, article 6 et décret n° 2013-39 du 10 janvier 2013, article 2 : Les présentes dispositions
-prennent effet à l'égard des employeurs de fonctionnaires, magistrats et militaires chacun pour ce qui le concerne, à une
-date et selon les modalités fixées par arrêté conjoint des ministres chargés du budget et de la fonction publique et du
-ministre concerné et au plus tard le 31 décembre 2014.
-
-Jusqu'à cette date, la pension ou la rente viagère d'invalidité des agents des employeurs en cause est liquidée et concédée
-dans les conditions prévues aux articles D. 21-1 et D. 21-2 dans leur rédaction antérieure à l'entrée en vigueur du présent
-décret.
 
 **Liens relatifs à cet article**
 
@@ -10664,15 +10817,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-616 du 30 mai 2011 - art. 3
-
-_Cite_:
-
-  - Code des pensions civiles et militaires de retraite - art. D21-1
+  - Décret n°2018-936 du 30 octobre 2018 - art. 1
 
 _Codifié par_:
 
   - Décret n°66-810 du 28 octobre 1966
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. R133-14
 
 
 ###### Article D22
@@ -10851,7 +11004,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe II : Dispositions spécifiques à la concession les prestations d'invalidité<a id=120></a>
+#### Paragraphe II : Dispositions spécifiques à la concession les prestations d'invalidité<a id=123></a>
 
 ###### Article D27
 
@@ -10895,7 +11048,7 @@ _Cite_:
   - Code des pensions civiles et militaires de retr... - art. L31 (V)
 
 
-### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=121></a>
+### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.<a id=124></a>
 
 ###### Article D30
 
@@ -10939,11 +11092,11 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-## Livre III : Dispositions relatives au paiement des pensions.<a id=122></a>
+## Livre III : Dispositions relatives au paiement des pensions.<a id=125></a>
 
-### Chapitre Ier : Paiement des pensions.<a id=123></a>
+### Chapitre Ier : Paiement des pensions.<a id=126></a>
 
-#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=124></a>
+#### Paragraphe Ier : Règles générales du paiement des pensions.<a id=127></a>
 
 ###### Article D38
 
@@ -10982,7 +11135,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe II : Contexture des titres de paiement.<a id=125></a>
+#### Paragraphe II : Contexture des titres de paiement.<a id=128></a>
 
 ###### Article D40
 
@@ -11004,7 +11157,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe III : Modalités de paiement des pensions.<a id=126></a>
+#### Paragraphe III : Modalités de paiement des pensions.<a id=129></a>
 
 ###### Article D43
 
@@ -11084,7 +11237,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe V : Précompte de la cotisation de sécurité sociale.<a id=127></a>
+#### Paragraphe V : Précompte de la cotisation de sécurité sociale.<a id=130></a>
 
 ###### Article D53
 
@@ -11132,7 +11285,7 @@ _Codifié par_:
   - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe VI : Abandon de jouissance.<a id=128></a>
+#### Paragraphe VI : Abandon de jouissance.<a id=131></a>
 
 ###### Article D57
 
@@ -11153,7 +11306,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et de... - art. D472 (V)
 
 
-### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=129></a>
+### Chapitre II : Avances provisoires sur pensions en instance de liquidation.<a id=132></a>
 
 ###### Article D58
 
@@ -11180,7 +11333,7 @@ _Codifié par_:
   - Décret n°66-810 du 28 octobre 1966
 
 
-# Annexe<a id=130></a>
+# Annexe<a id=133></a>
 
 ###### Article Emplois classés
 
