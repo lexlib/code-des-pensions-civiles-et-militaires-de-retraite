@@ -619,28 +619,28 @@ Observations
 Agent d'exploitation des T. P. E.
 
 </td>
-      <td rowspan="4">
+      <td rowspan="5">
 
 Décret n° 91-393 du 25.04.1991
 
 (J. O. du 26.04.1991)
 
 </td>
-      <td rowspan="4">
+      <td rowspan="5">
 
 Décret n° 91-393 du 25.04.1991 Art. 35
 
 (J. O. du 26.04.1991)
 
 </td>
-      <td rowspan="4">
+      <td rowspan="5">
 
 Catégorie B
 
 60 ans
 
 </td>
-      <td rowspan="4">
+      <td rowspan="5">
     </td></tr>
     <tr>
       <td>
@@ -653,6 +653,10 @@ Catégorie B
 Agent d'exploitation spécialisé des T. P. E.
 
 </td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>Agent d'exploitation principal des TPE</td>
     </tr>
     <tr>
       <td>
@@ -4114,8 +4118,8 @@ Cat. B
 
 _Modifié par_:
 
-  - Décret n°2016-581 du 11 mai 2016 - art. 11 (V)
+  - Décret n°2018-1148 du 14 décembre 2018 - art. 10
 
 _Cite_:
 
-  - Code des pensions civiles et militaires de retr... - art. L24 (V)
+  - Code des pensions civiles et militaires de retraite - art. L24
