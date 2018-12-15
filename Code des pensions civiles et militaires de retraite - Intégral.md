@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2018-11-01
+Version Consolidée au 2018-12-16
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -11307,7 +11307,7 @@ Chef de district forestier principal de 1re classe de l'O. N. F.
 
 DEFENSE-INSTITUTION NATIONALE DES INVALIDES
 
-<table border="1" cellpadding="0" cellspacing="0">
+<table border="1" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -11543,7 +11543,7 @@ Aide-soignant civil de classe exceptionnelle
 
 EDUCATION NATIONALE
 
-<table cellspacing="0" cellpadding="0" border="1">
+<table border="1" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -11622,7 +11622,7 @@ Catégorie B
 
 EQUIPEMENT
 
-<table border="1" cellspacing="0" cellpadding="0">
+<table cellpadding="0" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -11673,28 +11673,28 @@ Observations
 Agent d'exploitation des T. P. E.
 
 </td>
-      <td rowspan="4">
+      <td rowspan="5">
 
 Décret n° 91-393 du 25.04.1991
 
 (J. O. du 26.04.1991)
 
 </td>
-      <td rowspan="4">
+      <td rowspan="5">
 
 Décret n° 91-393 du 25.04.1991 Art. 35
 
 (J. O. du 26.04.1991)
 
 </td>
-      <td rowspan="4">
+      <td rowspan="5">
 
 Catégorie B
 
 60 ans
 
 </td>
-      <td rowspan="4">
+      <td rowspan="5">
     </td></tr>
     <tr>
       <td>
@@ -11707,6 +11707,10 @@ Catégorie B
 Agent d'exploitation spécialisé des T. P. E.
 
 </td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>Agent d'exploitation principal des TPE</td>
     </tr>
     <tr>
       <td>
@@ -11958,7 +11962,7 @@ Ingénieur divisionnaire des travaux géographiques et cartographiques de l'Etat
 
 FINANCES
 
-<table cellspacing="0" cellpadding="0" border="1">
+<table border="1" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -12397,7 +12401,7 @@ fixées par l'arrêté du 13.03.2008 (J. O. du 26.03.2008).
 
 INTERIEUR
 
-<table border="1" cellpadding="0" cellspacing="0">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -12777,7 +12781,7 @@ Décret n° 96-245 du 25.03.1996
 
 JUSTICE
 
-<table cellpadding="0" cellspacing="0" border="1">
+<table cellpadding="0" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -13050,7 +13054,7 @@ Infirmier de classe supérieure des services médicaux des administrations de l'
 
 LA POSTE-FRANCE TELECOM
 
-<table cellspacing="0" border="1" cellpadding="0">
+<table cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -14832,7 +14836,7 @@ du 12.01.1976)
 
 TRANSPORTS-AVIATION CIVILE
 
-<table cellspacing="0" border="1" cellpadding="0">
+<table cellpadding="0" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -14940,7 +14944,7 @@ Ingénieur du contrôle de la navigation aérienne de classe normale
 
 TRANSPORTS-MER
 
-<table cellspacing="0" cellpadding="0" border="1">
+<table border="1" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -15168,10 +15172,10 @@ Cat. B
 
 _Modifié par_:
 
-  - Décret n°2016-581 du 11 mai 2016 - art. 11 (V)
+  - Décret n°2018-1148 du 14 décembre 2018 - art. 10
 
 _Cite_:
 
-  - Code des pensions civiles et militaires de retr... - art. L24 (V)
+  - Code des pensions civiles et militaires de retraite - art. L24
 
 
