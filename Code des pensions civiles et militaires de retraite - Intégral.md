@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2018-12-16
+Version Consolidée au 2019-08-08
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -3513,8 +3513,9 @@ de blessures ou de maladie contractées ou aggravées soit en service, soit en a
 intérêt public, soit en exposant ses jours pour sauver la vie d'une ou plusieurs personnes et qui n'a pu être reclassé dans
 un autre corps en application de l'article 63 de la loi n° 84-16 du 11 janvier 1984 précitée peut être radié des cadres par
 anticipation soit sur sa demande, soit d'office à l'expiration d'un délai de douze mois à compter de sa mise en congé si
-cette dernière a été prononcée en application des 2° et 3° de l'article 34 de la même loi ou à la fin du congé qui lui a été
-accordé en application du 4° du même article. 
+cette dernière a été prononcée en application de l'article 21 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et
+obligations des fonctionnaires ainsi que du deuxième alinéa des 2° et 3° de l'article 34 de la loi n° 84-16 du 11 janvier
+1984 précitée.
 
 L'intéressé a droit à la pension rémunérant les services prévue au 2° du I de l'article L. 24 du présent code. Par dérogation
 à l'article L. 16 du même code, cette pension est revalorisée dans les conditions fixées à l'article L. 341-6 du code de la
@@ -3533,7 +3534,7 @@ _Cité par_:
   - Décret n°77-962 du 11 août 1977 - art. 77 (Ab)
   - Décret n°78-252 du 8 mars 1978 - art. 4-8 (V)
   - Loi n°84-16 du 11 janvier 1984 - art. 34 (V)
-  - Loi n°84-53 du 26 janvier 1984 - art. 57 (M)
+  - Loi n°84-53 du 26 janvier 1984 - art. 57 (V)
   - Décret n°85-899 du 21 août 1985 - art. 3 (Ab)
   - Loi n°86-33 du 9 janvier 1986 - art. 41 (V)
   - Décret n°86-442 du 14 mars 1986 - art. 47-19 (V)
@@ -3585,7 +3586,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2014-40 du 20 janvier 2014 - art. 5 (V)
+  - Loi n°2019-828 du 6 août 2019 - art. 43
 
 _Codifié par_:
 
@@ -3681,19 +3682,19 @@ résultant pas du service et qui n'a pu être reclassé dans un autre corps en a
 11 janvier 1984 précitée peut être radié des cadres par anticipation soit sur sa demande, soit d'office ; dans ce dernier
 cas, la radiation des cadres est prononcée sans délai si l'inaptitude résulte d'une maladie ou d'une infirmité que son
 caractère définitif et stabilisé ne rend pas susceptible de traitement, ou à l'expiration d'un délai de douze mois à compter
-de sa mise en congé si celle-ci a été prononcée en application de l'article 36 (2°) de l'ordonnance du 4 février 1959
-relative au statut général des fonctionnaires ou à la fin du congé qui lui a été accordé en application de l'article 36 (3°)
-de ladite ordonnance. L'intéressé a droit à la pension rémunérant les services prévue au 2° du I de l'article L. 24 du
-présent code, sous réserve que ses blessures ou maladies aient été contractées ou aggravées au cours d'une période durant
-laquelle il acquérait des droits à pension. Par dérogation à l'article L. 16 du même code, cette pension est revalorisée dans
-les conditions fixées à l'article L. 341-6 du code de la sécurité sociale.
+de sa mise en congé si celle-ci a été prononcée en application du 2° de l'article 34 de la loi n° 84-16 du 11 janvier 1984
+précitée ou à la fin du congé qui lui a été accordé en application des 3° et 4° du même article 34. L'intéressé a droit à la
+pension rémunérant les services prévue au 2° du I de l'article L. 24 du présent code, sous réserve que ses blessures ou
+maladies aient été contractées ou aggravées au cours d'une période durant laquelle il acquérait des droits à pension. Par
+dérogation à l'article L. 16 du même code, cette pension est revalorisée dans les conditions fixées à l'article L. 341-6 du
+code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°84-16 du 11 janvier 1984 - art. 63
-  - Code des pensions civiles et militaires de retr... - art. L16 (V)
+  - Code des pensions civiles et militaires de retraite - art. L16
   - Code des pensions civiles et militaires de retraite - art. L24
   - Code de la sécurité sociale. - art. L341-6
 
@@ -3708,7 +3709,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-40 du 20 janvier 2014 - art. 5 (V)
+  - Loi n°2019-828 du 6 août 2019 - art. 43
 
 _Codifié par_:
 
