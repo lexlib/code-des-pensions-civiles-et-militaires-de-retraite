@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2019-08-08
+Version Consolidée au 2019-11-17
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -10845,12 +10845,12 @@ Les informations qui doivent être portées au compte individuel de retraite son
 l'Etat au plus tard le 31 janvier de chaque année sous la forme d'une déclaration annuelle par les administrations, offices
 ou établissements de l'Etat ou tous autres organismes employeurs des fonctionnaires de l'Etat, magistrats et militaires qui
 les détiennent. Cette déclaration dématérialisée est effectuée selon le format d'échange commun fixé par arrêté conjoint des
-ministres chargés du budget et de la fonction publique après avis du comité de coordination stratégique en matière de
-retraites de l'Etat. Le défaut de production, dans le délai prescrit, de cette déclaration ou l'inexactitude des données qui
-y sont portées, peut donner lieu à l'application de pénalités, dans les mêmes conditions que celles prévues au  III de
-l'article R. 133-14 du code de la sécurité sociale . Ces pénalités sont recouvrées au moyen d'un titre de perception émis par
-le directeur du service des retraites de l'Etat. Le recouvrement en est assuré par le comptable de la direction générale des
-finances publiques comme en matière de créances de l'Etat étrangères à l'impôt et au domaine.
+ministres chargés du budget et de la fonction publique. Le défaut de production, dans le délai prescrit, de cette déclaration
+ou l'inexactitude des données qui y sont portées, peut donner lieu à l'application de pénalités, dans les mêmes conditions
+que celles prévues au  III de l'article R. 133-14 du code de la sécurité sociale . Ces pénalités sont recouvrées au moyen
+d'un titre de perception émis par le directeur du service des retraites de l'Etat. Le recouvrement en est assuré par le
+comptable de la direction générale des finances publiques comme en matière de créances de l'Etat étrangères à l'impôt et au
+domaine.
 
 Au plus tard deux mois avant la radiation des cadres du fonctionnaire, magistrat ou militaire ou après son décès en activité,
 les administrations, offices ou établissements de l'Etat ou tous autres organismes employeurs des fonctionnaires de l'Etat,
@@ -10904,7 +10904,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-936 du 30 octobre 2018 - art. 1
+  - Décret n°2019-1179 du 15 novembre 2019 - art. 3
 
 _Codifié par_:
 
