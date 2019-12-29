@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2019-11-17
+Version Consolidée au 2019-12-30
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -4165,6 +4165,19 @@ _Cite_:
 _Codifié par_:
 
   - Loi n°64-1339 1964-12-29
+
+
+###### Article L38-1
+
+La pension mentionnée à l'article L. 38 n'est pas due dans le cas où le conjoint survivant est ou a été condamné pour avoir
+commis à l'encontre de l'époux assuré un crime ou un délit prévu soit à la section 1 du chapitre Ier du titre II du livre II
+du code pénal, soit aux paragraphes 1 et 2 des sections 1 et 3 du chapitre II du même titre II.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-1480 du 28 décembre 2019 - art. 9
 
 
 ###### Article L39
