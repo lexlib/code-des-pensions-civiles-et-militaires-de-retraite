@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2019-12-30
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -7485,29 +7485,38 @@ _Cite_:
 Dans les cas où les infirmités résultant de l'exercice des fonctions au sens de l'article L. 27 proviennent d'un événement
 survenu en dehors des locaux administratifs, cet événement doit être constaté par un procès-verbal en due forme dressé sur
 les lieux et au moment où il est survenu. A défaut de procès-verbal, cette constatation peut s'établir par un acte de
-notoriété dressé devant le juge d'instance, le maire ou, éventuellement, dans les territoires d'outre-mer et pays étrangers,
-par l'autorité administrative qualifiée, sur la déclaration des témoins de l'événement ou des personnes qui ont été à même
-d'en connaître et d'en apprécier les conséquences. Cet acte doit être corroboré par les attestations conformes des supérieurs
-hiérarchiques du fonctionnaire. 
+notoriété dressé devant le   juge du tribunal judiciaire, le maire ou, éventuellement, dans les territoires d'outre-mer et
+pays étrangers, par l'autorité administrative qualifiée, sur la déclaration des témoins de l'événement ou des personnes qui
+ont été à même d'en connaître et d'en apprécier les conséquences. Cet acte doit être corroboré par les attestations conformes
+des supérieurs hiérarchiques du fonctionnaire. 
 
 Dans tous les autres cas spécifiés au même article, ces infirmités et leurs causes sont constatées par les médecins qui ont
 donné leurs soins au fonctionnaire et par un médecin assermenté de l'administration. 
 
 Ces certificats doivent être appuyés de l'avis des supérieurs hiérarchiques du fonctionnaire.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°66-809 1966-10-28
+  - Décret n°66-809 du 28 octobre 1966
 
 _Cité par_:
 
   - Décret n°2019-914 du 30 août 2019 - art.
 
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+
 _Cite_:
 
-  - Code des pensions civiles et militaires de retr... - art. L27 (V)
+  - Code des pensions civiles et militaires de retraite - art. L27
 
 
 ###### Article R40
@@ -7721,8 +7730,8 @@ du 14 mars 1986.
 
 Cette commission de réforme est compétente à l'égard des membres du Conseil d'Etat, des magistrats de l'ordre judiciaire en
 fonctions à l'administration centrale du ministère de la justice et dans les juridictions siégeant à Paris, ainsi que des
-premiers présidents et procureurs généraux des cours d'appel et des présidents et procureurs de la République des tribunaux
-de grande instance de Nanterre, Bobigny et Créteil. 
+premiers présidents et procureurs généraux des cours d'appel et des présidents et procureurs de la République des   tribunaux
+judiciaires de Nanterre, Bobigny et Créteil. 
 
 Sa compétence peut, par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la fonction
 publique et du ministre chargé du budget, être étendue à l'égard de tout ou partie des magistrats de l'ordre judiciaire. 
@@ -7743,8 +7752,13 @@ Le secrétariat de la commission de réforme départementale est celui du comit�
 du 14 mars 1986. 
 
 Cette commission est compétente à l'égard des magistrats exerçant leurs fonctions dans le département considéré, sauf pour
-les premiers présidents et procureurs généraux et pour les présidents et procureurs des tribunaux de grande instance de
-Nanterre, Bobigny et Créteil, qui relèvent de la compétence de la commission visée au 1° ci-dessus.
+les premiers présidents et procureurs généraux et pour les présidents et procureurs des   tribunaux judiciaires de Nanterre,
+Bobigny et Créteil, qui relèvent de la compétence de la commission visée au 1° ci-dessus.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -7754,8 +7768,8 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°86-442 du 14 mars 1986 - art. 5 (V)
-  - Décret n°86-442 du 14 mars 1986 - art. 6 (V)
+  - Décret n°86-442 du 14 mars 1986 - art. 5
+  - Décret n°86-442 du 14 mars 1986 - art. 6
 
 _Cité par_:
 
@@ -7764,7 +7778,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-551 du 27 mai 2014 - art. 19
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R47
@@ -8351,17 +8365,16 @@ _Modifié par_:
 ###### Article R71
 
 En l'absence de paiement intégral des cotisations et contributions pour pension dans les conditions prévues à l'article R.
-69, l'employeur est passible des majorations prévues à l' article R. 243-18 du code de la sécurité sociale .
+69, l'employeur est passible des majorations prévues aux articles R. 243-16 et R. 243-17 du code de la sécurité sociale.
 
 En cas de défaut de production, dans le délai prescrit, de la déclaration mentionnée à l'article R. 70 ou d'inexactitude des
-données qui y sont portées, l'employeur est passible des pénalités prévues au  III de l'article R. 133-14 du code de la
-sécurité sociale .
+données qui y sont portées, l'employeur est passible des pénalités prévues aux articles R. 243-12 à R. 243-14 du code de la
+sécurité sociale.
 
 **Nota:**
 
-Conformément à l’article 7 du décret n° 2018-935 du 30 octobre 2018, ces dispositions entrent en vigueur à compter du 1er
-novembre 2018, le dernier alinéa de l'article R. 71 entrera en vigueur à compter de la date fixée, pour le régime des
-retraites de l'Etat, par le décret prévu au 1° du III de l'article 13 de l'ordonnance du 18 juin 2015 susvisée.
+Conformément au I de l'article 6 du décret n° 2019-1050 du 11 octobre 2019, les présentes dispositions entrent en vigueur à
+compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -8371,12 +8384,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-935 du 30 octobre 2018 - art. 1
+  - Décret n°2019-1050 du 11 octobre 2019 - art. 5
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. R133-14
-  - Code de la sécurité sociale. - art. R243-18
+  - Code de la sécurité sociale. - art. R243-16
+  - Code de la sécurité sociale. - art. R243-17
+  - articles R. 243-12 à R. 243-14 du code de la sécurité sociale
 
 
 ###### Article R72
@@ -10873,7 +10887,7 @@ ou établissements de l'Etat ou tous autres organismes employeurs des fonctionna
 les détiennent. Cette déclaration dématérialisée est effectuée selon le format d'échange commun fixé par arrêté conjoint des
 ministres chargés du budget et de la fonction publique. Le défaut de production, dans le délai prescrit, de cette déclaration
 ou l'inexactitude des données qui y sont portées, peut donner lieu à l'application de pénalités, dans les mêmes conditions
-que celles prévues au  III de l'article R. 133-14 du code de la sécurité sociale . Ces pénalités sont recouvrées au moyen
+que celles prévues aux articles R. 243-12 à R. 243-14 du code de la sécurité sociale. Ces pénalités sont recouvrées au moyen
 d'un titre de perception émis par le directeur du service des retraites de l'Etat. Le recouvrement en est assuré par le
 comptable de la direction générale des finances publiques comme en matière de créances de l'Etat étrangères à l'impôt et au
 domaine.
@@ -10887,6 +10901,11 @@ l'article D. 21-1.
 Pour assurer sa mission de contrôle, le service des retraites de l'Etat peut demander, y compris après la concession de la
 pension, communication de tout ou partie des pièces justificatives des informations portées au compte individuel de retraite.
 Au vu de ces pièces, toute erreur affectant ces informations peut être rectifiée par le service des retraites de l'Etat.
+
+**Nota:**
+
+Conformément au I de l'article 6 du décret n° 2019-1050 du 11 octobre 2019, les présentes dispositions entrent en vigueur à
+compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -10930,6 +10949,7 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Décret n°2019-1050 du 11 octobre 2019 - art. 5
   - Décret n°2019-1179 du 15 novembre 2019 - art. 3
 
 _Codifié par_:
@@ -10938,7 +10958,7 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. R133-14
+  - articles R. 243-12 à R. 243-14 du code de la sécurité sociale
 
 
 ###### Article D22
