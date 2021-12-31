@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2018-12-16
+Version Consolidée au 2022-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L96)](#1)
     - [Livre Ier : Dispositions générales relatives au régime général des retraites. (art. L1 à L67)](#2)
@@ -8312,6 +8312,36 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°2018-935 du 30 octobre 2018 - art. 1
+
+
+###### Article R70
+
+Les employeurs des fonctionnaires et des militaires sont soumis aux mêmes obligations de déclaration que celles prévues au  I
+de l'article L. 133-5-3 du code de la sécurité sociale .
+
+**Nota:**
+
+Conformément à l’article 7 du décret n° 2018-935 du 30 octobre 2018, ces dispositions entrent en vigueur à compter de la date
+fixée, pour le régime des retraites de l'Etat, par le décret prévu au 1° du III de l'article 13 de l'ordonnance du 18 juin
+2015 susvisée.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°60-1089 du 6 octobre 1960 - art. 9 bis (V)
+
+_Codifié par_:
+
+  - Décret n°66-809 du 28 octobre 1966
+
+_Modifié par_:
+
+  - Décret n°2018-935 du 30 octobre 2018 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L133-5-3
 
 
 ###### Article R71
